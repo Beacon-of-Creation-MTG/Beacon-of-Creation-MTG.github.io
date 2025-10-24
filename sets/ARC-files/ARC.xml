@@ -1,0 +1,824 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ARC</name>
+			<longname>Techniques — Archery</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Heartpiercer Shade</name>
+			<text>{B}{R}: Create an Arrow token and attach it to this creature. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)
+Sacrifice an equipment attached to this creature: Deal 1 damage to any target player. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/37_Heartpiercer Shade.png" num="37">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Archons of Drenz</name>
+			<text>Flying
+Instants and sorcery spells cost {1} less to cast during your main phase.
+Volley — When you cast a noncreature spell create a 1/1 white Soldier creature token. This ability triggers only if you attacked with two or more creatures this turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/30_Archons of Drenz.png" num="30">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Archon Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angel of Ire</name>
+			<text>Flying, Vigilance, Haste, Prowess</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/29_Angel of Ire.png" num="29">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brumhilda Sureshot</name>
+			<text>Trample, Ward {3}
+Whenever Brumhilda Sureshot deals combat damage to a player, untap her.
+Volley — {X}, {T}: Brumhilda Sureshot deals X damage to target creature. You draw X cards and gain X life. Activate only if you attacked with two or more creatures this turn.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/33_Brumhilda Sureshot.png" num="33">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2GUR</manacost>
+				<cmc>5</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herdi, Resourceful Huntress</name>
+			<text>Equipped creatures you control have deathtouch.
+Whenever an equipped creature you control dies, draw a card.
+Whenever one or more equipped creatures you control deal combat damage to a player, create an Arrow token.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/38_Herdi, Resourceful Huntress.png" num="38">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Queen of Strings</name>
+			<text>Haste, Deathtouch
+Instant and Sorcery spells you cast during your main-phase have Ambush 1. (As that spell resolves, create a 1/1 red and white Archer creature tokens with haste. Sacrifice it at the beginning of the next end step.)</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/41_Queen of Strings.png" num="41">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>RWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Nymph</name>
+			<text>Whenever a creature you control dies, create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)
+{1}, Sacrifice an artifact: Vengeful Nymph gains indestructible until end of turn. Tap it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/43_Vengeful Nymph.png" num="43">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nymph Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boglands Guide</name>
+			<text>Whenever an artifact is put into your graveyard from the battlefield, target player loses 1 life.
+Volley — {1}{U}{B}, {T}: Target creature gets -X/-X until end of turn where X is the number of arrows you control. Activate only if you attacked with two or more creatures this turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/32_Boglands Guide.png" num="32">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Patient Hunt</name>
+			<text>Destroy target creature. If that creature had power 2 or less, Scry 1.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/1_Patient Hunt.png" num="1">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maiden of Mahjordan</name>
+			<text>When this creature enters, create two Arrow tokens. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)
+Creatures you control with power greater than their base power have trample.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/40_Maiden of Mahjordan.png" num="40">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artetian Beastmaster</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+At the beginning of combat on your turn, you may create a copy of a creature token you control. It gains haste. Sacrifice it at the end of combat.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/31_Artetian Beastmaster.png" num="31">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longshot Master</name>
+			<text>At the beginning of your end step, if you created a token this turn, Longshot Master deals 1 damage to target player.
+{T}: Add {U}{R}. Spend this mana only to activate abilities of artifacts you control.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/39_Longshot Master.png" num="39">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seek the Wilderness</name>
+			<text>Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle.
+Ambush 1 (Create a1/1 red and white Archer creature token with haste. Sacrifice it at the beginning of the next end step.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/2_Seek the Wilderness.png" num="2">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drenz Gloryseeker</name>
+			<text>At the beginning of combat on your turn, tap up to X target creatures where X is the number of artifacts that entered the battlefield under your control this turn.
+Drenz Gloryseeker can&apos;t be blocked by creatures with power 3 or greater.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/34_Drenz Gloryseeker.png" num="34">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foolish Challenge</name>
+			<text>Target player sacrifices a nontoken creature they control. 
+Ambush 1 (Create a 1/1 red and white Archer creature token with haste. Sacrifice it at the beginning of the next end step.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/36_Foolish Challenge.png" num="36">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Surprise Attack</name>
+			<text>Up to two target creatures you control get +2/+1 and have &quot;When you attack, untap this creature&quot; until end of turn.
+Ambush 2 (Create two 1/1 red and white Archer creature tokens with haste. Sacrifice it at the beginning of the next end step.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/42_Surprise Attack.png" num="42">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dusk Cult Squad</name>
+			<text>When this creature enters, create two Arrow tokens. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)
+{2}, Sacrifice an Arrow token: Target creature you control gains deathtouch until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/35_Dusk Cult Squad.png" num="35">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ace Tactician</name>
+			<text>When this creature enters, create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)
+Whenever one or more equipped creatures you control deal combat damage to an opponent, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/28_Ace Tactician.png" num="28">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Champion Archer</name>
+			<text>During your turn, this creature has first strike.
+When this creature dies, create an arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/4_Champion Archer.png" num="4">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crossbow Artillery</name>
+			<text>Vigilance
+Volley — {T}: Tap target creature you don&apos;t control. Activate only if you attacked with two other creatures this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/6_Crossbow Artillery.png" num="6">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rangers of Gorgunder</name>
+			<text>Volley — {W}, {T}: Create a 1/1 white Dog creature token. Activate only if you attacked with two or more other creatures this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/7_Rangers of Gorgunder.png" num="7">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dog Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angelic Archer</name>
+			<text>Flying
+When this creature enters or attacks, create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/3_Angelic Archer.png" num="3">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Multi-Shot</name>
+			<text>Create three Arrow tokens. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)
+Target creature gets -X/-X for each Arrow token you control until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/14_Multi-Shot.png" num="14">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Direfrost Scavengers</name>
+			<text>When this creature enters, create an Arrow token. Then you may discard a card, if you do, create another Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/11_Direfrost Scavengers.png" num="11">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acrobatic Archer</name>
+			<text>Whenever an artifact enters the battlefield under your control, this creature gets +1/+0 and can&apos;t be blocked until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/8_Acrobatic Archer.png" num="8">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avian Archer</name>
+			<text>Flying
+When this creature enters, draw a card. Then if you don&apos;t control an Arrow token, discard a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/9_Avian Archer.png" num="9">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plague Archer</name>
+			<text>Deathtouch
+{2}{B}: Plague Archer gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/15_Plague Archer.png" num="15">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Direfrost Leap</name>
+			<text>Target creature you control gains flying until end of turn. When it deals combat damage to a player this turn, create an arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/10_Direfrost Leap.png" num="10">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vampiric Archer</name>
+			<text>Lifelink
+When this creature enters, destroy target creature an opponent controls that was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/17_Vampiric Archer.png" num="17">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terror of Tchainmak</name>
+			<text>When this creature enters, each opponent discards a card. For each opponent who didn&apos;t discard a nonland card this way, create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/16_Terror of Tchainmak.png" num="16">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frontline Bowmaster</name>
+			<text>Haste
+When Frontline Bowmaster dies, it deals damage equal to its power to any target.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/20_Frontline Bowmaster.png" num="20">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Druid of Mahjorda</name>
+			<text>Reach
+When this creature enters, create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/24_Druid of Mahjorda.png" num="24">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artetian Recruit</name>
+			<text>Volley — Artetian Recruit enters with two +1/+1 counters if you attacked with two or more other creatures this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/23_Artetian Recruit.png" num="23">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mounted Archery</name>
+			<text>Create an arrow token and equip it to target creature you control. That creature deals damage equal to its power to target creature you don&apos;t control. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/25_Mounted Archery.png" num="25">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stonehide Archer</name>
+			<text>Reach
+Stonehide Archer has hexproof as long as it&apos;s untapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/27_Stonehide Archer.png" num="27">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mahjordan Scout</name>
+			<text>Reach
+{T}: Add {R}
+Volley — {T}: Add {R}{R}. Activate only if you attacked with two or more other creatures this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/21_Mahjordan Scout.png" num="21">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Really Big Crossbow</name>
+			<text>When equipped creature attacks, Really Big Crossbow deals 2 damage to target player.
+Equipped creature gets +2/+2 and doesn&apos;t untap on its controller&apos;s untap step.
+Equip {3}</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/22_Really Big Crossbow.png" num="22">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bjorken Raider</name>
+			<text>Volley — {R}, {T}: Bjorken Raider deals 2 damage to target player. Activate only if you attacked with two or more creatures this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/19_Bjorken Raider.png" num="19">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Archer Barbarian</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Create an Opening</name>
+			<text>Create an Opening deals 4 damage to target attacking or blocking creature. If that creature is blocking, creatures blocked by it gain lifelink and indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/5_Create an Opening.png" num="5">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stampeding Archer</name>
+			<text>Trample
+Volley — When Stampeding Archer attacks, if you attacked with two or more other creature this turn, it gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/26_Stampeding Archer.png" num="26">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aim for the Heart</name>
+			<text>Aim for the Heart deals 3 damage to target creature. Create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/18_Aim for the Heart.png" num="18">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dire Position</name>
+			<text>As an additional cost to cast Dire Position, sacrifice a creature or artifact card.
+Draw two cards. Create an Arrow token. (It&apos;s an Equipment artifact token with &quot;Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat&quot; and equip {1}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/13_Dire Position.png" num="13">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Temporal Strategem</name>
+			<text>If you control an arrow token, scry 2. Draw two cards.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/12_Temporal Strategem.png" num="12">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fletching</name>
+			<text>{T}: Add one mana of any color.
+{T}: Add {C}{C}. Spend this mana only to activate abilities of equipment you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/44_Fletching.png" num="44">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trusty Bow</name>
+			<text>Equipped creature gets +2/+1.
+Equip Archer {1}
+Equip {3}</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/45_Trusty Bow.png" num="45">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arrow ARC</name>
+			<text>Equipped creature gets +1/+0. When equipped creature attacks, sacrifice this artifact at the end of combat.
+Equip {1}</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/1t_Arrow.png" num="1">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Archery</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/ARC-files/img/0_Archery.png" num="0">ARC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

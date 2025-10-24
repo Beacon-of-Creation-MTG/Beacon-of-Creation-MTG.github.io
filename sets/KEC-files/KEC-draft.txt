@@ -27,7 +27,7 @@
 			"type": "Token Artifact — Halo",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/3_Halo.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/3t_Halo.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Token Creature — Spectator",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/2_Spectator.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/2t_Spectator.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/1_Warrior.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/1t_Warrior.png"
 			}
 		},
 		{
@@ -532,7 +532,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/4_Treasure.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KEC-files/img/4t_Treasure.png"
 			}
 		},
 		{

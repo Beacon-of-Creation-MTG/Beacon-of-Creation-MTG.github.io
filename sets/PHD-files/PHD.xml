@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PHD</name>
+			<longname>Panarchademia: Hardcover Labyrinth</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Disease Denoter</name>
+			<text>When this creature enters, choose one: —
+• Each opponent loses 1 life for each creature card in their graveyard.
+• You gain 1 life for each counter among creatures you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/15_Disease Denoter.png" num="15">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Turtle Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Badger Toxicologist</name>
+			<text>Trample
+When this creature enters, put a -1/-1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/28_Badger Toxicologist.png" num="28">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Badger Druid Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pagebeast Hunter</name>
+			<text>First strike
+At the beginning of your end step, if a creature you control was dealt damage this turn, create a food token.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/6_Pagebeast Hunter.png" num="6">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Geiger Guy</name>
+			<text>Whenever this creature attacks, it gains first strike and radioactive until end of turn. (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/22_Geiger Guy.png" num="22">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodvine</name>
+			<text>This creature enters with three -1/-1 counters.
+Feral — At the beginning of your end step, remove a -1/-1 counter from this creature for each creature that was dealt damage under your control this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/29_Bloodvine.png" num="29">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hand-to-Hand Psychologist</name>
+			<text>Vigilance
+Whenever this creature deals combat damage to a player, you get an experience counter.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/4_Hand-to-Hand Psychologist.png" num="4">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost In Thought</name>
+			<text>Put five stun counters on target creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/8_Lost In Thought.png" num="8">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ionize</name>
+			<text>Choose one—
+• Destroy target artifact.
+• This spell deals 1 damage to target creature and 1 damage to target player.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/24_Ionize.png" num="24">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Philosophy Undergrad</name>
+			<text>This spell costs {2} less to cast for each experience counter you have.
+Reach, vigilance, trample</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/31_Philosophy Undergrad.png" num="31">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peruse the Schematics</name>
+			<text>This spell costs {1} less to cast for each artifact type among artifacts you control.
+Draw three cards, then discard a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/12_Peruse the Schematics.png" num="12">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Irradiating Syphon</name>
+			<text>Radioactive (This spell deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+This spell deals 3 damage to any target and you gain 3 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/16_Irradiating Syphon.png" num="16">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Compulsory Study</name>
+			<text>Gain control of target creature with an odd mana value until end of turn. Untap it, it gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/21_Compulsory Study.png" num="21">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Return to the Page</name>
+			<text>Shuffle up to one target artifact or enchantment into its owner&apos;s library. Then shuffle up to four target cards from graveyards into their owner&apos;s libraries.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/33_Return to the Page.png" num="33">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crafted Craftsman</name>
+			<text>Feral — This creature costs {1} less to cast each creature that was dealt damage under your control this turn.
+{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/43_Crafted Craftsman.png" num="43">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Treasure Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chartographer&apos;s Tome</name>
+			<text>Whenever equipped creature deals combat damage to a player, reveal cards from the top of your library until you reveal a land card. Put it onto the battlefield tapped, then shuffle.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/42_Chartographer&apos;s Tome.png" num="42">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pinprickler</name>
+			<text>{T}: Put a -1/-1 counter on target creature you control. Each opponent loses 2 life. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/38_Pinprickler.png" num="38">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alive Reading</name>
+			<text>Name a keyword or ability word, then reveal the top five cards of your library. Put all cards with the named word from among the cards revealed this way into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/27_Alive Reading.png" num="27">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plant PHD</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/2t_Plant.png" num="2">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Alyssa, Student of Life</reverse_related>
+		</card>
+		<card>
+			<name>Archangel of Blueprints</name>
+			<text>Flying
+Artifact spells you cast cost {1} less to cast for each artifact type among artifacts you control.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1_Archangel of Blueprints.png" num="1">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Antimatter Archivist</name>
+			<text>Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Whenever an opponent mills one or more cards, return target creature card with mana value X or less from your graveyard to your hand, where X is the number of cards milled.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/14_Antimatter Archivist.png" num="14">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monkey Proofreader</name>
+			<text>At the beginning of each combat, create a 1/1 red Monkey creature token. That token gains haste until end of turn and attacks this combat if able.
+Feral — At the beginning of your end step, you may discard your hand. If you do, draw a card for each creature that was dealt damage under your control this turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/26_Monkey Proofreader.png" num="26">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autobiography</name>
+			<text>Double equipped creature&apos;s power, toughness, and text box.
+Equip {1}</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/41_Autobiography.png" num="41">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost Between the Shelves</name>
+			<text>When this enchantment enters, shuffle target creature an opponent owns into their library. Then note its name.
+When this enchantment leaves the battlefield, target opponent may search their library for a card with the noted name, reveal and put it into their hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/5_Lost Between the Shelves.png" num="5">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scholar of Dread</name>
+			<text>Whenever an opponent mills one or more cards, they lose 1 life and you gain 1 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/18_Scholar of Dread.png" num="18">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irresponsible Alchemist</name>
+			<text>Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Whenever you put one or more counters on a creature, that creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/25_Irresponsible Alchemist.png" num="25">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Re-engineer and Research</name>
+			<text>Return an artifact card from your graveyard to the battlefield.
+Until end of turn, whenever a permanent you control would leave the battlefield, it phases out instead.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/39_Re-engineer and Research.png" num="39">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W/UU/BW/B</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Irradiating Insight</name>
+			<text>Whenever you attack, target creature you control gains radioactive until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Whenever an opponent would lose life from radiation, they lose twice that much life instead.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/36_Irradiating Insight.png" num="36">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U/BB/RU/R</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Craig, Overeager Surgeon</name>
+			<text>Haste
+Whenever Craig, Overeager Surgeon attacks, put a -1/-1 counter on target creature you control. It gets +2/+1 until end of turn for each counter among creatures you control.
+When Craig dies, draw a card for each counter on him.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/35_Craig, Overeager Surgeon.png" num="35">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B/RR/GB/G</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Book Bug</name>
+			<text>When this creature enters, it fights up to one target other creature you control. When it does, you draw two cards and gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/40_Territorial Book Bug.png" num="40">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>R/GG/WR/W</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knowledge Elemental</name>
+			<text>Flying
+Whenever this creature dies, you may remove an experience counter from yourself. If you do, return this creature from your graveyard to the battlefield tapped and draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/37_Knowledge Elemental.png" num="37">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>G/WW/UG/U</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ensouled Enchiridion</name>
+			<text>This spell costs {1} less to cast for each card type among cards in your opponent&apos;s graveyards.
+When this creature enters, shuffle any number of target cards in graveyards into their owner&apos;s libraries.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/45_Ensouled Enchiridion.png" num="45">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nuclear Isotope</name>
+			<text>This artifact enters tapped, when it does, target creature you control gains radioactive until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+{T}, Add {C}. This mana can&apos;t be spent to cast nonartifact spells.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/9_Nuclear Isotope.png" num="9">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Powerstone</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scholar of Thoughts</name>
+			<text>Flying
+When this creature enters, you get an experience counter.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/13_Scholar of Thoughts.png" num="13">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Engineering Undergrad</name>
+			<text>This creature gets +1/+0 for each artifact type among artifacts you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/2_Engineering Undergrad.png" num="2">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nuclear Physicist</name>
+			<text>Ward {2}
+Vigilance, Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/10_Nuclear Physicist.png" num="10">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Economage</name>
+			<text>Menace
+This creature has deathtouch and lifelink as long as there are multiple artifact types among artifacts you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/17_Novice Economage.png" num="17">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undead Undertaker</name>
+			<text>When this creature dies. You gain 3 life, then you may remove up to three -1/-1 counters from among creatures you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/20_Undead Undertaker.png" num="20">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Injury Imp</name>
+			<text>Feral — {T}: This creature deals 1 damage to each opponent for each creature that was dealt damage under your control this turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/23_Injury Imp.png" num="23">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Professor of Physique</name>
+			<text>Whenever another creature you control enters or dies, if that creature&apos;s power is greater than this creature&apos;s, you get an experience counter.
+This creature gets +2/+2 for each experience counter you have.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/32_Professor of Physique.png" num="32">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Powered Trolley</name>
+			<text>When this artifact enters, draw two cards, then discard a card.
+Radioactive (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of rad counters.)
+Crew 2</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/44_Crystal Powered Trolley.png" num="44">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hand-to-Hand Knowledge</name>
+			<text>Untap target creature. You get an experience counter, then that creature gets +X/+X until end of turn, where X is 1 plus the number of experience counters you have.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/3_Hand-to-Hand Knowledge.png" num="3">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peer Review</name>
+			<text>Whenever this enchantment enters or an opponent gets one or more counters for the first time each turn, you get an experience counter.
+At the beginning of your upkeep, surveil X, where X is the number of experience counters you have.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/11_Peer Review.png" num="11">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Radiation PHD</name>
+			<text>At the beginning of your precombat mainphase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1t_Radiation.png" num="1">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Radiation</type>
+				<maintype>Radiation</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Irradiating Insight</reverse_related>
+			<reverse_related>Crystal Powered Trolley</reverse_related>
+			<reverse_related>Nuclear Isotope</reverse_related>
+			<reverse_related>Nuclear Physicist</reverse_related>
+			<reverse_related>Antimatter Archivist</reverse_related>
+			<reverse_related>Irradiating Syphon</reverse_related>
+			<reverse_related>Geiger Guy</reverse_related>
+			<reverse_related>Irresponsible Alchemist</reverse_related>
+		</card>
+		<card>
+			<name>Monkey PHD</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1t_Monkey.png" num="1">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Monkey</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse_related>Monkey Proofreader</reverse_related>
+		</card>
+		<card>
+			<name>Sinister Insight</name>
+			<text>Put a -1/-1 counter on target creature you control.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/19_Sinister Insight.png" num="19">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Academic Discussion</name>
+			<text>For all creatures and players, you may add or remove a counter of each kind of counter on that permanent or player.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/7_Academic Discussion.png" num="7">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alyssa, Student of Life</name>
+			<text>Feral — At the beginning of your end step, created a 1/1 green Plant creature token for each creature that was dealt damage under your control this turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/34_Alyssa, Student of Life.png" num="34">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Druid Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3G/WG/W</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Microbiology Man</name>
+			<text>Creatures you control have &quot;{T}, remove a counter from this creature: Add one mana of any color.&quot;</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/30_Microbiology Man.png" num="30">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Food PHD</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/3t_Food.png" num="3">PHD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse_related>Pagebeast Hunter</reverse_related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,782 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MRC</name>
+			<longname>Mercadia: Blood and Gold</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Drive a Hard Bargain</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+Draw two cards. Then discard a card if this spell wasn&apos;t haggled for.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/9_Drive a Hard Bargain.png" num="9">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Outer-Sea Tyrant</name>
+			<text>As Outer-Sea Tyrant enters the battlefield, target opponent chooses a number between 1 and 10. Outer-Sea Tyrant enters the battlefield tapped with that many stun counters on it and you create that many tapped Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/10_Outer-Sea Tyrant.png" num="10">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>13/12</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rushwood Scavenger</name>
+			<text>When Rushwood Scavenger enters the battlefield, you may exile two cards from your graveyard. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/12_Rushwood Scavenger.png" num="12">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cateran Negotiation</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+Target creature gets -3/-3 until end of turn. If this spell was haggled for, that creature gets -5/-5 until end of turn instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/16_Cateran Negotiation.png" num="16">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flight from Privilege</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+Exile the top two cards of your library. Until end of turn, you may play those cards. If this spell was haggled for, instead you may play those cards until the end of your next turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/22_Flight from Privilege.png" num="22">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hellkite Whelp</name>
+			<text>Whenever you discard one or more cards, put a +1/+1 counter on Hellkite Whelp.
+Hellkite Whelp has flying as long as it has two or more counters on it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/23_Hellkite Whelp.png" num="23">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saprazzan Scion</name>
+			<text>When Saprazzan Scion enters the battlefield, you may discard a card. If you do, exile the top two cards of your library. Until the end of your next turn, you may play those cards.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/25_Saprazzan Scion.png" num="25">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cho-Arrim Connection</name>
+			<text>Choose one —
+• Target creature gets +3/+3 until end of turn.
+• You may put a land card from your hand onto the battlefield.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/27_Cho-Arrim Connection.png" num="27">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cold-Blooded Cartographer</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+When Cold-Blooded Cartographer enters the battlefield, if it was haggled for, destroy up to one target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/29_Cold-Blooded Cartographer.png" num="29">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kyren Courier</name>
+			<text>Flying
+When Kyren Courier dies or when you discard it, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/43_Kyren Courier.png" num="43">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rishadan Abacus</name>
+			<text>When this artifact enters, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/45_Rishadan Abacus.png" num="45">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lamprey Hydra</name>
+			<text>Vigilance, trample
+Lamprey Hydra enters the battlefield with a number of +1/+1 counters on it equal to the amount of mana you&apos;ve spent this turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/41_Lamprey Hydra.png" num="41">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hand of the Market</name>
+			<text>Flying
+Whenever Hand of the Market or a token enters the battlefield under your control, you gain 1 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/3_Hand of the Market.png" num="3">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Singular Sculptor</name>
+			<text>When Singular Sculptor enters the battlefield, put a +1/+1 counter on target creature you control. If that creature is an artifact, it gains vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/5_Singular Sculptor.png" num="5">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wanted Hustler</name>
+			<text>When Wanted Hustler dies, create a 1/1 white Soldier creature token with lifelink.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/6_Wanted Hustler.png" num="6">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clock Tower</name>
+			<text>{T}, Tap an untapped artifact or creature you control: Add {C}.
+{3}{U}, Discard Clock Tower: Return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/8_Clock Tower.png" num="8">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Barter with Fate</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+Counter target spell unless its controller pays {2}. If this spell was haggled for, counter that spell unless its controller pays {4} instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/7_Barter with Fate.png" num="7">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overwhelmed Adjudicator</name>
+			<text>When Overwhelmed Adjudicator enters the battlefield, draw a card, then discard a card unless you&apos;ve discarded a card this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/11_Overwhelmed Adjudicator.png" num="11">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stern Redistributor</name>
+			<text>Whenever Stern Redistributor deals combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/26_Stern Redistributor.png" num="26">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ramosian Banner</name>
+			<text>When Ramosian Banner enters the battlefield, you may discard a card. If you do, draw two cards.
+Sacrifice Ramosian Banner: Target creature gains menace and haste until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/24_Ramosian Banner.png" num="24">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prizefight</name>
+			<text>Target creature you control fights target creature you don&apos;t control.
+Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/32_Prizefight.png" num="32">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deepwood Gnarlbark</name>
+			<text>Reach
+Deepwood Gnarlbark gets +1/+1 as long as you&apos;ve spent five or more mana this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/30_Deepwood Gnarlbark.png" num="30">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blade of Ramos</name>
+			<text>Blade of Ramos has menace as long as you&apos;ve discarded a card this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/15_Blade of Ramos.png" num="15">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rebel Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Work to the Bone</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards.
+Excise 2 (You may cast this from your graveyard by exiling any number of other cards from your graveyard with two or more card types between them in addition to paying its other costs.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/20_Work to the Bone.png" num="20">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alchemical Shyster</name>
+			<text>When Alchemical Shyster enters the battlefield, you may discard a card. If you do, each opponent discards a card and you draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/14_Alchemical Shyster.png" num="14">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arabeka&apos;s Handmaid</name>
+			<text>Whenever Arabeka&apos;s Handmaid attacks, you may discard a card. When you do, draw a card and up to one target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/35_Arabeka&apos;s Handmaid.png" num="35">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extortion Patrol</name>
+			<text>If one or more tokens would be created under your control, those tokens plus an additional Treasure token are created instead. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/36_Extortion Patrol.png" num="36">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deepwood Shade</name>
+			<text>Whenever you tap a nonland permanent for mana, add an additional {B} or {G}.
+{2}: Deepwood Shade gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/38_Deepwood Shade.png" num="38">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul of the Henge</name>
+			<text>When Soul of the Henge enters the battlefield, create a Treasure token, then you may discard a card. If do you, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/39_Soul of the Henge.png" num="39">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aven Appraiser</name>
+			<text>Vigilance
+{T}: Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/40_Aven Appraiser.png" num="40">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Henge Supplicant</name>
+			<text>When Henge Supplicant enters the battlefield, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+Whenever an artifact enters the battlefield under your control, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/31_Henge Supplicant.png" num="31">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Bustle</name>
+			<text>Target creature gets +1/+0 and gains your choice of flying or first strike until end of turn. Scry 1.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/4_Lost in the Bustle.png" num="4">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imp Wrangler</name>
+			<text>When Imp Wrangler enters the battlefield, you may discard a card. When you do, destroy target artifact, creature, or enchantment. Otherwise, put a +1/+1 counter on Imp Wrangler.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/42_Imp Wrangler.png" num="42">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spellshaper</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sage of Iachem-oath</name>
+			<text>Flying
+Sage of Iachem-oath enters the battlefield tapped unless you&apos;ve discarded a card this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/19_Sage of Iachem-oath.png" num="19">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saprazzan Sylph</name>
+			<text>Flying, vigilance</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/13_Saprazzan Sylph.png" num="13">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deregulation</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+If this spell was haggled for, players can&apos;t gain life this turn and damage can&apos;t be prevented this turn. Deregulation deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/21_Deregulation.png" num="21">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cho-Arrim Entrancer</name>
+			<text>{1}{G}: Cho-Arrim Entrancer gets +2/+2 until end of turn. Activate only once each turn. This ability costs {1} less to activate if mana from a nonland source is used to activate it.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/28_Cho-Arrim Entrancer.png" num="28">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laissez Faire</name>
+			<text>Haggle (As an additional cost to cast this, you may pay {1}. This spell was haggled for if you do or if you spent mana from a Treasure to cast it.)
+Target opponent discards a card. If this spell was haggled for, instead that player reveals their hand, you choose a nonland card from it, then that player discards that card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/18_Laissez Faire.png" num="18">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cateran Guilt</name>
+			<text>When Cateran Guilt enters the battlefield, exile target nonland permanent an opponent controls until Cateran Guilt leaves the battlefield. Then if that permanent&apos;s controllers controls more lands than you, create a tapped Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/1_Cateran Guilt.png" num="1">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blacksmith&apos;s Guardian</name>
+			<text>Vigilance
+As long as you control three or more artifacts, Blacksmith&apos;s Guardian gets +2/+0 and has flying.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/33_Blacksmith&apos;s Guardian.png" num="33">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hydraulic Haulier</name>
+			<text>Deathtouch
+When Hydraulic Haulier enters the battlefield, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/37_Hydraulic Haulier.png" num="37">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Goblin</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pilfering Harpy</name>
+			<text>Flying
+When Pilfering Harpy enters the battlefield, return target instant, sorcery, or creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/34_Pilfering Harpy.png" num="34">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mox Nacre</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact.
+{T}: Add one mana of any color.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/44_Mox Nacre.png" num="44">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Foreseen Storm</name>
+			<text>Destroy all artifacts and creatures.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/2_Foreseen Storm.png" num="2">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Entrepreneurial Intent</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Search your library for a card, put that card into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MRC-files/img/17_Entrepreneurial Intent.png" num="17">MRC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

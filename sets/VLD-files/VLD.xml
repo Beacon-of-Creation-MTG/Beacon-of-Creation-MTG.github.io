@@ -1,0 +1,802 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VLD</name>
+			<longname>Veldstire</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Korvan Thresher</name>
+			<text>When this creature enters, sow. (To sow, mill two cards, then you may exile a permanent card from your graveyard to create a 1/1 green Plant creature token.)
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/24_Korvan Thresher.png" num="24">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Production Overseer</name>
+			<text>Whenever you create one or more tokens, tap up to one target creature. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/2_Production Overseer.png" num="2">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planting Season</name>
+			<text>Sow twice. (To sow, mill two cards, then you may exile a permanent card from your graveyard to create a 1/1 green Plant creature token.)
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/1_Planting Season.png" num="1">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scarlet Matron</name>
+			<text>Flying
+When this creature enters, each player creates a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/3_Scarlet Matron.png" num="3">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Expansion Overseers</name>
+			<text>This creature enters with a +1/+1 counter on it if you&apos;ve sacrificed one or more tokens this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/36_Expansion Overseers.png" num="36">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/BW/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wealdwitch Familiar</name>
+			<text>When this creature enters, put a flying counter on up to one target creature.
+When this card leaves your graveyard, put a flying counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/9_Wealdwitch Familiar.png" num="9">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Korvan Enforcers</name>
+			<text>Reap {1}{U} (You may cast this spell for {1}{U} by also sacrificing two tokens or a nontoken creature.)
+When this creature enters, return up to one target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/7_Korvan Enforcers.png" num="7">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Elf Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wheat from Chaff</name>
+			<text>Choose one — 
+• Draw two cards.
+• Sow. Put up to one card from among cards milled this way into your hand. (To sow, mill two cards, then you may exile a permanent card from your graveyard to create a 1/1 green Plant creature token.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/10_Wheat from Chaff.png" num="10">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cruor Harvester</name>
+			<text>When this creature enters, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+This creature can&apos;t attack unless you&apos;ve discarded or milled one or more cards this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/6_Cruor Harvester.png" num="6">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stitcher of the Strictures</name>
+			<text>Flash
+When this creature enters, exile up to one target card from a graveyard. If you owned the exiled card, draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/39_Stitcher of the Strictures.png" num="39">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2U/BU/B</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Profane Offerings</name>
+			<text>Deathtouch
+When this creature dies, sow twice. (To sow, mill two cards, then you may exile a permanent card from your graveyard to create a 1/1 green Plant creature token.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/14_Profane Offerings.png" num="14">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veldstire Bloodrancher</name>
+			<text>When this creature enters, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)
+This creature gets +1/+0 and has lifelink as long as you&apos;ve sacrificed one or more tokens this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/15_Veldstire Bloodrancher.png" num="15">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Poach</name>
+			<text>Reap {B} (You may cast this spell for {B} by also sacrificing two tokens or a nontoken creature.)
+Destroy target creature or enchantment you don&apos;t control. You lose 2 life unless this spell&apos;s reap cost was paid.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/13_Poach.png" num="13">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lurking Fieldfiend</name>
+			<text>When this creature enters, put a menace counter on up to one target creature.
+When this card leaves your graveyard, put a menace counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/12_Lurking Fieldfiend.png" num="12">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Hands That Feed</name>
+			<text>Haste
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/37_The Hands That Feed.png" num="37">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/G</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Thatchlings</name>
+			<text>Reach
+When this creature enters, if it isn&apos;t a token, create a token that&apos;s a copy of it.
+When this creature dies, it deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/19_Vengeful Thatchlings.png" num="19">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voracious Roggenwulf</name>
+			<text>Trample
+Whenever this creature attacks, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/20_Voracious Roggenwulf.png" num="20">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Red Harvest</name>
+			<text>Reap {1}{R} (You may cast this spell for {1}{R} by also sacrificing two tokens or a nontoken creature.)
+Red Harvest deals 5 damage to target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/17_Red Harvest.png" num="17">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feldgast&apos;s Counsel</name>
+			<text>As an additional cost to cast this spell from anywhere other than your graveyard, discard a card.
+Draw two cards.
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/16_Feldgast&apos;s Counsel.png" num="16">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Living Almanac</name>
+			<text>This spell costs {1} less to cast if you&apos;ve discarded or milled one or more cards this turn.
+Flying</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/38_Living Almanac.png" num="38">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost>3U/RU/R</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fangweed</name>
+			<text>When this creature dies, if it isn&apos;t a token, create a token that&apos;s a copy of it. That token enters with a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/21_Fangweed.png" num="21">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Threadbreaker Magus</name>
+			<text>When this creature enters, you may pay {1}{GW}. If you do, destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/5_Threadbreaker Magus.png" num="5">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flockfeaster</name>
+			<text>Reap {4}{G} (You may cast this spell for {4}{G} by also sacrificing two tokens or a nontoken creature.)
+Trample</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/23_Flockfeaster.png" num="23">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uprooter&apos;s Blessing</name>
+			<text>Target creature gets +3/+2 and gains trample until end of turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/25_Uprooter&apos;s Blessing.png" num="25">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Weald&apos;s Edge Herald</name>
+			<text>Vigilance
+When this creature enters, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/40_Weald&apos;s Edge Herald.png" num="40">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gnome Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/WG/W</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iron Ox</name>
+			<text>Trample
+Sacrifice three tokens: This Vehicle becomes an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/42_Iron Ox.png" num="42">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Servile Thatchling</name>
+			<text>Reach
+{1} , {T}: Add one mana of any color.
+When this creature dies, draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/44_Servile Thatchling.png" num="44">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowmaidens</name>
+			<text>Menace
+When this creature enters and at the beginning of your upkeep, create a tapped Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/33_Shadowmaidens.png" num="33">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Offalings</name>
+			<text>Whenever one or more cards leave your graveyard, this creature gets +1/+0 until end of turn and can&apos;t be blocked this turn.
+{3}{UB}, Exile a card from your graveyard: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/32_Offalings.png" num="32">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crone of Thorns</name>
+			<text>Reap {R}{G} (You may cast this spell for {R}{G} by also sacrificing two tokens or a nontoken creature.)
+Whenever this creature or another creature you control dies, this creature deals 1 damage to each opponent and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/26_Crone of Thorns.png" num="26">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hag Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fieldpyre</name>
+			<text>Trample
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever you discard or mill one or more cards, up to one target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/29_Fieldpyre.png" num="29">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Day&apos;s Labors</name>
+			<text>Creature tokens you control get +1/+1.
+{2}{G}{W}: Sow. Activate only as a sorcery. (To sow, mill two cards, then you may exile a permanent card from your graveyard to create a 1/1 green Plant creature token.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/27_The Day&apos;s Labors.png" num="27">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sic</name>
+			<text>Choose one —
+• Creatures you control get +2/+1 until end of turn.
+• Exile target creature.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/4_Sic.png" num="4">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unravel</name>
+			<text>This spell costs {1} less to cast if you&apos;ve discarded or milled one or more cards this turn.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/8_Unravel.png" num="8">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Famineflight Feldgast</name>
+			<text>Reap {4}{B} (You may cast this spell for {4}{B} by also sacrificing two tokens or a nontoken creature.)
+Flying
+This creature enters with a +1/+1 counter on it for each permanent you sacrificed to cast it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/11_Famineflight Feldgast.png" num="11">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unassuming Servant</name>
+			<text>{UR}: Switch this creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/18_Unassuming Servant.png" num="18">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Favor of the Weald</name>
+			<text>Put a +1/+1 counter on each creature you control. Untap each token you control.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/22_Favor of the Weald.png" num="22">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mobile Home</name>
+			<text>Haste
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/43_Mobile Home.png" num="43">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Indentured Fieldguard</name>
+			<text>You may have this creature enter with a defender counter on it. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/41_Indentured Fieldguard.png" num="41">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harbinger of the Harvest</name>
+			<text>Reap {2}{W}{B} (You may cast this spell for {2}{W}{B} by also sacrificing two tokens or a nontoken creature.)
+{WB}{WB}, Sacrifice two tokens: This creature gains your choice of flying, vigilance, or indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/31_Harbinger of the Harvest.png" num="31">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Specter</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowstitch</name>
+			<text>Create a token that&apos;s a copy of target creature you control. It enters with a deathtouch counter on it.
+Flashback—{UB}{UB}{UB}, Sacrifice three nonland permanents. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/34_Shadowstitch.png" num="34">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Springsturmer</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player, sow up to that many times. You may play cards exiled this way until end of turn. (To sow, mill two cards, then you may exile a permanent card from your graveyard to create a 1/1 green Plant creature token.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/35_Springsturmer.png" num="35">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon&apos;s Revelation</name>
+			<text>Draw X cards. This spell deals X damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/28_Dragon&apos;s Revelation.png" num="28">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Green Thumbling</name>
+			<text>Lifelink
+{3}{GW}{GW}: Return this card from your graveyard to the battlefield tapped with a finality counter on it, then create two tapped tokens that are copies of it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/30_Green Thumbling.png" num="30">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whik, First of the Thatched</name>
+			<text>Flash
+Vigilance
+Other Scarecrows you control get +1/+1 and have vigilance.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VLD-files/img/45_Whik, First of the Thatched.png" num="45">VLD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Elder Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

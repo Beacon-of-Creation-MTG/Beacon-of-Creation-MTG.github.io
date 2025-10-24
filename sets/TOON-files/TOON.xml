@@ -1,0 +1,836 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TOON</name>
+			<longname>Toon Set</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/44_Plains.png" num="44">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Falling Anvil</name>
+			<text>Falling Anvil deals damage to target creature equal to the number of artifacts you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/2_Falling Anvil.png" num="2">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mind Control Hat</name>
+			<text>Whenever Mind Control Hat is equipped to a creature, gain control of it until it is unequipped.
+{3}{U}{U}, {T}: Attach Mind Control Hat. You may activate the ability of another Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/8_Mind Control Hat.png" num="8">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Gadget</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wil.E Coyote, Gourmet</name>
+			<text>Vigilance, zany (Whenever this creature dies, shuffle it into its owner&apos;s library.)
+Whenever you activate the ability of an artifact, you may sacrifice it. When you do so, it deals damage equal to its mana value to any target and to Wil.E Coyote. Then, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/37_Wil.E Coyote, Gourmet.png" num="37">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Coyote Toon</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Close Down</name>
+			<text>Whenever this enchantment or an artifact enters under your control, create a 2/2 white and blue Toon Detective creature token with vigilance. This ability only trigger once per turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/33_Close Down.png" num="33">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/46_Swamp.png" num="46">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cog Gang</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+Menace
+Whenever this creature enters, for each 3 life paid to cast it, create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/15_Cog Gang.png" num="15">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot Toon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/47_Mountain.png" num="47">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/48_Forest.png" num="48">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/45_Island.png" num="45">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Trickster Wolf</name>
+			<text>Trample, Zany (Whenever this creature dies, shuffle it into its owner&apos;s library.)
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/31_Trickster Wolf.png" num="31">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Toon</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duck Season, Rabbit Season</name>
+			<text>Whenever a spell would counter another spell, counter the first spell instead.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/34_Duck Season, Rabbit Season.png" num="34">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Big Bad Wolf</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+When this creatures enters, each players sacrifice X non-Wolf creature, where X is the amount of life paid to cast it. For each creature sacrificed this way, put a +1/+1 counter on The Big Bad Wolf.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/13_The Big Bad Wolf.png" num="13">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Toon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Laidback Cat</name>
+			<text>Lifelink, Zany (Whenever this creature dies, shuffle it into its owner&apos;s library.)
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/4_Laidback Cat.png" num="4">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Toon</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shady Mafioso</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+Shady Mafioso enters with a +1/+1 counter if you paid 2 or more life to cast it.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/17_Shady Mafioso.png" num="17">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Toon Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mysterious Doors</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Surprise {1}{G}{G} ({1}{G}{G}, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/28_Mysterious Doors.png" num="28">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Human Seeking Gun</name>
+			<text>When this artifact enters, create a 1/1 red Toon creature token.
+{1}{R}{R}, {T}: This artifact deals 1 damage to each opponent. You may activate the ability of a Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/20_Human Seeking Gun.png" num="20">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Gadget</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ride the Rocket</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+Ride the Rocket deals 3 damage to target creature. If you paid 3 or more life to cast this spell, it deals 5 damage instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/24_Ride the Rocket.png" num="24">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Temporary Jetpacks</name>
+			<text>When this artifact enters, create a 1/1 red Toon creature token.
+{1}{U}{U}, {T}: Up to two creatures you control gain flying until end of turn. You may activate the ability of a Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/11_Temporary Jetpacks.png" num="11">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Gadget</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unlucky Accident</name>
+			<text>Creatures your opponents control can&apos;t block this turn.
+Surprise {2}{R}{R} ({2}{R}{R}, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/26_Unlucky Accident.png" num="26">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quickshot Duo</name>
+			<text>Menace, zany (Whenever this creature dies, shuffle it into its owner&apos;s library.)
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/23_Quickshot Duo.png" num="23">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse Toon Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrong Turn at Albuquerque</name>
+			<text>Counter target spell
+Surprise {2}{U}{U} ({2}{U}{U}, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/12_Wrong Turn at Albuquerque.png" num="12">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rise to the Fight</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+Look at the top X cards of your library, where X is the amount of life paid to cast this card. Put up to three creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/35_Rise to the Fight.png" num="35">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zoinks!</name>
+			<text>Destroy target creature with mana value two or less.
+Surprise {1}{B}{B} ({1}{B}{B}, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/18_Zoinks!.png" num="18">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shaggy, All Alone</name>
+			<text>Haste
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
+Whenever this creature attack, if it has three or more +1/+1 counters, double its power. It gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/25_Shaggy, All Alone.png" num="25">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Toon Coward</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Powerpuff Girls</name>
+			<text>Flying, vigilance, lifelink
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
+At the beginning of your upkeep, if this creature has three or more +1/+1 counters, it gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/6_The Powerpuff Girls.png" num="6">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Toon Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>WWW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mean Giant</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+Trample
+This creature enters with an additional +1/+1 counter for each 2 life paid to cast it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/27_Mean Giant.png" num="27">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Mystery Machine</name>
+			<text>Crew 3
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this artifact. Otherwise, remove all counters from this artifact.)
+Whenever you remove counters from this artifact, create that many Food tokens.
+{2}, {T}, sacrifice a Food: Draw a card.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/40_The Mystery Machine.png" num="40">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Terrible Wolfman</name>
+			<text>Trample
+Surprise {2}{G}{G} ({2}{G}{G}, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/30_Terrible Wolfman.png" num="30">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spinach Can</name>
+			<text>Whenever this artifact enters, draw a card.
+{4}, {T}, Sacrifice this artifact: You gain 3 life. Put two +1/+1 counters on target creature you control. If you activate this ability during your main phase, you may activate the ability of a Gadget you control without paying its mana cost</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/43_Spinach Can.png" num="43">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food Gadget</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Script</name>
+			<text>Whenever this artifact enters, scry 1.
+{5}, {T}: Draw a card. If you activate this ability during your main phase, you may activate the ability of a Gadget you control without paying its mana cost</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/42_The Script.png" num="42">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Gadget</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Yosemite Sam, Angry Cowboy</name>
+			<text>Whenever you pay life, put a +1/+1 counter on this creature. It deals 1 damage to each opponent.
+{3}{B}{R}, Pay 2 life: Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/39_Yosemite Sam, Angry Cowboy.png" num="39">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spongebob Squarepants</name>
+			<text>Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
+Whenever a counter is removed from this this creature, draw that many cards and create that many Food tokens.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/36_Spongebob Squarepants.png" num="36">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Sponge Toon</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fairly Odd Wand</name>
+			<text>Whenever this artifact enters, create a 1/1 white Fairy creature token with flying.
+{1}{W}{W}, {T}: Create a 1/1 white Fairy creature token with flying. You may activate the ability of another Gadget you control without paying its mana cost. Activate only during your main phase.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/1_Fairly Odd Wand.png" num="1">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Gadget</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Big Brawl</name>
+			<text>Create two 1/1 red Warrior creature tokens.
+Creatures you control gain haste and menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/32_Big Brawl.png" num="32">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yogi Bear, Friendly Ursine</name>
+			<text>Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from this creature at the beginning of the next turn.)
++1/+1 counters on creatures you control can&apos;t be removed outside of costs.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/38_Yogi Bear, Friendly Ursine.png" num="38">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robot Maid</name>
+			<text>Vigilance, zany (Whenever this creature dies, shuffle it into its owner&apos;s library.)
+{3}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/41_Robot Maid.png" num="41">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moomin Trolls</name>
+			<text>Whenever you attack with three or more creatures, this creature gains +1/+1 and lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/5_Moomin Trolls.png" num="5">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protective Shark</name>
+			<text>Zany (Whenever this creature dies, shuffle it into its owner&apos;s library.)
+Whenever this creature enters, create a 1/1 blue Merfolk creature token.
+This creature can&apos;t attack if you don&apos;t control a Merfolk.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/9_Protective Shark.png" num="9">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cockroach Gang</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+Whenever this creature enters, if you payed 2 or more life to cast it, each opponents discard a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/14_Cockroach Gang.png" num="14">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smurf Villager</name>
+			<text>Whenever a Smurf enters under your control, this creature gains +1/+1 until end of turn. Scry 1.
+A deck can have any number of cards named Smurf Villager.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/10_Smurf Villager.png" num="10">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Smurf</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explosive Result</name>
+			<text>This spell cost {1} less for each artifact ability you activated this turn.
+This spell deals 6 damage to target creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/19_Explosive Result.png" num="19">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pink Panther</name>
+			<text>Stretch (When you cast this spell, you may pay any amount of life.)
+At the beginning of your end step, if you paid 2 or more life this turn, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/22_Pink Panther.png" num="22">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Henchcat</name>
+			<text>Whenever a creature you control dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/16_Henchcat.png" num="16">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gravity is a Harsh Mistress</name>
+			<text>Destroy target attacking creature without flying.
+Surprise {1}{W} ({1}{W}, discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/3_Gravity is a Harsh Mistress.png" num="3">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Obsessive Chase</name>
+			<text>This spell cost {1} less if it target a creature that entered this turn. (Yours, or your opponent&apos;s)
+Target creature you control fight target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/29_Obsessive Chase.png" num="29">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anchor Down</name>
+			<text>Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+At the beginning of enchanted creature&apos;s controller end step, if they didn&apos;t cast a spell this turn, they untap enchanted creature.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/7_Anchor Down.png" num="7">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mean Hook</name>
+			<text>Target creature you control deals damage equal to its power to any target. If this spell target a player, it cost {R} more.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TOON-files/img/21_Mean Hook.png" num="21">TOON</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

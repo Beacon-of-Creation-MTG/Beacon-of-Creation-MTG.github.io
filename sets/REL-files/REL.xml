@@ -1,0 +1,992 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>REL</name>
+			<longname>Race to the Eternal Lands</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Saheeli&apos;s Pupil</name>
+			<text>When this creature enters, create a Mechanosaur token. It enters with a +1/+1 counter and a flying counter on it. (It&apos;s a 0/0 Dinosaur artifact creature with &quot;When this creature dies, put its counters on target creature you control.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/4_Saheeli&apos;s Pupil.png" num="4">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Mechanosaur]</related>
+		</card>
+		<card>
+			<name>Siren Surveyor</name>
+			<text>Flying
+{2}{W}: Create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/5_Siren Surveyor.png" num="5">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Siren Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Map]</related>
+		</card>
+		<card>
+			<name>Steel Coffin</name>
+			<text>This spell costs {1} less to cast for each artifact you control.
+Exile target creature or artifact until this artifact leaves the battlefield.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/6_Steel Coffin.png" num="6">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Lookout</name>
+			<text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Whenever this creature becomes tapped, scry 1.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/11_Merfolk Lookout.png" num="11">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Out of Air</name>
+			<text>This spell costs {2} less to cast if it targets a creature spell.
+Counter target spell.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/12_Out of Air.png" num="12">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hulldrifter</name>
+			<text>Flying
+When this Vehicle enters, draw two cards.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/10_Hulldrifter.png" num="10">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swindle</name>
+			<text>Return target creature to its owner&apos;s hand. Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/13_Swindle.png" num="13">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>[Treasure]</related>
+		</card>
+		<card>
+			<name>The Last of Barrett&apos;s Privateers</name>
+			<text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Deathtouch</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/17_The Last of Barrett&apos;s Privateers.png" num="17">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadly Dispute</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/16_Deadly Dispute.png" num="16">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>[Treasure]</related>
+		</card>
+		<card>
+			<name>Accursed Tyrranax</name>
+			<text>When this creature putrefies, you may put a decayed counter on target creature. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Putrefy {3}{B}{B} ({3}{B}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a Zombie Dinosaur with decayed. Reanimate only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/14_Accursed Tyrranax.png" num="14">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trawl the Depths</name>
+			<text>Kicker—{B}
+Choose one. If it was kicked, choose both instead.
+• Put a card with putrefy from exile into your graveyard.
+• Return target creature or Vehicle card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/19_Trawl the Depths.png" num="19">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deepwater Siren</name>
+			<text>Flash
+When this creature enters, target creature attacks this turn if able.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/9_Deepwater Siren.png" num="9">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Siren</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodcrazed Stowaway</name>
+			<text>This creature attacks each turn if able.
+Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/21_Bloodcrazed Stowaway.png" num="21">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Pirate Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dinosaur Ambush</name>
+			<text>Creatures you control get +2/+0 until end of turn. Up to one target Dinosaur you control gains trample until end of turn and up to one target Human you control gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/22_Dinosaur Ambush.png" num="22">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hired Dreadnought</name>
+			<text>Sacrifice a Treasure: This Vehicle becomes an artifact creature until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/24_Hired Dreadnought.png" num="24">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reckless Rider</name>
+			<text>{4}{G}: Double this creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/32_Reckless Rider.png" num="32">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dinosaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunt</name>
+			<text>Target creature you control explores, then it fights target creature you don&apos;t control. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/30_Hunt.png" num="30">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crumbling Dreadmaw</name>
+			<text>Trample
+Putrefy {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a Zombie Dinosaur with decayed. Reanimate only as a sorcery.)
+This creature reanimates with two +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/29_Crumbling Dreadmaw.png" num="29">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thundersteel Colossus</name>
+			<text>Trample, haste
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/44_Thundersteel Colossus.png" num="44">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treasure Ship</name>
+			<text>Vigilance
+{T}, Sacrifice this Vehicle: Add one mana of any color.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Treasure Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/45_Treasure Ship.png" num="45">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cursed Dagger</name>
+			<text>Equipped creature gets +1/+0 for each artifact you control and has decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Equip {0}. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/42_Cursed Dagger.png" num="42">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Atzocan Landspeaker</name>
+			<text>{T}: Add an amount of {G} equal to this creature&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/27_Atzocan Landspeaker.png" num="27">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fiery Cannonade</name>
+			<text>Fiery Cannonade deals 2 damage to each non-Pirate creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/23_Fiery Cannonade.png" num="23">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brazen Deckmage</name>
+			<text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Discard a card: This creature gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/7_Brazen Deckmage.png" num="7">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swallowed Whole</name>
+			<text>Exile target creature if it has mana value 3 or less.
+Formidable — Exile that creature instead if the total power of creatures you control is 8 or greater.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/18_Swallowed Whole.png" num="18">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elena de Ludio, Dread Captain</name>
+			<text>Other creatures you control that share a creature type with Elena de Ludio get +1/+1.
+Putrefy {3}{B} ({3}{B}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a Zombie Vampire Pirate with decayed. Reanimate only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/36_Elena de Ludio, Dread Captain.png" num="36">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mechanosaur Prototype</name>
+			<text>This creature enters with your choice of a counter from among vigilance and +1/+1, and your choice of a counter from among trample and +1/+1.
+When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/43_Mechanosaur Prototype.png" num="43">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Makeshift Munitions</name>
+			<text>{1}, Sacrifice an artifact or creature: This enchantment deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/25_Makeshift Munitions.png" num="25">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Undaunted Navigator</name>
+			<text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Whenever this creature attacks, it explores.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/20_Undaunted Navigator.png" num="20">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mechanosaurus Rex</name>
+			<text>This creature enters with X plus two +1/+1 counters on it.
+Formidable — If the total power of creatures you control is 8 or greater, it also enters with a vigilance counter and a trample counter on it.
+When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/38_Mechanosaurus Rex.png" num="38">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>XGW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Over the Edge</name>
+			<text>Choose one —
+• Destroy target artifact or enchantment.
+• Target creature you control explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard. Then repeat this process.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/31_Over the Edge.png" num="31">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eager Sea Dog</name>
+			<text>Sailing (Vehicles crewed by this creature gain the following abilities until end of turn.)
+Haste
+Whenever this creature deals combat damage to a player, create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/35_Eager Sea Dog.png" num="35">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Treasure]</related>
+		</card>
+		<card>
+			<name>Cursed Galleon</name>
+			<text>Flying
+Whenever this Vehicle attacks, you may sacrifice a creature. If you do, draw a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/33_Cursed Galleon.png" num="33">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tyrranax Scavenger</name>
+			<text>Whenever a creature dies, you may pay {1}. If you do, this creature explores.
+Putrefy {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Create a token that&apos;s a copy of it, except it&apos;s a Zombie Dinosaur with decayed. Reanimate only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/40_Tyrranax Scavenger.png" num="40">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curse of the Eternal Lands</name>
+			<text>Creature cards in your graveyard have putrefy. The putrefy cost is equal to the card&apos;s mana cost.
+At the beginning of your end step, if there are no creature cards in your graveyard, transform Curse of the Eternal Lands.
+---
+(Back): The Immortal City</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/15_Curse of the Eternal Lands_front.png" num="15a">REL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">The Immortal City</related>
+		</card>
+		<card>
+			<name>The Immortal City</name>
+			<text>{T}: Add one mana of any color.
+{T}: Target creature you control gains indestructible and can&apos;t be sacrificed until end of turn.
+---
+(Front): Curse of the Eternal Lands</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/15_Curse of the Eternal Lands_back.png" num="15b">REL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Curse of the Eternal Lands</related>
+		</card>
+		<card>
+			<name>Dinosaur Tamer</name>
+			<text>When this creature enters, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/34_Dinosaur Tamer.png" num="34">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dinosaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Itzquinth, Growing Juvenile</name>
+			<text>Trample, ward {3}
+Whenever Itzquinth enters or attacks, choose one —
+• Create a 3/3 green Dinosaur creature token.
+• Put three +1/+1 counters on Itzquinth.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/37_Itzquinth, Growing Juvenile.png" num="37">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Dinosaur]</related>
+		</card>
+		<card>
+			<name>Assemble the Mechanosaurs</name>
+			<text>Create X Mechanosaur tokens. They each enter with a +1/+1 counter on them. If X is five or more, they also enter with a flying counter on them. (They are 0/0 Dinosaur artifact creatures with &quot;When this creature dies, put its counters on target creature you control.&quot;)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/1_Assemble the Mechanosaurs.png" num="1">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XWW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>[Mechanosaur]</related>
+		</card>
+		<card>
+			<name>Swinging Swindler</name>
+			<text>Sailing, reach
+Whenever this creature attacks, you may exile the top card of defending player&apos;s library and you may play that card until the end of the next main phase. At the beginning of the next end step, if that card remains exiled, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/26_Swinging Swindler.png" num="26">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Treasure]</related>
+		</card>
+		<card>
+			<name>Race to the Eternal Lands</name>
+			<text>When this enchantment enters, each creature you control explores.
+{1}, Discard a land card: Target creature you control explores.
+{3}{G}, Sacrifice this enchantment: Return all land cards from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/39_Race to the Eternal Lands.png" num="39">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Captain Barrett, First of the Dead</name>
+			<text>Tap an untapped creature you control: Create a Map token.
+Tap two untapped creatures you control: Create a Treasure token.
+Tap three untapped creatures you control: Vehicles you control become artifact creatures until end of turn.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/8_Captain Barrett, First of the Dead.png" num="8">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Map]</related>
+			<related>[Treasure]</related>
+		</card>
+		<card>
+			<name>Beast Trapper</name>
+			<text>{3}{W}, {T}: Tap target creature.
+Formidable — {W}, {T}: Tap target creature. Activate this ability only if creatures you control have total power 8 or greater.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/2_Beast Trapper.png" num="2">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dinosaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pack Raptors</name>
+			<text>Double strike</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/3_Pack Raptors.png" num="3">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpse Cartographer</name>
+			<text>Sacrifice another creature: Create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/28_Corpse Cartographer.png" num="28">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Map]</related>
+		</card>
+		<card>
+			<name>Mechanosaur REL</name>
+			<text>When this creature dies, put its counters on target creature you control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/4t_Mechanosaur.png" num="4">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Copy REL</name>
+			<text>This token can be used to represent a token that&apos;s a copy of a permanent.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/1t_Copy.png" num="1">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dinosaur REL</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/2t_Dinosaur.png" num="2">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure REL</name>
+			<text>{T}: Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/5t_Treasure.png" num="5">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Map REL</name>
+			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/3t_Map.png" num="3">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Map</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/46_Forest.png" num="46">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/47_Island.png" num="47">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/50_Swamp.png" num="50">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/48_Mountain.png" num="48">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/49_Plains.png" num="49">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Voracious Leviathan</name>
+			<text>Trample
+Whenever Voracious Leviathan deals combat damage to a player, you may sacrifice a creature. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/REL-files/img/41_Voracious Leviathan.png" num="41">REL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>3BGU</manacost>
+				<cmc>6</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>[Mechanosaur]</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

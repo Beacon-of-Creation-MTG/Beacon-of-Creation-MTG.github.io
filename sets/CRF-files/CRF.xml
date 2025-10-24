@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CRF</name>
+			<longname>Chikyu: Ruined Future</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Ryoto, Wilds Walker</name>
+			<text>Flash
+When Ryoto enters, target instant or sorcery card in your graveyard gains reconstruct until end of turn. Its reconstruct cost is equal to {2} plus its mana cost. (You may cast that card from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile it.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/11_Ryoto, Wilds Walker.png" num="11">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yearning Mimic</name>
+			<text>Lifelink
+At the beginning of combat on your turn, you may have target creature you control get +2/+2 and lose all abilities until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/42_Yearning Mimic.png" num="42">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remnant of Rocket</name>
+			<text>Menace
+When Remnant of Rocket enters, create a 3/2 white Beast creature token. 
+Whenever Remnant of Rocket and at least two other creatures attack, Remnant of Rocket deals 3 damage to the defending player.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/39_Remnant of Rocket.png" num="39">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Flytrap</name>
+			<text>Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life. Then if this is the third time this ability has triggered this turn, you may return a creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/38_Ravenous Flytrap.png" num="38">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valiant Truthseeker</name>
+			<text>Paradox — Whenever you cast a noncreature spell, draw a card. Then discard a card unless that spell was cast from anywhere other than your hand.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/41_Valiant Truthseeker.png" num="41">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maven of Disaster</name>
+			<text>Flash
+When Maven of Disaster enters, if you cast it, exile target creature or spell. Return that card to its owner&apos;s hand at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/36_Maven of Disaster.png" num="36">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nasty Plot</name>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +2/+0.
+When enchanted creature dies, return it to the battlefield tapped under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/15_Nasty Plot.png" num="15">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cliffside Crusher</name>
+			<text>Trample
+When Cliffside Crusher enters, if you have three or more land cards in your graveyard, put two +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/24_Cliffside Crusher.png" num="24">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dregs of Industry</name>
+			<text>Flying
+When Dregs of Industry enters, choose one —
+• Exile up to three cards from graveyards.
+• Remove all counters from target permanent.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/44_Dregs of Industry.png" num="44">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Excavation Mole</name>
+			<text>Trample
+When Excavation Mole enters, mill three cards.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/27_Excavation Mole.png" num="27">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mole</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Earth Endures</name>
+			<text>Search your library for a basic land card, reveal it, and put it into your hand. If this spell was cast from your graveyard, you may put it onto the battlefield instead. Shuffle. 
+Reconstruct {4}{G} (You may cast this from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile this.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/26_The Earth Endures.png" num="26">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doomed Trainer</name>
+			<text>When Doomed Trainer dies, create a 3/2 white Beast creature token.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/25_Doomed Trainer.png" num="25">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treetop Trapper</name>
+			<text>Reach
+When Treetop Trapper enters, if a permanent you controlled left the battlefield this turn, create a 1/2 green Spider creature token with reach.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/28_Treetop Trapper.png" num="28">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prepare for Trouble!</name>
+			<text>Creatures you control get +2/+0 until end of turn. Up to one target creature you control gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/20_Prepare for Trouble!.png" num="20">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scalewrought Protector</name>
+			<text>Commune ({2}, Exile this from your hand as a sorcery: Create a 1/1 red Human creature token. You may cast this from exile on a later turn, and each creature you tap while casting it this way pays for {1}.)
+Haste</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/21_Scalewrought Protector.png" num="21">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bellowing Behemoth</name>
+			<text>Trample
+When Bellowing Behemoth enters, you may sacrifice a land or discard a land card. If you do, exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/18_Bellowing Behemoth.png" num="18">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gluttonous Ghost</name>
+			<text>Menace
+{2}, Sacrifice another creature: Put a +1/+1 counter on Gluttonous Ghost. Each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/13_Gluttonous Ghost.png" num="13">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanaito&apos;s Nightmare</name>
+			<text>Target opponent exiles two cards from their hand. If fewer than two cards were exiled this way, you may draw a card and lose 1 life.
+Reconstruct {5}{B} (You may cast this from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile this.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/17_Sanaito&apos;s Nightmare.png" num="17">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Partner in Crime</name>
+			<text>When Partner in Crime enters, create a 1/1 red Human creature token. You lose 1 life.
+Partner in Crime can&apos;t block.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/16_Partner in Crime.png" num="16">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Weasel</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mournful Amnesiac</name>
+			<text>Despair (When this creature attacks, if it isn&apos;t decayed, you may have it succumb to despair. If you do, it gains decayed at the beginning of the next end step.) 
+Deathtouch
+When Mournful Amnesiac succumbs to despair, it gets +2/+0 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/14_Mournful Amnesiac.png" num="14">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beauty of the Wastes</name>
+			<text>When Beauty of the Wastes enters, choose any number of permanents and/or players, then give each another counter of each kind it already has.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/7_Beauty of the Wastes.png" num="7">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>To the Sea, Returned</name>
+			<text>Surveil 1, then draw a card.
+Reconstruct {2}{U} (You may cast this from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile this.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/12_To the Sea, Returned.png" num="12">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Icy Glare</name>
+			<text>Counter target spell unless its controller pays {2}. Put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/10_Icy Glare.png" num="10">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emissary of the Sun</name>
+			<text>Commune ({2}, Exile this from your hand as a sorcery: Create a 1/1 red Human creature token. You may cast this from exile on a later turn, and each creature you tap while casting it this way pays for {1}.)
+Flying, vigilance</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/2_Emissary of the Sun.png" num="2">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pacifying Predator</name>
+			<text>Whenever Pacifying Predator attacks, tap target creature defending player controls.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/4_Pacifying Predator.png" num="4">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warden&apos;s Mission</name>
+			<text>Exile target creature you control, then return that card to the battlefield under your control.
+You gain 3 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/6_Warden&apos;s Mission.png" num="6">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lonely Youngling</name>
+			<text>Despair (When this creature attacks, if it isn&apos;t decayed, you may have it succumb to despair. If you do, it gains decayed at the beginning of the next end step.) 
+When Lonely Youngling succumbs to despair, it gets +1/+1 and gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/3_Lonely Youngling.png" num="3">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Vagabonds</name>
+			<text>When Wandering Vagabonds enters, search your library for a Plains card, reveal it, put it into your hand, then shuffle.
+During your turn, Wandering Vagabonds has first strike.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/5_Wandering Vagabonds.png" num="5">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Beast Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Preserved Specimens</name>
+			<text>When Preserved Specimens enters or dies, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/45_Preserved Specimens.png" num="45">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Future&apos;s Present</name>
+			<text>Vigilance
+Paradox — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature. It can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/9_Future&apos;s Present.png" num="9">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrieking Pest</name>
+			<text>Paradox — Whenever you cast a spell from anywhere other than your hand, Shrieking Pest deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/22_Shrieking Pest.png" num="22">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunset Chaser</name>
+			<text>When Sunset Chaser enters, choose one —
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• You may sacrifice another permanent. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/1_Sunset Chaser.png" num="1">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unrelenting Titan</name>
+			<text>Golems you control have haste.
+Unrelenting Titan can&apos;t attack or block unless you control three or more Golems.
+Whenever Unrelenting Titan enters or attacks, discard up to two cards, then draw that many cards.
+{3}, {T}: Create a 1/1 white Golem creature token.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/23_Unrelenting Titan.png" num="23">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chikyu&apos;s Champion</name>
+			<text>When Chikyu&apos;s Champion enters, search your library for a battle card, put it onto the battlefield, then shuffle. Chikyu&apos;s Champion deals 151 damage to it.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/30_Chikyu&apos;s Champion.png" num="30">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>3RGW</manacost>
+				<cmc>6</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conduit of Change</name>
+			<text>Commune ({2}, Exile this from your hand as a sorcery: Create a 1/1 red Human creature token. You may cast this from exile on a later turn, and each creature you tap while casting it this way pays for {1}.)
+When Conduit of Change enters, it deals damage equal to the number of tapped creatures you control to any target. You gain that much life.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/32_Conduit of Change.png" num="32">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Sheep</type>
+				<maintype>Creature</maintype>
+				<manacost>5RW</manacost>
+				<cmc>7</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rage of the Reef</name>
+			<text>When Rage of the Reef enters, search your library for a card, put it into your graveyard, then shuffle.
+When Rage of the Reef dies, if it isn&apos;t a token, create a token that&apos;s a copy of it.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/37_Rage of the Reef.png" num="37">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark-Dwelling Mycellium</name>
+			<text>When Dark-Dwelling Mycellium enters, put a +1/+1 counter on target creature you control.
+Whenever a creature you control dies, you may put its +1/+1 counters on another target creature you control.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/33_Dark-Dwelling Mycellium.png" num="33">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Berry Basket</name>
+			<text>This Equipment enters with two +1/+1 counters on it.
+Remove a counter from this Equipment: Put a +1/+1 counter on equipped creature. Activate once each turn and only as a sorcery.
+Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on this Equipment.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/43_Berry Basket.png" num="43">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brick by Brick</name>
+			<text>When Brick by Brick enters, discard a card, then draw a card. 
+At the beginning of your end step, if there are three or more land cards in your graveyard, exile the top card of your library. You may play that card until you exile another card with Brick by Brick.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/29_Brick by Brick.png" num="29">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Community&apos;s Garden</name>
+			<text>At the beginning of your end step, if a permanent left the battlefield under your control this turn, you draw a card and gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/31_Community&apos;s Garden.png" num="31">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karina, Out of Time</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/35_Karina, Out of Time.png" num="35">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Karina</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanaito, Root of Ruin</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/40_Sanaito, Root of Ruin.png" num="40">CRF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sanaito</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4WUB</manacost>
+				<cmc>7</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The City Made Wild</name>
+			<text>(As an Encounter enters, choose an opponent to protect it. Whenever defense counters are removed from it, put that many +1/+1 counters on it, then you may transform it.)
+When The City Made Wild enters, up to two target creatures can&apos;t block this turn.
+---
+(Back): The Stone Made Steel</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/19_The City Made Wild_front.png" num="19a">CRF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Battle — Encounter</type>
+				<maintype>Battle</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4</pt>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">The Stone Made Steel</related>
+		</card>
+		<card>
+			<name>The Stone Made Steel</name>
+			<text>Whenever The Stone Made Steel attacks, target creature with lesser power can&apos;t block this turn.
+---
+(Front): The City Made Wild</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/19_The City Made Wild_back.png" num="19b">CRF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Elemental Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The City Made Wild</related>
+		</card>
+		<card>
+			<name>Bump in the Road</name>
+			<text>(As an Encounter enters, choose an opponent to protect it. Whenever defense counters are removed from it, put that many +1/+1 counters on it, then you may transform it.)
+When Bump in the Road enters, tap all creatures target player controls and put a stun on each of them.
+---
+(Back): Awoken Pathmaker</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/8_Bump in the Road_front.png" num="8a">CRF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Battle — Encounter</type>
+				<maintype>Battle</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5</pt>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Awoken Pathmaker</related>
+		</card>
+		<card>
+			<name>Awoken Pathmaker</name>
+			<text>Vigilance
+---
+(Front): Bump in the Road</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/8_Bump in the Road_back.png" num="8b">CRF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Bear Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Bump in the Road</related>
+		</card>
+		<card>
+			<name>First Contact</name>
+			<text>(As an Encounter enters, choose an opponent to protect it. Whenever defense counters are removed from it, put that many +1/+1 counters on it, then you may transform it.)
+When First Contact enters, it deals 2 damage to any target. Draw a card.
+---
+(Back): Beginning of the End</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/34_First Contact_front.png" num="34a">CRF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Battle — Encounter</type>
+				<maintype>Battle</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4</pt>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Beginning of the End</related>
+		</card>
+		<card>
+			<name>Beginning of the End</name>
+			<text>Haste
+When this creature transforms into Beginning of the End, each player exiles their hand. They may play cards exiled this way for as long as they remain exiled.
+Players can&apos;t cast spells from their hand.
+If a player would draw a card, they exile the top card of their library instead. They may play that card until the beginning of their next end step.
+---
+(Front): First Contact</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/CRF-files/img/34_First Contact_back.png" num="34b">CRF</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Alien Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">First Contact</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

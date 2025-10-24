@@ -7,7 +7,7 @@
 			"type": "Skill Token",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/2_Skill Tree.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/2t_Skill Tree.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Token Creature — Shapeshifter",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/1_Shapeshifter.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/1t_Shapeshifter.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/3_Bird.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/3t_Bird.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/8_Treasure.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/8t_Treasure.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/7_Sword.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/7t_Sword.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/5_Zombie.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/5t_Zombie.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/4_Skeleton.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/4t_Skeleton.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/6_Elemental.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/6t_Elemental.png"
 			}
 		}
 	]

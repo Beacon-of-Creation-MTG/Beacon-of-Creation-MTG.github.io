@@ -37,7 +37,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/38_Charismatic Wanderer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/38t_Charismatic Wanderer.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Artifact",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/45_Maybe Box.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/45t_Maybe Box.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2_Funeral Pyre.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2t_Funeral Pyre.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/31_Unreality Tamer.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/31t_Unreality Tamer.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Sorcery",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/36_The Space Breathes.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/36t_The Space Breathes.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Enchantment",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/15_Fear the Other.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/15t_Fear the Other.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Ethereal Sorcery",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/54_Multitudes.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/54t_Multitudes.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/1_Token Creature.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/1t_Token Creature.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2_Spirit.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2t_Spirit.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Token Creature — Cat",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/3_Cat.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/3t_Cat.png"
 			}
 		},
 		{

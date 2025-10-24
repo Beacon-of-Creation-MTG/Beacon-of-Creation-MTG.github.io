@@ -1,0 +1,1026 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>XRX</name>
+			<longname>XereX</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Logical Fallacy</name>
+			<text>Exile your hand.
+Voidborne {0}. (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/16_Logical Fallacy.png" num="16">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Empty Hallway</name>
+			<text>You may exile cards from your hand at any time.
+At the beginning of your upkeep, scour 1.
+When this card is put into exile from anywhere other than the battlefield, put it onto the battlefield.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/1_Empty Hallway.png" num="1">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Strange Eye</name>
+			<text>Menace
+Whenever you look at one or more cards in your library or search your library, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/14_Strange Eye.png" num="14">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charismatic Wanderer XRX</name>
+			<text>When this creature enters, create a 1/1 colorless creature token.
+Creature spells you cast from anywhere other than your hand cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/38t_Charismatic Wanderer.png" num="38">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/BW/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>Token Creature</related>
+		</card>
+		<card>
+			<name>Panicked Dreamer</name>
+			<text>Whenever you conjure a card, put a +1/+1 counter on this creature and untap it. It gains vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/29_Panicked Dreamer.png" num="29">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impossible Planescape</name>
+			<text>Conjure a nonbasic land card of your choice into your hand.
+{3}{G}{G}, Shuffle this card into your library from exile: Conjure an Ethereal card of your choice into your hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/28_Impossible Planescape.png" num="28">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unfamilliar Feeling</name>
+			<text>As an additional cost to cast this spell, exile a card from your hand.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/26_Unfamilliar Feeling.png" num="26">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inhereted Cause</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+1.
+When enchanted creature dies, exile it and return this card to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/3_Inhereted Cause.png" num="3">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Weigh Down</name>
+			<text>As an additional cost to cast this spell, exile a creature card from your graveyard.
+Target creature gets -3/-3 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/20_Weigh Down.png" num="20">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unpredictable Conjurer</name>
+			<text>Reach
+When this creature enters, choose five names from among cards that are Ethereal or Basic. Target opponent chooses two of those names. Conjure cards with those names into your hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/30_Unpredictable Conjurer.png" num="30">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maybe Box XRX</name>
+			<text>{2}, {T}: Draw a card, then exile a card from your hand unless you sacrifice this artifact.
+{3}, Exile this card from your graveyard: Create a 2/2 black Cat creature token. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/45t_Maybe Box.png" num="45">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>Cat</related>
+		</card>
+		<card>
+			<name>Malevolant Thoughtform</name>
+			<text>Reach, deathtouch, menace
+Voidborne {2}{BG}{BG} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {2}{BG}{BG}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/40_Malevolant Thoughtform.png" num="40">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/GB/G</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>New Perspective</name>
+			<text>Enchant creature.
+You control enchanted creature. 
+If enchanted creature doesn&apos;t belong, it gets +1/+1. Otherwise, it gets -1/-1. (A creature doesn&apos;t belong if it has no creature types.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/41_New Perspective.png" num="41">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UW/B</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Doorway Effect</name>
+			<text>Exile target spell. Its owner may cast it for as long as it remains exiled.
+Voidborne— Exile a card from your hand. (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it by exiling a card from your hand.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/9_Doorway Effect.png" num="9">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tumble Down the Stairs</name>
+			<text>Destroy target creature, artifact, or planeswalker. Its controller draws a card.
+Voidborne {1} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/7_Tumble Down the Stairs.png" num="7">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fight with Reality</name>
+			<text>Target creature you control fights target creature an opponent controls.
+Voidborne {0} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/27_Fight with Reality.png" num="27">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intrusive Thought</name>
+			<text>Gain control of target creature with mana value 3 or less until end of turn. Untap it. It gains haste until end of turn.
+Voidborne {0} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {0}.)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/23_Intrusive Thought.png" num="23">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hopeful Nameless</name>
+			<text>When this card is put into exile from anywhere, you gain 1 life.
+This creature enters with a +1/+1 counter on it if it wasn&apos;t cast from your hand.
+Voidborne {1}{RW}{RW} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{RW}{RW}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/39_Hopeful Nameless.png" num="39">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>R/WR/W</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perception Distortion</name>
+			<text>This spell deals 5 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, its owner puts it into their library third from the top instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/42_Perception Distortion.png" num="42">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U/RU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thoughtless Amalgum</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/46_Thoughtless Amalgum.png" num="46">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Light in the Fog</name>
+			<text>{T}: Add one mana of any color.
+{T}: Add two mana of any one color. Spend this mana only to pay alternate costs or to cast Ethereal spells.
+{2}, {T}: Scour 1. (Look at the top card of your library. You may exile it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/44_Light in the Fog.png" num="44">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Incalculus Mage</name>
+			<text>Flash
+When this creature enters, counter up to one target spell. Its controller may scour 2. (To scour 2, look at the top two cards of your library, exile any number of them, then put the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/10_Incalculus Mage.png" num="10">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrouded Watcher</name>
+			<text>Menace
+As an additional cost to cast this spell, exile a card form your hand.
+Voidborne {3}{B} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {3}{B}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/19_Shrouded Watcher.png" num="19">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Information Angel</name>
+			<text>Flying
+When this creature enters, draw a card.
+If you would look at one or more cards in your library or search your library while this card is in exile, you may put this card on top of your library first.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/11_Information Angel.png" num="11">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tesselating Wing</name>
+			<text>Flying
+This spell costs {1} less to cast for each card you own that was put into exile this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/6_Tesselating Wing.png" num="6">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paladin of Change</name>
+			<text>Haste, flying
+This creature enters with two +1/+1 counters on it if it wasn&apos;t cast from your hand.
+You may cast this spell from exile by discarding two cards in addition to its other costs.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/24_Paladin of Change.png" num="24">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wizardling Lookalike</name>
+			<text>Whenever this creature attacks, scour 1. (Look at the top card of your library. You may exile it.)
+Voidborne {1}{GU}{GU} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{GU}{GU}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/43_Wizardling Lookalike.png" num="43">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>1G/UG/U</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nameless Things</name>
+			<text>Voidborne {B} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {B}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/18_Nameless Things.png" num="18">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Color Dancer</name>
+			<text>Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end. You can&apos;t spend this mana to cast spells from your hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/22_Color Dancer.png" num="22">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manipulate Fate</name>
+			<text>Search your library for three cards, exile them, then shuffle.
+Draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/12_Manipulate Fate.png" num="12">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Funeral Pyre XRX</name>
+			<text>Exile target card from a graveyard. Its owner creates a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2t_Funeral Pyre.png" num="2">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+			<related>Spirit</related>
+		</card>
+		<card>
+			<name>Mass Malaise</name>
+			<text>All creatures with creature types get -2/-2 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/17_Mass Malaise.png" num="17">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Observe</name>
+			<text>Scour 1. (Look at the top card of your library. You may exile it.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/13_Observe.png" num="13">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spontaneous Spark</name>
+			<text>This spell deals 2 damage to any target. If it wasn&apos;t cast from your hand, it deals 3 damage to any target instead.
+Voidborne {R} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {R}.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/25_Spontaneous Spark.png" num="25">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unreality Tamer XRX</name>
+			<text>When this creature enters, if you own three or more cards that did not begin the game in your deck, you gain 4 life. If you own six or more cards that did not begin the game in your deck, create two 1/1 colorless creature tokens.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/31t_Unreality Tamer.png" num="31">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>Token Creature</related>
+		</card>
+		<card>
+			<name>Sanity Protector</name>
+			<text>Vigilance
+Whenever one or more cards you own are put into exile, you may put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/5_Sanity Protector.png" num="5">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mad Seraph</name>
+			<text>Flying, vigilance
+Whenever this creature enters or you cast another spell, if it wasn&apos;t cast from your hand, this creature gets +2/+2 and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/35_Mad Seraph.png" num="35">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warrior of Ascent</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player, you may exile a card from your hand. If you do, conjure an Ethereal card of your choice into your hand.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/32_Warrior of Ascent.png" num="32">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illogical Fabrication</name>
+			<text>When this artifact enters, conjure an Ethereal or Basic card of your choice into your hand.
+{2}, {T}: Copy target Ethereal spell you control. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/34_Illogical Fabrication.png" num="34">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chaos Mage</name>
+			<text>Haste
+Whenever this creature enters or you cast another spell, if it wasn&apos;t cast from your hand, this creature deals 2 damage to target player or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/21_Chaos Mage.png" num="21">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Space Breathes XRX</name>
+			<text>Create three 1/1 colorless creature tokens.
+Voidborne {1}{W}{B} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {1}{W}{B}.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/36t_The Space Breathes.png" num="36">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+			<related>Token Creature</related>
+		</card>
+		<card>
+			<name>Fear the Other XRX</name>
+			<text>When this enchantment enters, create a 1/1 colorless creature token.
+Creatures you control that don&apos;t belong get +1/+0 and have menace. (A creature doesn&apos;t belong if it has no creature types.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/15t_Fear the Other.png" num="15">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>Token Creature</related>
+		</card>
+		<card>
+			<name>Distant Thought</name>
+			<text>Scour 3, then choose a card you own that was put into exile this turn. You may cast it. If you don&apos;t, put it into your hand. (To scour 3, look at the top three cards of your library, exile any number of them, then put the rest on top in any order.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/33_Distant Thought.png" num="33">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Memory Embalmer</name>
+			<text>Whenever a card you own is put into exile, you gain 1 life. If this is the third time this ability has resolved this turn, draw a card.
+{1}{W}: Exile target card in a graveyard. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/4_Memory Embalmer.png" num="4">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Void Gardener</name>
+			<text>Deathtouch
+You may cast this card from exile as long as you control a creature that doesn&apos;t belong. (A creature doesn&apos;t belong if it has no creature types.)
+{2}{G}, Exile this card from your hand: Conjure a basic land card of your choice onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/37_Void Gardener.png" num="37">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idea</name>
+			<text>(This card can&apos;t be put into your deck during deckbuilding.)
+Scour 3. (Look at the top three cards of your library, exile any number of them, then put the rest on top in any order.)</text>
+			<set rarity="special" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/53_Idea.png" num="53">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Ethereal Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Multitudes XRX</name>
+			<text>(This card can&apos;t be put into your deck during deckbuilding.)
+Create X 1/1 colorless creature tokens.</text>
+			<set rarity="special" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/54t_Multitudes.png" num="54">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Ethereal Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+			<related>Token Creature</related>
+		</card>
+		<card>
+			<name>Vanished</name>
+			<text>(This card can&apos;t be put into your deck during deckbuilding.)
+Exile target nonland, noncreature permanent.</text>
+			<set rarity="special" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/56_Vanished.png" num="56">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Ethereal Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Presence</name>
+			<text>(This card can&apos;t be put into your deck during deckbuilding.)
+Voidborne {4} (When this card is put into exile from anywhere other than the battlefield or stack, you may cast a copy of it for {4}.)</text>
+			<set rarity="special" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/55_Presence.png" num="55">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Ethereal Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forget</name>
+			<text>(This card can&apos;t be put into your deck during deckbuilding.)
+Exile up to two target cards in graveyards. Exiling cards this way can&apos;t cause Voidborne abilities to trigger. You gain 3 life.</text>
+			<set rarity="special" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/52_Forget.png" num="52">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Ethereal Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/50_Mountain.png" num="50">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/48_Island.png" num="48">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/49_Swamp.png" num="49">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/47_Plains.png" num="47">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/51_Forest.png" num="51">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Token Creature XRX</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/1t_Token Creature.png" num="1">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit XRX</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/2t_Spirit.png" num="2">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cat XRX</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/3t_Cat.png" num="3">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Tumble Down the Stairs SBHJ</name>
+			<text>Destroy target creature, artifact, or planeswalker. Its controller draws a card.
+Voidborne {1}</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/XRX-files/img/8_Tumble Down the Stairs SBHJ.png" num="8">XRX</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

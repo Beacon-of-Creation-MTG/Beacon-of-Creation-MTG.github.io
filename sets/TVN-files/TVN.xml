@@ -1,0 +1,797 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TVN</name>
+			<longname>Titans of Viludin Microset</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Crackling Eel</name>
+			<text>Whenever an opponent activates an ability that isn&apos;t a mana ability, this creature deals damage equal to its power to that player.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/19_Crackling Eel.png" num="19">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grandir, the Storm-Bodied</name>
+			<text>Flash
+You have no maximum hand size.
+At the beginning of your end step, draw a card for each card you discarded this turn. When you do, Grandir deals damage to any target equal to the number of cards you drew this way.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/33_Grandir, the Storm-Bodied.png" num="33">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Serpent Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5UR</manacost>
+				<cmc>7</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ka&apos;bi, the Bloomhoof</name>
+			<text>Trample
+When Ka&apos;bi enters, sacrifice any number of lands. Then for each land card in your graveyard, search your library and/or graveyard for a land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/35_Ka&apos;bi, the Bloomhoof.png" num="35">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>8/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ava, Thorny Diva</name>
+			<text>Overwhelm — Whenever Ava becomes tapped, add {G}. If you control a permanent with mana value 5 or greater, add {G}{G} instead. You don&apos;t lose this mana as steps and phases end.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/24_Ava, Thorny Diva.png" num="24">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dryad Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crossbone Cove Cutter</name>
+			<text>Menace
+Whenever this Vehicle attacks, you lose 1 life and draw a card. If this Vehicle was crewed 5 or greater this turn, you lose 3 and draw three cards instead.
+Crew 1</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/13_Crossbone Cove Cutter.png" num="13">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Superb Salvage</name>
+			<text>Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped with a salvage counter on it. It gains &quot;When this permanent is put into your graveyard from the battlefield, return it to the battlefield tapped.&quot;</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/40_Superb Salvage.png" num="40">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mistcutter Attendant</name>
+			<text>Vigilance
+When this creature enters, return up to one other target nonland permanent you control to its owner&apos;s hand. If a permanent was returned this way, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/3_Mistcutter Attendant.png" num="3">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jahan&apos;s Pets</name>
+			<text>Flying
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{3}{B}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/16_Jahan&apos;s Pets.png" num="16">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cephalid Strategist</name>
+			<text>Whenever this creature becomes tapped, untap up to two other target artifacts and/or creatures you control. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/31_Cephalid Strategist.png" num="31">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Sea-Witch</name>
+			<text>Whenever one or more cards are put into your graveyard from your library, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/30_Abyssal Sea-Witch.png" num="30">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Innovator</name>
+			<text>Whenever an artifact you control is put into a graveyard from the battlefield, this creature deals 1 damage to target player or planeswalker and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/37_Reckless Innovator.png" num="37">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lava Flow Hellbender</name>
+			<text>Trample, haste
+At the beginning of combat on your turn, mill two cards, then this creature gets +1/+0 until end of turn for each land card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/36_Lava Flow Hellbender.png" num="36">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Salamander</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riding Turtle</name>
+			<text>Whenever this creature attacks, untap another target creature you control with lesser toughness. Prevent all combat damage that would be dealt to that creature this turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/39_Riding Turtle.png" num="39">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surly Maintainer</name>
+			<text>When this creature enters, return up to one target artifact you control or artifact card in your graveyard to your hand.
+{4}: Create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater.&quot;</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/41_Surly Maintainer.png" num="41">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chordatan Bloodseeker</name>
+			<text>Menace
+Whenever you draw a card except the first one you draw each turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/32_Chordatan Bloodseeker.png" num="32">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hungering Greatleech</name>
+			<text>When this creature enters, you may sacrifice a creature. If you do, you draw two cards and you gain life equal to the sacrificed creature&apos;s toughness.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/34_Hungering Greatleech.png" num="34">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leech</type>
+				<maintype>Creature</maintype>
+				<manacost>5BG</manacost>
+				<cmc>7</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Relentless Reconstructionist</name>
+			<text>When this creature enters, exile up to one target artifact card with mana value 4 or less from your graveyard. Create a token that&apos;s a copy of the exiled card except it&apos;s a 3/3 Construct creature in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/38_Relentless Reconstructionist.png" num="38">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tyrant Territory</name>
+			<text>Permanent spells you cast with mana value 5 or greater cost {1} less to cast.
+Mature costs you pay cost {1} less.
+Whenever a permanent you control with mana value 5 or greater enters or a creature you control matures, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/42_Tyrant Territory.png" num="42">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunvine Nurturer</name>
+			<text>Vigilance
+When this creature enters, you gain 1 life and you draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/6_Sunvine Nurturer.png" num="6">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Satyr Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steelfin Dolphin</name>
+			<text>Vigilance
+Whenever this creature attacks, untap up to one other target artifact or creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/5_Steelfin Dolphin.png" num="5">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skyskimmer Glaucus</name>
+			<text>Flying
+Whenever this creature enters or attacks, another target creature you control gains flying until end of turn.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/4_Skyskimmer Glaucus.png" num="4">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goldseeker Cruiser</name>
+			<text>Vigilance
+Whenever another artifact enters under your control, if this Vehicle isn&apos;t a creature, it becomes an artifact creature until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/2_Goldseeker Cruiser.png" num="2">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mercurial Skyrod</name>
+			<text>Flying
+Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/7_Mercurial Skyrod.png" num="7">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sea Witch&apos;s Wards</name>
+			<text>As an additional cost to cast this spell, you may embrace. (To embrace, tap two artifacts and/or creatures you control)
+Counter target noncreature spell unless its controller pays {2}. If you embraced as you cast this spell, counter that spell instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/9_Sea Witch&apos;s Wards.png" num="9">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Titanic Haruspicy</name>
+			<text>Draw two cards
+Overwhelm — If you control a permanent with mana value 5 or greater, draw three cards instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/11_Titanic Haruspicy.png" num="11">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Observant Osprey</name>
+			<text>Flying
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/8_Observant Osprey.png" num="8">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abyssal Tempter</name>
+			<text>When this creature enters, you may pay 2 life. If you do, you draw a card and create a tapped Treasure token.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/12_Abyssal Tempter.png" num="12">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadman&apos;s Tales</name>
+			<text>Overwhelm — Surveil 2. If you control a permanent with mana value 5 or greater, surveil 4 instead. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+You draw two cards and you lose 2 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/14_Deadman&apos;s Tales.png" num="14">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inktrench Stinger</name>
+			<text>Deathtouch
+Whenever this creature enters or attacks, another target creature you control gains deathtouch until end of turn.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/15_Inktrench Stinger.png" num="15">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noxious Venting</name>
+			<text>Target creature gets -2/-2 until end of turn. If an artifact you controlled left the battlefield this turn, that creature gets -4/-4 until end of turn instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/17_Noxious Venting.png" num="17">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overloaded Cannonship</name>
+			<text>When this Vehicle enters, it deals 6 damage to target creature you don&apos;t control.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/22_Overloaded Cannonship.png" num="22">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Powderkeg Explosion</name>
+			<text>Powderkeg Explosion deals 2 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/23_Powderkeg Explosion.png" num="23">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Expedition Funding</name>
+			<text>When this artifact enters or leaves the battlefield, you may discard a card. If you do, draw a card.
+{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/20_Expedition Funding.png" num="20">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bursting Vein Serpent</name>
+			<text>Trample
+When this creature enters, it deals 3 damage to each opponent.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/18_Bursting Vein Serpent.png" num="18">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elemental&apos;s Flourish</name>
+			<text>Choose target creature you control and target creature you don&apos;t control. Put a +1/+1 counter on the creature you control if there are two or more land cards in your graveyard. Then those creatures fight. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/25_Elemental&apos;s Flourish.png" num="25">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mosstusk Guardian</name>
+			<text>Trample, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/27_Mosstusk Guardian.png" num="27">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quaking Tunneler</name>
+			<text>When this creature enters, destroy up to one target artifact or enchantment with mana value equal to or less than this creature&apos;s power.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/29_Quaking Tunneler.png" num="29">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mole Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Give In to Instinct</name>
+			<text>Target creature you control gets +2/+2 and gains trample until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/26_Give In to Instinct.png" num="26">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cogwork Ichthyoid</name>
+			<text>{1}: Add one mana of any color. Activate only once each turn.
+{T}, Sacrifice this creature: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/43_Cogwork Ichthyoid.png" num="43">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Treasure Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Research Vessel</name>
+			<text>When this Vehicle enters, look at the top three cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/44_Research Vessel.png" num="44">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Uncovered Pitfall</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.
+{4}, {T}, Sacrifice this artifact: Destroy target creature without flying. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/45_Uncovered Pitfall.png" num="45">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deckhand&apos;s Blade</name>
+			<text>When this Equipment enters, create a 1/1 white Sailor artifact creature token with &quot;This token crews Vehicles as though its power were 2 greater&quot;, then attach this Equipment to it.
+Equipped creature gets +1/+2
+Equip {1}</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/1_Deckhand&apos;s Blade.png" num="1">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stormbelt Serpent</name>
+			<text>This creature can&apos;t be blocked if you&apos;ve drawn two or more cards this turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/10_Stormbelt Serpent.png" num="10">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explosive Rage</name>
+			<text>Target creature you control gets +3/+2 until end of turn. If there are two or more land cards in your graveyard, that creature gains first strike and trample until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/21_Explosive Rage.png" num="21">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Propagated Bioship</name>
+			<text>When this Vehicle enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/TVN-files/img/28_Propagated Bioship.png" num="28">TVN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

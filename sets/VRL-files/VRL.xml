@@ -1,0 +1,948 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VRL</name>
+			<longname>Veyrathal</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Skill Tree VRL</name>
+			<text>Whenever you develop a new skill, you may activate it. Otherwise, you may activate one of your developed skills during each of your turns as a sorcery.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/2t_Skill Tree.png" num="2">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Skill Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>Elemental</related>
+		</card>
+		<card>
+			<name>Ancestral Guardianship</name>
+			<text>Target creature gains hexproof and indestructible until end of turn.
+Skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/1_Ancestral Guardianship.png" num="1">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>Skill Tree</related>
+		</card>
+		<card>
+			<name>Old Anoria Outrider</name>
+			<text>During your turn, this creature has first strike.
+At the beginning of combat on your turn, if you skilled-up this turn, this creature gets +1/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/2_Old Anoria Outrider.png" num="2">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Radiant Templar</name>
+			<text>Vigilance
+Whenever you attack, if you control a full party, creatures you control get +1/+1 until end of turn. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/4_Radiant Templar.png" num="4">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vaelan Bladesworn</name>
+			<text>When this creature enters, create a 1/1 white Bird creature token with flying.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/6_Vaelan Bladesworn.png" num="6">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glass Prison</name>
+			<text>Enchant creature
+When this enchantment enters, tap enchanted creature.
+Enchanted creature does not untap during its controller&apos;s untap step.
+When enchanted creature becomes the target of a spell, sacrifice this enchantment.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/11_Glass Prison.png" num="11">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scroll Peddler</name>
+			<text>When this creature enters, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+Whenever you skill-up, create a tapped Treasure token. This ability only triggers once each turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/12_Scroll Peddler.png" num="12">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Skill Tree</related>
+			<related>Treasure</related>
+		</card>
+		<card>
+			<name>Depths Prowler</name>
+			<text>Flash
+This creature can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/8_Depths Prowler.png" num="8">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shockbreath Juvenile</name>
+			<text>Flying
+{2}{U}{U}: Monstrosity 2. (If this creature isn&apos;t monstrous, put two +1/+1 counters on it and it becomes monstrous.)
+When this creature becomes monstrous, tap up to two target creatures. Put a stun counter on each creature tapped this way.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/13_Shockbreath Juvenile.png" num="13">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Direbat</name>
+			<text>Flying, lifelink
+This creature can&apos;t block.
+{2}{B}: Monstrosity 1. (If this creature isn&apos;t monstrous, put a +1/+1 counter on it and it becomes monstrous.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/18_Ravenous Direbat.png" num="18">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skulking Assassin</name>
+			<text>Deathtouch
+Whenever this creature deals combat damage to a player, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/19_Skulking Assassin.png" num="19">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Skill Tree</related>
+		</card>
+		<card>
+			<name>Bishop of High Anoria</name>
+			<text>Lifelink
+When this creature enters, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/14_Bishop of High Anoria.png" num="14">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadly Alliance</name>
+			<text>This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)
+Destroy target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/15_Deadly Alliance.png" num="15">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>United Defense</name>
+			<text>This spell costs {1} less to cast for each creature in your party. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)
+United Defense deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/24_United Defense.png" num="24">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veteran Shieldmage</name>
+			<text>Flash
+When this creature enters, up to one target creature or planeswalker you control phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/7_Veteran Shieldmage.png" num="7">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coin-Turner Mercenary</name>
+			<text>Changeling (This card is every creature type.)
+Reach
+Whenever one or more other creatures you control enter, this creature deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/21_Coin-Turner Mercenary.png" num="21">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vaelan Firemage</name>
+			<text>When this creature enters, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+{R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/25_Vaelan Firemage.png" num="25">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Skill Tree</related>
+		</card>
+		<card>
+			<name>Hellstone Outfitter</name>
+			<text>When this creature enters, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +1/+1&quot; and equip {2}. Then attach it to this creature.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/22_Hellstone Outfitter.png" num="22">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jackal Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wanderer of Old Anoria</name>
+			<text>{1}: Add one mana of any color. Activate this ability only once each turn.
+{5}{G}: Look at the top three cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/31_Wanderer of Old Anoria.png" num="31">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anorian Blade-Guard</name>
+			<text>Trample
+Whenever you skill-up, you may pay {1}{G}. If you do, return this card from your graveyard to the battlefield tapped. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/26_Anorian Blade-Guard.png" num="26">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tower Wurm</name>
+			<text>Reach
+{4}{G}{G}: Monstrosity 4. (If this creature isn&apos;t monstrous, put four +1/+1 counters on it and it becomes monstrous.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/30_Tower Wurm.png" num="30">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defeat the Dragon</name>
+			<text>Destroy up to one target creature with flying.
+Skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/27_Defeat the Dragon.png" num="27">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related>Skill Tree</related>
+		</card>
+		<card>
+			<name>Mask of Hidden Identity</name>
+			<text>When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling. (It&apos;s every creature type.)
+Equipped creature can&apos;t be blocked.
+Equip {3}</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/43_Mask of Hidden Identity.png" num="43">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>Shapeshifter</related>
+		</card>
+		<card>
+			<name>Voltite Automaton</name>
+			<text>{3}, Exile this card from your graveyard: Create a Treasure token. Draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/45_Voltite Automaton.png" num="45">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resonance Field</name>
+			<text>{T}: Add one mana of any color.
+{2}, {T}, Sacrifice this artifact: Skill-up. Activate only as a sorcery. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/44_Resonance Field.png" num="44">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Deviant Sentinel</name>
+			<text>When this creature dies, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +1/+1&quot; and equip {2}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/41_Deviant Sentinel.png" num="41">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightwalker Warpriest</name>
+			<text>Menace
+Whenever you discard one or more cards, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/40_Nightwalker Warpriest.png" num="40">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Cleric Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emra&apos;s Torrent</name>
+			<text>Choose one — 
+• Counter target creature spell.
+• Return target creature to its owner&apos;s hand.
+Then if you have developed each of the Mage skills, draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/9_Emra&apos;s Torrent.png" num="9">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sandtwister Barrier</name>
+			<text>This spell can&apos;t be countered if you have developed each of the Mage skills.
+Prevent all damage that would be dealt to you and permanents you control this turn by sources you don&apos;t control. If damage is prevented this way, Sandtwister Barrier deals that much damage to target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/5_Sandtwister Barrier.png" num="5">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Titan of the Wild Ways</name>
+			<text>Reach, trample
+Landfall — Whenever a land you control enters, skill-up. Then if you have developed each of the Tracker skills, return target permanent card from your graveyard to your hand. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/29_Titan of the Wild Ways.png" num="29">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Skill Tree</related>
+		</card>
+		<card>
+			<name>Between the Old and New</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may cast that card by discarding a card in addition to its other costs.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/20_Between the Old and New.png" num="20">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gather the Party</name>
+			<text>Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, and/or Wizard cards from among them. Put up to one of the revealed cards onto the battlefield and the other into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/37_Gather the Party.png" num="37">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Erestes, Skelemancer</name>
+			<text>Flying
+When this creature enters and whenever you skill-up, you may exile a card from your graveyard. If you do, create a 1/1 black Skeleton creature token.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/35_Erestes, Skelemancer.png" num="35">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunting of Old Anoria</name>
+			<text>This creature enters tapped.
+When this creature enters, each opponent may skill-up. (They add a point to their skill tree. If they develop a new skill this way, they may activate it.)
+{B}{B}, Sacrifice a creature: Return this creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/16_Haunting of Old Anoria.png" num="16">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>8/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wizened Vizier</name>
+			<text>When this creature enters, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+Whenever you skill-up, put a +1/+1 counter on this creature. If this is the second time this ability has resolved this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/39_Wizened Vizier.png" num="39">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priestess of the First Book</name>
+			<text>Whenever you gain life, skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)
+{W}: This creature gains lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/3_Priestess of the First Book.png" num="3">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related>Skill Tree</related>
+		</card>
+		<card>
+			<name>Purge Soul</name>
+			<text>Exile target creature. If it had mana value 2 or less, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/17_Purge Soul.png" num="17">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hulking Firesmith</name>
+			<text>This spell costs {1} less to cast for each skill you have developed.
+Trample
+Whenever this creature enters or attacks, create a colorless Equipment artifact token named Sword with &quot;Equipped creature gets +1/+1&quot; and equip {2}.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/23_Hulking Firesmith.png" num="23">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>7R</manacost>
+				<cmc>8</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostweft Thief</name>
+			<text>Flash
+Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on this creature.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/10_Frostweft Thief.png" num="10">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plated Gorehoof</name>
+			<text>Trample
+Other creatures you control with +1/+1 counters on them have trample.
+{3}{G}{G}: Monstrosity 3. (If this creature isn&apos;t monstrous, put three +1/+1 counters on it and it becomes monstrous.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/28_Plated Gorehoof.png" num="28">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burn with Hellstone</name>
+			<text>Destroy target creature. If you have a full party, Burn with Hellstone deals 3 damage to that creature&apos;s controller. (Your party consists of up to one of each of Cleric, Rogue, Warrior, and Wizard.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/32_Burn with Hellstone.png" num="32">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frostgaze Griff</name>
+			<text>Flying
+Whenever you put one or more +1/+1 counters on a creature you control, tap target creature you don&apos;t control. That creature doesn&apos;t untap during its controller&apos;s untap step for as long as you control this creature.
+{3}{G}{U}: Monstrosity 1.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/36_Frostgaze Griff.png" num="36">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chains of Holy Fire</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block, and its activated abilities can&apos;t be activated.
+At the beginning of the upkeep of enchanted creature&apos;s controller, this enchantment deals 2 damage to that player.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/33_Chains of Holy Fire.png" num="33">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enriching Study</name>
+			<text>You gain 3 life.
+Draw a card.
+Skill-up. (Add a point to your skill tree. If you develop a new skill this way, you may activate it.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/34_Enriching Study.png" num="34">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Golden Champion</name>
+			<text>This creature is all colors.
+During your turn, this creature has double strike.
+At the beginning of combat on your turn, if you have developed each of the Fighter skills, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/42_Golden Champion.png" num="42">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shocking Research</name>
+			<text>Draw two cards, then discard two cards.
+Shocking Research deals damage to target creature or planeswalker equal to the number of cards you discarded this turn.</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/38_Shocking Research.png" num="38">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shapeshifter VRL</name>
+			<text>Changeling (This card is every creature type.)</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/1t_Shapeshifter.png" num="1">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bird VRL</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/3t_Bird.png" num="3">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure VRL</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/8t_Treasure.png" num="8">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sword VRL</name>
+			<text>Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/7t_Sword.png" num="7">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Zombie VRL</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/5t_Zombie.png" num="5">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Skeleton VRL</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/4t_Skeleton.png" num="4">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental VRL</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/6t_Elemental.png" num="6">VRL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

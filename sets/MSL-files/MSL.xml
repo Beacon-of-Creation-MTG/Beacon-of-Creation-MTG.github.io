@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MSL</name>
+			<longname>Microset Landbase</longname>
+			<settype>Custom</settype>
+			<releasedate>2025-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Cinder Barrens</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/1_Cinder Barrens.png" num="1">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Contaminated Aquifer</name>
+			<text>({T}: Add {U} or {B}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/2_Contaminated Aquifer.png" num="2">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/3_Evolving Wilds.png" num="3">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forsaken Sanctuary</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/4_Forsaken Sanctuary.png" num="4">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Foul Orchard</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/5_Foul Orchard.png" num="5">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Geothermal Bog</name>
+			<text>({T}: Add {B} or {R}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/6_Geothermal Bog.png" num="6">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Haunted Mire</name>
+			<text>({T}: Add {B} or {G}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/7_Haunted Mire.png" num="7">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Highland Lake</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/8_Highland Lake.png" num="8">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Idyllic Beachfront</name>
+			<text>({T}: Add {W} or {U}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/9_Idyllic Beachfront.png" num="9">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Meandering River</name>
+			<text>This land enters tapped.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/10_Meandering River.png" num="10">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Molten Tributary</name>
+			<text>({T}: Add {U} or {R}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/11_Molten Tributary.png" num="11">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Radiant Grove</name>
+			<text>({T}: Add {G} or {W}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/12_Radiant Grove.png" num="12">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rupture Spire</name>
+			<text>This land enters tapped.
+When this land enters, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/13_Rupture Spire.png" num="13">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sacred Peaks</name>
+			<text>({T}: Add {R} or {W}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/14_Sacred Peaks.png" num="14">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stone Quarry</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/15_Stone Quarry.png" num="15">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Submerged Boneyard</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/16_Submerged Boneyard.png" num="16">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunlit Marsh</name>
+			<text>({T}: Add {W} or {B}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/17_Sunlit Marsh.png" num="17">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tangled Islet</name>
+			<text>({T}: Add {G} or {U}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/18_Tangled Islet.png" num="18">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Terramorphic Expanse</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/19_Terramorphic Expanse.png" num="19">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Timber Gorge</name>
+			<text>This land enters tapped.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/20_Timber Gorge.png" num="20">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Expanse</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/21_Tranquil Expanse.png" num="21">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wooded Ridgeline</name>
+			<text>({T}: Add {R} or {G}.)
+This land enters tapped.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/22_Wooded Ridgeline.png" num="22">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Woodland Stream</name>
+			<text>This land enters tapped.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/MSL-files/img/23_Woodland Stream.png" num="23">MSL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

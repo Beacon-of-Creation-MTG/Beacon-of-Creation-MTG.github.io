@@ -457,7 +457,7 @@
 			"type": "Token Artifact — Blood",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/6_Blood.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/6t_Blood.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/4_Beast.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/4t_Beast.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Token Creature — Cultist",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/2_Cultist.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/2t_Cultist.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Token Creature — Rat",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/3_Rat.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/3t_Rat.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/1_Bird.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/1t_Bird.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/5_Elemental.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/KTG-files/img/5t_Elemental.png"
 			}
 		}
 	]
