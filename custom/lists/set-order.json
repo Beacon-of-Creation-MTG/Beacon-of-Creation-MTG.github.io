@@ -21,5 +21,9 @@
         "VLD",
         "VRL",
         "XRX"
+    ],
+    "Standard": [
+        "SOC",
+        "WGJ"
     ]
 }
