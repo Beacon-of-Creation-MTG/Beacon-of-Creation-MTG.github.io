@@ -71,6 +71,11 @@
             "formats": "Microsets"
         },
         {
+            "set_code": "SOC",
+            "set_name": "Stars of Cinesterra",
+            "formats": "Standard"
+        },
+        {
             "set_code": "STW",
             "set_name": "Star Wars Miniset",
             "formats": "Microsets"
@@ -99,6 +104,11 @@
             "set_code": "VRL",
             "set_name": "Veyrathal",
             "formats": "Microsets"
+        },
+        {
+            "set_code": "WGJ",
+            "set_name": "Wrenchmar: Gambit of the Junklords",
+            "formats": "Standard"
         },
         {
             "set_code": "XRX",
