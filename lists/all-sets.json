@@ -96,14 +96,14 @@
             "formats": "Microsets"
         },
         {
+            "set_code": "VGE",
+            "set_name": "Voc-Gal Echoes",
+            "formats": "Standard"
+        },
+        {
             "set_code": "VGT",
             "set_name": "Voc-Gal Techniques",
             "formats": "Microsets"
-        },
-	{
-            "set_code": "VGE",
-            "set_name": "Voc-Gal: Echoes",
-            "formats": "Standard"
         },
         {
             "set_code": "VLD",
