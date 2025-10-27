@@ -1,4 +1,9 @@
 ﻿{
+    "Standard": [
+        "OPZ",
+        "SOC",
+        "WGJ"
+    ],
     "Microsets": [
         "ARC",
         "ASC",
@@ -21,9 +26,5 @@
         "VLD",
         "VRL",
         "XRX"
-    ],
-    "Standard": [
-        "SOC",
-        "WGJ"
     ]
 }

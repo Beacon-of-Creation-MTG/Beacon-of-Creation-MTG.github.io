@@ -61,6 +61,11 @@
             "formats": "Microsets"
         },
         {
+            "set_code": "OPZ",
+            "set_name": "Outpost Zero",
+            "formats": ""
+        },
+        {
             "set_code": "PHD",
             "set_name": "Panarchademia: Hardcover Labyrinth",
             "formats": "Microsets"
