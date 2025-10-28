@@ -1,4 +1,19 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Smelting Pit added.
+
+As Seen on TV removed.
+
+Beetle Junker-Merchant
+rules_text: When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
+Artifacts you control have “{T}, Sacrifice this artifact: Add one mana of any color.” => When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
+Artifacts you control are Junk in addition to their other types and have “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”
+
+Innovative Find
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

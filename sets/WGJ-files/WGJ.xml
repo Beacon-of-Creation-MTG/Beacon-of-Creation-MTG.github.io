@@ -839,7 +839,7 @@ Call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You
 			<name>Nitwit Yarder</name>
 			<text>Haste
 When this creature dies, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/47.png" num="152">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/47.png" num="151">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -858,7 +858,7 @@ When this creature dies, create a Junk token. (It&apos;s an artifact with &quot;
 			<name>Fire Starter</name>
 			<text>{T}: This creature deals 1 damage to each opponent.
 Whenever one or more artifacts you control enter, untap this creature.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/48.png" num="138">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/48.png" num="137">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -893,7 +893,7 @@ Whenever one or more artifacts you control enter, untap this creature.</text>
 			<name>Cunning Warband</name>
 			<text>Menace
 At the beginning of combat on your turn, if you exiled one or more cards from your library and/or graveyard this turn, this creature gets +1/+0 and gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/50.png" num="133">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/50.png" num="132">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -910,7 +910,7 @@ At the beginning of combat on your turn, if you exiled one or more cards from yo
 		<card>
 			<name>Scrapyard Mongrel</name>
 			<text>As long as you control an artifact, this creature gets +2/+0 and has trample.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/51.png" num="161">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/51.png" num="160">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -928,7 +928,7 @@ At the beginning of combat on your turn, if you exiled one or more cards from yo
 			<name>Gangland Tagteam</name>
 			<text>Reach
 When this creature enters, create a 1/1 red Mercenary creature token with haste.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/52.png" num="141">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/52.png" num="140">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -948,7 +948,7 @@ When this creature enters, create a 1/1 red Mercenary creature token with haste.
 			<text>Trample
 When this creature enters, target creature gets +2/+0 and gains trample until end of turn.
 Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/53.png" num="156">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/53.png" num="155">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -965,7 +965,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		<card>
 			<name>Explosive Collision</name>
 			<text>Explosive Collision deals 3 damage to target creature or planeswalker. If an artifact creature is dealt damage this way, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/54.png" num="137">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/54.png" num="136">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -983,7 +983,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 			<name>Scrap Deals</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Create two Junk tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/55.png" num="160">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/55.png" num="159">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1019,7 +1019,7 @@ Call The Beast. (You get a Call The Beast emblem if you don&apos;t have one. You
 			<name>Sandstorm Dozer</name>
 			<text>Trample, haste
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/57.png" num="159">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/57.png" num="158">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1218,7 +1218,7 @@ Create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token
 			<name>Crafty Junker</name>
 			<text>Haste
 At the beginning of combat on your turn, put two +1/+1 counters on target noncreature, non-Vehicle artifact. You may have that permanent become a 0/0 artifact creature with haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/68.png" num="132">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/68.png" num="131">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1972,7 +1972,7 @@ Salvage {2}{B}{B} ({2}{B}{B}, Exile this card from your graveyard: Put a number 
 			<name>Rubbish Pack</name>
 			<text>Whenever an artifact you control enters, you may pay {1}{R}. If you do, create a token that&apos;s a copy of this creature. That token gains haste until end of turn.
 This creature gets +1/+0 for each other creature you control named Rubbish Pack.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/111.png" num="158">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/111.png" num="157">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2011,7 +2011,7 @@ Whenever Anter, Wasteland Runner deals combat damage to a player, create a Junk 
 			<text>Flying
 Vehicles you control get +1/+0 and have haste.
 {T}: Target Vehicle becomes an artifact creature until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/113.png" num="145">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/113.png" num="144">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2028,7 +2028,7 @@ Vehicles you control get +1/+0 and have haste.
 		<card>
 			<name>Furious Intimidator</name>
 			<text>Hoot n&apos; Holler — Whenever this creature or a Vehicle it crewed this turn attacks, target creature can&apos;t block this turn.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/114.png" num="140">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/114.png" num="139">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2064,7 +2064,7 @@ Whenever you attack, target attacking creature you control gains first strike un
 			<name>Double-Barreled Drakkon</name>
 			<text>Flying, haste
 Whenever this creature attacks, you may tap two untapped artifacts you control. When you do, this creature gains double strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/116.png" num="134">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/116.png" num="133">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2082,7 +2082,7 @@ Whenever this creature attacks, you may tap two untapped artifacts you control. 
 			<name>Grabby Claws</name>
 			<text>Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.
 Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/117.png" num="143">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/117.png" num="142">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2099,7 +2099,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 			<name>Into Glory Ride</name>
 			<text>Up to one target Vehicle you control becomes an artifact creature with haste until end of turn.
 Creatures you control get +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/118.png" num="146">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/118.png" num="145">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2172,7 +2172,7 @@ Whenever you exile one or more cards from your library and/or graveyard, this ar
 This Vehicle does not untap during your untap step.
 Sacrifice another artifact or creature: Untap this Vehicle.
 Crew 2</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/122.png" num="136">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/122.png" num="135">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2190,7 +2190,7 @@ Crew 2</text>
 			<name>Harpooner Wagon</name>
 			<text>Whenever this Vehicle attacks, exile the top card of defending player&apos;s library. If the exiled card is a land, create a tapped Treasure token. Otherwise, create a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)
 Crew 1</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/123.png" num="144">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/123.png" num="143">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2969,7 +2969,7 @@ Whenever you call The Beast, you may pay {1}. If you do, tap target creature you
 			<name>Overcharge</name>
 			<text>Destroy target artifact.
 Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/167.png" num="153">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/167.png" num="152">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3271,7 +3271,7 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 Choose one —
 • Slag Dump deals 4 damage to target creature or planeswalker.
 • Destroy target artifact.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/183.png" num="162">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/183.png" num="161">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3287,7 +3287,7 @@ Choose one —
 		<card>
 			<name>Kinsley, Badlands Outcast</name>
 			<text>Whenever you cast your first noncreature spell on each of your turns, create Puck, a legendary 1/1 white Dog creature token with vigilance. That token gains haste until end of turn. Exile it at end of turn.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/184.png" num="148">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/184.png" num="147">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3306,7 +3306,7 @@ Choose one —
 			<name>Longshot Bot</name>
 			<text>Reach
 When this creature enters, it deals damage to target creature or planeswalker an opponent controls equal to the number of artifacts you control.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/185.png" num="150">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/185.png" num="149">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3326,7 +3326,7 @@ When this creature enters, it deals damage to target creature or planeswalker an
 When this Vehicle enters, create two 1/1 red Goblin creature tokens.
 Sacrifice another artifact or creature: This Vehicle becomes an artifact creature until end of turn.
 Crew 3</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/186.png" num="142">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/186.png" num="141">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3344,7 +3344,7 @@ Crew 3</text>
 		<card>
 			<name>Lightspeed Racer</name>
 			<text>Hoot n&apos; Holler — Whenever this creature or a Vehicle it crewed attacks this turn, you may pay {R}. If you do, you may put a creature card from your hand onto the battlefield tapped and attacking. Sacrifice that creature at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/187.png" num="149">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/187.png" num="148">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3379,7 +3379,7 @@ Crew 3</text>
 			<name>Rager Blazer</name>
 			<text>Whenever an artifact you control enters, this creature deals 1 damage to target opponent.
 Whenever a Vehicle you control enters, you may tap this creature if it&apos;s untapped. If you do, that Vehicle becomes an artifact creature until end of turn. It gains haste.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/189.png" num="155">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/189.png" num="154">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4122,7 +4122,7 @@ Whenever this creature becomes the target of a spell an opponent controls, you m
 			<name>Electro Punch-Bot</name>
 			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature for each noncreature spell you cast this turn.
 At the beginning of your end step, remove all +1/+1 counters from this creature. It deals that much damage to each opponent.</text>
-			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/229.png" num="135">WGJ</set>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/229.png" num="134">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4284,7 +4284,7 @@ At the beginning of your end step, remove all +1/+1 counters from this creature.
 		<card>
 			<name>Beetle Junker-Merchant</name>
 			<text>When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
-Artifacts you control have &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;</text>
+Artifacts you control are Junk in addition to their other types and have &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/238.png" num="46">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4507,7 +4507,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<name>Junklords Hole Puncher</name>
 			<text>When this Vehicle attacks, remove a charge counter from it. If you do, this Vehicle deals 6 damage to target creature or planeswalker you don&apos;t control. Otherwise, put a charge counter on this Vehicle and it gains double strike until end of turn.
 Crew 3</text>
-			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/250.png" num="147">WGJ</set>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/250.png" num="146">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4757,7 +4757,7 @@ Whenever Junklord Vorrick enters or attacks, create a Junk token. Then you may s
 			<name>Merc Squad</name>
 			<text>At the beginning of combat on your turn, create a 1/1 red Mercenary creature token with haste. That token must attack this turn if able.
 During your turn, Mercenaries you control get +1/+0 for each other Mercenary you control.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/264.png" num="151">WGJ</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/264.png" num="150">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4772,21 +4772,22 @@ During your turn, Mercenaries you control get +1/+0 for each other Mercenary you
 			<related>Mercenary</related>
 		</card>
 		<card>
-			<name>As Seen on TV</name>
-			<text>When you cast your next spell this turn, copy it. You may choose new targets for the copy. If you copied a permanent spell this way, exile that token at the beginning of your next end step. (Copies of permanent spells become tokens.)
-Jump-start</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/265.png" num="131">WGJ</set>
+			<name>Smelting Pit</name>
+			<text>Players can&apos;t gain life.
+Whenever an opponent sacrifices an artifact, Smelting Pit deals 2 damage to that player.
+{1}, {T}: Each player creates a Junk token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/265.png" num="162">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>RR</manacost>
-				<cmc>2</cmc>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Marus, Calculated Killer</name>
@@ -4896,7 +4897,7 @@ Tap six untapped creatures you control: Put X +1/+1 counters on VAL, where X is 
 			<name>Rig Sparks</name>
 			<text>Create a 1/1 colorless Servo artifact creature token. Rig Sparks deals 1 damage to any target.
 Jump-start (You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/272.png" num="157">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/272.png" num="156">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5137,7 +5138,7 @@ When this creature dies, call The Beast. (You get a Call The Beast emblem if you
 			<name>Pit-Burster Mech</name>
 			<text>Menace
 Whenever this creature attacks, it gets +1/+1 until end of turn. If you control three or more artifacts, put two +1/+1 counters on it instead.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/285.png" num="154">WGJ</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/285.png" num="153">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5210,7 +5211,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<name>Flamethrower Battle-Wagon</name>
 			<text>When this Vehicle enters, it deals 2 damage to any target.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/289.png" num="139">WGJ</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/289.png" num="138">WGJ</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

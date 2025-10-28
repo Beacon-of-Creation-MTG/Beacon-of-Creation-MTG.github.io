@@ -22,7 +22,7 @@
     },
     {
         "card_name": "Electro Punch-Bot",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "WGJ",
         "position": "229"
@@ -57,7 +57,7 @@
     },
     {
         "card_name": "Junklords Hole Puncher",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "WGJ",
         "position": "250"
@@ -91,11 +91,11 @@
         "position": "226"
     },
     {
-        "card_name": "As Seen on TV",
-        "number": 131,
+        "card_name": "Goblin Express",
+        "number": 141,
         "shape": "normal",
         "set": "WGJ",
-        "position": "265"
+        "position": "186"
     },
     {
         "card_name": "Acidic Acolyte",
@@ -126,11 +126,11 @@
         "position": "210"
     },
     {
-        "card_name": "Goblin Express",
-        "number": 142,
+        "card_name": "Kinsley, Badlands Outcast",
+        "number": 147,
         "shape": "normal",
         "set": "WGJ",
-        "position": "186"
+        "position": "184"
     },
     {
         "card_name": "Arachno-Killbot",
@@ -161,11 +161,11 @@
         "position": "208"
     },
     {
-        "card_name": "Kinsley, Badlands Outcast",
+        "card_name": "Lightspeed Racer",
         "number": 148,
         "shape": "normal",
         "set": "WGJ",
-        "position": "184"
+        "position": "187"
     },
     {
         "card_name": "Combustion Goliath",
@@ -196,11 +196,11 @@
         "position": "207"
     },
     {
-        "card_name": "Lightspeed Racer",
+        "card_name": "Longshot Bot",
         "number": 149,
         "shape": "normal",
         "set": "WGJ",
-        "position": "187"
+        "position": "185"
     },
     {
         "card_name": "Crazed Packmates",
@@ -231,11 +231,11 @@
         "position": "190"
     },
     {
-        "card_name": "Longshot Bot",
+        "card_name": "Merc Squad",
         "number": 150,
         "shape": "normal",
         "set": "WGJ",
-        "position": "185"
+        "position": "264"
     },
     {
         "card_name": "Danavan, the Exile",
@@ -266,11 +266,11 @@
         "position": "211"
     },
     {
-        "card_name": "Merc Squad",
-        "number": 151,
+        "card_name": "Rager Blazer",
+        "number": 154,
         "shape": "normal",
         "set": "WGJ",
-        "position": "264"
+        "position": "189"
     },
     {
         "card_name": "Garoths Charge",
@@ -301,11 +301,11 @@
         "position": "273"
     },
     {
-        "card_name": "Rager Blazer",
-        "number": 155,
+        "card_name": "Slag Dump",
+        "number": 161,
         "shape": "normal",
         "set": "WGJ",
-        "position": "189"
+        "position": "183"
     },
     {
         "card_name": "Rustbucket",
@@ -336,11 +336,11 @@
         "position": "209"
     },
     {
-        "card_name": "Slag Dump",
+        "card_name": "Smelting Pit",
         "number": 162,
         "shape": "normal",
         "set": "WGJ",
-        "position": "183"
+        "position": "265"
     },
     {
         "card_name": "Techno Compies",
@@ -477,7 +477,7 @@
     },
     {
         "card_name": "Crafty Junker",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "WGJ",
         "position": "68"
@@ -512,7 +512,7 @@
     },
     {
         "card_name": "Double-Barreled Drakkon",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "WGJ",
         "position": "116"
@@ -547,7 +547,7 @@
     },
     {
         "card_name": "Execution Tank",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "WGJ",
         "position": "122"
@@ -582,7 +582,7 @@
     },
     {
         "card_name": "Furious Intimidator",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "WGJ",
         "position": "114"
@@ -617,7 +617,7 @@
     },
     {
         "card_name": "Grabby Claws",
-        "number": 143,
+        "number": 142,
         "shape": "normal",
         "set": "WGJ",
         "position": "117"
@@ -652,7 +652,7 @@
     },
     {
         "card_name": "Harpooner Wagon",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "WGJ",
         "position": "123"
@@ -687,7 +687,7 @@
     },
     {
         "card_name": "Hotwiring Hogs",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "WGJ",
         "position": "113"
@@ -722,7 +722,7 @@
     },
     {
         "card_name": "Into Glory Ride",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "WGJ",
         "position": "118"
@@ -757,7 +757,7 @@
     },
     {
         "card_name": "Overcharge",
-        "number": 153,
+        "number": 152,
         "shape": "normal",
         "set": "WGJ",
         "position": "167"
@@ -792,7 +792,7 @@
     },
     {
         "card_name": "Pit-Burster Mech",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "WGJ",
         "position": "285"
@@ -827,7 +827,7 @@
     },
     {
         "card_name": "Rubbish Pack",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "WGJ",
         "position": "111"
@@ -967,7 +967,7 @@
     },
     {
         "card_name": "Cunning Warband",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "WGJ",
         "position": "50"
@@ -1002,7 +1002,7 @@
     },
     {
         "card_name": "Explosive Collision",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "WGJ",
         "position": "54"
@@ -1037,7 +1037,7 @@
     },
     {
         "card_name": "Fire Starter",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "WGJ",
         "position": "48"
@@ -1072,7 +1072,7 @@
     },
     {
         "card_name": "Flamethrower Battle-Wagon",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "WGJ",
         "position": "289"
@@ -1107,7 +1107,7 @@
     },
     {
         "card_name": "Gangland Tagteam",
-        "number": 141,
+        "number": 140,
         "shape": "normal",
         "set": "WGJ",
         "position": "52"
@@ -1142,7 +1142,7 @@
     },
     {
         "card_name": "Nitwit Yarder",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "WGJ",
         "position": "47"
@@ -1177,7 +1177,7 @@
     },
     {
         "card_name": "Rampaging Goliath",
-        "number": 156,
+        "number": 155,
         "shape": "normal",
         "set": "WGJ",
         "position": "53"
@@ -1212,7 +1212,7 @@
     },
     {
         "card_name": "Rig Sparks",
-        "number": 157,
+        "number": 156,
         "shape": "normal",
         "set": "WGJ",
         "position": "272"
@@ -1247,7 +1247,7 @@
     },
     {
         "card_name": "Sandstorm Dozer",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "WGJ",
         "position": "57"
@@ -1282,7 +1282,7 @@
     },
     {
         "card_name": "Scrap Deals",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "WGJ",
         "position": "55"
@@ -1317,7 +1317,7 @@
     },
     {
         "card_name": "Scrapyard Mongrel",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "WGJ",
         "position": "51"
