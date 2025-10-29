@@ -36,6 +36,11 @@
             "formats": "Microsets"
         },
         {
+            "set_code": "JDK",
+            "set_name": "Jardeka, Age of Rust",
+            "formats": "Standard"
+        },
+        {
             "set_code": "KEC",
             "set_name": "Kylem\u2019s Encore",
             "formats": "Microsets"
@@ -49,6 +54,11 @@
             "set_code": "L4D",
             "set_name": "LEFT4DEAD",
             "formats": "Microsets"
+        },
+        {
+            "set_code": "LEF",
+            "set_name": "Leffway is made",
+            "formats": "Standard"
         },
         {
             "set_code": "MRC",
