@@ -105,8 +105,8 @@
         "position": "172"
     },
     {
-        "card_name": "Lisence Suspender",
-        "number": 17,
+        "card_name": "License Suspender",
+        "number": 15,
         "shape": "normal",
         "set": "JDK",
         "position": "210"
@@ -526,7 +526,7 @@
     },
     {
         "card_name": "Liscenced Scout",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "JDK",
         "position": "296"
@@ -946,7 +946,7 @@
     },
     {
         "card_name": "Lightstep Ascetic",
-        "number": 15,
+        "number": 16,
         "shape": "normal",
         "set": "JDK",
         "position": "117"
@@ -1576,7 +1576,7 @@
         "position": "189"
     },
     {
-        "card_name": "Mass reproduction",
+        "card_name": "Mass Reproduction",
         "number": 218,
         "shape": "normal",
         "set": "JDK",

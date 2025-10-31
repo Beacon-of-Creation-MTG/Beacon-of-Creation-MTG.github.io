@@ -5,7 +5,7 @@
 			<name>JDK</name>
 			<longname>Jardeka, Age of Rust</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-10-29</releasedate>
+			<releasedate>2025-10-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -176,7 +176,7 @@
 		</card>
 		<card>
 			<name>Terramorphic Expanse</name>
-			<text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/11.png" num="294">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -190,8 +190,8 @@
 		</card>
 		<card>
 			<name>Tranquil Cove</name>
-			<text>Tranquil Cove enters tapped.
-When Tranquil Cove enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {W} or {U}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/12.png" num="296">JDK</set>
 			<prop>
@@ -207,8 +207,8 @@ When Tranquil Cove enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Dismal Backwater</name>
-			<text>Dismal Backwater enters tapped.
-When Dismal Backwater enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {U} or {B}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/13.png" num="286">JDK</set>
 			<prop>
@@ -224,8 +224,8 @@ When Dismal Backwater enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Bloodfell Caves</name>
-			<text>Bloodfell Caves enters tapped.
-When Bloodfell Caves enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {B} or {R}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/14.png" num="281">JDK</set>
 			<prop>
@@ -241,8 +241,8 @@ When Bloodfell Caves enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Rugged Highlands</name>
-			<text>Rugged Highlands enters tapped.
-When Rugged Highlands enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {R} or {G}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/15.png" num="290">JDK</set>
 			<prop>
@@ -258,8 +258,8 @@ When Rugged Highlands enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Blossoming Sands</name>
-			<text>Blossoming Sands enters tapped.
-When Blossoming Sands enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {G} or {W}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/16.png" num="282">JDK</set>
 			<prop>
@@ -275,8 +275,8 @@ When Blossoming Sands enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Scoured Barrens</name>
-			<text>Scoured Barrens enters tapped.
-When Scoured Barrens enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {W} or {B}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/17.png" num="291">JDK</set>
 			<prop>
@@ -292,8 +292,8 @@ When Scoured Barrens enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Swiftwater Cliffs</name>
-			<text>Swiftwater Cliffs enters tapped.
-When Swiftwater Cliffs enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {U} or {R}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/18.png" num="293">JDK</set>
 			<prop>
@@ -309,8 +309,8 @@ When Swiftwater Cliffs enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Jungle Hollow</name>
-			<text>Jungle Hollow enters tapped.
-When Jungle Hollow enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {B} or {G}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/19.png" num="288">JDK</set>
 			<prop>
@@ -326,8 +326,8 @@ When Jungle Hollow enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Wind-Scarred Crag</name>
-			<text>Wind-Scarred Crag enters tapped.
-When Wind-Scarred Crag enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {R} or {W}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/20.png" num="297">JDK</set>
 			<prop>
@@ -343,8 +343,8 @@ When Wind-Scarred Crag enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Thornwood Falls</name>
-			<text>Thornwood Falls enters tapped.
-When Thornwood Falls enters the battlefield, you gain 1 life.
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
 {T}: Add {G} or {U}.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/21.png" num="295">JDK</set>
 			<prop>
@@ -438,7 +438,7 @@ When Thornwood Falls enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Toolsmith Courier</name>
-			<text>When this creature enters, you may pay {X}. If you do, search your library for an equipment card with mana value X or less and put it onto the battlefield, then shuffle.</text>
+			<text>When this creature enters, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less and put it onto the battlefield, then shuffle.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/27.png" num="275">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -453,7 +453,7 @@ When Thornwood Falls enters the battlefield, you gain 1 life.
 		</card>
 		<card>
 			<name>Trashore Freighter</name>
-			<text>When this creature dies, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)
+			<text>When this creature dies, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 {8}, Exile this card from your graveyard: Draw two cards, then discard a card.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/28.png" num="277">JDK</set>
 			<prop>
@@ -561,7 +561,7 @@ Equip {5}</text>
 		<card>
 			<name>Flensing Jar</name>
 			<text>{T}, Sacrifice this artifact: Exile target player&apos;s graveyard.
-{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it and put it into your hand, then shuffle.</text>
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/35.png" num="246">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -623,7 +623,7 @@ Equip {2}</text>
 			<name>Cyclic Vessel</name>
 			<text>This artifact enters with a +1/+1 counter.
 {1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.
-When this artifact is put into a graveyard from play, you may pay {U}. If you do, return it to the battlefield with a finality counter.</text>
+When this artifact is put into a graveyard from the battlefield, you may pay {U}. If you do, return it to the battlefield with a finality counter.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/39.png" num="243">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -720,7 +720,7 @@ When this artifact is put into a graveyard from play, you may pay {U}. If you do
 		</card>
 		<card>
 			<name>Vampiric Strider</name>
-			<text>When this creature enters, create an Implant token with a lifelink counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a lifelink counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/45.png" num="119">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -737,7 +737,7 @@ When this artifact is put into a graveyard from play, you may pay {U}. If you do
 		</card>
 		<card>
 			<name>Shearing Rager</name>
-			<text>When this creature enters while you control three or more artifact creatures, you lose 1 life and draw a card.</text>
+			<text>When this creature enters, if you control three or more artifact creatures, you lose 1 life and draw a card.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/46.png" num="113">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -754,7 +754,7 @@ When this artifact is put into a graveyard from play, you may pay {U}. If you do
 		</card>
 		<card>
 			<name>Deathblade</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/47.png" num="89">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -788,7 +788,7 @@ When this artifact is put into a graveyard from play, you may pay {U}. If you do
 		</card>
 		<card>
 			<name>Furnace-Coals Hunter</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, each opponent loses 1 life and you gain 1 life. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, each opponent loses 1 life and you gain 1 life. Each ability source triggers this only once each turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/49.png" num="93">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -805,7 +805,7 @@ When this artifact is put into a graveyard from play, you may pay {U}. If you do
 		</card>
 		<card>
 			<name>Trashore Racketeer</name>
-			<text>When this creature dies, you may attach target equipment you control to target creature you control.
+			<text>When this creature dies, you may attach target Equipment you control to target creature you control.
 Exile this card from your graveyard: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/50.png" num="117">JDK</set>
 			<prop>
@@ -842,7 +842,7 @@ This creature gets +1/+0 for each different mana value among cards in your grave
 		</card>
 		<card>
 			<name>Ravenous Blade</name>
-			<text>When this equipment enters, destroy target creature an opponent controls.
+			<text>When this Equipment enters, destroy target creature an opponent controls.
 Equipped creature gets +4/+2 and has deathtouch.
 Equip {6}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/52.png" num="109">JDK</set>
@@ -892,7 +892,7 @@ Equip {6}</text>
 		</card>
 		<card>
 			<name>Thousand Cuts</name>
-			<text>This spell deals X damage to target creature or planeswalker and you gain X life, where X is 1 plus the number of equipment you control.</text>
+			<text>This spell deals X damage to target creature or planeswalker and you gain X life, where X is 1 plus the number of Equipment you control.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/55.png" num="116">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -926,7 +926,7 @@ Equip {6}</text>
 		</card>
 		<card>
 			<name>Divestion Blade</name>
-			<text>When this equipment enters the battlefield, each opponent discards a card.
+			<text>When this Equipment enters the battlefield, each opponent discards a card.
 Equipped creature gets +1/+0.
 Equip {2}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/57.png" num="90">JDK</set>
@@ -944,10 +944,9 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Cleaver&apos;s Carpace</name>
-			<text>Equipped creature gets +3/+3 and has &quot;Lurk—Pay 3 life.&quot;
-(Defending player can&apos;t block that creature unless they pay 3 life.)
+			<text>Equipped creature gets +3/+3 and has &quot;Lurk—Pay 3 life.&quot;(Defending player can&apos;t block that creature unless they pay 3 life.)
 Equip {2}
-{B}, discard this card: Create a 1/1 green Insect creature token.</text>
+{B}, Discard this card: Create a 1/1 green Insect creature token.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/58.png" num="86">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -963,7 +962,7 @@ Equip {2}
 		</card>
 		<card>
 			<name>Lethal Prowess</name>
-			<text>Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn. If it&apos;s the target of an activated ability you control, instead put a +1/+1, a lifelink, and a deathtouch counter on it.</text>
+			<text>Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn. If that creature is the target of an activated ability you control, instead put a +1/+1, a lifelink, and a deathtouch counter on it.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/59.png" num="102">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1084,7 +1083,7 @@ Equip {6}</text>
 		</card>
 		<card>
 			<name>Basilisker</name>
-			<text>When this creature enters, create an Implant token with a deathtouch counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a deathtouch counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/66.png" num="164">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1102,7 +1101,7 @@ Equip {6}</text>
 		<card>
 			<name>Kybertusk Mammoth</name>
 			<text>This creature enters with three +1/+1 counters and a reach counter on it.
-When this creature dies, create an Implant token and put this creature&apos;s counters on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+When this creature dies, create an Implant token and put this creature&apos;s counters on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/67.png" num="178">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1138,7 +1137,7 @@ Whenever this creature enters or attacks, you may sacrifice a permanent. If you 
 		<card>
 			<name>Junkbelly</name>
 			<text>This creature costs {1} less to cast for each different mana value among cards in your graveyard.
-When this creature enters you gain 3 life.</text>
+When this creature enters, you gain 3 life.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/69.png" num="175">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1173,7 +1172,7 @@ Whenever enchanted creature deals combat damage to a player, reveal cards from t
 		<card>
 			<name>Grow From Steel</name>
 			<text>Enchant permanent you control.
-Enchanted permanent has Ward {1} and &quot;{T}: Add two mana in any combination of colors your lands can produce.&quot;</text>
+Enchanted permanent has ward {1} and &quot;{T}: Add two mana in any combination of colors your lands can produce.&quot;</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/71.png" num="171">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1190,7 +1189,7 @@ Enchanted permanent has Ward {1} and &quot;{T}: Add two mana in any combination 
 		<card>
 			<name>Atomize</name>
 			<text>Destroy target artifact or enchantment.
-Create an Implant token with a trample counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+Create an Implant token with a trample counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/72.png" num="163">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1207,7 +1206,7 @@ Create an Implant token with a trample counter. (It&apos;s a token artifact with
 		<card>
 			<name>Pillabegg Probiota</name>
 			<text>Enchant creature
-Whenever this aura enters or leaves the battlefield, Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Whenever this aura enters or leaves the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 Enchanted creature gets +1/+0.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/73.png" num="183">JDK</set>
 			<prop>
@@ -1242,7 +1241,7 @@ Target creature you control deals damage equal to its power to target creature a
 		<card>
 			<name>Cybernetic Might</name>
 			<text>Flash
-Enchant Creature
+Enchant creature
 This spell costs {1} less to cast for each permanent you&apos;ve sacrificed this turn.
 Enchanted creature gets +4/+4.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/75.png" num="167">JDK</set>
@@ -1345,7 +1344,7 @@ Enchanted creature gets +4/+4.</text>
 		</card>
 		<card>
 			<name>Arc-Talon Lacerator</name>
-			<text>When this creature enters, create an Implant token with a first strike counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)
+			<text>When this creature enters, create an Implant token with a first strike counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 This creature can&apos;t block.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/81.png" num="123">JDK</set>
 			<prop>
@@ -1381,7 +1380,7 @@ Clang — Whenever an artifact enters under your control, it deals 1 damage to e
 		</card>
 		<card>
 			<name>Slag Cruciblair</name>
-			<text>When this creature enters, create an Implant token with a menace counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)
+			<text>When this creature enters, create an Implant token with a menace counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 This creature can&apos;t attack unless you&apos;ve sacrificed a permanent this turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/83.png" num="157">JDK</set>
 			<prop>
@@ -1601,7 +1600,7 @@ Exile the top card of your library. You may play that card until the end of your
 		</card>
 		<card>
 			<name>Draining Festerspark</name>
-			<text>When this creature enters, create an Implant token with a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/96.png" num="50">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1619,7 +1618,7 @@ Exile the top card of your library. You may play that card until the end of your
 		<card>
 			<name>Triage Tri-Arm</name>
 			<text>Flash
-When this creature enters, attach target equipment you control to target creature you control.</text>
+When this creature enters, attach target Equipment you control to target creature you control.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/97.png" num="77">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1654,7 +1653,7 @@ Clang — Whenever an artifact enters under your control, you may swap this crea
 		</card>
 		<card>
 			<name>Drakepost Parcel</name>
-			<text>When this equipment enters, create a 2/2 blue Drake creature token with flying and attach this equipment to it.
+			<text>When this Equipment enters, create a 2/2 blue Drake creature token with flying and attach this equipment to it.
 Equipped creature gets +1/+1.
 Equip {2}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/99.png" num="51">JDK</set>
@@ -1672,7 +1671,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Tort Artificer</name>
-			<text>When this creature enters, create an Implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/100.png" num="76">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1690,7 +1689,7 @@ Equip {2}</text>
 		<card>
 			<name>Spliceblade Rogue</name>
 			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
-Lurk {3} (Defending player can&apos;t block this creature unless they pay {3})</text>
+Lurk {3} (Defending player can&apos;t block this creature unless they pay {3}.)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/101.png" num="75">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1707,7 +1706,7 @@ Lurk {3} (Defending player can&apos;t block this creature unless they pay {3})</
 		</card>
 		<card>
 			<name>Leopard Drone Hunter</name>
-			<text>When this creature enters, create an Implant token with a hexproof counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a hexproof counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/102.png" num="62">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1724,7 +1723,7 @@ Lurk {3} (Defending player can&apos;t block this creature unless they pay {3})</
 		</card>
 		<card>
 			<name>Portable Barricade</name>
-			<text>When this equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.
+			<text>When this Equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.
 Equipped creature gets +0/+4.
 Equip {3}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/103.png" num="70">JDK</set>
@@ -1759,7 +1758,7 @@ Counter target spell.</text>
 		</card>
 		<card>
 			<name>Fuel Freeze</name>
-			<text>Counter target artifact or creature spell unless its controller pays {3}. If they do, tap target artifact or creature they control.</text>
+			<text>Counter target artifact or creature spell unless its controller pays {3}. If they do, tap target artifact or creature that player controls.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/105.png" num="54">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1826,7 +1825,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Drawn Blade</name>
-			<text>When this equipment enters, draw a card.
+			<text>When this Equipment enters, draw a card.
 Equipped creature gets +1/+1.
 Equip {2}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/109.png" num="52">JDK</set>
@@ -1877,7 +1876,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Dwarftificer</name>
-			<text>When this creature enters, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/112.png" num="8">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1894,7 +1893,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Dewmoth</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/113.png" num="7">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1966,7 +1965,7 @@ This creature enters with a +1/+1 counter if you control a modified creature. (E
 			<name>Lightstep Ascetic</name>
 			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.
 {1}, {T}: Until end of turn, target creature you control can&apos;t be blocked by creatures with power 3 or greater.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/117.png" num="15">JDK</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/117.png" num="16">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2016,7 +2015,7 @@ This creature enters with a +1/+1 counter if you control a modified creature. (E
 		</card>
 		<card>
 			<name>Moonmoth Steed</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/120.png" num="21">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2066,7 +2065,8 @@ Scry 2.</text>
 		</card>
 		<card>
 			<name>Reforging Binding</name>
-			<text>Enchanted creature can&apos;t attack or block.
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
 Tap three untapped artifacts you control: Exile enchanted creature.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/123.png" num="31">JDK</set>
 			<prop>
@@ -2184,8 +2184,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Astro, Wonder Wielder</name>
-			<text>[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible Attach up to one target equipment you control to it.
-[-6]: Search your library and graveyard for any number of equipment cards. Put them onto the battlefield, then shuffle.</text>
+			<text>[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible. Attach up to one target Equipment you control to it.
+[-6]: Search your library and graveyard for any number of Equipment cards, put them onto the battlefield, then shuffle.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/130.png" num="1">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2219,9 +2219,9 @@ Whenever enchanted creature dies, you control target opponent during their next 
 		<card>
 			<name>Grrr, Interplanar Armsdealer</name>
 			<text>Affinity for equipment. (This spell costs {1} less to cast for each equipment. you control.)
-[+1]: Mill four cards. You may put a card and an equipment from among them into your hand.
+[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
 [-X]: Each creature gets -X/-X until end of turn.
-[-7]: You get an emblem with &quot;At the beginning of your pre-combat main phase, add {B} for each swamp and equipment you control.&quot;</text>
+[-7]: You get an emblem with &quot;At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.&quot;</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/132.png" num="94">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2238,7 +2238,7 @@ Whenever enchanted creature dies, you control target opponent during their next 
 		</card>
 		<card>
 			<name>Konzah, Gastropod Proficcionado</name>
-			<text>[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact, if you do, create another token.
+			<text>[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact. If you do, create another 1/1 green Slug creature token.
 [0]: You may sacrifice a Slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.
 [-9]: Put any number of permanents with different mana values from your hand onto the battlefield.
 [1]:</text>
@@ -2275,7 +2275,7 @@ Whenever enchanted creature dies, you control target opponent during their next 
 		</card>
 		<card>
 			<name>Witness the End</name>
-			<text>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner&apos;s control. When it does, if it&apos;s the only creature on the battlefield, you gain 3 life and draw three cards.</text>
+			<text>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner&apos;s control. Then if it&apos;s the only creature on the battlefield, you gain 3 life and draw three cards.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/135.png" num="229">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2291,9 +2291,9 @@ Whenever enchanted creature dies, you control target opponent during their next 
 		</card>
 		<card>
 			<name>Behel, Unliving Weapon</name>
-			<text>As an additional cost to cast Behel, sacrifice an equipment.
+			<text>As an additional cost to cast Behel, sacrifice an Equipment.
 Deathtouch
-Treat Behel as though it&apos;s equipped with each equipment in your graveyard.</text>
+Treat Behel as though it&apos;s equipped with each Equipment card in your graveyard.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/136.png" num="204">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2395,8 +2395,8 @@ Whenever you sacrifice your third permanent each turn, return this card from you
 		</card>
 		<card>
 			<name>MMx2 The Factory</name>
-			<text>When MMx2 The Factory enters, create a treasure token, a clue token, and a food token.
-At the beginning of your upkeep, create token copies of each other artifact you control. You lose 1 life for each token created this way.</text>
+			<text>When MMx2 The Factory enters, create a Treasure token, a Clue token, and a Food token.
+At the beginning of your upkeep, for each other artifact you control, create a token that is a copy of that artifact. You lose 1 life for each token created this way.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/142.png" num="219">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2412,7 +2412,7 @@ At the beginning of your upkeep, create token copies of each other artifact you 
 		</card>
 		<card>
 			<name>Apocalypse Then</name>
-			<text>Separate all nontoken permanents into one of two piles at random, then choose one of those piles. Destroy all permanents in the chosen pile.</text>
+			<text>Separate all nontoken permanents into one of two piles at random. Choose one of those piles. Destroy all permanents in the chosen pile.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/143.png" num="122">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2444,9 +2444,9 @@ At the beginning of your upkeep, create token copies of each other artifact you 
 		</card>
 		<card>
 			<name>Ayesha, Lost Embrace</name>
-			<text>Flying, Vigilance, Phasing
-You can cast Ayesha, Lost Embrace from anywhere that isn&apos;t your hand. (You can&apos;t cast her if you don&apos;t know where she is.)
-If Ayesha would die, return her to her owner&apos;s hand instead of putting it into the graveyard.</text>
+			<text>Flying, vigilance, phasing
+You can cast Ayesha from anywhere that isn&apos;t your hand. (You can&apos;t cast her if you don&apos;t know where she is.)
+If Ayesha would die, return her to her owner&apos;s hand instead of putting her into the graveyard instead.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/145.png" num="46">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2498,7 +2498,7 @@ Whenever another source with the chosen name would deal damage, prevent that dam
 		<card>
 			<name>The Goldigarch</name>
 			<text>Flying
-Whenever The Goldigarch attacks, put two +1/+1 counters on each artifact creature, vehicle, and Implant you control.
+Whenever The Goldigarch attacks, put two +1/+1 counters on each artifact creature, Vehicle, and Implant you control.
 Crew 3</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/148.png" num="248">JDK</set>
 			<prop>
@@ -2593,8 +2593,8 @@ When this creature enters, draw a card.
 		</card>
 		<card>
 			<name>Brainial Plating</name>
-			<text>Equipped creature gets +1/+0 for each equipment you control and each equipment card in your graveyard.
-{U}{U}: Attach this equipment to target creature you control.
+			<text>Equipped creature gets +1/+0 for each Equipment you control and each equipment card in your graveyard.
+{U}{U}: Attach this Equipment to target creature you control.
 Equip {1}</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/154.png" num="234">JDK</set>
 			<prop>
@@ -2644,7 +2644,7 @@ Equip {1}</text>
 		</card>
 		<card>
 			<name>Specimen Container</name>
-			<text>When this creature enters the battlefield, search your library for a creature card and reveal it. Shuffle, then put that card on top.
+			<text>When this creature enters the battlefield, search your library for a creature card, reveal it, then shuffle and put the card on top.
 {4}{G}{G}, Sacrifice this artifact: Put a creature card from your hand onto the battlefield.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/157.png" num="270">JDK</set>
 			<prop>
@@ -2677,7 +2677,7 @@ Whenever a player would cast a spell with mana value equal to the number of +1/+
 		</card>
 		<card>
 			<name>Perforating Carapace</name>
-			<text>When this equipment enters, create a 5/5 green Crab creature token and attach this equipment to it.
+			<text>When this Equipment enters, create a 5/5 green Crab creature token and attach this equipment to it.
 Whenever a creature blocks or becomes blocked by equipped creature, its toughness becomes 1 until end of turn.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/159.png" num="106">JDK</set>
@@ -2712,7 +2712,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Darklash Flaggelant</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, each opponent loses 2 life, then put a +1/+1 counter on this creature. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, each opponent loses 2 life, then put a +1/+1 counter on this creature. Each ability source triggers this only once each turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/161.png" num="88">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2851,7 +2851,7 @@ When this creature enters, create a green 1/1 Insect creature token for each dif
 		</card>
 		<card>
 			<name>Jade Armorer</name>
-			<text>When this creature enters, create an Implant token with X +1/+1 counters on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with X +1/+1 counters on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/169.png" num="173">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2887,7 +2887,7 @@ When this creature dies, until end of turn, whenever you would create a token, c
 		</card>
 		<card>
 			<name>Perfect Complexion</name>
-			<text>Put a hexproof counter on target creature, it gains +1/+1 until end of turn. Remove a counter from that creature at the beginning of the next end step.</text>
+			<text>Put a hexproof counter on target creature. It gets +1/+1 until end of turn. Remove a counter from that creature at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/171.png" num="180">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3072,7 +3072,7 @@ Clang — Whenever an artifact enters under your control, put a +1/+1 counter on
 		<card>
 			<name>War Djinn</name>
 			<text>Flying
-Whenever an opponent draws a card, they lose X life and you surveil X, where X is the number of equipment attached to this creature.</text>
+Whenever an opponent draws a card, they lose X life and you surveil X, where X is the number of Equipment attached to this creature.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/182.png" num="227">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3143,7 +3143,7 @@ When this creature dies, return it to the battlefield with a finality counter.</
 		<card>
 			<name>Daggers of Dance and Death</name>
 			<text>Equipped creature gets +1/+1
-Whenever this artifact becomes equipped to a creature, that creature gains double strike and deathtouch until end of turn.
+Whenever this Equipment becomes equipped to a creature, that creature gains double strike and deathtouch until end of turn.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/186.png" num="207">JDK</set>
 			<prop>
@@ -3209,7 +3209,7 @@ Pay 2 life: Surveil 2.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Mass reproduction</name>
+			<name>Mass Reproduction</name>
 			<text>Create an Implant token with a +1/+1 counter.
 The next time you activate an ability that isn&apos;t a mana ability this turn, copy it X times, where X is the number of kinds of counters among permanents you control.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/190.png" num="218">JDK</set>
@@ -3314,7 +3314,7 @@ Whenever this creature becomes blocked, it deals 1 damage to each creature block
 		</card>
 		<card>
 			<name>Clangorous Militia</name>
-			<text>Clang — Whenever an artifact enters under your control, create a 1/1 white soldier creature token. It gains haste and must attack this combat if able.</text>
+			<text>Clang — Whenever an artifact enters under your control, create a 1/1 white Soldier creature token. It gains haste and must attack this combat if able.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/196.png" num="129">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3420,7 +3420,7 @@ Permanents you control with counters on them have ward {X}, where X is the numbe
 		<card>
 			<name>Archon of Artifice</name>
 			<text>Flying
-Other noncreature artifacts you control are 3/3 construct artifact creatures in addition to their other types.
+Other noncreature artifacts you control are 3/3 Construct artifact creatures in addition to their other types.
 Whenever you cast an artifact spell, draw a card.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/202.png" num="41">JDK</set>
 			<prop>
@@ -3471,8 +3471,8 @@ Whenever you cast an artifact spell, draw a card.</text>
 		</card>
 		<card>
 			<name>Monitor&apos;s Autopugilistar</name>
-			<text>Affinity for equipment.
-When this equipment enters, draw two cards.
+			<text>Affinity for equipment
+When this Equipment enters, draw two cards.
 Equipped creature gets +2/+2.
 Equip {2}</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/205.png" num="67">JDK</set>
@@ -3490,7 +3490,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Nerveweave Swap Station</name>
-			<text>{T}, Swap target nontoken creature&apos;s power or toughness with its mana value until end of turn.
+			<text>{T}: Swap target nontoken creature&apos;s power or toughness with its mana value until end of turn.
 {3}{U}{U}, {T}, Sacrifice this artifact: Swap control of two target permanents.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/206.png" num="68">JDK</set>
 			<prop>
@@ -3507,9 +3507,9 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Martial Tech</name>
-			<text>Enchant Creature
-Enchanted creature has vigilance. Whenever enchanted creature attacks, tap target creature an opponent controls.
-{1}{W}{W}, Discard this card: Untap any number of target creatures. They gain +1/+0 until end of turn.</text>
+			<text>Enchant creature
+Enchanted creature has vigilance and &quot;Whenever this creature attacks, tap target creature an opponent controls.&quot;
+{1}{W}{W}, Discard this card: Untap any number of target creatures. They each get +1/+0 until end of turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/207.png" num="18">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3543,7 +3543,7 @@ Enchanted creature has vigilance. Whenever enchanted creature attacks, tap targe
 		<card>
 			<name>Brightlash Eggfly</name>
 			<text>Flying
-Proficiency — Whenever this creature becomes a target of an ability you control, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. Each ability source triggers this only once each turn.</text>
+Proficiency — Whenever this creature becomes the target of an ability you control, return up to one target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. Each ability source triggers this only once each turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/209.png" num="4">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3559,9 +3559,9 @@ Proficiency — Whenever this creature becomes a target of an ability you contro
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Lisence Suspender</name>
-			<text>Clang — Whenever an artifact enters under your control, exile up to one target artifact or creature an opponent controls until Lisence Suspender leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/210.png" num="17">JDK</set>
+			<name>License Suspender</name>
+			<text>Clang — Whenever an artifact enters under your control, exile up to one target artifact or creature an opponent controls until this creature leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/210.png" num="15">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3611,8 +3611,8 @@ Proficiency — Whenever this creature becomes a target of an ability you contro
 		</card>
 		<card>
 			<name>Bladeblessed Angel</name>
-			<text>Flying, First strike, Vigilance
-Whenever this creature attacks, create an Implant token with your choice of a Flying, First strike, Vigilance, or +1/+1 counter on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>Flying, first strike, vigilance
+Whenever this creature attacks, create an Implant token with your choice of a flying, first strike, vigilance, or +1/+1 counter on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/213.png" num="3">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3727,7 +3727,7 @@ When this creature enters, target creature you control gets +2/+0 until end of t
 		<card>
 			<name>Rusted Recouper</name>
 			<text>Protection from creatures with +1/+1 counters.
-When this creature enters, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+When this creature enters, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/220.png" num="262">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3772,7 +3772,7 @@ When this creature enters, create an Implant token with a +1/+1 counter. (It&apo
 		</card>
 		<card>
 			<name>Remnant Warden</name>
-			<text>Whenever this creature deals damage, each player mills that many cards, then you may return a equipment card from your graveyard to your hand.</text>
+			<text>Whenever this creature deals damage, each player mills that many cards, then you may return a Equipment card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/223.png" num="261">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3788,7 +3788,7 @@ When this creature enters, create an Implant token with a +1/+1 counter. (It&apo
 		<card>
 			<name>Astro&apos;s Spaceblade</name>
 			<text>Flash
-When this equipment enters, attach it to target creature you control. That creature gets +0/+3 until end of turn.
+When this Equipment enters, attach it to target creature you control. That creature gets +0/+3 until end of turn.
 Equipped creature gets +3/+0.
 Equip {3}</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/224.png" num="232">JDK</set>
@@ -3870,8 +3870,8 @@ Equip {0}
 			<name>Scorpion Spineclamp</name>
 			<text>Equipped creature gets +2/+0.
 Whenever equipped creature dies, draw a card.
-Equip artifact creature {B}
-Equip {3}</text>
+Equip {3}
+Equip artifact creature {B}</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/229.png" num="266">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3919,7 +3919,7 @@ When this card is put into your graveyard from the battlefield, you may pay {G}.
 		<card>
 			<name>Blight Troop</name>
 			<text>Deathtouch
-Proficiency — Whenever this creature becomes a target of an ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn.</text>
+Proficiency — Whenever this creature becomes the target of an ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/232.png" num="84">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3954,7 +3954,7 @@ Proficiency — Whenever this creature becomes a target of an ability you contro
 		<card>
 			<name>Wredger</name>
 			<text>Whenever this creature blocks, discard a card.
-{3}{B}, Mill two cards: Return this creature from your graveyard to the battlefield. Activate only as a sorcery. This ability costs {2} less to activate if you control three or more artifact creatures.</text>
+{3}{B}, Mill two cards: Return this card from your graveyard to the battlefield. Activate only as a sorcery. This ability costs {2} less to activate if you control three or more artifact creatures.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/234.png" num="120">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3972,7 +3972,7 @@ Proficiency — Whenever this creature becomes a target of an ability you contro
 		<card>
 			<name>Zjieg, Edgelord</name>
 			<text>Equipped creatures you control get +1/+0.
-When Zjieg enters, search your library for a card, then shuffle. If it&apos;s an equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library.</text>
+When Zjieg enters, search your library for a card, then shuffle. If it&apos;s an Equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/235.png" num="121">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -3989,7 +3989,7 @@ When Zjieg enters, search your library for a card, then shuffle. If it&apos;s an
 		</card>
 		<card>
 			<name>Extortionist Cutpurse</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/236.png" num="91">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4007,7 +4007,7 @@ When Zjieg enters, search your library for a card, then shuffle. If it&apos;s an
 		<card>
 			<name>Smokebrock Vulture</name>
 			<text>Lurk—Pay 2 life (Defending player can&apos;t block this creature unless they pay 2 life in addition to any other costs.)
-When this creature enters, return target artifact creature from your graveyard to your hand.</text>
+When this creature enters, return target artifact creature card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/237.png" num="114">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4024,7 +4024,7 @@ When this creature enters, return target artifact creature from your graveyard t
 		</card>
 		<card>
 			<name>Grrr&apos;s Warhound</name>
-			<text>Whenever an equipment enters under your control and this card is in your graveyard, you may pay {B}. If you do, return this creature to the battlefield and attach that equipment to it.</text>
+			<text>Whenever an Equipment you control enters, you may pay {B}. If you do, return this creature card from your graveyard to the battlefield and attach that Equipment to it.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/238.png" num="95">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4041,7 +4041,7 @@ When this creature enters, return target artifact creature from your graveyard t
 		</card>
 		<card>
 			<name>Merciless Rend</name>
-			<text>Exile target creature. If that creature had any counters on it, choose one and create an Implant token with that counter on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>Exile target creature. If that creature had any counters on it, choose one and create an Implant token with that counter on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/239.png" num="104">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4077,7 +4077,7 @@ When this creature enters, return target artifact creature from your graveyard t
 		<card>
 			<name>Under the Junk-sea</name>
 			<text>You draw two cards and lose 2 life.
-At the beginning of your end step. If you have five or more different mana values among cards in your graveyard and you control a swamp, you may exile this card from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.</text>
+At the beginning of your end step, if you have five or more different mana values among cards in your graveyard and you control a Swamp, you may exile this card from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/241.png" num="118">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4111,7 +4111,7 @@ Equip {B}</text>
 		</card>
 		<card>
 			<name>Return Rearmed</name>
-			<text>Return target creature card from your graveyard to the battlefield. You may attach an equipment you control to it.</text>
+			<text>Return target creature card from your graveyard to the battlefield. You may attach an Equipment you control to it.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/243.png" num="111">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4163,7 +4163,7 @@ Equip {3}</text>
 		<card>
 			<name>Steel Soul Farie</name>
 			<text>Protection from equipment and from equipped creatures.
-{3}{G}: This creature gets +1/+0 and gains indestructible until end of turn, Tap it. This ability costs {1} less to activate for each kind of counter among permanents you control.</text>
+{3}{G}: This creature gets +1/+0 and gains indestructible until end of turn. Tap it. This ability costs {1} less to activate for each kind of counter among permanents you control.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/246.png" num="192">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4267,7 +4267,7 @@ Equip {3}</text>
 		<card>
 			<name>Beldram, Adaptive Automator</name>
 			<text>Ward {2}
-When Beldram enters, create an Implant token with a trample counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)
+When Beldram enters, create an Implant token with a trample counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 Whenever you would put a keyword counter on a creature you control, put a keyword counter and a +1/+1 counter on that creature instead.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/252.png" num="165">JDK</set>
 			<prop>
@@ -4285,7 +4285,7 @@ Whenever you would put a keyword counter on a creature you control, put a keywor
 		</card>
 		<card>
 			<name>Rhinodrone Piker</name>
-			<text>When this creature enters, create an Implant token with a +1/+1 counter and a haste counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)
+			<text>When this creature enters, create an Implant token with a +1/+1 counter and a haste counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
 Modified creatures you control can&apos;t be blocked by creatures with power 2 or less.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/253.png" num="186">JDK</set>
 			<prop>
@@ -4303,7 +4303,7 @@ Modified creatures you control can&apos;t be blocked by creatures with power 2 o
 		</card>
 		<card>
 			<name>Verdant Synthesizer</name>
-			<text>Whenever this artifact enters or leaves the battlefield, mill four cards. You may put a permanent card from among them and put it into your hand.
+			<text>Whenever this artifact enters or leaves the battlefield, mill four cards. You may put a permanent card from among them into your hand.
 Whenever you sacrifice a permanent, you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/254.png" num="200">JDK</set>
 			<prop>
@@ -4405,7 +4405,7 @@ Return up to three target cards from your graveyard to your hand. Exile this car
 		<card>
 			<name>Weapons Merchant</name>
 			<text>Lurk—Pay {1} and 1 life (Defending player can&apos;t block this creature unless they pay {1} and 1 life)
-When this creature enters, each opponent loses X life and you gain X life, where X is the number of equipment you control.</text>
+When this creature enters, each opponent loses X life and you gain X life, where X is the number of Equipment you control.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/260.png" num="228">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4423,7 +4423,7 @@ When this creature enters, each opponent loses X life and you gain X life, where
 		<card>
 			<name>Death Machinist</name>
 			<text>Menace
-Whenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token copy of it that&apos;s tapped and attacking. Sacrifice it at the beginning of the next end step.</text>
+Whenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token that is a copy of it that&apos;s tapped and attacking. Sacrifice it at the beginning of the next end step.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/261.png" num="208">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4440,7 +4440,7 @@ Whenever this creature attacks, exile target artifact creature card with mana va
 		</card>
 		<card>
 			<name>Rust Refiner</name>
-			<text>Whenever a player sacrifices a nontoken permanent, create a tapped treasure token.</text>
+			<text>Whenever a player sacrifices a nontoken permanent, create a tapped Treasure token.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/262.png" num="222">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4476,7 +4476,7 @@ Whenever this creature enters or attacks, untap each modified creature you contr
 		<card>
 			<name>Angle Knight</name>
 			<text>Vigilance
-Proficiency — Whenever this creature becomes a target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.</text>
+Proficiency — Whenever this creature becomes the target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/264.png" num="202">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4690,8 +4690,8 @@ Exile the top two cards of your library, until the end of your next turn you may
 		</card>
 		<card>
 			<name>Molten Wellspring</name>
-			<text>When Molten Wellspring enters or leaves the battlefield, it deals 2 damage to any target.
-{3}{R}, Sacrifice Molten Wellspring: Discard a card, then draw a card.</text>
+			<text>When this artifact enters or leaves the battlefield, it deals 2 damage to any target.
+{3}{R}, Sacrifice this artifact: Discard a card, then draw a card.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/276.png" num="145">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4708,7 +4708,7 @@ Exile the top two cards of your library, until the end of your next turn you may
 		<card>
 			<name>Forged Ferocity</name>
 			<text>Creatures you control get +3/+0 until end of turn.
-Whenever one or more creatures block this turn, create that many treasure tokens.</text>
+Whenever one or more creatures block this turn, create that many Treasure tokens.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/277.png" num="132">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4759,7 +4759,7 @@ Whenever one or more creatures block this turn, create that many treasure tokens
 		<card>
 			<name>Junker&apos;s Furnace</name>
 			<text>{1}, {T}: Put two charge counters on this artifact.
-{T}, Remove any number of counters from among creatures and artifacts you control. Add {C} for each counter removed this way.</text>
+{T}, Remove any number of counters from among creatures and artifacts you control: Add {C} for each counter removed this way.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/280.png" num="141">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4791,7 +4791,7 @@ Whenever one or more creatures block this turn, create that many treasure tokens
 		</card>
 		<card>
 			<name>Interplanter</name>
-			<text>When this creature enters, create an Implant token with your choice of two different counters among Vigilance, +1/+1, Flying, and Shield. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/282.png" num="60">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4862,7 +4862,7 @@ Whenever one or more creatures block this turn, create that many treasure tokens
 			<name>Drone Falconer</name>
 			<text>Flying
 Protection from creatures with flying.
-When this creature enters, create an Implant token with a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+When this creature enters, create an Implant token with a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/286.png" num="53">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4880,7 +4880,7 @@ When this creature enters, create an Implant token with a flying counter. (It&ap
 		<card>
 			<name>Metalmancer</name>
 			<text>Vigilance
-{T}, Return an artifact you own to your hand: Put an artifact card artifact card with mana value equal to 1 plus the returned artifact&apos;s mana value from your hand onto the battlefield.</text>
+{T}, Return an artifact you own to your hand: Put an artifact card with mana value equal to 1 plus the returned artifact&apos;s mana value from your hand onto the battlefield.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/287.png" num="65">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4914,7 +4914,7 @@ When this creature enters, create an Implant token with a flying counter. (It&ap
 		</card>
 		<card>
 			<name>Cryogen Broadsword</name>
-			<text>Equipped creature gets +4/+0 and has Ward {4}.
+			<text>Equipped creature gets +4/+0 and has ward {4}.
 Whenever equipped creature attacks, tap up to one target creature. Put a stun counter on it for each kind of counter among permanents you control.
 Equip {4}</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/289.png" num="48">JDK</set>
@@ -4933,7 +4933,7 @@ Equip {4}</text>
 		<card>
 			<name>Holographic Insight</name>
 			<text>Draw four cards, then discard a card.
-Create an Implant token with a Vigilance counter and a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+Create an Implant token with a vigilance counter and a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/290.png" num="57">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4965,8 +4965,8 @@ Create an Implant token with a Vigilance counter and a flying counter. (It&apos;
 		</card>
 		<card>
 			<name>Shackles of Artifice</name>
-			<text>When this equipment enters, attach it to target creature an opponent controls.
-Equipped creature gets -X/-0, where X is twice the number of equipment you control.
+			<text>When this Equipment enters, attach it to target creature an opponent controls.
+Equipped creature gets -X/-0, where X is twice the number of Equipment you control.
 {3}{U}: Attach this equipment to target creature. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/292.png" num="73">JDK</set>
 			<prop>
@@ -4983,7 +4983,7 @@ Equipped creature gets -X/-0, where X is twice the number of equipment you contr
 		</card>
 		<card>
 			<name>Skyclang Jetwings</name>
-			<text>When this equipment enters, attach it to target creature you control.
+			<text>When this Equipment enters, attach it to target creature you control.
 Equipped creature has flying.
 Whenever you cast an artifact spell, equipped creature gets +1/+1 until end of turn.
 Equip {3}</text>
@@ -5002,7 +5002,7 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>Assimilation Blade</name>
-			<text>As an additional cost to casting this spell, you may exile an equipment from your graveyard. If you do, copy this spell..
+			<text>As an additional cost to casting this spell, you may exile an Equipment card from your graveyard. If you do, copy this spell.
 Equipped creature gets +2/+0 and has ward {1}.
 Equip {2}</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/294.png" num="44">JDK</set>
@@ -5037,8 +5037,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Liscenced Scout</name>
-			<text>When this creature dies create three 1/1 white soldier creature tokens if it was modified. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/296.png" num="16">JDK</set>
+			<text>When this creature dies, if this creature was modified, create three 1/1 white Soldier creature tokens. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/296.png" num="17">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5072,7 +5072,7 @@ Protection from colorless sources your opponents control. (This creature can&apo
 		</card>
 		<card>
 			<name>Robotics Artisan</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/298.png" num="32">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5106,7 +5106,7 @@ Protection from colorless sources your opponents control. (This creature can&apo
 		</card>
 		<card>
 			<name>Old World Armada</name>
-			<text>Proficiency — Whenever this creature becomes a target of an ability you control, create a 1/1 white soldier creature token. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, create a 1/1 white Soldier creature token. Each ability source triggers this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/300.png" num="22">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5123,7 +5123,7 @@ Protection from colorless sources your opponents control. (This creature can&apo
 		</card>
 		<card>
 			<name>Kudu-Drone Scout</name>
-			<text>When this creature enters, create an Implant token with a double strike counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<text>When this creature enters, create an Implant token with a double strike counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/301.png" num="14">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -5207,7 +5207,7 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Juliet&apos;s Autodog</name>
-			<text>When this equipment enters, create a colorless 0/1 Servo artifact creature token with defender and attach this to it.
+			<text>When this Equipment enters, create a colorless 0/1 Servo artifact creature token with defender, then attach this Equipment to it.
 Equipped creature gets +3/+1.
 Equip {3}</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/306.png" num="13">JDK</set>

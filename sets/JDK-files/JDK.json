@@ -236,7 +236,7 @@
             "number": 294,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.",
+            "rules_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -256,7 +256,7 @@
             "number": 296,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "Tranquil Cove enters tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.\n{T}: Add {W} or {U}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -276,7 +276,7 @@
             "number": 286,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "Dismal Backwater enters tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {B}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -296,7 +296,7 @@
             "number": 281,
             "color_identity": "BR",
             "cost": "",
-            "rules_text": "Bloodfell Caves enters tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -316,7 +316,7 @@
             "number": 290,
             "color_identity": "RG",
             "cost": "",
-            "rules_text": "Rugged Highlands enters tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -336,7 +336,7 @@
             "number": 282,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "Blossoming Sands enters tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.\n{T}: Add {G} or {W}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -356,7 +356,7 @@
             "number": 291,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "Scoured Barrens enters tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.\n{T}: Add {W} or {B}",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {B}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -376,7 +376,7 @@
             "number": 293,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "Swiftwater Cliffs enters tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.\n{T}: Add {U} or {R}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -396,7 +396,7 @@
             "number": 288,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "Jungle Hollow enters tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.\n{T}: Add {B} or {G}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {G}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -416,7 +416,7 @@
             "number": 297,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "Wind-Scarred Crag enters tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {W}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -436,7 +436,7 @@
             "number": 295,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "Thornwood Falls enters tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.\n{T}: Add {G} or {U}.",
+            "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {U}.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -546,7 +546,7 @@
             "artist": "Ihor Vitkovskyi on Artstation",
             "alias": "",
             "position": "26",
-            "notes": "https://www.artstation.com/artwork/RY0qxD\n\n\nOG_2:\nTrample\nWhen this creature dies, you may pay R. If you do, discard a card, then draw a card.\n\nOG_1:\nTrample\nWhen this creature dies, you may pay R and discard a card. If you do, draw a card."
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/RY0qxD\n\n\nOG_2:\nTrample\nWhen this creature dies, you may pay R. If you do, discard a card, then draw a card.\n\nOG_1:\nTrample\nWhen this creature dies, you may pay R and discard a card. If you do, draw a card."
         },
         {
             "card_name": "Toolsmith Courier",
@@ -556,7 +556,7 @@
             "number": 275,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "When this creature enters, you may pay {X}. If you do, search your library for an equipment card with mana value X or less and put it onto the battlefield, then shuffle.",
+            "rules_text": "When this creature enters, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less and put it onto the battlefield, then shuffle.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -576,7 +576,7 @@
             "number": 277,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "When this creature dies, create an Implant token with a +1/+1 counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]\n{8}, Exile this card from your graveyard: Draw two cards, then discard a card.",
+            "rules_text": "When this creature dies, create an Implant token with a +1/+1 counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]\n{8}, Exile this card from your graveyard: Draw two cards, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -586,7 +586,7 @@
             "artist": "Halil Ural on Artstation",
             "alias": "",
             "position": "28",
-            "notes": "!Implant\n\nhttps://www.artstation.com/artwork/QzBzXx\n\n\nOG art_1:\nJulian Holm on Artstation\nhttps://www.artstation.com/artwork/xOYmm\n\n\nOG_2:\nWas a 4/1\n\nOG_1:\nWas a 3/2"
+            "notes": "!tag card-advantage\n!Implant\n\nhttps://www.artstation.com/artwork/QzBzXx\n\n\nOG art_1:\nJulian Holm on Artstation\nhttps://www.artstation.com/artwork/xOYmm\n\n\nOG_2:\nWas a 4/1\n\nOG_1:\nWas a 3/2"
         },
         {
             "card_name": "Voltaic Construct",
@@ -666,7 +666,7 @@
             "artist": "@kkcit2 on twitter",
             "alias": "",
             "position": "32",
-            "notes": "https://twitter.com/kkcit2/status/1653057478966538241/photo/1\n\n\nOG_2:\nMade 3 mana, AA costs 2, draw as a sacrifice.\n\nMade tas such to be less egregious as an eggs combo piece.\n\nOG_1:\nWhen Filtering Star (Downshift) enters the battlefield, draw a card.\n1, T, Sacrifice Filtering Star (Downshift): Add two mana in any combination of colors. This mana can't be spent on casting a nonartifact spell."
+            "notes": "!tag cantrip\n\nhttps://twitter.com/kkcit2/status/1653057478966538241/photo/1\n\n\nOG_2:\nMade 3 mana, AA costs 2, draw as a sacrifice.\n\nMade tas such to be less egregious as an eggs combo piece.\n\nOG_1:\nWhen Filtering Star (Downshift) enters the battlefield, draw a card.\n1, T, Sacrifice Filtering Star (Downshift): Add two mana in any combination of colors. This mana can't be spent on casting a nonartifact spell."
         },
         {
             "card_name": "Rusty Gauntlet",
@@ -706,7 +706,7 @@
             "artist": "Amy Kaufman on Artstation",
             "alias": "",
             "position": "34",
-            "notes": "https://www.artstation.com/artwork/2qg15A"
+            "notes": "!tag removal-any\n\nhttps://www.artstation.com/artwork/2qg15A"
         },
         {
             "card_name": "Flensing Jar",
@@ -716,7 +716,7 @@
             "number": 246,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "{T}, Sacrifice this artifact: Exile target player's graveyard.\n{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it and put it into your hand, then shuffle.",
+            "rules_text": "{T}, Sacrifice this artifact: Exile target player's graveyard.\n{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -726,7 +726,7 @@
             "artist": "Iro Pagis on Artstation",
             "alias": "",
             "position": "35",
-            "notes": "https://www.artstation.com/artwork/eaO9QX\n\n\nOG art_1:\nCarlo Spagnola\nhttps://www.artstation.com/artwork/mzZome\n\n\n\n\nOG_1:\nT, Sacrifice Cleansing Capsule: Exile target player's graveyard.\nCycling 2 (2, Discard this card: Draw a card.)"
+            "notes": "!tag graveyard-hate\n\nhttps://www.artstation.com/artwork/eaO9QX\n\n\nOG art_1:\nCarlo Spagnola\nhttps://www.artstation.com/artwork/mzZome\n\n\n\n\nOG_1:\nT, Sacrifice Cleansing Capsule: Exile target player's graveyard.\nCycling 2 (2, Discard this card: Draw a card.)"
         },
         {
             "card_name": "Scavenged Supplies",
@@ -746,7 +746,7 @@
             "artist": "Brandon-Ellis on deviantart",
             "alias": "",
             "position": "36",
-            "notes": "https://www.deviantart.com/brandon-ellis/art/Grab-Bag-963640713\n\nOG art_1:\nSatan Jr on artstation\nhttps://www.artstation.com/artwork/GaRnA1"
+            "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/brandon-ellis/art/Grab-Bag-963640713\n\nOG art_1:\nSatan Jr on artstation\nhttps://www.artstation.com/artwork/GaRnA1"
         },
         {
             "card_name": "Coalpower Gauntlet",
@@ -796,7 +796,7 @@
             "number": 243,
             "color_identity": "U",
             "cost": "{1}",
-            "rules_text": "This artifact enters with a +1/+1 counter.\n{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\nWhen this artifact is put into a graveyard from play, you may pay {U}. If you do, return it to the battlefield with a finality counter.",
+            "rules_text": "This artifact enters with a +1/+1 counter.\n{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\nWhen this artifact is put into a graveyard from the battlefield, you may pay {U}. If you do, return it to the battlefield with a finality counter.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -826,7 +826,7 @@
             "artist": "@BrandonMcCamey on Twitter",
             "alias": "",
             "position": "40",
-            "notes": "https://twitter.com/BrandonMcCamey/status/1699817484390392281/photo/1\n\n\nOG_2:\n1, T, Sacrifice this artifact: Put a stun counter on target creature.\nB, T, Sacrifice this artifact: Target creature gets -1/-1 until end of turn.\nWhen this artifact is put into a graveyard from play, return it to the battlefield with a finality counter.\n\nOG_1:\n1, T, Sacrifice Sedative Darts: Put a stun counter on target creature.\nB, T, Sacrifice Sedative Darts: Target creature gets -1/-1 until end of turn.\nPersist"
+            "notes": "!tag cantrip\n\nhttps://twitter.com/BrandonMcCamey/status/1699817484390392281/photo/1\n\n\nOG_2:\n1, T, Sacrifice this artifact: Put a stun counter on target creature.\nB, T, Sacrifice this artifact: Target creature gets -1/-1 until end of turn.\nWhen this artifact is put into a graveyard from play, return it to the battlefield with a finality counter.\n\nOG_1:\n1, T, Sacrifice Sedative Darts: Put a stun counter on target creature.\nB, T, Sacrifice Sedative Darts: Target creature gets -1/-1 until end of turn.\nPersist"
         },
         {
             "card_name": "Dormant Tallmer",
@@ -916,7 +916,7 @@
             "number": 119,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When this creature enters, create an Implant token with a lifelink counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a lifelink counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -936,7 +936,7 @@
             "number": 113,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this creature enters while you control three or more artifact creatures, you lose 1 life and draw a card.",
+            "rules_text": "When this creature enters, if you control three or more artifact creatures, you lose 1 life and draw a card.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -946,7 +946,7 @@
             "artist": "Travis-Anderson",
             "alias": "",
             "position": "46",
-            "notes": "https://www.deviantart.com/travis-anderson/art/Shearman-916044991\n\nOG art_1:\nFran Fdez on Artstation\nhttps://www.artstation.com/artwork/3d1BKD\n\n\n\nhttps://www.tumblr.com/bfleuter/686704837671387136/cleaning-up-some-of-my-monstergirl-sketches-for?source=share&_branch_match_id=822800867785794223&_branch_referrer=H4sIAAAAAAAAAw3JQRKAIAgAwBcR16bfqINpgTiAh3p97XVbxPQDMcUWSzLbVlQwV6YVZFiY0ujjhDXBVQi0gjwgOvzvsxuD3xSlkUNVw9teSX3uPvn6ALK11aRbAAAA"
+            "notes": "!tag cantrip\n\nhttps://www.deviantart.com/travis-anderson/art/Shearman-916044991\n\nOG art_1:\nFran Fdez on Artstation\nhttps://www.artstation.com/artwork/3d1BKD\n\n\n\nhttps://www.tumblr.com/bfleuter/686704837671387136/cleaning-up-some-of-my-monstergirl-sketches-for?source=share&_branch_match_id=822800867785794223&_branch_referrer=H4sIAAAAAAAAAw3JQRKAIAgAwBcR16bfqINpgTiAh3p97XVbxPQDMcUWSzLbVlQwV6YVZFiY0ujjhDXBVQi0gjwgOvzvsxuD3xSlkUNVw9teSX3uPvn6ALK11aRbAAAA"
         },
         {
             "card_name": "Deathblade",
@@ -956,7 +956,7 @@
             "number": 89,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -996,7 +996,7 @@
             "number": 93,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, each opponent loses 1 life and you gain 1 life. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, each opponent loses 1 life and you gain 1 life. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -1016,7 +1016,7 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature dies, you may attach target equipment you control to target creature you control.\nExile this card from your graveyard: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.",
+            "rules_text": "When this creature dies, you may attach target Equipment you control to target creature you control.\nExile this card from your graveyard: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1056,7 +1056,7 @@
             "number": 109,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "When this equipment enters, destroy target creature an opponent controls.\nEquipped creature gets +4/+2 and has deathtouch.\nEquip {6}",
+            "rules_text": "When this Equipment enters, destroy target creature an opponent controls.\nEquipped creature gets +4/+2 and has deathtouch.\nEquip {6}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1066,7 +1066,7 @@
             "artist": "Devin Rosychuk on Artstation",
             "alias": "",
             "position": "52",
-            "notes": "https://www.artstation.com/artwork/QKRdJx\n\nOG art_1:\nMukhlis Nur (Sinlaire) on Artstation\nhttps://www.artstation.com/artwork/zOQgN6\n\n\nOG_2:\nWhen Killblade enters the battlefield, destroy target creature an opponent controls.\nEquipped creature gets +3/+0\nEquip 2\n\n\nOG_1:\n\"expensive removal\" 4B\nDestroy target creature\nCreate an implant with a deathtouch counter."
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/QKRdJx\n\nOG art_1:\nMukhlis Nur (Sinlaire) on Artstation\nhttps://www.artstation.com/artwork/zOQgN6\n\n\nOG_2:\nWhen Killblade enters the battlefield, destroy target creature an opponent controls.\nEquipped creature gets +3/+0\nEquip 2\n\n\nOG_1:\n\"expensive removal\" 4B\nDestroy target creature\nCreate an implant with a deathtouch counter."
         },
         {
             "card_name": "Junkyard Hunt",
@@ -1086,7 +1086,7 @@
             "artist": "thewolffinsnow on Tumblr",
             "alias": "",
             "position": "53",
-            "notes": "https://www.tumblr.com/thewolffinsnow/710545618730401792/m1000-doing-the-work-based-on-a-true-story?source=share\n\n\nOG_3:\nCosted 2B\nExile target creature if it has mana value 3 or less or if you have four or more different mana costs among cards in your graveyard.\n\nOG_2:\nExile target creature if it has mana value 3 or less or if you have four or more noncreature cards in your graveyard.\n\n\nOG_1:\nCosted 1B\n\nRedbay's feedback:\nFeels a bit strong for a common, maybe come up a mana."
+            "notes": "!tag removal-creature\n\nhttps://www.tumblr.com/thewolffinsnow/710545618730401792/m1000-doing-the-work-based-on-a-true-story?source=share\n\n\nOG_3:\nCosted 2B\nExile target creature if it has mana value 3 or less or if you have four or more different mana costs among cards in your graveyard.\n\nOG_2:\nExile target creature if it has mana value 3 or less or if you have four or more noncreature cards in your graveyard.\n\n\nOG_1:\nCosted 1B\n\nRedbay's feedback:\nFeels a bit strong for a common, maybe come up a mana."
         },
         {
             "card_name": "Bleed Out",
@@ -1097,7 +1097,7 @@
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Target nonartifact creature gets -3/-3 until end of turn.",
-            "flavor_text": "[i]While mechanical Implants improve many aspects of one's biology, they can't make one immune to lethal wounds.[/i]",
+            "flavor_text": "[i]While mechanical implants improve many aspects of one's biology, they can't make one immune to lethal wounds.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1106,7 +1106,7 @@
             "artist": "@DeanSpencerArt on twitter",
             "alias": "",
             "position": "54",
-            "notes": "https://twitter.com/DeanSpencerArt/status/1619091659614027777/photo/1"
+            "notes": "!tag removal-creature\n\nhttps://twitter.com/DeanSpencerArt/status/1619091659614027777/photo/1"
         },
         {
             "card_name": "Thousand Cuts",
@@ -1116,8 +1116,8 @@
             "number": 116,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "This spell deals X damage to target creature or planeswalker and you gain X life, where X is 1 plus the number of equipment you control.",
-            "flavor_text": "[i]\u201cWhile you were ramping, I studied the blade.\u201d \u2014Zjieg, Edgelord[/i]",
+            "rules_text": "This spell deals X damage to target creature or planeswalker and you gain X life, where X is 1 plus the number of Equipment you control.",
+            "flavor_text": "[i]\u201cWhile you were ramping, I studied the blade.\u201d\n\u2014Zjieg, Edgelord[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1126,7 +1126,7 @@
             "artist": "Jessada-Art on Deviantart",
             "alias": "",
             "position": "55",
-            "notes": "\n\nOG art_1:\nCyril Desjardins on Artstation\nhttps://www.artstation.com/artwork/6bAG6O\n\n\n\nOG_1:\n1BB"
+            "notes": "!tag damage-creature\n\nOG art_1:\nCyril Desjardins on Artstation\nhttps://www.artstation.com/artwork/6bAG6O\n\n\n\nOG_1:\n1BB"
         },
         {
             "card_name": "Junksea Reclaiming",
@@ -1146,7 +1146,7 @@
             "artist": "beeple on Artstation",
             "alias": "",
             "position": "56",
-            "notes": "https://www.artstation.com/artwork/442d4\n\n\nOG_2:\nUsed \"one or more\"\n\nOG_1:\nReturn target creature from your graveyard to your hand. If it's an artifact creature, draw a card."
+            "notes": "!tag regrowth-creature\n\nhttps://www.artstation.com/artwork/442d4\n\n\nOG_2:\nUsed \"one or more\"\n\nOG_1:\nReturn target creature from your graveyard to your hand. If it's an artifact creature, draw a card."
         },
         {
             "card_name": "Divestion Blade",
@@ -1156,7 +1156,7 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "When this equipment enters the battlefield, each opponent discards a card.\nEquipped creature gets +1/+0.\nEquip {2}",
+            "rules_text": "When this Equipment enters the battlefield, each opponent discards a card.\nEquipped creature gets +1/+0.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1166,7 +1166,7 @@
             "artist": "Artur M\u00f3sca on Artstation",
             "alias": "",
             "position": "57",
-            "notes": "https://www.artstation.com/artwork/3Q53B"
+            "notes": "!tag hand-disruption-untargetted\n\nhttps://www.artstation.com/artwork/3Q53B"
         },
         {
             "card_name": "Cleaver's Carpace",
@@ -1176,7 +1176,7 @@
             "number": 86,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Equipped creature gets +3/+3 and has \u201cLurk\u2014Pay 3 life.\u201d\n[i](Defending player can't block that creature unless they pay 3 life.)[/i]\nEquip {2}\n{B}, discard this card: Create a 1/1 green Insect creature token.",
+            "rules_text": "Equipped creature gets +3/+3 and has \u201cLurk\u2014Pay 3 life.\u201d[i](Defending player can't block that creature unless they pay 3 life.)[/i]\nEquip {2}\n{B}, Discard this card: Create a 1/1 green Insect creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1196,7 +1196,7 @@
             "number": 102,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn. If it's the target of an activated ability you control, instead put a +1/+1, a lifelink, and a deathtouch counter on it.",
+            "rules_text": "Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn. If that creature is the target of an activated ability you control, instead put a +1/+1, a lifelink, and a deathtouch counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1246,7 +1246,7 @@
             "artist": "Tomasz Kwiatkowski on Artstation",
             "alias": "",
             "position": "61",
-            "notes": "https://www.artstation.com/artwork/Dx4vo0\n\n\nOG_8:\nWas a 2/1\n\nOG_7: \nCosted 2G\nWard 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)\nWhen this creature enters, mill two cards, then return a land card from your graveyard to your hand. You may discard a card to repeat this process once.\nWas a 3/1\n(Made to swap from CG04 mana value3 to CG02 mana value2\n\n\nOG_6:\nWhen this creature enters, mill three cards, then you may discard a card. If you do, return two land cards from your graveyard to your hand.\n\nOG_5: Was ursadrone firewarden, changed because I needed more GB graveyard stuff."
+            "notes": "!tag regrowth-land\n\nhttps://www.artstation.com/artwork/Dx4vo0\n\n\nOG_8:\nWas a 2/1\n\nOG_7: \nCosted 2G\nWard 1 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 1.)\nWhen this creature enters, mill two cards, then return a land card from your graveyard to your hand. You may discard a card to repeat this process once.\nWas a 3/1\n(Made to swap from CG04 mana value3 to CG02 mana value2\n\n\nOG_6:\nWhen this creature enters, mill three cards, then you may discard a card. If you do, return two land cards from your graveyard to your hand.\n\nOG_5: Was ursadrone firewarden, changed because I needed more GB graveyard stuff."
         },
         {
             "card_name": "Toolsmith Apprentice",
@@ -1336,7 +1336,7 @@
             "number": 164,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When this creature enters, create an Implant token with a deathtouch counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a deathtouch counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1356,7 +1356,7 @@
             "number": 178,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "This creature enters with three +1/+1 counters and a reach counter on it.\nWhen this creature dies, create an Implant token and put this creature's counters on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "This creature enters with three +1/+1 counters and a reach counter on it.\nWhen this creature dies, create an Implant token and put this creature's counters on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/3",
             "special_text": "",
@@ -1386,7 +1386,7 @@
             "artist": "Calder Moore",
             "alias": "",
             "position": "68",
-            "notes": "https://www.artstation.com/artwork/8EvVQ\n\nOG art_1:\nJason Nguyen\nhttps://www.artstation.com/artwork/lKKwk\n\n\nOG_1: RG rework\nVigilance\nWhenever this creature attacks, you may sacrifice an artifact. If you do, draw a card.\n4/6\n\nRG rework"
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/8EvVQ\n\nOG art_1:\nJason Nguyen\nhttps://www.artstation.com/artwork/lKKwk\n\n\nOG_1: RG rework\nVigilance\nWhenever this creature attacks, you may sacrifice an artifact. If you do, draw a card.\n4/6\n\nRG rework"
         },
         {
             "card_name": "Junkbelly",
@@ -1396,7 +1396,7 @@
             "number": 175,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "This creature costs {1} less to cast for each different mana value among cards in your graveyard.\nWhen this creature enters you gain 3 life.",
+            "rules_text": "This creature costs {1} less to cast for each different mana value among cards in your graveyard.\nWhen this creature enters, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -1436,7 +1436,7 @@
             "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Enchant permanent you control.\nEnchanted permanent has Ward {1} and \u201c{T}: Add two mana in any combination of colors your lands can produce.\u201d",
+            "rules_text": "Enchant permanent you control.\nEnchanted permanent has ward {1} and \u201c{T}: Add two mana in any combination of colors your lands can produce.\u201d",
             "flavor_text": "[i][Flavor text][/i]",
             "pt": "",
             "special_text": "",
@@ -1456,7 +1456,7 @@
             "number": 163,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Destroy target artifact or enchantment.\nCreate an Implant token with a trample counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "Destroy target artifact or enchantment.\nCreate an Implant token with a trample counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1466,7 +1466,7 @@
             "artist": "Duy Lawrence Nguyen on artstation",
             "alias": "",
             "position": "72",
-            "notes": "https://www.artstation.com/artwork/mqoZKd\n\nOG art_1:\n@y_frt on Twitter\nhttps://twitter.com/y_frt/status/1657970145787260928/photo/1\n\n\nOG_2:\nDestroy target artifact or enchantment.\nPut a trample counter on target artifact you control.\n\nOG_1:\nDestroy target artifact or enchantment.\nCreate an implant with a trample counter."
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\nhttps://www.artstation.com/artwork/mqoZKd\n\nOG art_1:\n@y_frt on Twitter\nhttps://twitter.com/y_frt/status/1657970145787260928/photo/1\n\n\nOG_2:\nDestroy target artifact or enchantment.\nPut a trample counter on target artifact you control.\n\nOG_1:\nDestroy target artifact or enchantment.\nCreate an implant with a trample counter."
         },
         {
             "card_name": "Pillabegg Probiota",
@@ -1476,7 +1476,7 @@
             "number": 183,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Enchant creature\nWhenever this aura enters or leaves the battlefield, Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nEnchanted creature gets +1/+0.",
+            "rules_text": "Enchant creature\nWhenever this aura enters or leaves the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nEnchanted creature gets +1/+0.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1506,7 +1506,7 @@
             "artist": "Aurore Folny on Artstation",
             "alias": "",
             "position": "74",
-            "notes": "https://www.artstation.com/artwork/5g6dP\n\n\nOG_1:\nAs an additional cost to casting this spell, sacrifice an artifact or pay 2.\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
+            "notes": "!tag damage-creature\n\nhttps://www.artstation.com/artwork/5g6dP\n\n\nOG_1:\nAs an additional cost to casting this spell, sacrifice an artifact or pay 2.\nTarget creature you control deals damage equal to its power to target creature an opponent controls."
         },
         {
             "card_name": "Cybernetic Might",
@@ -1516,7 +1516,7 @@
             "number": 167,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Flash\nEnchant Creature\nThis spell costs {1} less to cast for each permanent you've sacrificed this turn.\nEnchanted creature gets +4/+4.",
+            "rules_text": "Flash\nEnchant creature\nThis spell costs {1} less to cast for each permanent you've sacrificed this turn.\nEnchanted creature gets +4/+4.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1546,7 +1546,7 @@
             "artist": "Ismail Inceoglu on Artstation",
             "alias": "",
             "position": "76",
-            "notes": "https://www.artstation.com/artwork/68a3Gn\n\nOG_3:\nMill three cards. You may put a permanent card from among the milled cards and put it into your hand.\n\n\n\nRedbay's feedback:\nWondering if you can mill one more card. Seed of Hope costs {1} less, mills one less card, and gains the player 2 life, for comparison. \n\nOG_2:\n\nReveal the top three cards of your library. Put an artifact, creature, or land from among them into your hand and the rest into your graveyard.\n\n\nOG_1:\nReveal the top four cards of your library. Put an artifact, creature, or land from among them into your hand and the rest into your graveyard."
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/68a3Gn\n\nOG_3:\nMill three cards. You may put a permanent card from among the milled cards and put it into your hand.\n\n\n\nRedbay's feedback:\nWondering if you can mill one more card. Seed of Hope costs {1} less, mills one less card, and gains the player 2 life, for comparison. \n\nOG_2:\n\nReveal the top three cards of your library. Put an artifact, creature, or land from among them into your hand and the rest into your graveyard.\n\n\nOG_1:\nReveal the top four cards of your library. Put an artifact, creature, or land from among them into your hand and the rest into your graveyard."
         },
         {
             "card_name": "Blast Furnace Beetle",
@@ -1586,7 +1586,7 @@
             "artist": "Neisbeis on Deviantart",
             "alias": "",
             "position": "78",
-            "notes": "https://www.deviantart.com/neisbeis/art/Man-of-pipes-198103982\n\nOG art_2:\nCobaltplasma on Deviantart\nhttps://www.deviantart.com/cobaltplasma/art/Cerberus-528902718\n\n\nOG art_1:\nBfleuter on Tumblr\nhttps://www.tumblr.com/bfleuter/697570936201920512/some-guys?source=share&_branch_match_id=822800867785794223&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyzRKynNTcop0kvOz9VPSstJLS1JLdIvzs9N1U0vrSzWT8rKSEqrsEjMTU5LBgD%2BMgobNQAAAA%3D%3D\n\nOG_6: RG rework\nCosted R, and could only sacrifice artifacts.\n\nOG_5:\nAA costed 1R\n\nOG_4:\nWas uncommon (again)\n\nOG_3:\nHaste\n1, T: _2 MV2 Shott Slagger 99 deals 1 damage to each opponent.\nWhenever you sacrifice an artifact, untap _2 MV2 Shott Slagger 99.\n\n\nOG_2:\n2R, T, Sacrifice an artifact: MV2 Shott Slagger (errata) deals 2 damage to each opponent.\nClang \u2014 Whenever another artifact enters the battlefield under your control, untap MV2 Shott Slagger (errata).\n\nRedbay's Feedback:\nThink there's something in swapping up CR03, CR04, and CR07 to something like\n\nCR03 - Crucible Carnivore 1R\nArtifact Creature - Elemental Dog\nHaste\nWhenever ~ attacks, if you control three or more artifacts, put a +1/+1 counter on it.\n2/2\n\nCR04 - Shott Slagger 1R\nArtifact Creature - Construct\n2R, T, Sacrifice an artifact: ~ deals 2 damage to each opponent.\nClang - Whenever another artifact enters the battlefield under your control, untap ~.\n1/3\n\nCR07 Forgemouth Homonculous 4R\nCreature - Homonculus\nDefender\n~ may attack as though it didn't have defender if you've sacrificed an artifact this turn.\n5/5\n\n\nOG_1:\nSacced to deal 3 damage, was an uncommon\n"
+            "notes": "!tag damage-player\n\nhttps://www.deviantart.com/neisbeis/art/Man-of-pipes-198103982\n\nOG art_2:\nCobaltplasma on Deviantart\nhttps://www.deviantart.com/cobaltplasma/art/Cerberus-528902718\n\n\nOG art_1:\nBfleuter on Tumblr\nhttps://www.tumblr.com/bfleuter/697570936201920512/some-guys?source=share&_branch_match_id=822800867785794223&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTyzRKynNTcop0kvOz9VPSstJLS1JLdIvzs9N1U0vrSzWT8rKSEqrsEjMTU5LBgD%2BMgobNQAAAA%3D%3D\n\nOG_6: RG rework\nCosted R, and could only sacrifice artifacts.\n\nOG_5:\nAA costed 1R\n\nOG_4:\nWas uncommon (again)\n\nOG_3:\nHaste\n1, T: _2 MV2 Shott Slagger 99 deals 1 damage to each opponent.\nWhenever you sacrifice an artifact, untap _2 MV2 Shott Slagger 99.\n\n\nOG_2:\n2R, T, Sacrifice an artifact: MV2 Shott Slagger (errata) deals 2 damage to each opponent.\nClang \u2014 Whenever another artifact enters the battlefield under your control, untap MV2 Shott Slagger (errata).\n\nRedbay's Feedback:\nThink there's something in swapping up CR03, CR04, and CR07 to something like\n\nCR03 - Crucible Carnivore 1R\nArtifact Creature - Elemental Dog\nHaste\nWhenever ~ attacks, if you control three or more artifacts, put a +1/+1 counter on it.\n2/2\n\nCR04 - Shott Slagger 1R\nArtifact Creature - Construct\n2R, T, Sacrifice an artifact: ~ deals 2 damage to each opponent.\nClang - Whenever another artifact enters the battlefield under your control, untap ~.\n1/3\n\nCR07 Forgemouth Homonculous 4R\nCreature - Homonculus\nDefender\n~ may attack as though it didn't have defender if you've sacrificed an artifact this turn.\n5/5\n\n\nOG_1:\nSacced to deal 3 damage, was an uncommon\n"
         },
         {
             "card_name": "Scrappy Automaton",
@@ -1606,7 +1606,7 @@
             "artist": "J\u00e1nos Kiss on Artstation",
             "alias": "",
             "position": "79",
-            "notes": "https://www.artstation.com/artwork/obQeL\n\nOG art_1:\nAriel Perez on Artstation\nhttps://www.artstation.com/artwork/NqZ3N\n\nOG_2:\nWhenever this creature dies, create a treasure token.\n\nOG_1:\nWhenever MV2 Menache dies, create an implant with a menace counter.\nWas a 3/1"
+            "notes": "!tag reanimate-self\n\nhttps://www.artstation.com/artwork/obQeL\n\nOG art_1:\nAriel Perez on Artstation\nhttps://www.artstation.com/artwork/NqZ3N\n\nOG_2:\nWhenever this creature dies, create a treasure token.\n\nOG_1:\nWhenever MV2 Menache dies, create an implant with a menace counter.\nWas a 3/1"
         },
         {
             "card_name": "Crucible Juggernaut",
@@ -1636,7 +1636,7 @@
             "number": 123,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When this creature enters, create an Implant token with a first strike counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]\nThis creature can't block.",
+            "rules_text": "When this creature enters, create an Implant token with a first strike counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]\nThis creature can't block.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1666,7 +1666,7 @@
             "artist": "@pieroemili on Twitter",
             "alias": "",
             "position": "82",
-            "notes": "https://twitter.com/pieroemili/status/1627985341935194115/photo/1\n\nOG_5:\nwas a 4/3\n\nOG_4:\nUSed old clang effect\n\nOG_3:\nDidn't have that enters the battlefield effect.\n\nOG_2:\nCosted 2R, was a 2/3\n\n\nOG_1:\nmana value 5"
+            "notes": "!tag damage-player\n\nhttps://twitter.com/pieroemili/status/1627985341935194115/photo/1\n\nOG_5:\nwas a 4/3\n\nOG_4:\nUSed old clang effect\n\nOG_3:\nDidn't have that enters the battlefield effect.\n\nOG_2:\nCosted 2R, was a 2/3\n\n\nOG_1:\nmana value 5"
         },
         {
             "card_name": "Slag Cruciblair",
@@ -1676,7 +1676,7 @@
             "number": 157,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When this creature enters, create an Implant token with a menace counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]\nThis creature can't attack unless you've sacrificed a permanent this turn.",
+            "rules_text": "When this creature enters, create an Implant token with a menace counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]\nThis creature can't attack unless you've sacrificed a permanent this turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -1746,7 +1746,7 @@
             "artist": "Ignus Dei on Artstation",
             "alias": "",
             "position": "86",
-            "notes": "https://www.artstation.com/artwork/4XQPk"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n\nhttps://www.artstation.com/artwork/4XQPk"
         },
         {
             "card_name": "Transmute Thermite",
@@ -1766,7 +1766,7 @@
             "artist": "Austen Mengler on Artstation",
             "alias": "",
             "position": "87",
-            "notes": "https://www.artstation.com/artwork/w8W1w"
+            "notes": "!tag damage-creature\n\nhttps://www.artstation.com/artwork/w8W1w"
         },
         {
             "card_name": "Imminent Missile",
@@ -1786,7 +1786,7 @@
             "artist": "Travis Anderson on Artstation",
             "alias": "",
             "position": "88",
-            "notes": "OG art_1:\nBaukje Jagersma on Artstation\nhttps://www.artstation.com/artwork/GXkGyz\n\n\n\nOG_2: RG rework\nCosted 1R\nAs an additional cost to casting this spell, sacrifice an artifact or remove two counters from among permanents you control.\nThis spell deals 4 damage to any target.\n\n\nOG_1:\nSpecified \"Counter from a permanent...\" insdead of current iteration.\n\n\n"
+            "notes": "!tag damage-any\n\nOG art_1:\nBaukje Jagersma on Artstation\nhttps://www.artstation.com/artwork/GXkGyz\n\n\n\nOG_2: RG rework\nCosted 1R\nAs an additional cost to casting this spell, sacrifice an artifact or remove two counters from among permanents you control.\nThis spell deals 4 damage to any target.\n\n\nOG_1:\nSpecified \"Counter from a permanent...\" insdead of current iteration.\n\n\n"
         },
         {
             "card_name": "Pugilist's Prize",
@@ -1826,7 +1826,7 @@
             "artist": "Martin Roca",
             "alias": "",
             "position": "90",
-            "notes": "\n\nOG art_1:\nSkycrimedraws on Tumblr\nhttps://www.tumblr.com/skycrimedraws/723868942967488512/lancer-comm-wip-depicting-some-boarding-actions?source=share\n\n\nOG_1:\nWas uncommon"
+            "notes": "!tag regrowth-artifact\n!tag card-advantage\n\nOG art_1:\nSkycrimedraws on Tumblr\nhttps://www.tumblr.com/skycrimedraws/723868942967488512/lancer-comm-wip-depicting-some-boarding-actions?source=share\n\n\nOG_1:\nWas uncommon"
         },
         {
             "card_name": "Slagful Slam",
@@ -1866,7 +1866,7 @@
             "artist": "0BO",
             "alias": "",
             "position": "92",
-            "notes": "\n\n\nOG_1:\nWas abrade"
+            "notes": "!tag removal-artifact\n!tag card-advantage\n\nOG_1:\nWas abrade"
         },
         {
             "card_name": "Blinding Flare",
@@ -1886,7 +1886,7 @@
             "artist": "Jason Nguyen",
             "alias": "",
             "position": "93",
-            "notes": "https://www.deviantart.com/jasontn/art/Pyromancer-507434046\n\n\nOG_1:\n\nUp to two target creatures can't block this turn.\nExile the top card of your library. You may play that card until the end of your next turn."
+            "notes": "!tag cantrip\n\nhttps://www.deviantart.com/jasontn/art/Pyromancer-507434046\n\n\nOG_1:\n\nUp to two target creatures can't block this turn.\nExile the top card of your library. You may play that card until the end of your next turn."
         },
         {
             "card_name": "Licensed Larcenist",
@@ -1936,7 +1936,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, create an Implant token with a flying counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a flying counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i]With civilization gone, more esoteric lifeforms could now thrive.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -1956,7 +1956,7 @@
             "number": 77,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Flash\nWhen this creature enters, attach target equipment you control to target creature you control.",
+            "rules_text": "Flash\nWhen this creature enters, attach target Equipment you control to target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1996,7 +1996,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "When this equipment enters, create a 2/2 blue Drake creature token with flying and attach this equipment to it.\nEquipped creature gets +1/+1.\nEquip {2}",
+            "rules_text": "When this Equipment enters, create a 2/2 blue Drake creature token with flying and attach this equipment to it.\nEquipped creature gets +1/+1.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2016,7 +2016,7 @@
             "number": 76,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "When this creature enters, create an Implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2036,7 +2036,7 @@
             "number": 75,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]\nLurk {3} [i](Defending player can't block this creature unless they pay {3})[/i]",
+            "rules_text": "Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]\nLurk {3} [i](Defending player can't block this creature unless they pay {3}.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2056,7 +2056,7 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "When this creature enters, create an Implant token with a hexproof counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a hexproof counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2076,7 +2076,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.\nEquipped creature gets +0/+4.\nEquip {3}",
+            "rules_text": "When this Equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.\nEquipped creature gets +0/+4.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2106,7 +2106,7 @@
             "artist": "Brandon-Ellis",
             "alias": "",
             "position": "104",
-            "notes": "https://www.deviantart.com/brandon-ellis/art/Harol-893831974\n\n\n\nOG_1:\nAs an additional cost to casting this spell, return an artifact you control to its owner's hand or pay 1U.\nCounter target spell."
+            "notes": "!tag counterspell\n\nhttps://www.deviantart.com/brandon-ellis/art/Harol-893831974\n\n\n\nOG_1:\nAs an additional cost to casting this spell, return an artifact you control to its owner's hand or pay 1U.\nCounter target spell."
         },
         {
             "card_name": "Fuel Freeze",
@@ -2116,7 +2116,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Counter target artifact or creature spell unless its controller pays {3}. If they do, tap target artifact or creature they control.",
+            "rules_text": "Counter target artifact or creature spell unless its controller pays {3}. If they do, tap target artifact or creature that player controls.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "",
             "special_text": "",
@@ -2126,7 +2126,7 @@
             "artist": "Artur Sadlos on Artstation",
             "alias": "",
             "position": "105",
-            "notes": "https://www.artstation.com/artwork/nQWY94\n\nOG art_1:\n@RoyalNaym on Twitter\nhttps://twitter.com/RoyalNaym/status/1701618794139996520\n\n\nhttps://souperluminal.tumblr.com/post/718216719359000576/0515-seas-heart"
+            "notes": "!tag counterspell\n\nhttps://www.artstation.com/artwork/nQWY94\n\nOG art_1:\n@RoyalNaym on Twitter\nhttps://twitter.com/RoyalNaym/status/1701618794139996520\n\n\nhttps://souperluminal.tumblr.com/post/718216719359000576/0515-seas-heart"
         },
         {
             "card_name": "Artificer's Assertion",
@@ -2146,7 +2146,7 @@
             "artist": "Michael Sugianto on Artstation",
             "alias": "",
             "position": "106",
-            "notes": "https://www.artstation.com/artwork/koGAA\n\n\nOrphan"
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/koGAA\n\n\nOrphan"
         },
         {
             "card_name": "Wing Servos",
@@ -2166,7 +2166,7 @@
             "artist": "Marc Hill on Artstation",
             "alias": "",
             "position": "107",
-            "notes": "https://www.artstation.com/artwork/eakLqb\n\nOG_4:\nGave a flying counter.\n\nOG_3:\nReturn target creature to its owner's hand.\nCreate a tapped implant with a flying counter\n\nOrphan\n\n\nOG_2:\nWas an instant\nReturn target creature to its owner's hand.\nCreate an implant with a +1/+1 counter.\n\nOG_1:\nReturn target creature to its owner's hand.\nPut a +1/+1 counter on an equipped creature you control.\n\nRedbay's Feedback:\nSuprised this one isn't making a +1/+1 implant."
+            "notes": "!tag bounce-creature\n\nhttps://www.artstation.com/artwork/eakLqb\n\nOG_4:\nGave a flying counter.\n\nOG_3:\nReturn target creature to its owner's hand.\nCreate a tapped implant with a flying counter\n\nOrphan\n\n\nOG_2:\nWas an instant\nReturn target creature to its owner's hand.\nCreate an implant with a +1/+1 counter.\n\nOG_1:\nReturn target creature to its owner's hand.\nPut a +1/+1 counter on an equipped creature you control.\n\nRedbay's Feedback:\nSuprised this one isn't making a +1/+1 implant."
         },
         {
             "card_name": "Hitreg",
@@ -2186,7 +2186,7 @@
             "artist": "waterwindow on Tumblr",
             "alias": "",
             "position": "108",
-            "notes": "https://www.tumblr.com/waterwindow/721300148522811392/open-your-eyes?source=share\n\n\n\nOrphan"
+            "notes": "!tag cantrip\n\nhttps://www.tumblr.com/waterwindow/721300148522811392/open-your-eyes?source=share\n\n\n\nOrphan"
         },
         {
             "card_name": "Drawn Blade",
@@ -2196,7 +2196,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this equipment enters, draw a card.\nEquipped creature gets +1/+1.\nEquip {2}",
+            "rules_text": "When this Equipment enters, draw a card.\nEquipped creature gets +1/+1.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2206,7 +2206,7 @@
             "artist": "Eddie Del Rio on Artstation",
             "alias": "",
             "position": "109",
-            "notes": "https://www.artstation.com/artwork/qKlWa\n\nOG art_1:\nA. Shipwright on Artstation\nhttps://www.artstation.com/artwork/nELKoo"
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/qKlWa\n\nOG art_1:\nA. Shipwright on Artstation\nhttps://www.artstation.com/artwork/nELKoo"
         },
         {
             "card_name": "Holographm Umbra",
@@ -2256,7 +2256,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature enters, create an Implant token with a +1/+1 counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a +1/+1 counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2276,7 +2276,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2346,14 +2346,14 @@
             "artist": "Joel Chaim Holtzman",
             "alias": "",
             "position": "116",
-            "notes": "http://joelchaimholtzman.com/cyberpapacy.html\n\n\nOG art_1:\niingezo on tumblr\nhttps://www.tumblr.com/iingezo/723229915505426432/mansur-amat-for-nekomomoz?source=share\n\n\nOG_1:\n3W\nAffinity for artifacts. (This spell costs 1 less to cast for each artifact you control.)\nWhen CARDNAME enters the battlefield, draw a card\n3/2"
+            "notes": "!tag cantrip\n\nhttp://joelchaimholtzman.com/cyberpapacy.html\n\n\nOG art_1:\niingezo on tumblr\nhttps://www.tumblr.com/iingezo/723229915505426432/mansur-amat-for-nekomomoz?source=share\n\n\nOG_1:\n3W\nAffinity for artifacts. (This spell costs 1 less to cast for each artifact you control.)\nWhen CARDNAME enters the battlefield, draw a card\n3/2"
         },
         {
             "card_name": "Lightstep Ascetic",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Monk",
-            "number": 15,
+            "number": 16,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "This creature can't be blocked by creatures with power 3 or greater.\n{1}, {T}: Until end of turn, target creature you control can't be blocked by creatures with power 3 or greater.",
@@ -2416,7 +2416,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2446,7 +2446,7 @@
             "artist": "Benjamin Gallego on Artstation",
             "alias": "",
             "position": "121",
-            "notes": "https://www.artstation.com/artwork/QYZJZ\n\n\nOG_1:\nCosted 4 mana"
+            "notes": "!tag remove-creature\n\nhttps://www.artstation.com/artwork/QYZJZ\n\n\nOG_1:\nCosted 4 mana"
         },
         {
             "card_name": "Projectile Energy Shield",
@@ -2476,7 +2476,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Enchanted creature can't attack or block.\nTap three untapped artifacts you control: Exile enchanted creature.",
+            "rules_text": "Enchant creature\nEnchanted creature can't attack or block.\nTap three untapped artifacts you control: Exile enchanted creature.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "",
             "special_text": "",
@@ -2486,7 +2486,7 @@
             "artist": "Floris Roding on Artstation",
             "alias": "",
             "position": "123",
-            "notes": "https://www.artstation.com/artwork/ykaBOR\n\nOG art_2:\nVilderAsuras (Wenrexa)\nhttps://www.artstation.com/artwork/kDJlVn\n\nOG art_1:\nMinard Maxime\nhttps://www.artstation.com/artwork/oAKQaq\n\nOG_1:\ncosted 3 mana"
+            "notes": "!tag pacifism\n\nhttps://www.artstation.com/artwork/ykaBOR\n\nOG art_2:\nVilderAsuras (Wenrexa)\nhttps://www.artstation.com/artwork/kDJlVn\n\nOG art_1:\nMinard Maxime\nhttps://www.artstation.com/artwork/oAKQaq\n\nOG_1:\ncosted 3 mana"
         },
         {
             "card_name": "On Patrol",
@@ -2566,7 +2566,7 @@
             "artist": "Svet Rezhet Glaza on Artstation",
             "alias": "",
             "position": "127",
-            "notes": "https://www.artstation.com/artwork/nYlVar\n\n\nOG art_1:\nJiale on Artstation\nhttps://www.artstation.com/artwork/2q64XA\n\nOrphan"
+            "notes": "!tag remove-artifact\n!tag remove-enchantment\n!tag graveyard-hate\n\n\nhttps://www.artstation.com/artwork/nYlVar\n\n\nOG art_1:\nJiale on Artstation\nhttps://www.artstation.com/artwork/2q64XA\n\nOrphan"
         },
         {
             "card_name": "Steelstorm Conduit",
@@ -2616,10 +2616,10 @@
             "number": 1,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible Attach up to one target equipment you control to it.\n[-6]: Search your library and graveyard for any number of equipment cards. Put them onto the battlefield, then shuffle.",
+            "rules_text": "[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible. Attach up to one target Equipment you control to it.\n[-6]: Search your library and graveyard for any number of Equipment cards, put them onto the battlefield, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible Attach up to one target equipment you control to it.\n[-6]: Search your library and graveyard for any number of equipment cards. Put them onto the battlefield, then shuffle.",
+            "special_text": "[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible. Attach up to one target Equipment you control to it.\n[-6]: Search your library and graveyard for any number of Equipment cards, put them onto the battlefield, then shuffle.",
             "shape": "planeswalker",
             "set": "JDK",
             "loyalty": "2",
@@ -2646,7 +2646,7 @@
             "artist": "Michael MacRae on Artstation",
             "alias": "",
             "position": "131",
-            "notes": "https://www.artstation.com/artwork/2x32RY"
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/2x32RY"
         },
         {
             "card_name": "Grrr, Interplanar Armsdealer",
@@ -2656,17 +2656,17 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
-            "rules_text": "Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and an equipment from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your pre-combat main phase, add {B} for each swamp and equipment you control.\u201d",
+            "rules_text": "Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and an equipment from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your pre-combat main phase, add {B} for each swamp and equipment you control.\u201d",
+            "special_text": "Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.\u201d",
             "shape": "planeswalker",
             "set": "JDK",
             "loyalty": "5",
             "artist": "Gaelya (jacklac) on Bsky",
             "alias": "",
             "position": "132",
-            "notes": "https://bsky.app/profile/jacklacc.bsky.social/post/3lv63bw4b622f"
+            "notes": "!tag card-advantage\n!tag wrath\n\nhttps://bsky.app/profile/jacklacc.bsky.social/post/3lv63bw4b622f"
         },
         {
             "card_name": "Konzah, Gastropod Proficcionado",
@@ -2676,17 +2676,17 @@
             "number": 177,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact, if you do, create another token.\n[0]: You may sacrifice a Slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.\n[-9]: Put any number of permanents with different mana values from your hand onto the battlefield.\n[1]:",
+            "rules_text": "[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact. If you do, create another 1/1 green Slug creature token.\n[0]: You may sacrifice a Slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.\n[-9]: Put any number of permanents with different mana values from your hand onto the battlefield.\n[1]:",
             "flavor_text": "[i]ff[/i]",
             "pt": "",
-            "special_text": "[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact, if you do, create another token.\n[0]: You may sacrifice a Slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.\n[-9]: Put any number of permanents with different mana values from your hand onto the battlefield.\n[1]:",
+            "special_text": "[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact. If you do, create another 1/1 green Slug creature token.\n[0]: You may sacrifice a Slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.\n[-9]: Put any number of permanents with different mana values from your hand onto the battlefield.\n[1]:",
             "shape": "planeswalker",
             "set": "JDK",
             "loyalty": "4",
             "artist": "Edli Akolli on Artstation",
             "alias": "",
             "position": "133",
-            "notes": "https://www.artstation.com/artwork/Jl6m3Z\n\n\nhttps://tineye.com/search/53a27419a88c3498f5a1706da18ea289851139c4?sort=crawl_date&order=asc&page=1\n\nOG_2:\nPut a permanent card with mana value 0 from your hand onto the battlefield. Then repeat this process for mana values 1 through 8.\n\n\nUntil end of turn, Konzah becomes a X/5 Slug creature in addition to its other types. Where X is the number of creatures in your graveyard.\n\nYou may Sacrifice a non-token permanent. if you do, create two 1/1 Green slug creature tokens. otherwise, create a 1/1 Green slug creature token."
+            "notes": "!regrowth-permanent\n\n\nhttps://www.artstation.com/artwork/Jl6m3Z\n\n\nhttps://tineye.com/search/53a27419a88c3498f5a1706da18ea289851139c4?sort=crawl_date&order=asc&page=1\n\nOG_2:\nPut a permanent card with mana value 0 from your hand onto the battlefield. Then repeat this process for mana values 1 through 8.\n\n\nUntil end of turn, Konzah becomes a X/5 Slug creature in addition to its other types. Where X is the number of creatures in your graveyard.\n\nYou may Sacrifice a non-token permanent. if you do, create two 1/1 Green slug creature tokens. otherwise, create a 1/1 Green slug creature token."
         },
         {
             "card_name": "Semblance of Prosperity",
@@ -2716,7 +2716,7 @@
             "number": 229,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control. When it does, if it's the only creature on the battlefield, you gain 3 life and draw three cards.",
+            "rules_text": "Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control. Then if it's the only creature on the battlefield, you gain 3 life and draw three cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2726,7 +2726,7 @@
             "artist": "Phill-Art on Deviantart",
             "alias": "",
             "position": "135",
-            "notes": "https://www.deviantart.com/phill-art/art/Starcraft-Ghost-145332692\n\n\n\nAlt_1:\n\nTarget creature phases out. When it phases back in, if it's the only creature on the battlefield, you gain 3 life and draw three cards."
+            "notes": "!tag removal-creature\n\nhttps://www.deviantart.com/phill-art/art/Starcraft-Ghost-145332692\n\nOG_1:\n\nExile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control. When it does, if it's the only creature on the battlefield, you gain 3 life and draw three cards.\n\nAlt_1:\n\nTarget creature phases out. When it phases back in, if it's the only creature on the battlefield, you gain 3 life and draw three cards."
         },
         {
             "card_name": "Behel, Unliving Weapon",
@@ -2736,7 +2736,7 @@
             "number": 204,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
-            "rules_text": "As an additional cost to cast Behel, sacrifice an equipment.\nDeathtouch\nTreat Behel as though it's equipped with each equipment in your graveyard.",
+            "rules_text": "As an additional cost to cast Behel, sacrifice an Equipment.\nDeathtouch\nTreat Behel as though it's equipped with each Equipment card in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2766,7 +2766,7 @@
             "artist": "PumpkinPie92 on Deviantart",
             "alias": "",
             "position": "137",
-            "notes": "https://www.deviantart.com/pumpkinpie92/art/Reaper-444712432"
+            "notes": "!tag edict-creature\n\nhttps://www.deviantart.com/pumpkinpie92/art/Reaper-444712432"
         },
         {
             "card_name": "Breach the Factory",
@@ -2786,7 +2786,7 @@
             "artist": "Brushray on Deviantart",
             "alias": "",
             "position": "138",
-            "notes": "https://www.deviantart.com/brushray/art/The-Daemonastrolabium-of-the-Iron-Maw-991500658\n\n\nOG_1:\nCared about sacrificing artifacts"
+            "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/brushray/art/The-Daemonastrolabium-of-the-Iron-Maw-991500658\n\n\nOG_1:\nCared about sacrificing artifacts"
         },
         {
             "card_name": "Illusion of Peace",
@@ -2826,7 +2826,7 @@
             "artist": "brucebrenneise on Instagram",
             "alias": "",
             "position": "140",
-            "notes": "https://www.instagram.com/p/BrlnleLhrM-/\n\n\nAlt_1:\nChoose one, then choose one more for every (number) of different mana values in your graveyard. \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target creature.\n\u2022 Destroy target enchantment.\n\u2022 Destroy target nonbasic land.\n\u2022 Destroy target planeswalker."
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag removal-planeswalker\n!tag removal-creature\n!tag removal-battle\nhttps://www.instagram.com/p/BrlnleLhrM-/\n\n\nAlt_1:\nChoose one, then choose one more for every (number) of different mana values in your graveyard. \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target creature.\n\u2022 Destroy target enchantment.\n\u2022 Destroy target nonbasic land.\n\u2022 Destroy target planeswalker."
         },
         {
             "card_name": "Symmetric Warfare",
@@ -2846,7 +2846,7 @@
             "artist": "DrillSpear on Deviantart",
             "alias": "",
             "position": "141",
-            "notes": "https://www.deviantart.com/benedickbana/art/DrillSpear-1005348730\n\n\nOG_1:\nWas a shard\n\n\nOG art:\nhttps://www.artstation.com/artwork/4ZKK1\nZiaur Ovi on Artstation"
+            "notes": "!tag edict-any\n\nhttps://www.deviantart.com/benedickbana/art/DrillSpear-1005348730\n\n\nOG_1:\nWas a shard\n\n\nOG art:\nhttps://www.artstation.com/artwork/4ZKK1\nZiaur Ovi on Artstation"
         },
         {
             "card_name": "MMx2 The Factory",
@@ -2856,7 +2856,7 @@
             "number": 219,
             "color_identity": "UBRG",
             "cost": "{U}{B}{R}{G}",
-            "rules_text": "When MMx2 The Factory enters, create a treasure token, a clue token, and a food token.\nAt the beginning of your upkeep, create token copies of each other artifact you control. You lose 1 life for each token created this way.",
+            "rules_text": "When MMx2 The Factory enters, create a Treasure token, a Clue token, and a Food token.\nAt the beginning of your upkeep, for each other artifact you control, create a token that is a copy of that artifact. You lose 1 life for each token created this way.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2866,7 +2866,7 @@
             "artist": "Phill-Art on Deviantart",
             "alias": "",
             "position": "142",
-            "notes": "https://www.deviantart.com/phill-art/art/Nuclear-Reactor-454546815\n\nOG_2:\nCosted 1wubg (Red-less)\n\nOG_1:\nWas a \n(Apparrently I forgot to write this down?)"
+            "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/phill-art/art/Nuclear-Reactor-454546815\n\nOG_2:\nCosted 1wubg (Red-less)\n\nOG_1:\nWas a \n(Apparrently I forgot to write this down?)"
         },
         {
             "card_name": "Apocalypse Then",
@@ -2876,7 +2876,7 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{5}{R}{R}",
-            "rules_text": "Separate all nontoken permanents into one of two piles at random, then choose one of those piles. Destroy all permanents in the chosen pile.",
+            "rules_text": "Separate all nontoken permanents into one of two piles at random. Choose one of those piles. Destroy all permanents in the chosen pile.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2886,7 +2886,7 @@
             "artist": "Athavan Ananthakanesamoorthy on Artstation",
             "alias": "",
             "position": "143",
-            "notes": "https://www.artstation.com/artwork/d8vOkx"
+            "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/d8vOkx"
         },
         {
             "card_name": "Retrofitter's Ritual",
@@ -2916,7 +2916,7 @@
             "number": 46,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Flying, Vigilance, Phasing\nYou can cast Ayesha, Lost Embrace from anywhere that isn't your hand. [i](You can't cast her if you don't know where she is.)[/i]\nIf Ayesha would die, return her to her owner's hand instead of putting it into the graveyard.",
+            "rules_text": "Flying, vigilance, phasing\nYou can cast Ayesha from anywhere that isn't your hand. [i](You can't cast her if you don't know where she is.)[/i]\nIf Ayesha would die, return her to her owner's hand instead of putting her into the graveyard instead.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2976,7 +2976,7 @@
             "number": 248,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Flying\nWhenever The Goldigarch attacks, put two +1/+1 counters on each artifact creature, vehicle, and Implant you control.\nCrew 3",
+            "rules_text": "Flying\nWhenever The Goldigarch attacks, put two +1/+1 counters on each artifact creature, Vehicle, and Implant you control.\nCrew 3",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3006,7 +3006,7 @@
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
             "position": "149",
-            "notes": "https://www.artstation.com/artwork/mDWlJ9"
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/mDWlJ9"
         },
         {
             "card_name": "Furnace Firestarter",
@@ -3066,7 +3066,7 @@
             "artist": "Kateryna Vitkovska",
             "alias": "",
             "position": "152",
-            "notes": "https://www.artstation.com/artwork/VdrB3R\n\nWas moved from being a rare replacement for the RW rare, to being a colorless rare.\n\nOG_1:\ncosted RW\nWhen this artifact enters, add RW.\n2, T, Sacrifice this artifact: Draw a card."
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/VdrB3R\n\nWas moved from being a rare replacement for the RW rare, to being a colorless rare.\n\nOG_1:\ncosted RW\nWhen this artifact enters, add RW.\n2, T, Sacrifice this artifact: Draw a card."
         },
         {
             "card_name": "Sponsored Companion",
@@ -3086,7 +3086,7 @@
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
             "position": "153",
-            "notes": "\nhttps://www.artstation.com/artwork/L90Ov\n\n\n\"head on over to our free trial\n\nOG_2:\nCosted 3 mana\n\nOG_1:\nCosted 1 and a twobrid white\n\n"
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/L90Ov\n\n\n\"head on over to our free trial\n\nOG_2:\nCosted 3 mana\n\nOG_1:\nCosted 1 and a twobrid white\n\n"
         },
         {
             "card_name": "Brainial Plating",
@@ -3096,7 +3096,7 @@
             "number": 234,
             "color_identity": "U",
             "cost": "{2}",
-            "rules_text": "Equipped creature gets +1/+0 for each equipment you control and each equipment card in your graveyard.\n{U}{U}: Attach this equipment to target creature you control.\nEquip {1}",
+            "rules_text": "Equipped creature gets +1/+0 for each Equipment you control and each equipment card in your graveyard.\n{U}{U}: Attach this Equipment to target creature you control.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3156,7 +3156,7 @@
             "number": 270,
             "color_identity": "G",
             "cost": "{2}",
-            "rules_text": "When this creature enters the battlefield, search your library for a creature card and reveal it. Shuffle, then put that card on top.\n{4}{G}{G}, Sacrifice this artifact: Put a creature card from your hand onto the battlefield.",
+            "rules_text": "When this creature enters the battlefield, search your library for a creature card, reveal it, then shuffle and put the card on top.\n{4}{G}{G}, Sacrifice this artifact: Put a creature card from your hand onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3196,7 +3196,7 @@
             "number": 106,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "When this equipment enters, create a 5/5 green Crab creature token and attach this equipment to it.\nWhenever a creature blocks or becomes blocked by equipped creature, its toughness becomes 1 until end of turn.\nEquip {2}",
+            "rules_text": "When this Equipment enters, create a 5/5 green Crab creature token and attach this equipment to it.\nWhenever a creature blocks or becomes blocked by equipped creature, its toughness becomes 1 until end of turn.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3236,7 +3236,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, each opponent loses 2 life, then put a +1/+1 counter on this creature. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, each opponent loses 2 life, then put a +1/+1 counter on this creature. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3326,7 +3326,7 @@
             "artist": "Vlad Marica on Artstation",
             "alias": "",
             "position": "165",
-            "notes": "https://www.artstation.com/artwork/g0RVQL\n\n\n\nOG_1:\nAs long as you control a swamp, you may sacrifice three artifact creatures rather than pay this spell's mana cost.\nExile three artifact creature cards from your graveyard: Return _2 Talvage Sitan from your graveyard to your hand.\n\nOG_0:\nSalvage Titan"
+            "notes": "!tag regrowth-self\n\nhttps://www.artstation.com/artwork/g0RVQL\n\n\n\nOG_1:\nAs long as you control a swamp, you may sacrifice three artifact creatures rather than pay this spell's mana cost.\nExile three artifact creature cards from your graveyard: Return _2 Talvage Sitan from your graveyard to your hand.\n\nOG_0:\nSalvage Titan"
         },
         {
             "card_name": "Conflict of Interest",
@@ -3346,7 +3346,7 @@
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
             "position": "166",
-            "notes": "https://www.artstation.com/artwork/gRRYAG\n\nOG art_1:\n@bagriBy on Twitter\nhttps://twitter.com/bagriBy/status/1678794576146976768"
+            "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/gRRYAG\n\nOG art_1:\n@bagriBy on Twitter\nhttps://twitter.com/bagriBy/status/1678794576146976768"
         },
         {
             "card_name": "Trashore Ogre",
@@ -3386,7 +3386,7 @@
             "artist": "Moshe Alamaro",
             "alias": "",
             "position": "168",
-            "notes": "https://x.com/Kerbo46188000/status/1843481760417648689/photo/1\n\nOG art_1:\nEjii Mendoza on Artstation\nhttps://www.artstation.com/artwork/DAwzGO\n\n\nAlt:For each player, choose three noncreature permanents they control. Each player sacrifices the chosen permanents, searches their libraries for three basic land cards and puts them onto the battlefield, then shuffles.\n\nOG_1:\nFor each player, destroy three target noncreature permanents they control. Each player searches their library for three basic land cards, puts them onto the battlefield, then shuffles."
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag removal-planeswalker\n!tag removal-land\n!tag removal-battle\n\nhttps://x.com/Kerbo46188000/status/1843481760417648689/photo/1\n\nOG art_1:\nEjii Mendoza on Artstation\nhttps://www.artstation.com/artwork/DAwzGO\n\n\nAlt:For each player, choose three noncreature permanents they control. Each player sacrifices the chosen permanents, searches their libraries for three basic land cards and puts them onto the battlefield, then shuffles.\n\nOG_1:\nFor each player, destroy three target noncreature permanents they control. Each player searches their library for three basic land cards, puts them onto the battlefield, then shuffles."
         },
         {
             "card_name": "Jade Armorer",
@@ -3396,7 +3396,7 @@
             "number": 173,
             "color_identity": "G",
             "cost": "{X}{G}",
-            "rules_text": "When this creature enters, create an Implant token with X +1/+1 counters on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with X +1/+1 counters on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3436,7 +3436,7 @@
             "number": 180,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Put a hexproof counter on target creature, it gains +1/+1 until end of turn. Remove a counter from that creature at the beginning of the next end step.",
+            "rules_text": "Put a hexproof counter on target creature. It gets +1/+1 until end of turn. Remove a counter from that creature at the beginning of the next end step.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "",
             "special_text": "",
@@ -3656,7 +3656,7 @@
             "number": 227,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Flying\nWhenever an opponent draws a card, they lose X life and you surveil X, where X is the number of equipment attached to this creature.",
+            "rules_text": "Flying\nWhenever an opponent draws a card, they lose X life and you surveil X, where X is the number of Equipment attached to this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3706,7 +3706,7 @@
             "artist": "Travis Anderson on Artstation",
             "alias": "",
             "position": "184",
-            "notes": "https://www.artstation.com/artwork/49KmbL\n\nOG_2: RG rework\nCosted X2RG\nAs an additional cost to casting this spell you may sacrifice any number of artifacts. This spell costs 2 less to cast for each artifact sacrificed this way.\nThis spell deals X plus 3 damage to target creature and X minus 3 damage to target player or planeswalker. You gain X life.\n\nOG_1:\nAs an additional cost to casting this spell you may sacrifice any number of artifacts. This spell costs 2 less to cast for each artifact sacrificed this way.\nScrapfire deals twice X damage to target creature and X damage to target opponent. You gain half X life, rounded down."
+            "notes": "!tag damage-creature\n!tag damage-player\n!tag damage-planeswalker\n\nhttps://www.artstation.com/artwork/49KmbL\n\nOG_2: RG rework\nCosted X2RG\nAs an additional cost to casting this spell you may sacrifice any number of artifacts. This spell costs 2 less to cast for each artifact sacrificed this way.\nThis spell deals X plus 3 damage to target creature and X minus 3 damage to target player or planeswalker. You gain X life.\n\nOG_1:\nAs an additional cost to casting this spell you may sacrifice any number of artifacts. This spell costs 2 less to cast for each artifact sacrificed this way.\nScrapfire deals twice X damage to target creature and X damage to target opponent. You gain half X life, rounded down."
         },
         {
             "card_name": "Easy-Fix Scrapheap",
@@ -3736,7 +3736,7 @@
             "number": 207,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Equipped creature gets +1/+1\nWhenever this artifact becomes equipped to a creature, that creature gains double strike and deathtouch until end of turn.\nEquip {2}",
+            "rules_text": "Equipped creature gets +1/+1\nWhenever this Equipment becomes equipped to a creature, that creature gains double strike and deathtouch until end of turn.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3766,7 +3766,7 @@
             "artist": "Koirart on Artstation",
             "alias": "",
             "position": "187",
-            "notes": "https://www.artstation.com/artwork/03wvy8\n\n\nOG art_1:\nThiago Lehmann on Artstation on Artstation\nhttps://www.artstation.com/artwork/oABRmm\n\n\nOG_2:\nWasn't an artifact creature\n\nOG_1:\nUsed the original clang version\n\n\nOrphan"
+            "notes": "!tag cantrip\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/03wvy8\n\n\nOG art_1:\nThiago Lehmann on Artstation on Artstation\nhttps://www.artstation.com/artwork/oABRmm\n\n\nOG_2:\nWasn't an artifact creature\n\nOG_1:\nUsed the original clang version\n\n\nOrphan"
         },
         {
             "card_name": "Dross Digestion",
@@ -3806,10 +3806,10 @@
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
             "position": "189",
-            "notes": "https://www.deviantart.com/cobaltplasma/art/Sci-Fi-Forge-858630102\n\n\nAlt_1:\nLook at the top six cards of your library. You may cast any number of artifact cards from among them with total mana value 5 or less without paying their mana cost. Put the rest on the bottom of your library in a random order."
+            "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/cobaltplasma/art/Sci-Fi-Forge-858630102\n\n\nAlt_1:\nLook at the top six cards of your library. You may cast any number of artifact cards from among them with total mana value 5 or less without paying their mana cost. Put the rest on the bottom of your library in a random order."
         },
         {
-            "card_name": "Mass reproduction",
+            "card_name": "Mass Reproduction",
             "color": "UG",
             "rarity": "rare",
             "type": "Sorcery",
@@ -3843,7 +3843,7 @@
             "shape": "normal",
             "set": "JDK",
             "loyalty": "",
-            "artist": "",
+            "artist": "Zlideart",
             "alias": "",
             "position": "191",
             "notes": ""
@@ -3886,7 +3886,7 @@
             "artist": "Phill-Art on Deviantart",
             "alias": "",
             "position": "193",
-            "notes": "https://www.deviantart.com/phill-art/art/Doomed-269712405\n\n\nOG art_1:\nspace goose on Artstation\nhttps://www.artstation.com/artwork/lRZ4bo"
+            "notes": "!tag damage-creature\n!tag damage-planewalker\n!tag cantrip\n\nhttps://www.deviantart.com/phill-art/art/Doomed-269712405\n\n\nOG art_1:\nspace goose on Artstation\nhttps://www.artstation.com/artwork/lRZ4bo"
         },
         {
             "card_name": "Rhoogex, the Furnace Lord",
@@ -3926,7 +3926,7 @@
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
             "position": "195",
-            "notes": "https://www.deviantart.com/cobaltplasma/art/Fire-Golem-30min-spitpaint-905026666\n\n\nOG art_1:\nKIMJAEWOO FIREBRUSH on Artstation\nhttps://www.artstation.com/artwork/R60EO"
+            "notes": "!tag damage-creature\n\nhttps://www.deviantart.com/cobaltplasma/art/Fire-Golem-30min-spitpaint-905026666\n\n\nOG art_1:\nKIMJAEWOO FIREBRUSH on Artstation\nhttps://www.artstation.com/artwork/R60EO"
         },
         {
             "card_name": "Clangorous Militia",
@@ -3936,7 +3936,7 @@
             "number": 129,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "[i]Clang[/i] \u2014 Whenever an artifact enters under your control, create a 1/1 white soldier creature token. It gains haste and must attack this combat if able.",
+            "rules_text": "[i]Clang[/i] \u2014 Whenever an artifact enters under your control, create a 1/1 white Soldier creature token. It gains haste and must attack this combat if able.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4056,7 +4056,7 @@
             "number": 41,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "Flying\nOther noncreature artifacts you control are 3/3 construct artifact creatures in addition to their other types.\nWhenever you cast an artifact spell, draw a card.",
+            "rules_text": "Flying\nOther noncreature artifacts you control are 3/3 Construct artifact creatures in addition to their other types.\nWhenever you cast an artifact spell, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4086,7 +4086,7 @@
             "artist": "Michael MacRae on Artstation",
             "alias": "",
             "position": "203",
-            "notes": "https://www.artstation.com/artwork/XBVQq0"
+            "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/XBVQq0"
         },
         {
             "card_name": "Mechanical Mimic",
@@ -4116,7 +4116,7 @@
             "number": 67,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Affinity for equipment.\nWhen this equipment enters, draw two cards.\nEquipped creature gets +2/+2.\nEquip {2}",
+            "rules_text": "Affinity for equipment\nWhen this Equipment enters, draw two cards.\nEquipped creature gets +2/+2.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4126,7 +4126,7 @@
             "artist": "Bjorn Hurri on Artstation",
             "alias": "",
             "position": "205",
-            "notes": "https://www.artstation.com/artwork/GXznz\n\n\nOG_1:\nCosted 6 mana, affinity for artifacts."
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/GXznz\n\n\nOG_1:\nCosted 6 mana, affinity for artifacts."
         },
         {
             "card_name": "Nerveweave Swap Station",
@@ -4136,7 +4136,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "{T}, Swap target nontoken creature's power or toughness with its mana value until end of turn.\n{3}{U}{U}, {T}, Sacrifice this artifact: Swap control of two target permanents.",
+            "rules_text": "{T}: Swap target nontoken creature's power or toughness with its mana value until end of turn.\n{3}{U}{U}, {T}, Sacrifice this artifact: Swap control of two target permanents.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4156,7 +4156,7 @@
             "number": 18,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Enchant Creature\nEnchanted creature has vigilance. Whenever enchanted creature attacks, tap target creature an opponent controls.\n{1}{W}{W}, Discard this card: Untap any number of target creatures. They gain +1/+0 until end of turn.",
+            "rules_text": "Enchant creature\nEnchanted creature has vigilance and \u201cWhenever this creature attacks, tap target creature an opponent controls.\u201d\n{1}{W}{W}, Discard this card: Untap any number of target creatures. They each get +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4177,7 +4177,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Modified creatures you control get +1/+1. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
-            "flavor_text": "[i]While all denizens of Jardeka find Implants useful, some are simply more in tune with them than others.[/i]",
+            "flavor_text": "[i]While all denizens of Jardeka find implants useful, some are simply more in tune with them than others.[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -4196,7 +4196,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flying\n[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. Each ability source triggers this only once each turn.",
+            "rules_text": "Flying\n[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, return up to one target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4209,14 +4209,14 @@
             "notes": "https://bsky.app/profile/rifuhata.bsky.social/post/3lunjbs3xgc24\n\nOG art_1:\nValentin Rusinov on Artstation\nhttps://www.artstation.com/artwork/BAQq9\n\n\nOG_2:\nDidn't have flying, removed the finality counter.\nwas a 3/2\n\nOG_1:\nProficiency \u2014 Whenever you activate an ability targeting this creature, you gain 2 life. Each ability source triggers this only once each turn.\n\n\n"
         },
         {
-            "card_name": "Lisence Suspender",
+            "card_name": "License Suspender",
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2014 Human Cleric",
-            "number": 17,
+            "number": 15,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "[i]Clang[/i] \u2014 Whenever an artifact enters under your control, exile up to one target artifact or creature an opponent controls until Lisence Suspender leaves the battlefield.",
+            "rules_text": "[i]Clang[/i] \u2014 Whenever an artifact enters under your control, exile up to one target artifact or creature an opponent controls until this creature leaves the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4226,7 +4226,7 @@
             "artist": "Jessada-Art on deviantart",
             "alias": "",
             "position": "210",
-            "notes": "https://www.deviantart.com/jessada-art/art/Angel-of-War-81090541"
+            "notes": "!tag banisher-priest\n\nhttps://www.deviantart.com/jessada-art/art/Angel-of-War-81090541"
         },
         {
             "card_name": "Perfected Armormod",
@@ -4276,7 +4276,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Flying, First strike, Vigilance\nWhenever this creature attacks, create an Implant token with your choice of a Flying, First strike, Vigilance, or +1/+1 counter on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "Flying, first strike, vigilance\nWhenever this creature attacks, create an Implant token with your choice of a flying, first strike, vigilance, or +1/+1 counter on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4326,7 +4326,7 @@
             "artist": "Roberto Padula on Artstation",
             "alias": "",
             "position": "215",
-            "notes": "OG art_2:\nSergey Vasnev on artstation\nhttps://www.artstation.com/artwork/Qa5x3\n\nOG art_1:\nReuben Yeo on Artstation\nhttps://www.artstation.com/artwork/YeR6xV\n\nOG_3:\nWas a 1/1 that didn't enter with a counter.\n\nOG_2:\naa didn't exile things from graveyards\n\nOG_1:\n5 mana aa"
+            "notes": "!tag graveyard-hate\n\nOG art_2:\nSergey Vasnev on artstation\nhttps://www.artstation.com/artwork/Qa5x3\n\nOG art_1:\nReuben Yeo on Artstation\nhttps://www.artstation.com/artwork/YeR6xV\n\nOG_3:\nWas a 1/1 that didn't enter with a counter.\n\nOG_2:\naa didn't exile things from graveyards\n\nOG_1:\n5 mana aa"
         },
         {
             "card_name": "Half-Chi",
@@ -4416,7 +4416,7 @@
             "number": 262,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Protection from creatures with +1/+1 counters.\nWhen this creature enters, create an Implant token with a +1/+1 counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "Protection from creatures with +1/+1 counters.\nWhen this creature enters, create an Implant token with a +1/+1 counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -4476,7 +4476,7 @@
             "number": 261,
             "color_identity": "C",
             "cost": "{6}",
-            "rules_text": "Whenever this creature deals damage, each player mills that many cards, then you may return a equipment card from your graveyard to your hand.",
+            "rules_text": "Whenever this creature deals damage, each player mills that many cards, then you may return a Equipment card from your graveyard to your hand.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "6/4",
             "special_text": "",
@@ -4496,7 +4496,7 @@
             "number": 232,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "Flash\nWhen this equipment enters, attach it to target creature you control. That creature gets +0/+3 until end of turn.\nEquipped creature gets +3/+0.\nEquip {3}",
+            "rules_text": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gets +0/+3 until end of turn.\nEquipped creature gets +3/+0.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4526,7 +4526,7 @@
             "artist": "Pencil Equipped on Artstation",
             "alias": "",
             "position": "225",
-            "notes": "https://www.artstation.com/artwork/nYROYo\n\n\nOG_1:\nWas 6 mana"
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/nYROYo\n\n\nOG_1:\nWas 6 mana"
         },
         {
             "card_name": "Trash Dowsing Staff",
@@ -4596,7 +4596,7 @@
             "number": 266,
             "color_identity": "B",
             "cost": "{3}",
-            "rules_text": "Equipped creature gets +2/+0.\nWhenever equipped creature dies, draw a card.\nEquip artifact creature {B}\nEquip {3}",
+            "rules_text": "Equipped creature gets +2/+0.\nWhenever equipped creature dies, draw a card.\nEquip {3}\nEquip artifact creature {B}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4606,7 +4606,7 @@
             "artist": "Jessada-Art on Deviantart",
             "alias": "",
             "position": "229",
-            "notes": "https://www.deviantart.com/jessada-art/art/Scorpion-Amulet-95585471\nOG art_1:\nChloe Whittle on Artstation\nhttps://www.artstation.com/artwork/oA9ABW\n\n\nPotential Alt:\nEquipped creature gets +2/+1.\nWhenever this or equipped creature dies, draw a card.\nReconfigure B\n2/1\n\nOG_2:\nEquipped creature gets +2/+0.\nWhenever equipped creature dies, draw a card.\nEquip artifact creature B\nEquip 3\n\nOG_1:\nCosted 2B\nEquipped creature gets +2/+0.\nWhenever equipped creature dies, draw a card.\nEquip artifact creature B\nEquip 2BB"
+            "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/jessada-art/art/Scorpion-Amulet-95585471\nOG art_1:\nChloe Whittle on Artstation\nhttps://www.artstation.com/artwork/oA9ABW\n\n\nPotential Alt:\nEquipped creature gets +2/+1.\nWhenever this or equipped creature dies, draw a card.\nReconfigure B\n2/1\n\nOG_2:\nEquipped creature gets +2/+0.\nWhenever equipped creature dies, draw a card.\nEquip artifact creature B\nEquip 3\n\nOG_1:\nCosted 2B\nEquipped creature gets +2/+0.\nWhenever equipped creature dies, draw a card.\nEquip artifact creature B\nEquip 2BB"
         },
         {
             "card_name": "Metalshroom Foofballs",
@@ -4626,7 +4626,7 @@
             "artist": "ari-Matti Toivonen on Artstation",
             "alias": "",
             "position": "230",
-            "notes": "https://www.artstation.com/artwork/gAQvP\n\nR (non white?)\n\nPotential alt:\nTrample\nWhenever this vehicle deals combat damage to a player, you may pay R. When you do, discard your hand, then draw cards equal to the damage dealt.\nCrew 1\n\nOG_1:\nCosted 3\nWhen this artifact enters or leaves the battlefield, create a 1/1 colorless Saproling Construct artifact creature token.\nConstructcycling 1R\n"
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/gAQvP\n\nR (non white?)\n\nPotential alt:\nTrample\nWhenever this vehicle deals combat damage to a player, you may pay R. When you do, discard your hand, then draw cards equal to the damage dealt.\nCrew 1\n\nOG_1:\nCosted 3\nWhen this artifact enters or leaves the battlefield, create a 1/1 colorless Saproling Construct artifact creature token.\nConstructcycling 1R\n"
         },
         {
             "card_name": "Seeding Mine",
@@ -4656,7 +4656,7 @@
             "number": 84,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Deathtouch\n[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn.",
+            "rules_text": "Deathtouch\n[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4696,7 +4696,7 @@
             "number": 120,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Whenever this creature blocks, discard a card.\n{3}{B}, Mill two cards: Return this creature from your graveyard to the battlefield. Activate only as a sorcery. This ability costs {2} less to activate if you control three or more artifact creatures.",
+            "rules_text": "Whenever this creature blocks, discard a card.\n{3}{B}, Mill two cards: Return this card from your graveyard to the battlefield. Activate only as a sorcery. This ability costs {2} less to activate if you control three or more artifact creatures.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -4706,7 +4706,7 @@
             "artist": "Maxim Buyanov on Artstation",
             "alias": "",
             "position": "234",
-            "notes": "https://www.artstation.com/artwork/28V3me\n\n\n\nOG_2:\nAA costed 4B, and cost reduction was 3 mana.\n\n\n\n\nOG_1:\nWhenever MV3 Wredger blocks, discard a card.\n1B, Mill two cards: Return MV3 Wredger from your graveyard to the battlefield. Activate only as a sorcery and only if you control three or more artifact creatures."
+            "notes": "!tag reanimate-self\n\nhttps://www.artstation.com/artwork/28V3me\n\n\n\nOG_2:\nAA costed 4B, and cost reduction was 3 mana.\n\n\n\n\nOG_1:\nWhenever MV3 Wredger blocks, discard a card.\n1B, Mill two cards: Return MV3 Wredger from your graveyard to the battlefield. Activate only as a sorcery and only if you control three or more artifact creatures."
         },
         {
             "card_name": "Zjieg, Edgelord",
@@ -4716,8 +4716,8 @@
             "number": 121,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Equipped creatures you control get +1/+0.\nWhen Zjieg enters, search your library for a card, then shuffle. If it's an equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Equipped creatures you control get +1/+0.\nWhen Zjieg enters, search your library for a card, then shuffle. If it's an Equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library.",
+            "flavor_text": "[i]ft[/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
@@ -4736,7 +4736,7 @@
             "number": 91,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -4746,7 +4746,7 @@
             "artist": "Jason Nguyen",
             "alias": "",
             "position": "236",
-            "notes": "https://www.deviantart.com/jasontn/art/Dark-Templar-503749449\n\nOG_3:\nwas a 3/5\n\nOG_2:\nProficiency \u2014 Whenever you activate an ability targeting MV5 Extortionist Cutpurse (errata), each opponent discards a card. Each ability source triggers this only once each turn.\n\nOG_1:\nLurk\u2014Pay 2 life.\nWhenever an opponent pays a cost that isn't a part of casting a spell or activating an ability, if they paid life, you gain 1 life, if they paid mana, you create a treasure token.\n\nOrphan"
+            "notes": "!tag hand-disruption-untargetted\n\nhttps://www.deviantart.com/jasontn/art/Dark-Templar-503749449\n\nOG_3:\nwas a 3/5\n\nOG_2:\nProficiency \u2014 Whenever you activate an ability targeting MV5 Extortionist Cutpurse (errata), each opponent discards a card. Each ability source triggers this only once each turn.\n\nOG_1:\nLurk\u2014Pay 2 life.\nWhenever an opponent pays a cost that isn't a part of casting a spell or activating an ability, if they paid life, you gain 1 life, if they paid mana, you create a treasure token.\n\nOrphan"
         },
         {
             "card_name": "Smokebrock Vulture",
@@ -4756,7 +4756,7 @@
             "number": 114,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Lurk\u2014Pay 2 life [i](Defending player can't block this creature unless they pay 2 life in addition to any other costs.)[/i]\nWhen this creature enters, return target artifact creature from your graveyard to your hand.",
+            "rules_text": "Lurk\u2014Pay 2 life [i](Defending player can't block this creature unless they pay 2 life in addition to any other costs.)[/i]\nWhen this creature enters, return target artifact creature card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4766,7 +4766,7 @@
             "artist": "Fran Fdez on Artstation",
             "alias": "",
             "position": "237",
-            "notes": "https://www.artstation.com/artwork/mD10Na\n\nOG art_1:\nIlari Gr\u00f6hn on Artstation\nhttps://www.artstation.com/artwork/9ev0mL\n\nOG_3:\nDidn't have the lurk, was a 2/4\n\nOG_2:\nAs long as there are five or more different mana values among cards in your graveyard, _1 MV4 Smokeback Vulture 99 has \u201cWard\u2014Sacrifice two permanents.\u201d And \u201cLurk\u2014Sacrifice two permanents.\u201d (Defending player can't block this creature unless they Sacrifice two permanents.)\n\nOG_1:\nCosted 2BB"
+            "notes": "!tag regrowth-creature\n\nhttps://www.artstation.com/artwork/mD10Na\n\nOG art_1:\nIlari Gr\u00f6hn on Artstation\nhttps://www.artstation.com/artwork/9ev0mL\n\nOG_3:\nDidn't have the lurk, was a 2/4\n\nOG_2:\nAs long as there are five or more different mana values among cards in your graveyard, _1 MV4 Smokeback Vulture 99 has \u201cWard\u2014Sacrifice two permanents.\u201d And \u201cLurk\u2014Sacrifice two permanents.\u201d (Defending player can't block this creature unless they Sacrifice two permanents.)\n\nOG_1:\nCosted 2BB"
         },
         {
             "card_name": "Grrr's Warhound",
@@ -4776,7 +4776,7 @@
             "number": 95,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Whenever an equipment enters under your control and this card is in your graveyard, you may pay {B}. If you do, return this creature to the battlefield and attach that equipment to it.",
+            "rules_text": "Whenever an Equipment you control enters, you may pay {B}. If you do, return this creature card from your graveyard to the battlefield and attach that Equipment to it.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4786,7 +4786,7 @@
             "artist": "Jakub Bazyluk on Artstation",
             "alias": "",
             "position": "238",
-            "notes": "https://www.artstation.com/artwork/Dx9Byy"
+            "notes": "!tag reanimate-self\n\nhttps://www.artstation.com/artwork/Dx9Byy"
         },
         {
             "card_name": "Merciless Rend",
@@ -4796,7 +4796,7 @@
             "number": 104,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Exile target creature. If that creature had any counters on it, choose one and create an Implant token with that counter on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "Exile target creature. If that creature had any counters on it, choose one and create an Implant token with that counter on it. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4806,7 +4806,7 @@
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
             "position": "239",
-            "notes": "https://www.deviantart.com/cobaltplasma/art/Katana-of-Giant-Slaying-759796829\n\n\nOG art_1:\nJean-Baptiste \"Djib\" Reynaud on Artstation\nhttps://www.artstation.com/artwork/lRnKOG\n\nOG_2:\nExile target creature. If that creature had any counters on it, choose one and put a counter of that kind on target artifact you control.\n\nOG_1:\nExile target creature. If that creature had any counters on it, choose one and create an implant with that counter on it."
+            "notes": "!tag removal-creature\n\nhttps://www.deviantart.com/cobaltplasma/art/Katana-of-Giant-Slaying-759796829\n\n\nOG art_1:\nJean-Baptiste \"Djib\" Reynaud on Artstation\nhttps://www.artstation.com/artwork/lRnKOG\n\nOG_2:\nExile target creature. If that creature had any counters on it, choose one and put a counter of that kind on target artifact you control.\n\nOG_1:\nExile target creature. If that creature had any counters on it, choose one and create an implant with that counter on it."
         },
         {
             "card_name": "Manufacturing Defect",
@@ -4826,7 +4826,7 @@
             "artist": "Henri Kutvonen on Artstation",
             "alias": "",
             "position": "240",
-            "notes": "https://www.artstation.com/artwork/lV9oek"
+            "notes": "!tag removal-creature\n!tag hand-disruption-untargetted\n\nhttps://www.artstation.com/artwork/lV9oek"
         },
         {
             "card_name": "Under the Junk-sea",
@@ -4836,7 +4836,7 @@
             "number": 118,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "You draw two cards and lose 2 life.\nAt the beginning of your end step. If you have five or more different mana values among cards in your graveyard and you control a swamp, you may exile this card from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.",
+            "rules_text": "You draw two cards and lose 2 life.\nAt the beginning of your end step, if you have five or more different mana values among cards in your graveyard and you control a Swamp, you may exile this card from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4846,7 +4846,7 @@
             "artist": "Eddie Del Rio on Artstation",
             "alias": "",
             "position": "241",
-            "notes": "https://www.artstation.com/artwork/OLY3g\n\nOG art_1:\npythosart on Tumblr\nhttps://pythosart.tumblr.com/post/723054296140316672/what-if-i-made-up-a-liz-for-a-fantasy-mech-rpg-i\n\nOG_2:\nWas common\n\nOG_1:\nYou draw two cards and lose 2 life.\nAt the beginning of your end step. If there are four or more other noncreature cards in your graveyard and you control a swamp, you may exile Wasteyard Dread from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.\n\n\nOG_3:\nEquipped creature gets +3/-2.\nEquip 2\n2B, Exile Scavenger's Dagger from your graveyard: Target creature gets +3/-2 until end of turn.\n\n\n\n\n\nOG_2:\nEquipped creature gets +2/-1.\nWhenever equipped creature dies, you gain 2 life.\nEquip 2\n\n\nOG_1:\n2B\nEquipped creature gets +2/+0 and can't block.\nWhenever equipped creature dies, you gain 2 life.\nEquip 2"
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/OLY3g\n\nOG art_1:\npythosart on Tumblr\nhttps://pythosart.tumblr.com/post/723054296140316672/what-if-i-made-up-a-liz-for-a-fantasy-mech-rpg-i\n\nOG_2:\nWas common\n\nOG_1:\nYou draw two cards and lose 2 life.\nAt the beginning of your end step. If there are four or more other noncreature cards in your graveyard and you control a swamp, you may exile Wasteyard Dread from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.\n\n\nOG_3:\nEquipped creature gets +3/-2.\nEquip 2\n2B, Exile Scavenger's Dagger from your graveyard: Target creature gets +3/-2 until end of turn.\n\n\n\n\n\nOG_2:\nEquipped creature gets +2/-1.\nWhenever equipped creature dies, you gain 2 life.\nEquip 2\n\n\nOG_1:\n2B\nEquipped creature gets +2/+0 and can't block.\nWhenever equipped creature dies, you gain 2 life.\nEquip 2"
         },
         {
             "card_name": "Boneforged Staff",
@@ -4876,7 +4876,7 @@
             "number": 111,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Return target creature card from your graveyard to the battlefield. You may attach an equipment you control to it.",
+            "rules_text": "Return target creature card from your graveyard to the battlefield. You may attach an Equipment you control to it.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "",
             "special_text": "",
@@ -4886,7 +4886,7 @@
             "artist": "Floris Roding on Artstation",
             "alias": "",
             "position": "243",
-            "notes": "https://www.artstation.com/artwork/L3AJPw\n\nog art_1:\nHalil Ural\nhttps://www.artstation.com/artwork/YaZaqK\n\n\n\nOG art_1:\nmedli20 on Tumblr\nhttps://www.tumblr.com/medli20/655896520738160640/my-students-peer-pressured-me-into-painting-a-jojo?source=share"
+            "notes": "!tag reanimate-creature\n\nhttps://www.artstation.com/artwork/L3AJPw\n\nog art_1:\nHalil Ural\nhttps://www.artstation.com/artwork/YaZaqK\n\n\n\nOG art_1:\nmedli20 on Tumblr\nhttps://www.tumblr.com/medli20/655896520738160640/my-students-peer-pressured-me-into-painting-a-jojo?source=share"
         },
         {
             "card_name": "Sulphuric Seas",
@@ -4906,7 +4906,7 @@
             "artist": "MIKAIL IL on Artstation",
             "alias": "",
             "position": "244",
-            "notes": "https://www.artstation.com/artwork/zOyVyq"
+            "notes": "!tag edict-creature\n\nhttps://www.artstation.com/artwork/zOyVyq"
         },
         {
             "card_name": "Miasma Siphoner",
@@ -4926,7 +4926,7 @@
             "artist": "1oshuart on Deviantart",
             "alias": "",
             "position": "245",
-            "notes": "https://www.deviantart.com/1oshuart/art/Soul-catcher-845702900\n\n\nOG_6:\nWhen this artifact enters, mill three cards.\nWhenever equipped creature gets blocked, target creature blocking it gets -X/-X until end of turn, where X is the number of different mana values among cards in your graveyard.\nEquip 3\n\nOG_5:\nWhen this equipment enters or whenever an opponent loses life, put a smoke counter on it.\nEquipped creature gets +1/+0 and gains \u201cWard\u2014pay 1 life.\u201d for each smoke counter on this equipment.\nEquip 3\n\nOG_4:\nWhen this equipment enters, attach it to target creature.\nEquipped creature gets +0/+2 and gains \u201cWard\u2014pay 3 life.\nWhen equipped creature dies, you may sacrifice this equipment. When you do, return that creature to the battlefield tapped under your control.\nEquip B\n\nOG_3:\nWas a common card.\n\nOG_2:\nGave +0/+2\n\nOG_1:\nEquipped creature gets +2/+0.\nWhenever equipped creature dies, you may sacrifice Soulsifter Aegis. If you do, return that creature to the battlefield tapped under your control.\nEquip B"
+            "notes": "!tag regrowth-self\n\nhttps://www.deviantart.com/1oshuart/art/Soul-catcher-845702900\n\n\nOG_6:\nWhen this artifact enters, mill three cards.\nWhenever equipped creature gets blocked, target creature blocking it gets -X/-X until end of turn, where X is the number of different mana values among cards in your graveyard.\nEquip 3\n\nOG_5:\nWhen this equipment enters or whenever an opponent loses life, put a smoke counter on it.\nEquipped creature gets +1/+0 and gains \u201cWard\u2014pay 1 life.\u201d for each smoke counter on this equipment.\nEquip 3\n\nOG_4:\nWhen this equipment enters, attach it to target creature.\nEquipped creature gets +0/+2 and gains \u201cWard\u2014pay 3 life.\nWhen equipped creature dies, you may sacrifice this equipment. When you do, return that creature to the battlefield tapped under your control.\nEquip B\n\nOG_3:\nWas a common card.\n\nOG_2:\nGave +0/+2\n\nOG_1:\nEquipped creature gets +2/+0.\nWhenever equipped creature dies, you may sacrifice Soulsifter Aegis. If you do, return that creature to the battlefield tapped under your control.\nEquip B"
         },
         {
             "card_name": "Steel Soul Farie",
@@ -4936,7 +4936,7 @@
             "number": 192,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Protection from equipment and from equipped creatures.\n{3}{G}: This creature gets +1/+0 and gains indestructible until end of turn, Tap it. This ability costs {1} less to activate for each kind of counter among permanents you control.",
+            "rules_text": "Protection from equipment and from equipped creatures.\n{3}{G}: This creature gets +1/+0 and gains indestructible until end of turn. Tap it. This ability costs {1} less to activate for each kind of counter among permanents you control.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -5026,7 +5026,7 @@
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
             "position": "250",
-            "notes": "https://www.artstation.com/artwork/oAQ6kO\n\nOG art_1:\nmoiderahart on Tumblr\nhttps://moiderahart.tumblr.com/post/720317096686419968\n\nOG_3:\nDevour artifact 1 (As this enters the battlefield, you may sacrifice any number of artifacts. This creature enters the battlefield with that many +1/+1 counters on it.)\nWhen this creature enters, draw a card for each nontoken artifact it devoured.\n\nOG_2:\nWas an artifact creature.\n\n\nOG_1:\nWhen CARDNAME enters the battlefield, you may sacrifice any number of artifacts, If you do, create that many Implants with +1/+1 counters."
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/oAQ6kO\n\nOG art_1:\nmoiderahart on Tumblr\nhttps://moiderahart.tumblr.com/post/720317096686419968\n\nOG_3:\nDevour artifact 1 (As this enters the battlefield, you may sacrifice any number of artifacts. This creature enters the battlefield with that many +1/+1 counters on it.)\nWhen this creature enters, draw a card for each nontoken artifact it devoured.\n\nOG_2:\nWas an artifact creature.\n\n\nOG_1:\nWhen CARDNAME enters the battlefield, you may sacrifice any number of artifacts, If you do, create that many Implants with +1/+1 counters."
         },
         {
             "card_name": "Scrap Animist",
@@ -5056,7 +5056,7 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Ward {2}\nWhen Beldram enters, create an Implant token with a trample counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]\nWhenever you would put a keyword counter on a creature you control, put a keyword counter and a +1/+1 counter on that creature instead.",
+            "rules_text": "Ward {2}\nWhen Beldram enters, create an Implant token with a trample counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]\nWhenever you would put a keyword counter on a creature you control, put a keyword counter and a +1/+1 counter on that creature instead.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5076,7 +5076,7 @@
             "number": 186,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "When this creature enters, create an Implant token with a +1/+1 counter and a haste counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]\nModified creatures you control can't be blocked by creatures with power 2 or less.",
+            "rules_text": "When this creature enters, create an Implant token with a +1/+1 counter and a haste counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]\nModified creatures you control can't be blocked by creatures with power 2 or less.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5096,7 +5096,7 @@
             "number": 200,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever this artifact enters or leaves the battlefield, mill four cards. You may put a permanent card from among them and put it into your hand.\nWhenever you sacrifice a permanent, you gain 1 life.",
+            "rules_text": "Whenever this artifact enters or leaves the battlefield, mill four cards. You may put a permanent card from among them into your hand.\nWhenever you sacrifice a permanent, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5106,7 +5106,7 @@
             "artist": "EnnuiShao on Artstation",
             "alias": "",
             "position": "254",
-            "notes": "https://www.artstation.com/artwork/DxmAG\n\n\n\nOG_4: RG rework\nWhenever this artifact enters or leaves the battlefield, mill four cards. You may put a creature, artifact, or land card from among them and put it into your hand.\nWhenever you sacrifice an artifact, you gain 1 life.\n\nOG_3:\nWhenever this artifact enters or leaves the battlefield, look at the top four cards of your library. You may reveal a creature, artifact, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you sacrifice an artifact, you gain 1 life.\n(wasn't enough of graveyard focus in GB)\n\nOG_2:\nCosted 3G\nWas common, back to uncommon.\n\nOG_1:\nWas uncommon\nWhenever Verdant Synthesizer enters or leaves the battlefield, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you sacrifice an artifact, you gain 1 life."
+            "notes": "!tag cantrip\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/DxmAG\n\n\n\nOG_4: RG rework\nWhenever this artifact enters or leaves the battlefield, mill four cards. You may put a creature, artifact, or land card from among them and put it into your hand.\nWhenever you sacrifice an artifact, you gain 1 life.\n\nOG_3:\nWhenever this artifact enters or leaves the battlefield, look at the top four cards of your library. You may reveal a creature, artifact, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you sacrifice an artifact, you gain 1 life.\n(wasn't enough of graveyard focus in GB)\n\nOG_2:\nCosted 3G\nWas common, back to uncommon.\n\nOG_1:\nWas uncommon\nWhenever Verdant Synthesizer enters or leaves the battlefield, look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you sacrifice an artifact, you gain 1 life."
         },
         {
             "card_name": "Pin to the Ground",
@@ -5126,7 +5126,7 @@
             "artist": "Jason Nguyen",
             "alias": "",
             "position": "255",
-            "notes": "https://www.deviantart.com/jasontn/art/Boss-Fight-578004497\n\n\nOG_2:\nCosted G\n\n\nOG_1:\nWas an instant\n\n\nRedbay's Feedback:\nThe 2-for-1 mode on this feels really strong for a one mana card, but not sure how often it'll come up. Might be okay as Sorcery."
+            "notes": "!tag damage-creature\n\nhttps://www.deviantart.com/jasontn/art/Boss-Fight-578004497\n\n\nOG_2:\nCosted G\n\n\nOG_1:\nWas an instant\n\n\nRedbay's Feedback:\nThe 2-for-1 mode on this feels really strong for a one mana card, but not sure how often it'll come up. Might be okay as Sorcery."
         },
         {
             "card_name": "Interlocking Insight",
@@ -5146,7 +5146,7 @@
             "artist": "rmbdarkmyth on Deviantart",
             "alias": "",
             "position": "256",
-            "notes": "https://www.deviantart.com/rmbdarkmyth/art/Of-nature-99166537\n\nOG art_1:\nOgnjen Sporin on Artstation\nhttps://www.artstation.com/artwork/PXmV68\n\nOG_1:\nDraw a card for each modified creature you control. Then you may put a land card from your hand onto the battlefield tapped."
+            "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/rmbdarkmyth/art/Of-nature-99166537\n\nOG art_1:\nOgnjen Sporin on Artstation\nhttps://www.artstation.com/artwork/PXmV68\n\nOG_1:\nDraw a card for each modified creature you control. Then you may put a land card from your hand onto the battlefield tapped."
         },
         {
             "card_name": "Junksea's Stampede",
@@ -5186,7 +5186,7 @@
             "artist": "Hardy Fowler on artstation",
             "alias": "",
             "position": "258",
-            "notes": "https://www.artstation.com/artwork/0XveYw"
+            "notes": "!tag regrowth-any\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/0XveYw"
         },
         {
             "card_name": "Solaris Cleaner",
@@ -5206,7 +5206,7 @@
             "artist": "YUANGUI on Artstation",
             "alias": "",
             "position": "259",
-            "notes": "https://www.artstation.com/artwork/n0rxrO\n\nOG art_1:\nBjorn Hurri on Artstation\nhttps://www.artstation.com/artwork/qvGGR\n\nOG_5:\nWas an artifact creature again-\n\nOG_4:\nWasn't an artifact creature\n\n\n\nOG_3:\nClang \u2014 Whenever another artifact enters the battlefield under your control, tap target creature an opponent controls, Solaris Soldato gets +1/+0 until end of turn.\n2/2\n\nOG_2:\nClang \u2014 Whenever another artifact enters the battlefield under your control, CARDNAME gets +1/+0 until end of turn and can't be blocked this turn.\n\n\nOG_1:\nWhen _1 Solaris Soldier enters the battlefield, create an implant with a vigilance counter. (It's a token artifact with \u201c1, T, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)\nWhenever one or more modified creatures you control attack, you gain that much life."
+            "notes": "!tag tapper\n\nhttps://www.artstation.com/artwork/n0rxrO\n\nOG art_1:\nBjorn Hurri on Artstation\nhttps://www.artstation.com/artwork/qvGGR\n\nOG_5:\nWas an artifact creature again-\n\nOG_4:\nWasn't an artifact creature\n\n\n\nOG_3:\nClang \u2014 Whenever another artifact enters the battlefield under your control, tap target creature an opponent controls, Solaris Soldato gets +1/+0 until end of turn.\n2/2\n\nOG_2:\nClang \u2014 Whenever another artifact enters the battlefield under your control, CARDNAME gets +1/+0 until end of turn and can't be blocked this turn.\n\n\nOG_1:\nWhen _1 Solaris Soldier enters the battlefield, create an implant with a vigilance counter. (It's a token artifact with \u201c1, T, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)\nWhenever one or more modified creatures you control attack, you gain that much life."
         },
         {
             "card_name": "Weapons Merchant",
@@ -5216,7 +5216,7 @@
             "number": 228,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "Lurk\u2014Pay {1} and 1 life [i](Defending player can't block this creature unless they pay {1} and 1 life)[/i]\nWhen this creature enters, each opponent loses X life and you gain X life, where X is the number of equipment you control.",
+            "rules_text": "Lurk\u2014Pay {1} and 1 life [i](Defending player can't block this creature unless they pay {1} and 1 life)[/i]\nWhen this creature enters, each opponent loses X life and you gain X life, where X is the number of Equipment you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -5236,7 +5236,7 @@
             "number": 208,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "Menace\nWhenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token copy of it that's tapped and attacking. Sacrifice it at the beginning of the next end step.",
+            "rules_text": "Menace\nWhenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token that is a copy of it that's tapped and attacking. Sacrifice it at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5246,7 +5246,7 @@
             "artist": "Athavan(Ath) on Artstation",
             "alias": "",
             "position": "261",
-            "notes": "https://www.artstation.com/artwork/4be4X8\n\nOG art_1:\nBen Garriga on Artstation\nhttps://www.artstation.com/artwork/Aq66mz\n\n\nOG_4:\nAt the beginning of combat on your turn, target artifact creature you control gains deathtouch, menace, and haste until end of turn.\n\nOG_3:\nAt the beginning of combat on your turn, target artifact creature you control gains deathtouch and haste until end of turn.\n\nOG_2:\n(was mana value 5)\nMenace, Deathtouch\nWhenever Cadmium Creature attacks, another target artifact creature gains menace and deathtouch until end of turn.\n\nOG_1:\nMenace, Deathtouch\nOther artifact creatures you control have menace and deathtouch."
+            "notes": "!tag regrowth-creature\n\nhttps://www.artstation.com/artwork/4be4X8\n\nOG art_1:\nBen Garriga on Artstation\nhttps://www.artstation.com/artwork/Aq66mz\n\n\nOG_4:\nAt the beginning of combat on your turn, target artifact creature you control gains deathtouch, menace, and haste until end of turn.\n\nOG_3:\nAt the beginning of combat on your turn, target artifact creature you control gains deathtouch and haste until end of turn.\n\nOG_2:\n(was mana value 5)\nMenace, Deathtouch\nWhenever Cadmium Creature attacks, another target artifact creature gains menace and deathtouch until end of turn.\n\nOG_1:\nMenace, Deathtouch\nOther artifact creatures you control have menace and deathtouch."
         },
         {
             "card_name": "Rust Refiner",
@@ -5256,7 +5256,7 @@
             "number": 222,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "Whenever a player sacrifices a nontoken permanent, create a tapped treasure token.",
+            "rules_text": "Whenever a player sacrifices a nontoken permanent, create a tapped Treasure token.",
             "flavor_text": "[i]Much of Jardeka's fauna, flora, and microbiota is adapted to processing metal. Scraps of metal can be found almost anywhere, in almost anything.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5296,7 +5296,7 @@
             "number": 202,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Vigilance\n[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.",
+            "rules_text": "Vigilance\n[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5346,7 +5346,7 @@
             "artist": "Vladimir Matyukhin \u25b3 | | on artstation",
             "alias": "",
             "position": "266",
-            "notes": "https://www.artstation.com/artwork/xJWdJ1\n\nOG art_4:\nIllarstration on Artstation\nhttps://www.artstation.com/artwork/Are4Ey\n\nOG art_3:\nCarlos \"Kamyu\" D\u00edaz Asenjo on Artstation\nhttps://www.artstation.com/artwork/QzJok4\n\nOG art_2:\nAlexandr Elichev on Artstation\nhttps://www.artstation.com/artwork/9eW2VL\n\nOG art_1:\nThiago Lehmann on Artstation\nhttps://www.artstation.com/artwork/RYPlZy\n\nOG_2:\nFlash\nLurk\u2014Pay 2 life\nWhen this creature enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\n(made it trample to make it more multicoloured.)\n\nOG_1:\nFlash\nReach\nWhen Junkyard Hunter enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\nFlash\nReach\nWhen Junkyard Hunter enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\n"
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/xJWdJ1\n\nOG art_4:\nIllarstration on Artstation\nhttps://www.artstation.com/artwork/Are4Ey\n\nOG art_3:\nCarlos \"Kamyu\" D\u00edaz Asenjo on Artstation\nhttps://www.artstation.com/artwork/QzJok4\n\nOG art_2:\nAlexandr Elichev on Artstation\nhttps://www.artstation.com/artwork/9eW2VL\n\nOG art_1:\nThiago Lehmann on Artstation\nhttps://www.artstation.com/artwork/RYPlZy\n\nOG_2:\nFlash\nLurk\u2014Pay 2 life\nWhen this creature enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\n(made it trample to make it more multicoloured.)\n\nOG_1:\nFlash\nReach\nWhen Junkyard Hunter enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\nFlash\nReach\nWhen Junkyard Hunter enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\n"
         },
         {
             "card_name": "Scorpone Aristocrat",
@@ -5466,7 +5466,7 @@
             "artist": "Mingchen Shen on Artstation",
             "alias": "",
             "position": "272",
-            "notes": "https://www.artstation.com/artwork/PyY8n\n\nOG_5:\nWhenever you sacrifice an artifact, exile the top card of your library. You may play that card until your next end step. This ability triggers only once each turn.\n2R, Sacrifice an artifact: Put a +1/+1 counter on this creature.\n\nOG_4:\nWhenever you sacrifice an artifact, exile the top card of your library. You may play that card until end of turn. This ability triggers only once each turn.\n2R, Sacrifice an artifact: Put a +1/+1 counter on _2 MV2 Furnace Artillerist.\n\nOG_3:\nCosted 4 mana and was a 4/2\n\nOG_2:\nWhen MV4 Arbalist Orc enters, create two implant tokens with reach counters. (They're token artifacts with \u201c1, T, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)\n1R, T, Remove a counter from MV4 Arbalist Orc: MV4 Arbalist Orc deals 2 damage to any target.\n\n\nOriginal version:\n\nhttps://www.artstation.com/artwork/4bJNqL\n\n\n\nOG_1:\n3R\nWhen CARDNAME enters the battlefield, create two Implants with reach counters. (They're token artifacts with \u201c1, T, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)\nT, Remove a counter from CARDNAME: CARDNAME deals 2 damage to any target.\n4/2"
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/PyY8n\n\nOG_5:\nWhenever you sacrifice an artifact, exile the top card of your library. You may play that card until your next end step. This ability triggers only once each turn.\n2R, Sacrifice an artifact: Put a +1/+1 counter on this creature.\n\nOG_4:\nWhenever you sacrifice an artifact, exile the top card of your library. You may play that card until end of turn. This ability triggers only once each turn.\n2R, Sacrifice an artifact: Put a +1/+1 counter on _2 MV2 Furnace Artillerist.\n\nOG_3:\nCosted 4 mana and was a 4/2\n\nOG_2:\nWhen MV4 Arbalist Orc enters, create two implant tokens with reach counters. (They're token artifacts with \u201c1, T, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)\n1R, T, Remove a counter from MV4 Arbalist Orc: MV4 Arbalist Orc deals 2 damage to any target.\n\n\nOriginal version:\n\nhttps://www.artstation.com/artwork/4bJNqL\n\n\n\nOG_1:\n3R\nWhen CARDNAME enters the battlefield, create two Implants with reach counters. (They're token artifacts with \u201c1, T, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)\nT, Remove a counter from CARDNAME: CARDNAME deals 2 damage to any target.\n4/2"
         },
         {
             "card_name": "Blastman",
@@ -5486,7 +5486,7 @@
             "artist": "\u2726 Monztre \u2726 on Artstation \u00a9 Grimterra",
             "alias": "",
             "position": "273",
-            "notes": "https://www.artstation.com/artwork/3ZmLE\n\n\nOG art_1:\nXavier Renegade Angel\n(That one scene with the ever living explosion)\n\n\n\nOG_2:\nWhenever _1 MV6 Blastman blocks or becomes blocked, you may sacrifice an artifact. If you do, _1 MV6 Blastman deals damage equal to its power to each creature it's blocking or blocked by.\n\nOG_1:\n5R\nWhenever MV6 Blastman becomes blocked, you may sacrifice an artifact. If you do, MV6 Blastman deals damage equal to its power to each creature blocking it."
+            "notes": "!tag damage-any\n\nhttps://www.artstation.com/artwork/3ZmLE\n\n\nOG art_1:\nXavier Renegade Angel\n(That one scene with the ever living explosion)\n\n\n\nOG_2:\nWhenever _1 MV6 Blastman blocks or becomes blocked, you may sacrifice an artifact. If you do, _1 MV6 Blastman deals damage equal to its power to each creature it's blocking or blocked by.\n\nOG_1:\n5R\nWhenever MV6 Blastman becomes blocked, you may sacrifice an artifact. If you do, MV6 Blastman deals damage equal to its power to each creature blocking it."
         },
         {
             "card_name": "Furnace Crawler",
@@ -5506,7 +5506,7 @@
             "artist": "Freakyfir on Deviantart",
             "alias": "",
             "position": "274",
-            "notes": "https://www.deviantart.com/freakyfir/art/Magma-Crawler-415893980\n\n\n\n\nOG art_1:\nSimon Dubuc on Artstation\nhttps://www.artstation.com/artwork/Ba168"
+            "notes": "!tag damage-any\n\nhttps://www.deviantart.com/freakyfir/art/Magma-Crawler-415893980\n\n\n\n\nOG art_1:\nSimon Dubuc on Artstation\nhttps://www.artstation.com/artwork/Ba168"
         },
         {
             "card_name": "Glimmering Find",
@@ -5526,7 +5526,7 @@
             "artist": "Dawid Jurek on Artstation",
             "alias": "",
             "position": "275",
-            "notes": "https://www.artstation.com/artwork/oRJrk\n\nOG_4:\nAs an additional cost to casting this spell, you may sacrifice an artifact. If you do, this spell costs 2 less to cast.\nExile the top two cards of your library, until the end of your next turn you may play those cards.\n\nOG_3:\nAs an additional cost to casting this spell, pay 2 or sacrifice an artifact.\n\nOG_2:\nWas a common\n\nOG_1:\n3R\nSorcery\nExile the top 5 cards of your library. Until the end of your next turn, you may play lands and artifacts exiled this way."
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/oRJrk\n\nOG_4:\nAs an additional cost to casting this spell, you may sacrifice an artifact. If you do, this spell costs 2 less to cast.\nExile the top two cards of your library, until the end of your next turn you may play those cards.\n\nOG_3:\nAs an additional cost to casting this spell, pay 2 or sacrifice an artifact.\n\nOG_2:\nWas a common\n\nOG_1:\n3R\nSorcery\nExile the top 5 cards of your library. Until the end of your next turn, you may play lands and artifacts exiled this way."
         },
         {
             "card_name": "Molten Wellspring",
@@ -5536,7 +5536,7 @@
             "number": 145,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "When Molten Wellspring enters or leaves the battlefield, it deals 2 damage to any target.\n{3}{R}, Sacrifice Molten Wellspring: Discard a card, then draw a card.",
+            "rules_text": "When this artifact enters or leaves the battlefield, it deals 2 damage to any target.\n{3}{R}, Sacrifice this artifact: Discard a card, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5546,7 +5546,7 @@
             "artist": "Photograph by Richard Bradshaw on artstation",
             "alias": "",
             "position": "276",
-            "notes": "https://www.artstation.com/artwork/r3PAJ"
+            "notes": "!tag damage-any\n\nhttps://www.artstation.com/artwork/r3PAJ"
         },
         {
             "card_name": "Forged Ferocity",
@@ -5556,7 +5556,7 @@
             "number": 132,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Creatures you control get +3/+0 until end of turn.\nWhenever one or more creatures block this turn, create that many treasure tokens.",
+            "rules_text": "Creatures you control get +3/+0 until end of turn.\nWhenever one or more creatures block this turn, create that many Treasure tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5586,7 +5586,7 @@
             "artist": "Andrei Riabovitchev on Artstation",
             "alias": "",
             "position": "278",
-            "notes": "https://www.artstation.com/artwork/41Ge4\n\nOG_3:\naa was 1R\n\nOG_2:\n2R, T, Sacrifice an artifact: Crucible Cannon deals 2 damage to target opponent and each planeswalker they control. If that artifact was also a creature, exile the top card of your library. You may play that card until the end of your next turn.\n\n\n\n\nOG_1:\n1, T, Sacrifice an artifact: Crucible Cannon deals 2 damage to target opponent.\n1R, T, Sacrifice an artifact creature: Crucible Cannon deals 4 damage to each opponent and each planeswalker they control."
+            "notes": "!tag damage-player\n!tag damage-planeswalker\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/41Ge4\n\nOG_3:\naa was 1R\n\nOG_2:\n2R, T, Sacrifice an artifact: Crucible Cannon deals 2 damage to target opponent and each planeswalker they control. If that artifact was also a creature, exile the top card of your library. You may play that card until the end of your next turn.\n\n\n\n\nOG_1:\n1, T, Sacrifice an artifact: Crucible Cannon deals 2 damage to target opponent.\n1R, T, Sacrifice an artifact creature: Crucible Cannon deals 4 damage to each opponent and each planeswalker they control."
         },
         {
             "card_name": "Furnace Flare",
@@ -5606,7 +5606,7 @@
             "artist": "Mauricio Carrasco on Artstation",
             "alias": "",
             "position": "279",
-            "notes": "https://www.artstation.com/artwork/QzxErZ"
+            "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/QzxErZ"
         },
         {
             "card_name": "Junker's Furnace",
@@ -5616,7 +5616,7 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "{1}, {T}: Put two charge counters on this artifact.\n{T}, Remove any number of counters from among creatures and artifacts you control. Add {C} for each counter removed this way.",
+            "rules_text": "{1}, {T}: Put two charge counters on this artifact.\n{T}, Remove any number of counters from among creatures and artifacts you control: Add {C} for each counter removed this way.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5646,7 +5646,7 @@
             "artist": "Lukas Larsson on Artstation",
             "alias": "",
             "position": "281",
-            "notes": "https://www.artstation.com/artwork/RyLN3e\n\n\nOG_1:\nCosted 3R"
+            "notes": "!tag reanimate-artifact\n\nhttps://www.artstation.com/artwork/RyLN3e\n\n\nOG_1:\nCosted 3R"
         },
         {
             "card_name": "Interplanter",
@@ -5656,7 +5656,7 @@
             "number": 60,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, create an Implant token with your choice of two different counters among Vigilance, +1/+1, Flying, and Shield. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -5706,7 +5706,7 @@
             "artist": "\u2726 Monztre \u2726 on Artstation \u00a9 Herosync",
             "alias": "",
             "position": "284",
-            "notes": "https://www.artstation.com/artwork/BmxVD9\nOG art_2:\nArtofLariz\nhttps://www.deviantart.com/artoflariz/art/Lelouch-Lamperouge-X-Superman-916858460\nOG art_1:\nD-\u8d85 on Artstation\nhttps://www.artstation.com/artwork/JvDD5A\nOG_8:\nHad flying\n\nOG_7:\nFlying\nWhen MV3 Glirix, Toolsmith enters, search your library for an equipment card, reveal it and put it into your hand, then shuffle.\nEquipped creatures you control get +0/+1.\n\nOG_6:\nFlying\nT: Add CCC. You cant spend this mana on casting nonartifact spells.\n\nOG_5:\nFlying\nT: Add CC. You cant spend this mana on casting nonartifact spells.\n\nOG_4:\nThe first noncreature artifact spell you cast each turn costs 2 less to cast.\n\nRedbay's Feedback:\nCould make it a blue mana dork that can only cast noncreature artifact spells. Agree that currently it's too strong.\n\n\nOG_3:\nNoncreature artifact spells you cast costs 2 less to cast.\n\n\nOG_2:\nThe first Equipment spell you cast each turn costs 2 less to cast.\nWas a 2/4 for 4 mana\n\nOG_1:\nWhenever you cast an equipment spell, draw a card."
+            "notes": "https://www.artstation.com/artwork/BmxVD9\nOG art_2:\nArtofLariz\nhttps://www.deviantart.com/artoflariz/art/Lelouch-Lamperouge-X-Superman-916858460\nOG art_1:\nD-\u8d85 on Artstation\nhttps://www.artstation.com/artwork/JvDD5A\n\nRedbay suggestion: T: Until end of turn, you may activate an ability of target artifact without paying its mana cost.\n\nOG_8:\nHad flying\n\nOG_7:\nFlying\nWhen MV3 Glirix, Toolsmith enters, search your library for an equipment card, reveal it and put it into your hand, then shuffle.\nEquipped creatures you control get +0/+1.\n\nOG_6:\nFlying\nT: Add CCC. You cant spend this mana on casting nonartifact spells.\n\nOG_5:\nFlying\nT: Add CC. You cant spend this mana on casting nonartifact spells.\n\nOG_4:\nThe first noncreature artifact spell you cast each turn costs 2 less to cast.\n\nRedbay's Feedback:\nCould make it a blue mana dork that can only cast noncreature artifact spells. Agree that currently it's too strong.\n\n\nOG_3:\nNoncreature artifact spells you cast costs 2 less to cast.\n\n\nOG_2:\nThe first Equipment spell you cast each turn costs 2 less to cast.\nWas a 2/4 for 4 mana\n\nOG_1:\nWhenever you cast an equipment spell, draw a card."
         },
         {
             "card_name": "Augur of Implants",
@@ -5726,7 +5726,7 @@
             "artist": "Michael Sugianto on Artstation",
             "alias": "",
             "position": "285",
-            "notes": "https://www.artstation.com/artwork/GYrRa\n\n\nOG_4:\nWhenever you put a counter on MV4 Augur of Implants, draw a card. Then if that counter is the same kind as another counter on MV4 Augur of Implants, discard a card.\n\nOG_3:\nCosted 4U, was a 3/5\n\nOG_2:\nCosted 3UU\n\nOG_1:\nWhenever you put one or more counters on MV4 Implant Augur, draw a card, then discard a card."
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/GYrRa\n\n\nOG_4:\nWhenever you put a counter on MV4 Augur of Implants, draw a card. Then if that counter is the same kind as another counter on MV4 Augur of Implants, discard a card.\n\nOG_3:\nCosted 4U, was a 3/5\n\nOG_2:\nCosted 3UU\n\nOG_1:\nWhenever you put one or more counters on MV4 Implant Augur, draw a card, then discard a card."
         },
         {
             "card_name": "Drone Falconer",
@@ -5736,7 +5736,7 @@
             "number": 53,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Flying\nProtection from creatures with flying.\nWhen this creature enters, create an Implant token with a flying counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "Flying\nProtection from creatures with flying.\nWhen this creature enters, create an Implant token with a flying counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5756,7 +5756,7 @@
             "number": 65,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Vigilance\n{T}, Return an artifact you own to your hand: Put an artifact card artifact card with mana value equal to 1 plus the returned artifact's mana value from your hand onto the battlefield.",
+            "rules_text": "Vigilance\n{T}, Return an artifact you own to your hand: Put an artifact card with mana value equal to 1 plus the returned artifact's mana value from your hand onto the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "5/6",
             "special_text": "",
@@ -5796,7 +5796,7 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Equipped creature gets +4/+0 and has Ward {4}.\nWhenever equipped creature attacks, tap up to one target creature. Put a stun counter on it for each kind of counter among permanents you control.\nEquip {4}",
+            "rules_text": "Equipped creature gets +4/+0 and has ward {4}.\nWhenever equipped creature attacks, tap up to one target creature. Put a stun counter on it for each kind of counter among permanents you control.\nEquip {4}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5806,7 +5806,7 @@
             "artist": "@artrhinoo on Twitter",
             "alias": "",
             "position": "289",
-            "notes": "https://twitter.com/artrhinoo/status/1700180947399049636\n\n\n\nOG_2:\nEquipped creature gets +4/+1 and has Ward 4.\nWhenever equipped creature attacks or blocks, tap up to one target creature. Put a stun counter on it for each kind of counter among permanents you control.\nEquip 4\n\nOG_1:\nequip cost was 5 mana\n\n\n\n\nhttps://www.artstation.com/artwork/4XQnoL"
+            "notes": "!tag tapper\n\nhttps://twitter.com/artrhinoo/status/1700180947399049636\n\n\n\nOG_2:\nEquipped creature gets +4/+1 and has Ward 4.\nWhenever equipped creature attacks or blocks, tap up to one target creature. Put a stun counter on it for each kind of counter among permanents you control.\nEquip 4\n\nOG_1:\nequip cost was 5 mana\n\n\n\n\nhttps://www.artstation.com/artwork/4XQnoL"
         },
         {
             "card_name": "Holographic Insight",
@@ -5816,7 +5816,7 @@
             "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Draw four cards, then discard a card.\nCreate an Implant token with a Vigilance counter and a flying counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "Draw four cards, then discard a card.\nCreate an Implant token with a vigilance counter and a flying counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5826,7 +5826,7 @@
             "artist": "joseochoaart",
             "alias": "",
             "position": "290",
-            "notes": "https://www.instagram.com/p/BHiyXIXBcn3/?hl=nb\n\n\n\nOG art_1:\nNocturna Draco on Artstation\nhttps://www.artstation.com/artwork/w8ZgkO\n\n\nDraw four cards, then discard a card.\nCreate an implant with a Vigilance counter."
+            "notes": "!tag card-advantage\n\nhttps://www.instagram.com/p/BHiyXIXBcn3/?hl=nb\n\n\n\nOG art_1:\nNocturna Draco on Artstation\nhttps://www.artstation.com/artwork/w8ZgkO\n\n\nDraw four cards, then discard a card.\nCreate an implant with a Vigilance counter."
         },
         {
             "card_name": "Digitalize",
@@ -5846,7 +5846,7 @@
             "artist": "Bjorn Hurri on Artstation",
             "alias": "",
             "position": "291",
-            "notes": "https://www.artstation.com/artwork/Ng3rd\n\n\nreplace with a counterspell that creates an implant?"
+            "notes": "!tag counterspell\n\nhttps://www.artstation.com/artwork/Ng3rd\n\n\nreplace with a counterspell that creates an implant?"
         },
         {
             "card_name": "Shackles of Artifice",
@@ -5856,7 +5856,7 @@
             "number": 73,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "When this equipment enters, attach it to target creature an opponent controls.\nEquipped creature gets -X/-0, where X is twice the number of equipment you control.\n{3}{U}: Attach this equipment to target creature. Activate only as a sorcery.",
+            "rules_text": "When this Equipment enters, attach it to target creature an opponent controls.\nEquipped creature gets -X/-0, where X is twice the number of Equipment you control.\n{3}{U}: Attach this equipment to target creature. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5866,7 +5866,7 @@
             "artist": "Peter Gaber on Artstation",
             "alias": "",
             "position": "292",
-            "notes": "https://www.artstation.com/artwork/KOOXB9\n\nOG_4:\nEquipped creature gets -X/-0, where X is the number of equipment you control.\n1U: Attach this equipment to target creature an opponent controls. Activate only as a sorcery.\n\nOG_3:\nGave -X equal to twice the number of equipment you have.\n\nOG_2:\nWas a common, activated ability costed UU\n\nRedbay's Feedback:\nI think this is quietly too good at common, as you get the opportunity to move it around to their best threat as needed.\n\n\nOG_1:\n\n3: Attach Shackles of Artifice to target creature an opponent controls. Activate only as a sorcery."
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/KOOXB9\n\nOG_4:\nEquipped creature gets -X/-0, where X is the number of equipment you control.\n1U: Attach this equipment to target creature an opponent controls. Activate only as a sorcery.\n\nOG_3:\nGave -X equal to twice the number of equipment you have.\n\nOG_2:\nWas a common, activated ability costed UU\n\nRedbay's Feedback:\nI think this is quietly too good at common, as you get the opportunity to move it around to their best threat as needed.\n\n\nOG_1:\n\n3: Attach Shackles of Artifice to target creature an opponent controls. Activate only as a sorcery."
         },
         {
             "card_name": "Skyclang Jetwings",
@@ -5876,7 +5876,7 @@
             "number": 74,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this equipment enters, attach it to target creature you control.\nEquipped creature has flying.\nWhenever you cast an artifact spell, equipped creature gets +1/+1 until end of turn.\nEquip {3}",
+            "rules_text": "When this Equipment enters, attach it to target creature you control.\nEquipped creature has flying.\nWhenever you cast an artifact spell, equipped creature gets +1/+1 until end of turn.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5896,7 +5896,7 @@
             "number": 44,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "As an additional cost to casting this spell, you may exile an equipment from your graveyard. If you do, copy this spell..\nEquipped creature gets +2/+0 and has ward {1}.\nEquip {2}",
+            "rules_text": "As an additional cost to casting this spell, you may exile an Equipment card from your graveyard. If you do, copy this spell.\nEquipped creature gets +2/+0 and has ward {1}.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5933,10 +5933,10 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Scout",
-            "number": 16,
+            "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature dies create three 1/1 white soldier creature tokens if it was modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
+            "rules_text": "When this creature dies, if this creature was modified, create three 1/1 white Soldier creature tokens. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5976,7 +5976,7 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5986,7 +5986,7 @@
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
             "position": "298",
-            "notes": "https://www.artstation.com/artwork/L3ND85\n\n\nOG art_1:\nwu shenyou on Artstation\nhttps://www.artstation.com/artwork/29B4ga\n\nOG_3:\nProficiency \u2014 Whenever you activate an ability targeting MV3 Robotics Artisan, each opponent taps an untapped creature they control. Each ability source triggers this only once each turn.\n\nOG_2:\nProficiency \u2014 Whenever you activate an ability targeting MV3 Metallic Artisan (buff), each opponent taps an untapped permanent they control. Each ability source triggers this only once each turn.\n\nOG_1:\n\nCosted 1WW"
+            "notes": "!tag tapper\n\nhttps://www.artstation.com/artwork/L3ND85\n\n\nOG art_1:\nwu shenyou on Artstation\nhttps://www.artstation.com/artwork/29B4ga\n\nOG_3:\nProficiency \u2014 Whenever you activate an ability targeting MV3 Robotics Artisan, each opponent taps an untapped creature they control. Each ability source triggers this only once each turn.\n\nOG_2:\nProficiency \u2014 Whenever you activate an ability targeting MV3 Metallic Artisan (buff), each opponent taps an untapped permanent they control. Each ability source triggers this only once each turn.\n\nOG_1:\n\nCosted 1WW"
         },
         {
             "card_name": "Derelict Sentinel",
@@ -6016,7 +6016,7 @@
             "number": 22,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes a target of an ability you control, create a 1/1 white soldier creature token. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, create a 1/1 white Soldier creature token. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -6036,7 +6036,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "When this creature enters, create an Implant token with a double strike counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery\u201d)[/i]",
+            "rules_text": "When this creature enters, create an Implant token with a double strike counter. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -6086,7 +6086,7 @@
             "artist": "ZungWey Pua on artstation",
             "alias": "",
             "position": "303",
-            "notes": "https://www.artstation.com/artwork/KeZmQr\n\nOG art_1:\nQiu Fang on Artstation\nhttps://www.artstation.com/artwork/8wNbL6\n\n\n\nOG_1:\nSwordsman's Cleave deals 2 damage to target attacking or blocking creature. If you control a modified creature, exile that creature instead."
+            "notes": "!tag damage-creature\n\nhttps://www.artstation.com/artwork/KeZmQr\n\nOG art_1:\nQiu Fang on Artstation\nhttps://www.artstation.com/artwork/8wNbL6\n\n\n\nOG_1:\nSwordsman's Cleave deals 2 damage to target attacking or blocking creature. If you control a modified creature, exile that creature instead."
         },
         {
             "card_name": "Embellish Armaments",
@@ -6126,7 +6126,7 @@
             "artist": "Artem Chebokha on Artstation",
             "alias": "",
             "position": "305",
-            "notes": "https://www.artstation.com/artwork/qXxvz\n\n\n\nOG_2:\nActivated abilities you control cost 2 less to activate until end of turn. This effect can't reduce those costs to less than one mana.\nDraw a card.\n\nUnused alternate:\nActivated abilities you control cost 1 less to activate until end of turn.\nDraw a card.\n\nOG_1:\nWas a blue card"
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/qXxvz\n\n\n\nOG_2:\nActivated abilities you control cost 2 less to activate until end of turn. This effect can't reduce those costs to less than one mana.\nDraw a card.\n\nUnused alternate:\nActivated abilities you control cost 1 less to activate until end of turn.\nDraw a card.\n\nOG_1:\nWas a blue card"
         },
         {
             "card_name": "Juliet's Autodog",
@@ -6136,7 +6136,7 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this equipment enters, create a colorless 0/1 Servo artifact creature token with defender and attach this to it.\nEquipped creature gets +3/+1.\nEquip {3}",
+            "rules_text": "When this Equipment enters, create a colorless 0/1 Servo artifact creature token with defender, then attach this Equipment to it.\nEquipped creature gets +3/+1.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6166,8 +6166,8 @@
             "artist": "Virginie Juteau on Artstation",
             "alias": "",
             "position": "307",
-            "notes": "https://www.artstation.com/artwork/xJ1ooW"
+            "notes": "!tag reanimate-artifact\n\nhttps://www.artstation.com/artwork/xJ1ooW"
         }
     ],
-    "version": 1
+    "version": 2
 }
