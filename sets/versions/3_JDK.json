@@ -2446,7 +2446,7 @@
             "artist": "Benjamin Gallego on Artstation",
             "alias": "",
             "position": "121",
-            "notes": "!tag remove-creature\n\nhttps://www.artstation.com/artwork/QYZJZ\n\n\nOG_1:\nCosted 4 mana"
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/QYZJZ\n\n\nOG_1:\nCosted 4 mana"
         },
         {
             "card_name": "Projectile Energy Shield",
@@ -2566,7 +2566,7 @@
             "artist": "Svet Rezhet Glaza on Artstation",
             "alias": "",
             "position": "127",
-            "notes": "!tag remove-artifact\n!tag remove-enchantment\n!tag graveyard-hate\n\n\nhttps://www.artstation.com/artwork/nYlVar\n\n\nOG art_1:\nJiale on Artstation\nhttps://www.artstation.com/artwork/2q64XA\n\nOrphan"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag graveyard-hate\n\n\nhttps://www.artstation.com/artwork/nYlVar\n\n\nOG art_1:\nJiale on Artstation\nhttps://www.artstation.com/artwork/2q64XA\n\nOrphan"
         },
         {
             "card_name": "Steelstorm Conduit",
@@ -2656,10 +2656,10 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{5}{B}{B}",
-            "rules_text": "Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.\u201d",
+            "rules_text": "Affinity for Equipment. [i](This spell costs {1} less to cast for each Equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.\u201d",
+            "special_text": "Affinity for Equipment. [i](This spell costs {1} less to cast for each Equipment. you control.)[/i]\n[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.\n[-X]: Each creature gets -X/-X until end of turn.\n[-7]: You get an emblem with \u201cAt the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.\u201d",
             "shape": "planeswalker",
             "set": "JDK",
             "loyalty": "5",
@@ -4116,7 +4116,7 @@
             "number": 67,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Affinity for equipment\nWhen this Equipment enters, draw two cards.\nEquipped creature gets +2/+2.\nEquip {2}",
+            "rules_text": "Affinity for Equipment [i](This spell costs {1} less to cast for each Equipment you control.)[/i]\nWhen this Equipment enters, draw two cards.\nEquipped creature gets +2/+2.\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

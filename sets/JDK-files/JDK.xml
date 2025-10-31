@@ -5,7 +5,7 @@
 			<name>JDK</name>
 			<longname>Jardeka, Age of Rust</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-10-30</releasedate>
+			<releasedate>2025-10-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2218,7 +2218,7 @@ Whenever enchanted creature dies, you control target opponent during their next 
 		</card>
 		<card>
 			<name>Grrr, Interplanar Armsdealer</name>
-			<text>Affinity for equipment. (This spell costs {1} less to cast for each equipment. you control.)
+			<text>Affinity for Equipment. (This spell costs {1} less to cast for each Equipment. you control.)
 [+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
 [-X]: Each creature gets -X/-X until end of turn.
 [-7]: You get an emblem with &quot;At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.&quot;</text>
@@ -3471,7 +3471,7 @@ Whenever you cast an artifact spell, draw a card.</text>
 		</card>
 		<card>
 			<name>Monitor&apos;s Autopugilistar</name>
-			<text>Affinity for equipment
+			<text>Affinity for Equipment (This spell costs {1} less to cast for each Equipment you control.)
 When this Equipment enters, draw two cards.
 Equipped creature gets +2/+2.
 Equip {2}</text>
