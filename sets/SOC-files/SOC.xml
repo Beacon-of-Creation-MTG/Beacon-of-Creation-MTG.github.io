@@ -5,7 +5,7 @@
 			<name>SOC</name>
 			<longname>Stars of Cinesterra</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-01</releasedate>
+			<releasedate>2025-11-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -783,7 +783,7 @@ This creature gets +3/+0 during your turn as long as you&apos;re in your third a
 		<card>
 			<name>Pendant Thief</name>
 			<text>When this creature dies, create a 1/1 black Skeleton creature token.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/43.png" num="27">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/43.png" num="26">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,7 +821,7 @@ At the beginning of combat on your turn, if a token you control entered this tur
 Choose one. If this spell is a blockbuster, you may choose both instead.
 • Create two 1/1 white Soldier creature tokens.
 • Distribute two +1/+1 counters among any number of creatures you control.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/45.png" num="26">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/45.png" num="25">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -839,7 +839,7 @@ Choose one. If this spell is a blockbuster, you may choose both instead.
 			<name>Sole Survivor</name>
 			<text>This creature has double strike as long as it has a counter on it.
 Sequel {2}{W} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/46.png" num="33">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/46.png" num="32">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -874,7 +874,7 @@ Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
 		<card>
 			<name>Chosen One</name>
 			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
-When this creature attacks, if you&apos;re in your third act, put a +1/+1 counter on it. Untap it.</text>
+Whenever this creature attacks, if you&apos;re in your third act, put a +1/+1 counter on it. Untap it.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/48.png" num="12">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -893,7 +893,7 @@ When this creature attacks, if you&apos;re in your third act, put a +1/+1 counte
 		<card>
 			<name>Power Player</name>
 			<text>Whenever you produce a blockbuster during your turn, put a +1/+1 counter on each creature you control. This ability only triggers once each turn.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/49.png" num="29">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/49.png" num="28">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -911,7 +911,7 @@ When this creature attacks, if you&apos;re in your third act, put a +1/+1 counte
 			<name>Protocol Angel</name>
 			<text>Flying
 When this creature enters, exile another target creature you control. Return it to the battlefield at the beginning of the next end step with a Leading Role token attached to it. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/50.png" num="30">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/50.png" num="29">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -929,8 +929,8 @@ When this creature enters, exile another target creature you control. Return it 
 		<card>
 			<name>Fight for Your Life</name>
 			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
-Fight for Your Life deals 2 damage to target attacking or blocking creature. Then if you&apos;re in your third act, you gain 2 life.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/51.png" num="20">SOC</set>
+Fight for Your Life deals 3 damage to target attacking or blocking creature. Then if you&apos;re in your third act, you gain 3 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/51.png" num="19">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -964,7 +964,7 @@ Enchanted creature can&apos;t attack or block. If enchanted creature is legendar
 		<card>
 			<name>Hero&apos;s Stand</name>
 			<text>Target creature you control gets +2/+2 until end of turn. If that creature is legendary, it also gains indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/53.png" num="22">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/53.png" num="21">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1543,7 +1543,7 @@ Exile Deus Ex Machina.</text>
 			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
 When Lady enters, create two 1/1 white Bird creature tokens with flying.
 When Lady dies, if you&apos;re in your third act, create two 1/1 white Bird creature tokens with flying.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/86.png" num="24">SOC</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/86.png" num="23">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1598,7 +1598,7 @@ Target opponent reveals their hand. If this spell is a blockbuster, choose a non
 		<card>
 			<name>Selfless Partner</name>
 			<text>{1}, Sacrifice Selfless Partner: Target creature you control gains indestructible until end of turn. Create a Leading Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/89.png" num="32">SOC</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/89.png" num="31">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1928,7 +1928,7 @@ Whenever you cast a spell from your graveyard, put a +1/+1 counter on this creat
 		<card>
 			<name>Colossal Greatcrab</name>
 			<text>You may cast this spell for {1}{U}. If you do, it enters tapped with six stun counters on it.
-Whenever you cast a spell with mana value 5 or greater or produce a blockbuster, remove a stun counter from this creature.</text>
+Whenever you cast a spell with mana value 5 or greater or produce a blockbuster, untap this creature.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/107.png" num="50">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1979,10 +1979,10 @@ Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. I
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fight for Survival</name>
+			<name>Survive the Onslaught</name>
 			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
 Target creature you control gains indestructible until end of turn. If this spell is a blockbuster, each creature you control gains indestructible until end of turn instead.</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/110.png" num="19">SOC</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/110.png" num="33">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2214,7 +2214,7 @@ Mill three cards. You may return a creature card from your graveyard to your han
 		</card>
 		<card>
 			<name>Dark Ending</name>
-			<text>Blockbuster 5 (As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
+			<text>Blockbuster 3 (As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
 All creatures get -2/-2 until end of turn. If this spell is a blockbuster, creatures your opponents control get -2/-2 until end of turn instead.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/123.png" num="88">SOC</set>
 			<prop>
@@ -2321,7 +2321,7 @@ Destroy target artifact, enchantment, or land. If this spell is a blockbuster, c
 		<card>
 			<name>Explore the Depths</name>
 			<text>Third Act (If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)
-Return target permanent card from your graveyard to your hand. If you&apos;re in your third act, return up to one other target permanent card from your graveyard to your hand.</text>
+Choose up to three target permanent cards in your graveyard. If you&apos;re in your third act, you may return each card chosen this way to your hand. Otherwise, return two of the cards chosen this way to your hand instead.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/129.png" num="166">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2394,7 +2394,7 @@ At the beginning of your end step, if you&apos;re in your third act, put a +1/+1
 		<card>
 			<name>Makeup Artist</name>
 			<text>{T}: Create a Leading Role token attached to another target creature you control. Activate this ability only as a sorcery. (If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)</text>
-			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/133.png" num="25">SOC</set>
+			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/133.png" num="24">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2432,7 +2432,7 @@ Whenever you produce a blockbuster, create a 1/1 colorless Thopter artifact crea
 			<name>Paragon Battery</name>
 			<text>This artifact enters tapped. When it does, tap target creature you don&apos;t control and put a stun counter on it.
 {T}: Add {C}{C}. Spend this mana only to cast noncreature spells.
-Warp 1{WU} (You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.) (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+Warp 1{WU} (You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/135.png" num="227">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2603,7 +2603,7 @@ Whenever one or more creatures you control with power 2 or less enter, draw a ca
 		<card>
 			<name>Clean-up Crew</name>
 			<text>Flash
-When this creature enters, create a 1/1 white Soldier creature token for each tapped creature you control and each creature you controlled that died this turn.</text>
+When this creature enters, create a 1/1 white Soldier creature token for each tapped creature you control and each creature you controlled that died under your control this turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/144.png" num="13">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3119,7 +3119,7 @@ When this creature enters, if you&apos;re in your third act, put a shield counte
 		<card>
 			<name>POV Camera</name>
 			<text>Whenever you produce a blockbuster or cast a spell with mana value 5 or greater, you gain 1 life.
-Pay 2 life, {T}: Add one mana of any color.</text>
+Pay 1 life, {T}: Add one mana of any color.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/173.png" num="246">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3498,7 +3498,7 @@ Creatures with the chosen name aren&apos;t legendary and can&apos;t become legen
 			<text>First strike
 Aura and Equipment spells you cast cost {1} less to cast.
 When Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/194.png" num="23">SOC</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/194.png" num="22">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3515,7 +3515,7 @@ When Holly Drake enters, you may pay {1}. If you do, search your library for an 
 		<card>
 			<name>Planetary Disaster</name>
 			<text>Choose up to one artifact. Destroy all other nonland permanents.</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/195.png" num="28">SOC</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/195.png" num="27">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3533,7 +3533,7 @@ When Holly Drake enters, you may pay {1}. If you do, search your library for an 
 			<text>Flying, lifelink
 When this creature enters, exile target nonland permanent an opponent controls until this creature leaves the battlefield.
 Sequel {4}{W}{W}</text>
-			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/196.png" num="21">SOC</set>
+			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/196.png" num="20">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3543,7 +3543,7 @@ Sequel {4}{W}{W}</text>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3679,7 +3679,7 @@ Until your next turn, all creatures have &quot;When this creature enters, discar
 		<card>
 			<name>Final Torment</name>
 			<text>Blockbuster 5 (As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
-Target player discards their hand. Then if this spell is a blockbuster, you may return a creature card that was discarded this way from the graveyard to the battlefield.</text>
+Target player discards their hand. Then if this spell is a blockbuster, you may return a creature card that was discarded this way from the graveyard to the battlefield under your control.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/204.png" num="92">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4196,7 +4196,7 @@ Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. I
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4364,7 +4364,7 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 		</card>
 		<card>
 			<name>Seth, Breaking Through</name>
-			<text>When Seth enters, you may sacrifice an artifact. If you do, you may activate loyalty abilities of Seth twice this turn rather than only once.
+			<text>Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once.
 [+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
 [-3]: Seth deals 2 damage to any target.
 [-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.</text>
@@ -4427,7 +4427,7 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 			<name>Search the Universe</name>
 			<text>Blockbuster 4 (As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)
 Search your library for a legendary creature or planeswalker card, reveal it, put it into your hand, then shuffle. If this spell is a blockbuster, search your library for two legendary creature and/or planeswalker cards instead.</text>
-			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/245.png" num="31">SOC</set>
+			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/245.png" num="30">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4518,7 +4518,7 @@ If you would create one or more creature tokens, if you&apos;re in your third ac
 		</card>
 		<card>
 			<name>The Illusionist</name>
-			<text>Whenever this becomes the target of a spell or ability, if its power is less than 4, put a +1/+1 counter on it. Then it phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+			<text>Whenever this becomes the target of a spell or ability for the first time each turn, if its power is less than 4, put a +1/+1 counter on it. Then it phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
 Whenever this creature deals combat damage to a player, remove all counters from it and draw that many cards.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/250.png" num="217">SOC</set>
 			<prop>
@@ -4597,6 +4597,7 @@ You may cast this card from exile as long as it has a cocoon counter and you&apo
 		<card>
 			<name>Morgril, the Devastator</name>
 			<text>Third Act
+Trample
 At the beginning of your upkeep, discard a card. When you do, Morgril deals 2 damage to each player.
 Morgril can&apos;t attack or block unless you&apos;re in your third act.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/254.png" num="138">SOC</set>

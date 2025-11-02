@@ -1,4 +1,374 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Shoreline Midden
+
+Submerged Midden
+
+Molten Midden
+
+Brutal Midden
+
+Secluded Midden
+
+Foreboding Midden
+
+Market Midden
+
+Forgotten Midden
+
+Riffraff Midden
+
+Productive Midden
+
+Automated Scrapper
+
+Paladin of the Heap
+
+Avionic Scavenger
+
+Convoy Wrecker
+
+Catastrophic Failure
+
+Mechanohawk
+
+Market Thief
+
+Swift Surveyor
+
+Scrap-Shell Hermit
+
+Hidden Goliath
+
+Search for Understanding
+
+Crushing Defeat
+
+Compacted
+
+Scrounging Vermin
+
+Assault Bot
+
+Transmogrified Yarder
+
+Maiden of Junk
+
+Oculus Collector
+rules_text: When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => When this creature enters, create two Junk tokens and you lose 2 life. [i](They're artifacts with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Deadly Goliath
+
+Cast Down
+
+Failed Experiment
+
+Visions of Terror
+
+Decapitate
+
+Target Locked
+
+Nitwit Yarder
+
+Gangland Tagteam
+
+Rampaging Goliath
+
+Explosive Collision
+
+Scrap Deals
+
+Tyrants Fire
+
+Android Visionary
+
+Happy Heaper
+
+Daddy Swordlegs
+
+Wasteland Goliath
+
+Overpower
+
+Heckler Raid Leader
+
+Trawl the Fields
+
+Plucky Scrapper
+
+Recommisioned Pounce-Bot
+
+Bursting Vat
+
+Hunger of the Heap
+
+Beetle Bot
+
+Wasteland Daredevils
+
+Insidious Orb
+
+Skullface Wastelander
+
+Remote Controlled Mechsuit
+
+Feed the Monster
+
+Putrefying Mists
+
+Scrounge for Parts
+
+Nightfall Approaches
+
+Hired Killer
+
+Pull em Out
+
+Fallen Paladin
+
+Anter, Wasteland Runner
+
+Double-Barreled Drakkon
+
+Absolute Victory
+
+Electric Junk Tower
+
+Execution Tank
+
+Harpooner Wagon
+
+Out of the Wreckage
+
+Mecha Arachnid
+
+Colossus Opus
+
+Shearing Winds
+
+Face Off
+
+Badlands Alpha
+
+Robot Samurai
+
+Scrap Blast
+
+Bert, Parts Specialist
+type: Legendary Artifact Creature — Dwarf => Legendary Creature — Dwarf
+
+Required Assembly
+
+Angel of Scrap
+
+Sky Trawler
+
+Remove Visage
+
+Junk Tornado
+
+100,000 Volts
+
+Sky Scrapper
+
+Hunt for Scraps
+
+Bandit Junker
+
+Rapid Materialization
+
+Millikin
+
+Willing Automaton
+
+Part Bot
+
+War-Javelin
+
+Tarnishing Yarder
+
+Lose to the Heap
+
+Overcharge
+
+Recycling Engine
+
+Raid the Workshop
+
+Junklord Azareth
+
+Junklord Felisah
+
+Gone Mag-Fishing
+
+Techno Compies
+
+Combustion Goliath
+
+Arachno-Killbot
+
+Slag Dump
+
+Longshot Bot
+
+Vorricks Blast Array
+
+Plans Undone
+
+Erys, Hunted Marksman
+
+Azyra, Queen of the Forge
+
+Artem, Solemn Traveler
+
+Speaker Lxtal
+
+Felisahs Recruiter
+
+Sprawl Enforcers
+
+Lundquists Garage
+rules_text: You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a +1/+1 counter.
+At the beginning of your end step, exile Lundquist's Garage. => You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+At the beginning of your end step, exile Lundquist's Garage.
+
+Survive Disaster
+
+March of the Goliaths
+
+Baited Trap
+
+Regeneration Chamber
+
+Azareths Dreadnought
+
+Ory, Enhanced Outlander
+
+Drexil Hunters
+
+Tireless Consumption
+
+Caroline
+
+Pointed Interrogation
+
+Jump Junkers
+
+Seaside Goliath
+
+Sabotage the Machine
+
+Seek the Laboratory
+
+Replicate Design
+
+Lev, Junker Genius
+
+Shamuss Pontoon
+
+Dreams of Incineration
+
+Dreams of Resilience
+
+Dreams of Restoration
+
+Welding Mask
+
+Buzzer-Walker
+
+The Brain
+
+The Spoon Man
+
+Garbage Gargantuan
+
+Recycle-o-Tron
+
+Electro Punch-Bot
+
+Sevrox, Ascended
+
+Beetle Junker-Merchant
+
+Junkyard Jetpacker
+
+The Skyhorse
+
+Escape Vehicle
+
+Fishing Float
+rules_text: When this Vehicle enters, return up to one target creature to its owner's hand.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, return up to one target creature to its owner's hand.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Flying Fish
+
+Gunhead Rhino
+
+Lundquist's Heavies
+
+Junklords Hole Puncher
+
+Wreckyard Crane
+
+Vorricks Radicals
+
+Innovative Find
+
+Collector of Finds
+
+Wondrous Find
+
+Broken Find
+
+Stolen Find
+
+Massive Find
+
+Junklord Vorrick
+
+Smelting Pit
+
+Toxic-Tail Bot
+
+Ghastly Scrapbeast
+
+Rig Sparks
+
+Shiny Taker
+
+Lost Sea Watcher
+
+Disassemble
+
+Pulsing Hedron
+
+Dreams of Progress
+
+Dreams of Exploitation
+
+Towering Killbot
+
+The Junklords Gambit
+
+Acidic Acolyte
+
+Pit-Burster Mech
+
+Bulked Guardian
+
+Armored Goliath
+
+Flamethrower Battle-Wagon
+
+Unyielding Husk
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Smelting Pit added.

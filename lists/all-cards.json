@@ -31529,7 +31529,7 @@
             "artist": "Paolo Lamanna",
             "alias": "",
             "position": "0",
-            "notes": "#common #green",
+            "notes": "!tag cantrip\n#common #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31573,7 +31573,7 @@
             "artist": "JB Casacop",
             "alias": "",
             "position": "2",
-            "notes": "#common #blue",
+            "notes": "!tag cantrip\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31595,7 +31595,7 @@
             "artist": "Narendra B Adi",
             "alias": "",
             "position": "3",
-            "notes": "#common #blue\n!tokens Leading Role",
+            "notes": "!tag anomaly\n#common #blue\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31617,7 +31617,7 @@
             "artist": "Winter Jaye",
             "alias": "",
             "position": "4",
-            "notes": "#common #blue",
+            "notes": "!tag anomaly\n!tag reanimate-self\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31639,7 +31639,7 @@
             "artist": "Patrick Ngu",
             "alias": "",
             "position": "5",
-            "notes": "#common #blue\nMother Mon Mon",
+            "notes": "!tag cantrip\n#common #blue\nMother Mon Mon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31683,7 +31683,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "position": "7",
-            "notes": "#common #blue",
+            "notes": "!tag counterspell\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31705,7 +31705,7 @@
             "artist": "Prasad Rao (pressy)",
             "alias": "",
             "position": "8",
-            "notes": "#common #blue",
+            "notes": "!tag cantrip\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31727,7 +31727,7 @@
             "artist": "Worldsforge Art \u2015 Alex Pushkarev",
             "alias": "",
             "position": "9",
-            "notes": "#common #blue",
+            "notes": "!tag card-advantage\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31749,7 +31749,7 @@
             "artist": "Bryan Zapata",
             "alias": "",
             "position": "10",
-            "notes": "#common #blue",
+            "notes": "!tag pacifism\n!tag tuck\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31771,7 +31771,7 @@
             "artist": "Jens Lindfors",
             "alias": "",
             "position": "11",
-            "notes": "#common #blue",
+            "notes": "!tag tuck\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31793,7 +31793,7 @@
             "artist": "Facundo Moyano",
             "alias": "",
             "position": "12",
-            "notes": "#common #blue",
+            "notes": "!tag cantrip\n#common #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31837,7 +31837,7 @@
             "artist": "sanchzart",
             "alias": "",
             "position": "14",
-            "notes": "#common #red",
+            "notes": "!tag damage-player\n!tag reanimate-self\n#common #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31903,7 +31903,7 @@
             "artist": "Tommy Lee",
             "alias": "",
             "position": "17",
-            "notes": "#common #red",
+            "notes": "!tag damage-any\n#common #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -31991,7 +31991,7 @@
             "artist": "Tiago Alexandre",
             "alias": "",
             "position": "21",
-            "notes": "#common #red",
+            "notes": "!tag damage-any\n#common #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32035,7 +32035,7 @@
             "artist": "Sarah Silva (Jinme)",
             "alias": "",
             "position": "23",
-            "notes": "#common #red",
+            "notes": "!tag cantrip\n#common #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32145,7 +32145,7 @@
             "artist": "John Dobson",
             "alias": "",
             "position": "28",
-            "notes": "#common #green",
+            "notes": "!tag reanimate-self\n#common #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32211,7 +32211,7 @@
             "artist": "yangyang sui",
             "alias": "",
             "position": "31",
-            "notes": "#common #green",
+            "notes": "!tag reanimate-self\n#common #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32299,7 +32299,7 @@
             "artist": "Randis Albion",
             "alias": "",
             "position": "35",
-            "notes": "#common #green",
+            "notes": "!tag damage-creature\n#common #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32409,7 +32409,7 @@
             "artist": "Fajareka Setiawan",
             "alias": "",
             "position": "40",
-            "notes": "#common #blue\n!tokens Third Act",
+            "notes": "!tag tapper\n#common #blue\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32431,7 +32431,7 @@
             "artist": "Brandon Jones",
             "alias": "",
             "position": "41",
-            "notes": "#white #common\n!tokens Leading Role",
+            "notes": "!tag anomaly\n#white #common\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32462,7 +32462,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Rogue",
-            "number": 27,
+            "number": 26,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "When this creature dies, create a 1/1 black Skeleton creature token.",
@@ -32506,7 +32506,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 26,
+            "number": 25,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "Blockbuster 2 [i](As an additional cost to cast this spell, you may tap two untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nChoose one. If this spell is a blockbuster, you may choose both instead.\n\u2022 Create two 1/1 white Soldier creature tokens.\n\u2022 Distribute two +1/+1 counters among any number of creatures you control.",
@@ -32528,7 +32528,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Human Warrior",
-            "number": 33,
+            "number": 32,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "This creature has double strike as long as it has a counter on it.\nSequel {2}{W} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
@@ -32541,7 +32541,7 @@
             "artist": "Guillem Pongil",
             "alias": "",
             "position": "46",
-            "notes": "#white #common",
+            "notes": "!tag reanimate-self\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32575,7 +32575,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nWhen this creature attacks, if you're in your third act, put a +1/+1 counter on it. Untap it.",
+            "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nWhenever this creature attacks, if you're in your third act, put a +1/+1 counter on it. Untap it.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -32594,7 +32594,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Goblin Noble",
-            "number": 29,
+            "number": 28,
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "Whenever you produce a blockbuster during your turn, put a +1/+1 counter on each creature you control. This ability only triggers once each turn.",
@@ -32616,7 +32616,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2013 Angel",
-            "number": 30,
+            "number": 29,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
             "rules_text": "Flying\nWhen this creature enters, exile another target creature you control. Return it to the battlefield at the beginning of the next end step with a Leading Role token attached to it. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)[/i]",
@@ -32638,10 +32638,10 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 20,
+            "number": 19,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nFight for Your Life deals 2 damage to target attacking or blocking creature. Then if you're in your third act, you gain 2 life.",
+            "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nFight for Your Life deals 3 damage to target attacking or blocking creature. Then if you're in your third act, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -32651,7 +32651,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "51",
-            "notes": "#white #common\n!tokens Third Act",
+            "notes": "!tag damage-creature\n\n#white #common\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32673,7 +32673,7 @@
             "artist": "Andrew Theophilopoulos",
             "alias": "",
             "position": "52",
-            "notes": "#white #common",
+            "notes": "!tag pacifism\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32682,7 +32682,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 22,
+            "number": 21,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Target creature you control gets +2/+2 until end of turn. If that creature is legendary, it also gains indestructible until end of turn.",
@@ -32717,7 +32717,7 @@
             "artist": "Coline Sipma",
             "alias": "",
             "position": "54",
-            "notes": "#white #common",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag removal-creature\n!tag removal-planeswalker\n!tag removal-battle\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32739,7 +32739,7 @@
             "artist": "Won Hae Ju",
             "alias": "",
             "position": "55",
-            "notes": "#black #common",
+            "notes": "!tag reanimate-self\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32761,7 +32761,7 @@
             "artist": "Narendra B Adi",
             "alias": "",
             "position": "56",
-            "notes": "#black #common",
+            "notes": "!tag hand-disruption-untargetted\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32805,7 +32805,7 @@
             "artist": "Donald Caron",
             "alias": "",
             "position": "58",
-            "notes": "#black #common",
+            "notes": "!tag edict-creature\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32827,7 +32827,7 @@
             "artist": "CeSar Art",
             "alias": "",
             "position": "59",
-            "notes": "#black #common",
+            "notes": "!tag regrowth-self\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32849,7 +32849,7 @@
             "artist": "Beata Egeresi",
             "alias": "",
             "position": "60",
-            "notes": "#black #common",
+            "notes": "!tag card-advantage\n!tag reanimate-self\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32937,7 +32937,7 @@
             "artist": "Ilya Royz",
             "alias": "",
             "position": "64",
-            "notes": "#black #common",
+            "notes": "!tag removal-creature\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32959,7 +32959,7 @@
             "artist": "Tentori Montalto",
             "alias": "",
             "position": "65",
-            "notes": "#black #common\n!tokens Leading Role",
+            "notes": "!tag removal-creature\n#black #common\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -32981,7 +32981,7 @@
             "artist": "Alessandro Amoruso",
             "alias": "",
             "position": "66",
-            "notes": "#black #common",
+            "notes": "!tag card-advantage\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33003,7 +33003,7 @@
             "artist": "Vic Corbella",
             "alias": "",
             "position": "67",
-            "notes": "#black #common",
+            "notes": "!tag hand-disruption-untargetted\n!tag graveyard-hate\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33025,7 +33025,7 @@
             "artist": "Gilbert Han",
             "alias": "",
             "position": "68",
-            "notes": "#black #common\n!tokens Third Act",
+            "notes": "!tag removal-creature\n!tag removal-planeswalker\n#black #common\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33047,7 +33047,7 @@
             "artist": "Billy Christian",
             "alias": "",
             "position": "69",
-            "notes": "#black #common\nbai ran",
+            "notes": "!tag removal-creature\n#black #common\nbai ran",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33069,7 +33069,7 @@
             "artist": "Gre3co Paglia",
             "alias": "",
             "position": "70",
-            "notes": "#colorless #common",
+            "notes": "!tag anomaly\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33091,7 +33091,7 @@
             "artist": "Dario Jelusic",
             "alias": "",
             "position": "71",
-            "notes": "#colorless #common",
+            "notes": "!tag anomaly\n!tag damage-any\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33113,7 +33113,7 @@
             "artist": "Flavio Greco Paglia",
             "alias": "",
             "position": "72",
-            "notes": "#colorless #common",
+            "notes": "!tag anomaly\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33157,7 +33157,7 @@
             "artist": "Adont",
             "alias": "",
             "position": "74",
-            "notes": "#colorless #common",
+            "notes": "!tag graveyard-hate\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33179,7 +33179,7 @@
             "artist": "Romain Ferre",
             "alias": "",
             "position": "75",
-            "notes": "#colorless #common\n!tokens Treasure",
+            "notes": "!tag cantrip\n\n#colorless #common\n!tokens Treasure",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33201,7 +33201,7 @@
             "artist": "James Coutts",
             "alias": "",
             "position": "76",
-            "notes": "#white #common",
+            "notes": "!tag banish\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33223,7 +33223,7 @@
             "artist": "Stu Harrington",
             "alias": "",
             "position": "77",
-            "notes": "#uncommon #red",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag reanimate-self\n#uncommon #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33333,7 +33333,7 @@
             "artist": "kleinerHai",
             "alias": "",
             "position": "82",
-            "notes": "#uncommon #red",
+            "notes": "!tag cantrip\n#uncommon #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33377,7 +33377,7 @@
             "artist": "Thibaut Leduc",
             "alias": "",
             "position": "84",
-            "notes": "#rare #gold\n!tokens Third Act",
+            "notes": "!tag reanimate-creature\n#rare #gold\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33408,7 +33408,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Noble",
-            "number": 24,
+            "number": 23,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nWhen Lady enters, create two 1/1 white Bird creature tokens with flying.\nWhen Lady dies, if you're in your third act, create two 1/1 white Bird creature tokens with flying.",
@@ -33465,7 +33465,7 @@
             "artist": "Katerina Ladon",
             "alias": "",
             "position": "88",
-            "notes": "#uncommon #black",
+            "notes": "!tag hand-disruption-targeted\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33474,7 +33474,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Elf",
-            "number": 32,
+            "number": 31,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{1}, Sacrifice Selfless Partner: Target creature you control gains indestructible until end of turn. Create a Leading Role token attached to that creature. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)[/i]",
@@ -33509,7 +33509,7 @@
             "artist": "Arsenii Kolesnikov",
             "alias": "",
             "position": "90",
-            "notes": "#uncommon #white",
+            "notes": "!tag tapper\n!tag anomaly\n#uncommon #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33531,7 +33531,7 @@
             "artist": "Travis Anderson",
             "alias": "",
             "position": "91",
-            "notes": "#uncommon #white",
+            "notes": "!tag anomaly\n#uncommon #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33575,7 +33575,7 @@
             "artist": "Haris berliansyah",
             "alias": "",
             "position": "93",
-            "notes": "#uncommon #blue",
+            "notes": "!tag cantrip\n#uncommon #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33597,7 +33597,7 @@
             "artist": "Samuel Bourguignon",
             "alias": "",
             "position": "94",
-            "notes": "#uncommon #blue\n!tokens Leading Role",
+            "notes": "!tag cantrip\n#uncommon #blue\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33685,7 +33685,7 @@
             "artist": "Michelle Schulz",
             "alias": "",
             "position": "98",
-            "notes": "#uncommon #black",
+            "notes": "!tag removal-creature\n!tag reanimate-self\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33707,7 +33707,7 @@
             "artist": "Wesley Gardner",
             "alias": "",
             "position": "99",
-            "notes": "#uncommon #black",
+            "notes": "!tag reanimate-self\n!tag reanimate-creature\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33729,7 +33729,7 @@
             "artist": "Damian Audino",
             "alias": "",
             "position": "100",
-            "notes": "#uncommon #black",
+            "notes": "!tag regrowth-self\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33795,7 +33795,7 @@
             "artist": "Mike Azevedo",
             "alias": "",
             "position": "103",
-            "notes": "#uncommon #green\n!tokens Dinosaur",
+            "notes": "!tag reanimate-self\n#uncommon #green\n!tokens Dinosaur",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33873,7 +33873,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "You may cast this spell for {1}{U}. If you do, it enters tapped with six stun counters on it.\nWhenever you cast a spell with mana value 5 or greater or produce a blockbuster, remove a stun counter from this creature.",
+            "rules_text": "You may cast this spell for {1}{U}. If you do, it enters tapped with six stun counters on it.\nWhenever you cast a spell with mana value 5 or greater or produce a blockbuster, untap this creature.",
             "flavor_text": "[i]1000 years in the deep. Now it's ready for a midnight snack.[/i]",
             "pt": "9/9",
             "special_text": "",
@@ -33927,16 +33927,16 @@
             "artist": "Darya Dubina",
             "alias": "",
             "position": "109",
-            "notes": "#uncommon #green",
+            "notes": "!tag reanimate-self\n#uncommon #green",
             "image_type": "png",
             "v_mana": ""
         },
         {
-            "card_name": "Fight for Survival",
+            "card_name": "Survive the Onslaught",
             "color": "W",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 19,
+            "number": 33,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "Blockbuster 3 [i](As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nTarget creature you control gains indestructible until end of turn. If this spell is a blockbuster, each creature you control gains indestructible until end of turn instead.",
@@ -33971,7 +33971,7 @@
             "artist": "Allen Morris",
             "alias": "",
             "position": "111",
-            "notes": "#uncommon #black",
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -33993,7 +33993,7 @@
             "artist": "Alen Rocha",
             "alias": "",
             "position": "112",
-            "notes": "#uncommon #black\n!tokens Leading Role",
+            "notes": "!tag reanimate-creature\n#uncommon #black\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34015,7 +34015,7 @@
             "artist": "Isaiah Sherman",
             "alias": "",
             "position": "113",
-            "notes": "#uncommon #blue\n!tokens Third Act",
+            "notes": "!tag counterspell\n#uncommon #blue\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34147,7 +34147,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "position": "119",
-            "notes": "#uncommon #red",
+            "notes": "!tag removal-artifact\n!tag wrath\n#uncommon #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34169,7 +34169,7 @@
             "artist": "Simon Pape",
             "alias": "",
             "position": "120",
-            "notes": "#uncommon #green\n!tokens Leading Role",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#uncommon #green\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34191,7 +34191,7 @@
             "artist": "Bear Frymire",
             "alias": "",
             "position": "121",
-            "notes": "#uncommon #red",
+            "notes": "!tag damage-player\n!tag card-advantage\n#uncommon #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34213,7 +34213,7 @@
             "artist": "Stu Harrington",
             "alias": "",
             "position": "122",
-            "notes": "#uncommon #black\n!tokens Third Act",
+            "notes": "!tag regrowth-creature\n#uncommon #black\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34225,7 +34225,7 @@
             "number": 88,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Blockbuster 5 [i](As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nAll creatures get -2/-2 until end of turn. If this spell is a blockbuster, creatures your opponents control get -2/-2 until end of turn instead.",
+            "rules_text": "Blockbuster 3 [i](As an additional cost to cast this spell, you may tap three untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nAll creatures get -2/-2 until end of turn. If this spell is a blockbuster, creatures your opponents control get -2/-2 until end of turn instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -34235,7 +34235,7 @@
             "artist": "Joseph",
             "alias": "",
             "position": "123",
-            "notes": "#uncommon #black",
+            "notes": "!tag wrath\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34257,7 +34257,7 @@
             "artist": "Loles Romero",
             "alias": "",
             "position": "124",
-            "notes": "#uncommon #black",
+            "notes": "!tag removal-creature\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34279,7 +34279,7 @@
             "artist": "Mitch Mohrhauser",
             "alias": "",
             "position": "125",
-            "notes": "#uncommon #black",
+            "notes": "!tag removal-creature\n#uncommon #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34301,7 +34301,7 @@
             "artist": "Sykosan",
             "alias": "",
             "position": "126",
-            "notes": "#uncommon #red",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#uncommon #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34345,7 +34345,7 @@
             "artist": "Salem",
             "alias": "",
             "position": "128",
-            "notes": "#uncommon #green",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag removal-land\n#uncommon #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34357,7 +34357,7 @@
             "number": 166,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nReturn target permanent card from your graveyard to your hand. If you're in your third act, return up to one other target permanent card from your graveyard to your hand.",
+            "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nChoose up to three target permanent cards in your graveyard. If you're in your third act, you may return each card chosen this way to your hand. Otherwise, return two of the cards chosen this way to your hand instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -34367,7 +34367,7 @@
             "artist": "Mr Jack",
             "alias": "",
             "position": "129",
-            "notes": "#uncommon #green\n!tokens Third Act",
+            "notes": "!tag regrowth\n#uncommon #green\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34411,7 +34411,7 @@
             "artist": "Giovanni Fim",
             "alias": "",
             "position": "131",
-            "notes": "#uncommon #green",
+            "notes": "!tag card-advantage\n#uncommon #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34442,7 +34442,7 @@
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2013 Human",
-            "number": 25,
+            "number": 24,
             "color_identity": "W",
             "cost": "{W}",
             "rules_text": "{T}: Create a Leading Role token attached to another target creature you control. Activate this ability only as a sorcery. [i](If you control another Role on it, put that one into the graveyard. Enchanted creature is legendary, gets +1/+1 and has vigilance.)[/i]",
@@ -34489,7 +34489,7 @@
             "number": 227,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "This artifact enters tapped. When it does, tap target creature you don't control and put a stun counter on it.\n{T}: Add {C}{C}. Spend this mana only to cast noncreature spells.\nWarp 1{WU} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i] [i](You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
+            "rules_text": "This artifact enters tapped. When it does, tap target creature you don't control and put a stun counter on it.\n{T}: Add {C}{C}. Spend this mana only to cast noncreature spells.\nWarp 1{WU} [i](You may cast this card from your hand for its warp cost. Exile this artifact at the beginning of the next end step, then you may cast it from exile on a later turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -34499,7 +34499,7 @@
             "artist": "Victor G. Art",
             "alias": "",
             "position": "135",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag tapper\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34576,7 +34576,7 @@
             "artist": "Von Milano",
             "alias": "",
             "position": "138",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag removal-creature\n!tag bounce-creature\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34598,7 +34598,7 @@
             "artist": "Jason Horley",
             "alias": "",
             "position": "139",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag card-advantage\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34620,7 +34620,7 @@
             "artist": "Everard McBain",
             "alias": "",
             "position": "140",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag damage-any\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34664,7 +34664,7 @@
             "artist": "Odysseus Stamoglou",
             "alias": "",
             "position": "142",
-            "notes": "#uncommon #white",
+            "notes": "!tag regrowth-creature\n\n#uncommon #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34686,7 +34686,7 @@
             "artist": "Will Rascoe",
             "alias": "",
             "position": "143",
-            "notes": "#uncommon #white",
+            "notes": "!tag card-advantage\n#uncommon #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34698,7 +34698,7 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Flash\nWhen this creature enters, create a 1/1 white Soldier creature token for each tapped creature you control and each creature you controlled that died this turn.",
+            "rules_text": "Flash\nWhen this creature enters, create a 1/1 white Soldier creature token for each tapped creature you control and each creature you controlled that died under your control this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -34752,7 +34752,7 @@
             "artist": "Surya Prasetya",
             "alias": "",
             "position": "146",
-            "notes": "#uncommon #gold #arcun\n!tokens Treasure",
+            "notes": "!tag damage-any\n#uncommon #gold #arcun\n!tokens Treasure",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34774,7 +34774,7 @@
             "artist": "Krista Holopainen",
             "alias": "",
             "position": "147",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag reanimate-creature\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34796,7 +34796,7 @@
             "artist": "Toni Mijatovic",
             "alias": "",
             "position": "148",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag cantrip\n!tag damage-any\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34818,7 +34818,7 @@
             "artist": "ludopanda",
             "alias": "",
             "position": "149",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag anomaly\n!tag reanimate-self\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34840,7 +34840,7 @@
             "artist": "David Kregg",
             "alias": "",
             "position": "150",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag card-advantage\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34928,7 +34928,7 @@
             "artist": "Ignacio Di Meglio",
             "alias": "",
             "position": "154",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag removal-any\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34950,7 +34950,7 @@
             "artist": "Sixmorevodka Studio",
             "alias": "",
             "position": "155",
-            "notes": "#uncommon #gold #arcun",
+            "notes": "!tag tuck\n#uncommon #gold #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34972,7 +34972,7 @@
             "artist": "Prasad Rao (pressy)",
             "alias": "",
             "position": "156",
-            "notes": "#rare #gold",
+            "notes": "!tag removal-creature\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -34994,7 +34994,7 @@
             "artist": "Tommy Arnold",
             "alias": "",
             "position": "157",
-            "notes": "#uncommon #blue",
+            "notes": "!tag card-advantage\n#uncommon #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35016,7 +35016,7 @@
             "artist": "Francell Garrote",
             "alias": "",
             "position": "158",
-            "notes": "#uncommon #blue",
+            "notes": "!tag tapper\n#uncommon #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35082,7 +35082,7 @@
             "artist": "Andres Agostini",
             "alias": "",
             "position": "161",
-            "notes": "#uncommon #white\n!tokens Leading Role",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\n#uncommon #white\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35104,7 +35104,7 @@
             "artist": "Leo Colapietro",
             "alias": "",
             "position": "162",
-            "notes": "#uncommon #blue\n!tokens Third Act",
+            "notes": "!tag card-advantage\n#uncommon #blue\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35302,7 +35302,7 @@
             "artist": "Atlas Range",
             "alias": "",
             "position": "171",
-            "notes": "",
+            "notes": "!tag anomaly\n!tag graveyard-hate\n#uncommon #colorless",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35324,7 +35324,7 @@
             "artist": "Artur Sadlos",
             "alias": "",
             "position": "172",
-            "notes": "#colorless #uncommon\n!tokens Third Act",
+            "notes": "!tag anomaly\n#colorless #uncommon\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35336,7 +35336,7 @@
             "number": 246,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Whenever you produce a blockbuster or cast a spell with mana value 5 or greater, you gain 1 life.\nPay 2 life, {T}: Add one mana of any color.",
+            "rules_text": "Whenever you produce a blockbuster or cast a spell with mana value 5 or greater, you gain 1 life.\nPay 1 life, {T}: Add one mana of any color.",
             "flavor_text": "[i]\u201cAaaaand, that's a wrap!\u201d[/i]",
             "pt": "0/2",
             "special_text": "",
@@ -35346,7 +35346,7 @@
             "artist": "Ben Wanat",
             "alias": "",
             "position": "173",
-            "notes": "",
+            "notes": "!tag anomaly\n#uncommon #colorless",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35368,7 +35368,7 @@
             "artist": "IsoVovorg921",
             "alias": "",
             "position": "174",
-            "notes": "",
+            "notes": "!tag anomaly\n!tag reanimate-self\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35390,7 +35390,7 @@
             "artist": "Renze Segubiense",
             "alias": "",
             "position": "175",
-            "notes": "#common #red",
+            "notes": "!tag reanimate-self\n#common #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35412,7 +35412,7 @@
             "artist": "Artem Fadeev",
             "alias": "",
             "position": "176",
-            "notes": "#colorless #common\n!tokens Third Act",
+            "notes": "!tag cantrip\n#colorless #common\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35434,7 +35434,7 @@
             "artist": "Mario.ma",
             "alias": "",
             "position": "177",
-            "notes": "",
+            "notes": "#common #land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35478,7 +35478,7 @@
             "artist": "Damoe; Rozzo",
             "alias": "",
             "position": "179",
-            "notes": "#uncommon #white",
+            "notes": "!tag reanimate-self\n#uncommon #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35500,7 +35500,7 @@
             "artist": "Josu Solano",
             "alias": "Zilortha vs. Mother Mon-Mon",
             "position": "180",
-            "notes": "#uncommon #green",
+            "notes": "!tag reanimate-self\n#uncommon #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35544,7 +35544,7 @@
             "artist": "George Doutsiopoulos",
             "alias": "Galactic Guardians: Dark Days",
             "position": "182",
-            "notes": "#uncommon #blue\n!tokens Third Act",
+            "notes": "!tag card-advantage\n#uncommon #blue\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35566,7 +35566,7 @@
             "artist": "Zhen Yin",
             "alias": "",
             "position": "183",
-            "notes": "#common #green",
+            "notes": "!tag cantrip\n#common #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35588,7 +35588,7 @@
             "artist": "Evgeny Dvoretckiy",
             "alias": "",
             "position": "184",
-            "notes": "#common #red",
+            "notes": "!tag wrath\n#common #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35610,7 +35610,7 @@
             "artist": "Andy Tantowi",
             "alias": "",
             "position": "185",
-            "notes": "#common #blue\n!tokens Third Act",
+            "notes": "!tag bounce-creature\n!tag tuck\n#common #blue\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35654,7 +35654,7 @@
             "artist": "Mars Sun",
             "alias": "",
             "position": "187",
-            "notes": "#uncommon #white\n!tokens Third Act",
+            "notes": "!tag removal-creature\n\n#uncommon #white\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35698,7 +35698,7 @@
             "artist": "Rod Mendez",
             "alias": "",
             "position": "189",
-            "notes": "#rare #red",
+            "notes": "!tag damage-player\n!tag reanimate-self\n!tag anomaly\n#rare #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35720,7 +35720,7 @@
             "artist": "James Daly III",
             "alias": "",
             "position": "190",
-            "notes": "#rare #black",
+            "notes": "!tag card-advantage\n#rare #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35764,7 +35764,7 @@
             "artist": "Basith Ibrahim",
             "alias": "",
             "position": "192",
-            "notes": "#rare #red",
+            "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n!tag wrath\n#rare #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35795,7 +35795,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Rogue",
-            "number": 23,
+            "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "First strike\nAura and Equipment spells you cast cost {1} less to cast.\nWhen Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.",
@@ -35817,7 +35817,7 @@
             "color": "W",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 28,
+            "number": 27,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
             "rules_text": "Choose up to one artifact. Destroy all other nonland permanents.",
@@ -35830,7 +35830,7 @@
             "artist": "Adam Burn",
             "alias": "",
             "position": "195",
-            "notes": "#rare #white",
+            "notes": "!tag wrath\n#rare #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35839,12 +35839,12 @@
             "color": "W",
             "rarity": "rare",
             "type": "Creature \u2013 Spirit",
-            "number": 21,
+            "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Flying, lifelink\nWhen this creature enters, exile target nonland permanent an opponent controls until this creature leaves the battlefield.\nSequel {4}{W}{W}",
             "flavor_text": "[i]\u201cWhy did he abandon us?\u201d[/i]",
-            "pt": "2/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "SOC",
@@ -35852,7 +35852,7 @@
             "artist": "Yoojin Rhee",
             "alias": "",
             "position": "196",
-            "notes": "#rare #white",
+            "notes": "!tag banish\n!tag reanimate-self\n#rare #white",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35874,7 +35874,7 @@
             "artist": "Antoine Collignon",
             "alias": "",
             "position": "197",
-            "notes": "#mythic #blue",
+            "notes": "!tag time-walk\n#mythic #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35940,7 +35940,7 @@
             "artist": "Facundo Moyano",
             "alias": "Galactic Guardians: Dark Days",
             "position": "200",
-            "notes": "#rare #blue\n!tokens Third Act",
+            "notes": "!tag bounce-spell\n#rare #blue\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35962,7 +35962,7 @@
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
             "position": "201",
-            "notes": "#rare #blue",
+            "notes": "!tag cantrip\n!tag card-advantage\n#rare #blue",
             "image_type": "png",
             "v_mana": ""
         },
@@ -35984,7 +35984,7 @@
             "artist": "Omar Samy",
             "alias": "Last Train Out of Bai-Ran",
             "position": "202",
-            "notes": "#rare #black",
+            "notes": "!tag card-advantage\n!tag reanimate-self\n#rare #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36006,7 +36006,7 @@
             "artist": "Scott Brundage",
             "alias": "",
             "position": "203",
-            "notes": "#rare #black",
+            "notes": "!tag wrath\n!tag hand-disruption-untargetted\n#rare #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36018,7 +36018,7 @@
             "number": 92,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Blockbuster 5 [i](As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nTarget player discards their hand. Then if this spell is a blockbuster, you may return a creature card that was discarded this way from the graveyard to the battlefield.",
+            "rules_text": "Blockbuster 5 [i](As an additional cost to cast this spell, you may tap five untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nTarget player discards their hand. Then if this spell is a blockbuster, you may return a creature card that was discarded this way from the graveyard to the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -36028,7 +36028,7 @@
             "artist": "Tyler Imaikalani Kanoho",
             "alias": "",
             "position": "204",
-            "notes": "#rare #black",
+            "notes": "!tag hand-disruption-untargetted\n#rare #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36050,7 +36050,7 @@
             "artist": "Jon Gerung",
             "alias": "",
             "position": "205",
-            "notes": "#rare #black\n!tokens Third Act",
+            "notes": "!tag removal-creature\n#rare #black\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36072,7 +36072,7 @@
             "artist": "Tu Bui",
             "alias": "",
             "position": "206",
-            "notes": "#rare #red\n!tokens Third Act",
+            "notes": "!tag wrath\n#rare #red\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36182,7 +36182,7 @@
             "artist": "Carson Daniel",
             "alias": "",
             "position": "211",
-            "notes": "#rare #green",
+            "notes": "!tag reanimate-self\n!tag removal-artifact\n!tag removal-enchantment\n#rare #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36204,7 +36204,7 @@
             "artist": "Alexandre Chaudret",
             "alias": "",
             "position": "212",
-            "notes": "#rare #green",
+            "notes": "!tag reanimate-self\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-planeswalker\n!tag removal-land\n!tag removal-battle\n#rare #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36226,7 +36226,7 @@
             "artist": "Matt Zeilinger",
             "alias": "Blue Spectre 2: Nebula Protocol",
             "position": "213",
-            "notes": "#rare #gold",
+            "notes": "!tag anomaly\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36270,7 +36270,7 @@
             "artist": "Barry Brown Jr.",
             "alias": "No One Here Gets Out Alive",
             "position": "215",
-            "notes": "#rare #gold",
+            "notes": "!tag reanimate-self\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36314,7 +36314,7 @@
             "artist": "Stephen Sitton",
             "alias": "The Count's Revenge",
             "position": "217",
-            "notes": "#rare #gold",
+            "notes": "!tag hand-disruption-targetted\n!tag reanimate-self\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36336,7 +36336,7 @@
             "artist": "jojo so",
             "alias": "",
             "position": "218",
-            "notes": "#rare #gold",
+            "notes": "!tag damage-creature\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36358,7 +36358,7 @@
             "artist": "Omegarr",
             "alias": "",
             "position": "219",
-            "notes": "#rare #gold",
+            "notes": "!tag reanimate-creature\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36380,7 +36380,7 @@
             "artist": "Jiri Kus",
             "alias": "",
             "position": "220",
-            "notes": "#rare #gold\n!tokens Third Act",
+            "notes": "!tag removal-creature\n#rare #gold\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36468,7 +36468,7 @@
             "artist": "Oliver Beck",
             "alias": "",
             "position": "224",
-            "notes": "#rare #land\n!tokens Third Act",
+            "notes": "!tag cantrip\n#rare #land\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36512,7 +36512,7 @@
             "artist": "Alena Aenami",
             "alias": "",
             "position": "226",
-            "notes": "#rare #black",
+            "notes": "!tag card-advantage\n!tag reanimate-self\n#rare #black",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36556,7 +36556,7 @@
             "artist": "Bazooka Raptor",
             "alias": "",
             "position": "228",
-            "notes": "#colorless #rare",
+            "notes": "!tag card advantage\n\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36600,7 +36600,7 @@
             "artist": "Mike Marra",
             "alias": "",
             "position": "230",
-            "notes": "#rare #artifact",
+            "notes": "!tag card-advantage\n#rare #artifact",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36622,7 +36622,7 @@
             "artist": "Prasad Rao",
             "alias": "",
             "position": "231",
-            "notes": "#rare #green",
+            "notes": "!tag graveyard-hate\n#rare #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36636,7 +36636,7 @@
             "cost": "{1}{R}",
             "rules_text": "When this creature enters, exile the top card of your library. You may play that card this turn.\nSequel {1}{R} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "SOC",
@@ -36644,7 +36644,7 @@
             "artist": "Matt James",
             "alias": "",
             "position": "232",
-            "notes": "#rare #red",
+            "notes": "!tag reanimate-self\n#rare #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36666,7 +36666,7 @@
             "artist": "Didier Nguyen",
             "alias": "",
             "position": "233",
-            "notes": "#rare #red",
+            "notes": "!tag damage-any\n#rare #red",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36688,7 +36688,7 @@
             "artist": "Prasad Rao",
             "alias": "",
             "position": "234",
-            "notes": "",
+            "notes": "!tag bounce-creature\n!tag counterspell\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36710,7 +36710,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "235",
-            "notes": "",
+            "notes": "!tag card-advantage\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36732,7 +36732,7 @@
             "artist": "Pius Bak",
             "alias": "",
             "position": "236",
-            "notes": "",
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36754,7 +36754,7 @@
             "artist": "Sam yang",
             "alias": "",
             "position": "237",
-            "notes": "#rare #gold\n!tokens Third Act",
+            "notes": "!tag counterspell\n!tag graveyard-hate\n#rare #gold\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36776,7 +36776,7 @@
             "artist": "Aaron J Riley",
             "alias": "",
             "position": "238",
-            "notes": "#rare #gold\n!tokens Third Act",
+            "notes": "!tag reanimate-creature\n#rare #gold\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36820,7 +36820,7 @@
             "artist": "Nick Moskvin",
             "alias": "",
             "position": "240",
-            "notes": "#rare #gold",
+            "notes": "!tag bounce-creature\n!tag bounce-planeswalker\n!tag wheel\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36842,7 +36842,7 @@
             "artist": "Daniel Erm",
             "alias": "Galactic Guardians: Dark Days",
             "position": "241",
-            "notes": "#rare #green",
+            "notes": "!tag regrowth\n#rare #green",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36854,17 +36854,17 @@
             "number": 232,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "When Seth enters, you may sacrifice an artifact. If you do, you may activate loyalty abilities of Seth twice this turn rather than only once.\n[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.\n[-3]: Seth deals 2 damage to any target.\n[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.",
+            "rules_text": "Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once.\n[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.\n[-3]: Seth deals 2 damage to any target.\n[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When Seth enters, you may sacrifice an artifact. If you do, you may activate loyalty abilities of Seth twice this turn rather than only once.\n[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.\n[-3]: Seth deals 2 damage to any target.\n[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.",
+            "special_text": "Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once.\n[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.\n[-3]: Seth deals 2 damage to any target.\n[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.",
             "shape": "planeswalker",
             "set": "SOC",
             "loyalty": "4",
             "artist": "Richard Sashigane",
             "alias": "",
             "position": "242",
-            "notes": "#mythic #gold\n\nhttps://www.artstation.com/artwork/q9NNKD?collection_id=643671",
+            "notes": "!tag damage-any\n!tag card-advantage\n#mythic #gold\n\nhttps://www.artstation.com/artwork/q9NNKD?collection_id=643671",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36886,7 +36886,7 @@
             "artist": "Logan Feliciano",
             "alias": "",
             "position": "243",
-            "notes": "#mythic #black\n!tokens Blood\n\nhttps://www.artstation.com/artwork/8laQGq",
+            "notes": "!tag regrowth-self\n!tag wrath\n#mythic #black\n!tokens Blood\n\nhttps://www.artstation.com/artwork/8laQGq",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36908,7 +36908,7 @@
             "artist": "Joseph C-Knight",
             "alias": "",
             "position": "244",
-            "notes": "#mythic #white\n!tokens Leading Role",
+            "notes": "!tag removal-creature\n#mythic #white\n!tokens Leading Role",
             "image_type": "png",
             "v_mana": ""
         },
@@ -36917,7 +36917,7 @@
             "color": "W",
             "rarity": "mythic",
             "type": "Sorcery",
-            "number": 31,
+            "number": 30,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Blockbuster 4 [i](As an additional cost to cast this spell, you may tap four untapped non-Aura permanents you control. If you do, this spell is a blockbuster.)[/i]\nSearch your library for a legendary creature or planeswalker card, reveal it, put it into your hand, then shuffle. If this spell is a blockbuster, search your library for two legendary creature and/or planeswalker cards instead.",
@@ -37018,7 +37018,7 @@
             "artist": "Prasad Rao",
             "alias": "Neon 2080",
             "position": "249",
-            "notes": "#rare #gold",
+            "notes": "!tag anomaly\n!tag removal-creature\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37030,7 +37030,7 @@
             "number": 217,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Whenever this becomes the target of a spell or ability, if its power is less than 4, put a +1/+1 counter on it. Then it phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]\nWhenever this creature deals combat damage to a player, remove all counters from it and draw that many cards.",
+            "rules_text": "Whenever this becomes the target of a spell or ability for the first time each turn, if its power is less than 4, put a +1/+1 counter on it. Then it phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]\nWhenever this creature deals combat damage to a player, remove all counters from it and draw that many cards.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -37040,7 +37040,7 @@
             "artist": "Facundo Moyano",
             "alias": "Galactic Guardians: Dark Days",
             "position": "250",
-            "notes": "#rare #gold",
+            "notes": "!tag card-advantage\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37062,7 +37062,7 @@
             "artist": "Calder Moore",
             "alias": "Spooky Girl 7: Harvest Moon",
             "position": "251",
-            "notes": "#rare #gold",
+            "notes": "!tag reanimate-self\n#rare #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37118,7 +37118,7 @@
             "number": 138,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Third Act\nAt the beginning of your upkeep, discard a card. When you do, Morgril deals 2 damage to each player.\nMorgril can't attack or block unless you're in your third act.",
+            "rules_text": "Third Act\nTrample\nAt the beginning of your upkeep, discard a card. When you do, Morgril deals 2 damage to each player.\nMorgril can't attack or block unless you're in your third act.",
             "flavor_text": "[i][/i]",
             "pt": "7/5",
             "special_text": "",
@@ -37128,7 +37128,7 @@
             "artist": "Anthony Catillaz",
             "alias": "The Battle of the Five Kings",
             "position": "254",
-            "notes": "#mythic #red\n!tokens Third Act",
+            "notes": "!tag damage-player\n#mythic #red\n!tokens Third Act",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37150,7 +37150,7 @@
             "artist": "Jeremy Wilson",
             "alias": "",
             "position": "255",
-            "notes": "#mythic #red\n!tokens Skeleton",
+            "notes": "!tag damage-creature\n#mythic #red\n!tokens Skeleton",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37194,7 +37194,7 @@
             "artist": "Ariho Noya",
             "alias": "",
             "position": "257",
-            "notes": "#mythic #blue\n\nMother Mon-Mon",
+            "notes": "!tag card-advantage\n#mythic #blue\n\nMother Mon-Mon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37216,7 +37216,7 @@
             "artist": "Johannes Winkler",
             "alias": "",
             "position": "258",
-            "notes": "#mythic #land",
+            "notes": "!regrowth-creature\n#mythic #land",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37238,7 +37238,7 @@
             "artist": "Envar Studio",
             "alias": "",
             "position": "259",
-            "notes": "#uncommon #blue\n#peterwashere",
+            "notes": "!tag bounce-creature\n!tag reanimate-self\n#uncommon #blue\n#peterwashere",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37260,7 +37260,7 @@
             "artist": "Jeleynai",
             "alias": "",
             "position": "260",
-            "notes": "#mythic #black\n!tokens Horror",
+            "notes": "!tag reanimate-self\n#mythic #black\n!tokens Horror",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37282,7 +37282,7 @@
             "artist": "Mike Szabados",
             "alias": "",
             "position": "261",
-            "notes": "#mythic #colorless",
+            "notes": "!tag reanimate-self\n#mythic #colorless",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37304,7 +37304,7 @@
             "artist": "Alessandro Manzella",
             "alias": "",
             "position": "262",
-            "notes": "#mythic #gold",
+            "notes": "!tag edict-creature\n#mythic #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37326,7 +37326,7 @@
             "artist": "Ramza Ardyputra",
             "alias": "Guppy in the Big City",
             "position": "263",
-            "notes": "#mythic #gold",
+            "notes": "!tag anomaly\n#mythic #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37348,7 +37348,7 @@
             "artist": "",
             "alias": "",
             "position": "264",
-            "notes": "#mythic #gold",
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n#mythic #gold",
             "image_type": "png",
             "v_mana": ""
         },
@@ -37370,7 +37370,7 @@
             "artist": "James Combridge",
             "alias": "",
             "position": "265",
-            "notes": "",
+            "notes": "!tag card-advantage\n#mythic #colorless",
             "image_type": "png",
             "v_mana": ""
         },
@@ -49875,7 +49875,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "0",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -49897,7 +49897,7 @@
             "artist": "Giulia Gentilini",
             "alias": "",
             "position": "1",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -49919,7 +49919,7 @@
             "artist": "Phil Saunders",
             "alias": "",
             "position": "2",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -49941,7 +49941,7 @@
             "artist": "Aboy Ningthouja",
             "alias": "",
             "position": "3",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -49963,7 +49963,7 @@
             "artist": "Sandra Duchiewicz",
             "alias": "",
             "position": "4",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -49985,7 +49985,7 @@
             "artist": "Max Bedulenko",
             "alias": "",
             "position": "5",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50007,7 +50007,7 @@
             "artist": "Forrest White",
             "alias": "",
             "position": "6",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50029,7 +50029,7 @@
             "artist": "Anna Semykina",
             "alias": "",
             "position": "7",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50051,7 +50051,7 @@
             "artist": "Wayne haag",
             "alias": "",
             "position": "8",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50073,7 +50073,7 @@
             "artist": "Dmitry Vishnevsk",
             "alias": "",
             "position": "9",
-            "notes": "!tokens Junk\n\n#common #midden",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50249,7 +50249,7 @@
             "artist": "Mike Patrick",
             "alias": "",
             "position": "17",
-            "notes": "!tokens Junk\n\n#white #common",
+            "notes": "!tag anomaly\n!tag cantrip\n\n!tokens Junk\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50293,7 +50293,7 @@
             "artist": "Mike Smith",
             "alias": "",
             "position": "19",
-            "notes": "#white #common",
+            "notes": "!tag anomaly\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50315,7 +50315,7 @@
             "artist": "Robert Chew",
             "alias": "",
             "position": "20",
-            "notes": "#white #common",
+            "notes": "!tag anomaly\n\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50337,7 +50337,7 @@
             "artist": "Raymond -hanhao",
             "alias": "",
             "position": "21",
-            "notes": "#white #common",
+            "notes": "!tag tapper\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50381,7 +50381,7 @@
             "artist": "Al Brady",
             "alias": "",
             "position": "23",
-            "notes": "#white #common",
+            "notes": "!tag removal-creature\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50403,7 +50403,7 @@
             "artist": "boris nenezic",
             "alias": "",
             "position": "24",
-            "notes": "!tokens Call The Beast Emblem\n\n#blue #common",
+            "notes": "!tag anomaly\n!tokens Call The Beast Emblem\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50447,7 +50447,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "position": "26",
-            "notes": "!tokens Junk\n\n#blue #common",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50491,7 +50491,7 @@
             "artist": "Dmitri Gorbushin",
             "alias": "",
             "position": "28",
-            "notes": "#blue #common",
+            "notes": "!tag anomaly\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50513,7 +50513,7 @@
             "artist": "Longque Chen",
             "alias": "",
             "position": "29",
-            "notes": "#blue #uncommon",
+            "notes": "!tag anomaly\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50535,7 +50535,7 @@
             "artist": "Alexey Egorov",
             "alias": "",
             "position": "30",
-            "notes": "#blue #common",
+            "notes": "!tag anomaly\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50579,7 +50579,7 @@
             "artist": "Tuomas Korpi",
             "alias": "",
             "position": "32",
-            "notes": "#blue #common",
+            "notes": "!tag cantrip\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50601,7 +50601,7 @@
             "artist": "Stijn Beerts",
             "alias": "",
             "position": "33",
-            "notes": "!tokens Treasure\n\n#blue #common",
+            "notes": "!tag counterspell\n!tokens Treasure\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50623,7 +50623,7 @@
             "artist": "Yugin Maffioli",
             "alias": "",
             "position": "34",
-            "notes": "#blue #common",
+            "notes": "!tag tapper\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50667,7 +50667,7 @@
             "artist": "Vincent Delbarry",
             "alias": "",
             "position": "36",
-            "notes": "!tokens Junk\n\n#black #common",
+            "notes": "!tag hand-disruption-untargetted\n!tokens Junk\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50689,7 +50689,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "37",
-            "notes": "!tokens Servo\n\n#black #common",
+            "notes": "!tag anomaly\n!tokens Servo\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50711,7 +50711,7 @@
             "artist": "Sean Hughes",
             "alias": "",
             "position": "38",
-            "notes": "#black #common",
+            "notes": "!tag anomaly\n!tag reanimate-self\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50733,7 +50733,7 @@
             "artist": "Denis Zhbankov",
             "alias": "",
             "position": "39",
-            "notes": "#black #common",
+            "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50745,7 +50745,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create two Junk tokens and you lose 2 life. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -50755,7 +50755,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "40",
-            "notes": "!tokens Junk<2>\n\n#black #common",
+            "notes": "!tag card-advantage\n!tokens Junk<2>\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50777,7 +50777,7 @@
             "artist": "Daimey",
             "alias": "",
             "position": "41",
-            "notes": "#black #common",
+            "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50799,7 +50799,7 @@
             "artist": "Antoine Wilmot",
             "alias": "",
             "position": "42",
-            "notes": "#black #uncommon",
+            "notes": "!tag removal-creature\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50821,7 +50821,7 @@
             "artist": "Lamin Martin",
             "alias": "",
             "position": "43",
-            "notes": "!tokens Zombie\n\n#black #common",
+            "notes": "!tag card-advantage\n!tokens Zombie\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50843,7 +50843,7 @@
             "artist": "Sebastian Kowoll",
             "alias": "",
             "position": "44",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #common",
+            "notes": "!tag hand-disruption-targetted\n!tokens Call The Beast Emblem\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50865,7 +50865,7 @@
             "artist": "Mingchen Shen",
             "alias": "",
             "position": "45",
-            "notes": "!tokens Call The Beast Emblem\n#black #common",
+            "notes": "!tag removal-creature\n!tokens Call The Beast Emblem\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50887,7 +50887,7 @@
             "artist": "rupam raaj r",
             "alias": "",
             "position": "46",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #common",
+            "notes": "!tag removal-creature\n!tag removal-Vehicle\n!tokens Call The Beast Emblem\n\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -50909,7 +50909,7 @@
             "artist": "Miguel Regod\u00f3n Harkness",
             "alias": "",
             "position": "47",
-            "notes": "!tokens Junk\n\n#red #common",
+            "notes": "!tag cantrip\n!tokens Junk\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51019,7 +51019,7 @@
             "artist": "Melissa Buffaloe",
             "alias": "",
             "position": "52",
-            "notes": "!tokens Mercenary\n\n#red #common",
+            "notes": "!tag anomaly\n!tokens Mercenary\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51041,7 +51041,7 @@
             "artist": "Wang Xian Kun",
             "alias": "",
             "position": "53",
-            "notes": "#red #common",
+            "notes": "!tag anomaly\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51063,7 +51063,7 @@
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
             "position": "54",
-            "notes": "!tokens Junk\n\n#red #common",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!tokens Junk\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51085,7 +51085,7 @@
             "artist": "Tomasz Ryger",
             "alias": "",
             "position": "55",
-            "notes": "!tokens Junk<2>\n\n#red #common",
+            "notes": "!tag cantrip\n!tokens Junk<2>\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51107,7 +51107,7 @@
             "artist": "Daniel Schmelling",
             "alias": "",
             "position": "56",
-            "notes": "!exportname Tyrants Fire\n!tokens Call The Beast Emblem\n\n#red #common",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Tyrants Fire\n!tokens Call The Beast Emblem\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51151,7 +51151,7 @@
             "artist": "Donato Giancola",
             "alias": "",
             "position": "58",
-            "notes": "#green #common",
+            "notes": "!tag anomaly\n!tag cantrip\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51173,7 +51173,7 @@
             "artist": "Geoff Rosenthal",
             "alias": "",
             "position": "59",
-            "notes": "#green #common",
+            "notes": "!tag anomaly\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51239,7 +51239,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "62",
-            "notes": "!tokens Call The Beast Emblem\n\n#green #common",
+            "notes": "!tag anomaly\n!tokens Call The Beast Emblem\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51283,7 +51283,7 @@
             "artist": "Seungjin Woo",
             "alias": "",
             "position": "64",
-            "notes": "#green #common",
+            "notes": "!tag anomaly\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51349,7 +51349,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "67",
-            "notes": "!tokens Junk\n\n#green #common",
+            "notes": "!tag removal-artifact\n!tokens Junk\n\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51437,7 +51437,7 @@
             "artist": "Tymoteusz Chlisz",
             "alias": "",
             "position": "71",
-            "notes": "2c-arcun\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n2c-arcun\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51525,7 +51525,7 @@
             "artist": "Cameron Nissen",
             "alias": "",
             "position": "75",
-            "notes": "!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51569,7 +51569,7 @@
             "artist": "Matt Dixon",
             "alias": "",
             "position": "77",
-            "notes": "!tokens Junk\n\n#colorless #common",
+            "notes": "!tag anomaly\n!tag cantrip\n!tokens Junk\n\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51591,7 +51591,7 @@
             "artist": "Eric Elwell",
             "alias": "",
             "position": "78",
-            "notes": "#colorless #common",
+            "notes": "!tag anomaly\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51613,7 +51613,7 @@
             "artist": "Marc Escachx",
             "alias": "",
             "position": "79",
-            "notes": "!tokens Call The Beast Emblem\n\n#colorless #common",
+            "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n!tokens Call The Beast Emblem\n\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51745,7 +51745,7 @@
             "artist": "Veronica Voutila",
             "alias": "",
             "position": "85",
-            "notes": "#green #common",
+            "notes": "!tag damage-creature\n#green #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51833,7 +51833,7 @@
             "artist": "Benedick Bana",
             "alias": "",
             "position": "89",
-            "notes": "#black #common",
+            "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -51877,7 +51877,7 @@
             "artist": "Riley O'Kane",
             "alias": "",
             "position": "91",
-            "notes": "#red #common",
+            "notes": "!tag regrowth-Vehicle\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52053,7 +52053,7 @@
             "artist": "Peter Rossa",
             "alias": "",
             "position": "99",
-            "notes": "#black #uncommon",
+            "notes": "!tag anomaly\n!tag regrowth-artifact\n!tag regrowth-creature\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52075,7 +52075,7 @@
             "artist": "Yerbol Bulentayev",
             "alias": "",
             "position": "100",
-            "notes": "#black #uncommon",
+            "notes": "!tag card-advantage\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52141,7 +52141,7 @@
             "artist": "Danny Kundzinsh",
             "alias": "",
             "position": "103",
-            "notes": "#black #uncommon",
+            "notes": "!tag anomaly\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52163,7 +52163,7 @@
             "artist": "Nolan Lu",
             "alias": "",
             "position": "104",
-            "notes": "#black #uncommon",
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52185,7 +52185,7 @@
             "artist": "Jan Klooster, van de",
             "alias": "",
             "position": "105",
-            "notes": "#black #uncommon",
+            "notes": "!tag wrath\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52207,7 +52207,7 @@
             "artist": "Maxime Teppe",
             "alias": "",
             "position": "106",
-            "notes": "#black #uncommon",
+            "notes": "!tag graveyard-hate\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52229,7 +52229,7 @@
             "artist": "Cole Miller",
             "alias": "",
             "position": "107",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #uncommon",
+            "notes": "!tag removal-creature\n!tokens Call The Beast Emblem\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52251,7 +52251,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "108",
-            "notes": "#black #uncommon",
+            "notes": "!tag removal-creature\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52273,7 +52273,7 @@
             "artist": "Th\u00e9o DROULEZ",
             "alias": "",
             "position": "109",
-            "notes": "!exportname Pull em Out\n\n#black #uncommon",
+            "notes": "!tag regrowth-creature\n!exportname Pull em Out\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52295,7 +52295,7 @@
             "artist": "Geoffrey Ernault",
             "alias": "",
             "position": "110",
-            "notes": "#black #uncommon",
+            "notes": "!tag anomaly\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52339,7 +52339,7 @@
             "artist": "Germ\u00e1n Cid",
             "alias": "",
             "position": "112",
-            "notes": "!tokens Junk\n\n#red #uncommon",
+            "notes": "!tag card-advantage\n!tag reanimate-artifact\n!tokens Junk\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52427,7 +52427,7 @@
             "artist": "Stoyan Stoyanov",
             "alias": "",
             "position": "116",
-            "notes": "#red #uncommon",
+            "notes": "!tag anomaly\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52493,7 +52493,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "119",
-            "notes": "!tokens Call The Beast Emblem\n\n#red #uncommon",
+            "notes": "!tag removal-artifact\n!tag wrath\n!tokens Call The Beast Emblem\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52537,7 +52537,7 @@
             "artist": "Dylan Scher",
             "alias": "",
             "position": "121",
-            "notes": "!tokens Junk<2>\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n!tokens Junk<2>\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52559,7 +52559,7 @@
             "artist": "Eric Elwell",
             "alias": "",
             "position": "122",
-            "notes": "#red #uncommon",
+            "notes": "!tag anomaly\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52581,7 +52581,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "123",
-            "notes": "!tokens Treasure;Junk\n\n#red #uncommon",
+            "notes": "!tag card-advantage\n!tokens Treasure;Junk\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52625,7 +52625,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "125",
-            "notes": "#green #uncommon",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52647,7 +52647,7 @@
             "artist": "Ben Hancock",
             "alias": "",
             "position": "126",
-            "notes": "#green #uncommon",
+            "notes": "!tag anomaly\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52669,7 +52669,7 @@
             "artist": "Cl\u00e9ment BRECHET",
             "alias": "",
             "position": "127",
-            "notes": "#colorless #uncommon",
+            "notes": "!tag anomaly\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52713,7 +52713,7 @@
             "artist": "KRIS",
             "alias": "",
             "position": "129",
-            "notes": "#green #uncommon",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag damage-creature\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52735,7 +52735,7 @@
             "artist": "Rienque LeVerite",
             "alias": "",
             "position": "130",
-            "notes": "#green #uncommon",
+            "notes": "!tag damage-creature\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52779,7 +52779,7 @@
             "artist": "\u6b27\u745f\u65af \u5de5\u4f5c\u5ba4",
             "alias": "",
             "position": "132",
-            "notes": "!tokens Call The Beast Emblem\n\n#green #uncommon",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tokens Call The Beast Emblem\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52889,7 +52889,7 @@
             "artist": "Ondrej Spanhel",
             "alias": "",
             "position": "137",
-            "notes": "#white #uncommon",
+            "notes": "!tag anomaly\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52911,7 +52911,7 @@
             "artist": "Jacob Kuhne",
             "alias": "",
             "position": "138",
-            "notes": "#white #uncommon",
+            "notes": "!tag damage-creature\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52919,7 +52919,7 @@
             "card_name": "Bert, Parts Specialist",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Legendary Artifact Creature \u2013 Dwarf",
+            "type": "Legendary Creature \u2013 Dwarf",
             "number": 8,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -52977,7 +52977,7 @@
             "artist": "Grafit Studios",
             "alias": "",
             "position": "141",
-            "notes": "!tokens Servo<2>;Junk\n\n#white #uncommon",
+            "notes": "!tag cantrip\n!tokens Servo<2>;Junk\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -52999,7 +52999,7 @@
             "artist": "Igor Artyomenko",
             "alias": "",
             "position": "142",
-            "notes": "#white #uncommon",
+            "notes": "!tag anomaly\n!tag regrowth-creature\n\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53021,7 +53021,7 @@
             "artist": "Lo\u00efc Souquet",
             "alias": "",
             "position": "143",
-            "notes": "!tokens Junk\n\n#blue #uncommon",
+            "notes": "!tag card-advantage\n!tokens Junk\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53043,7 +53043,7 @@
             "artist": "Oliver Wetter",
             "alias": "",
             "position": "144",
-            "notes": "#blue #uncommon",
+            "notes": "!tag pacifism\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53065,7 +53065,7 @@
             "artist": "Geoffrey Amesse",
             "alias": "",
             "position": "145",
-            "notes": "#blue #uncommon",
+            "notes": "!tag bounce\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53087,7 +53087,7 @@
             "artist": "David Savage",
             "alias": "",
             "position": "146",
-            "notes": "#blue #uncommon",
+            "notes": "!tag counterspell\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53153,7 +53153,7 @@
             "artist": "Fran Fdez",
             "alias": "",
             "position": "149",
-            "notes": "#blue #uncommon",
+            "notes": "!tag card-advantage\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53197,7 +53197,7 @@
             "artist": "Huleeb",
             "alias": "",
             "position": "151",
-            "notes": "#blue #uncommon",
+            "notes": "!tag cantrip\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53219,7 +53219,7 @@
             "artist": "Vael",
             "alias": "",
             "position": "152",
-            "notes": "!tokens Junk\n\n#blue #uncommon",
+            "notes": "!tag card-advantage\n!tokens Junk\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53241,7 +53241,7 @@
             "artist": "Lighting Luminoso",
             "alias": "",
             "position": "153",
-            "notes": "#blue #uncommon",
+            "notes": "!tag reanimate-creature\n!tag reanimate-artifact\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53373,7 +53373,7 @@
             "artist": "Illarstration",
             "alias": "",
             "position": "159",
-            "notes": "#colorless #uncommon",
+            "notes": "!tag anomaly\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53395,7 +53395,7 @@
             "artist": "Iain Hegoburu",
             "alias": "",
             "position": "160",
-            "notes": "!tokens Call The Beast Emblem\n\n#colorless #uncommon",
+            "notes": "!tag anomaly\n!tag cantrip\n!tokens Call The Beast Emblem\n\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53439,7 +53439,7 @@
             "artist": "Franky Savant",
             "alias": "",
             "position": "162",
-            "notes": "#colorless #uncommon",
+            "notes": "!tag anomaly\n#colorless #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53461,7 +53461,7 @@
             "artist": "MoGi Group",
             "alias": "",
             "position": "163",
-            "notes": "#white #uncommon",
+            "notes": "!tag damage-creature\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53505,7 +53505,7 @@
             "artist": "Svet Rezhet Glaza",
             "alias": "",
             "position": "165",
-            "notes": "#white #uncommon",
+            "notes": "!tag removal-artifact\n!tag removal-creature\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53527,7 +53527,7 @@
             "artist": "Boris Campistron",
             "alias": "",
             "position": "166",
-            "notes": "!tokens Call The Beast Emblem\n\n#blue #uncommon",
+            "notes": "!tag tapper\n!tokens Call The Beast Emblem\n\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53549,7 +53549,7 @@
             "artist": "Melanie Tan",
             "alias": "",
             "position": "167",
-            "notes": "#red #uncommon",
+            "notes": "!tag removal-artifact\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53571,7 +53571,7 @@
             "artist": "Sung Choi",
             "alias": "",
             "position": "168",
-            "notes": "!tokens Zombie\n\n#black #uncommon",
+            "notes": "!tag card-advantage\n!tokens Zombie\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53593,7 +53593,7 @@
             "artist": "Tyler Edlin",
             "alias": "",
             "position": "169",
-            "notes": "#green #uncommon",
+            "notes": "!tag regrowth\n!tag reanimate-land\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53615,7 +53615,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "170",
-            "notes": "!tokens Zombie\n\n#gold #mythic #junklord",
+            "notes": "!tag card-advantage\n!tokens Zombie\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53637,7 +53637,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "171",
-            "notes": "!tokens Servo\n\n#gold #mythic #junklord",
+            "notes": "!tag card-advantage\n!tokens Servo\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53703,7 +53703,7 @@
             "artist": "Mario Brunner",
             "alias": "",
             "position": "174",
-            "notes": "!tokens Junk\n\n#blue #common",
+            "notes": "!tag tuck\n!tag cantrip\n!tokens Junk\n\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53725,7 +53725,7 @@
             "artist": "Romain Thirion",
             "alias": "",
             "position": "175",
-            "notes": "!tokens Junk\n\n#green #rare",
+            "notes": "!tag anomaly\n!tokens Junk\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53813,7 +53813,7 @@
             "artist": "D DB",
             "alias": "",
             "position": "179",
-            "notes": "!tokens Junk\n\n#green #rare",
+            "notes": "!tag anomaly\n!tokens Junk\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53835,7 +53835,7 @@
             "artist": "Orphan RTG",
             "alias": "",
             "position": "180",
-            "notes": "#green #rare",
+            "notes": "!tag anomaly\n!tag damage-creature\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53901,7 +53901,7 @@
             "artist": "Space Goose",
             "alias": "",
             "position": "183",
-            "notes": "#red #rare",
+            "notes": "!tag removal-artifact\n!tag damage-creature\n!tag damage-planeswalker\n#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -53945,7 +53945,7 @@
             "artist": "Zack Jones",
             "alias": "",
             "position": "185",
-            "notes": "#red #rare",
+            "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54011,7 +54011,7 @@
             "artist": "Tsvetelin Krastev",
             "alias": "",
             "position": "188",
-            "notes": "!exportname Vorricks Blast Array\n\n#red #rare",
+            "notes": "!tag damage-any\n!exportname Vorricks Blast Array\n\n#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54055,7 +54055,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "190",
-            "notes": "#black #rare",
+            "notes": "!tag removal-creature\n!tag graveyard-hate\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54077,7 +54077,7 @@
             "artist": "Amanda Diaz",
             "alias": "",
             "position": "191",
-            "notes": "#gold #rare",
+            "notes": "!tag hand-disruption-targetted\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54099,7 +54099,7 @@
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
             "position": "192",
-            "notes": "!tokens Junk<2>\n\n#gold #rare",
+            "notes": "!tag anomaly\n!tag card-advantage\n!tokens Junk<2>\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54143,7 +54143,7 @@
             "artist": "Philipp Kruse",
             "alias": "",
             "position": "194",
-            "notes": "#gold #rare",
+            "notes": "!tag card-advantage\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54165,7 +54165,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "195",
-            "notes": "!tokens Call The Beast Emblem\n\n#gold #rare",
+            "notes": "!tag edict-creature\n!tokens Call The Beast Emblem\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54209,7 +54209,7 @@
             "artist": "Tom\u00e1\u0161 M\u00fcller",
             "alias": "",
             "position": "197",
-            "notes": "!exportname Felisahs Recruiter\n\n#white #rare",
+            "notes": "!tag card-advantage\n!exportname Felisahs Recruiter\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54231,7 +54231,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "198",
-            "notes": "!tokens Junk;Mercenary\n\n#white #rare",
+            "notes": "!tag cantrip\n!tokens Junk;Mercenary\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54243,7 +54243,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a +1/+1 counter.\nAt the beginning of your end step, exile Lundquist's Garage.",
+            "rules_text": "You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]\nAt the beginning of your end step, exile Lundquist's Garage.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -54253,7 +54253,7 @@
             "artist": "Paul Patricio",
             "alias": "",
             "position": "199",
-            "notes": "!exportname Lundquists Garage\n\n#white #rare",
+            "notes": "!tag reanimate-creature\n!tag reanimate-vehicle\n\n!exportname Lundquists Garage\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54275,7 +54275,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "200",
-            "notes": "#white #rare",
+            "notes": "!tag wrath\n!tag reanimate-creature\n!tag regrowth-creature\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54297,7 +54297,7 @@
             "artist": "Sylvain Coutouly",
             "alias": "",
             "position": "201",
-            "notes": "#white #rare",
+            "notes": "!tag reanimate-artifact\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54319,7 +54319,7 @@
             "artist": "Chloe Beckett",
             "alias": "",
             "position": "202",
-            "notes": "!tokens Call The Beast Emblem\n\n#white #rare",
+            "notes": "!tag banish\n\n!tokens Call The Beast Emblem\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54385,7 +54385,7 @@
             "artist": "Radik Shaikhullin",
             "alias": "",
             "position": "205",
-            "notes": "#black #mythic",
+            "notes": "!tag reanimate-creature\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54407,7 +54407,7 @@
             "artist": "Sylvain Coutouly",
             "alias": "",
             "position": "206",
-            "notes": "!exportname Azareths Dreadnought\n\n#black #mythic",
+            "notes": "!tag removal\n!exportname Azareths Dreadnought\n\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54429,7 +54429,7 @@
             "artist": "Izzy Medrano",
             "alias": "",
             "position": "207",
-            "notes": "#black #rare",
+            "notes": "!tag graveyard-hate\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54451,7 +54451,7 @@
             "artist": "Hocheol Ryu Welz",
             "alias": "",
             "position": "208",
-            "notes": "#black #rare",
+            "notes": "!tag card-advantage\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54473,7 +54473,7 @@
             "artist": "Darwin Cellis",
             "alias": "",
             "position": "209",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #rare",
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n!tokens Call The Beast Emblem\n\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54495,7 +54495,7 @@
             "artist": "Typhaine Escande",
             "alias": "",
             "position": "210",
-            "notes": "#black #rare",
+            "notes": "!tag reanimate-self\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54517,7 +54517,7 @@
             "artist": "Vael",
             "alias": "",
             "position": "211",
-            "notes": "#black #rare",
+            "notes": "!tag hand-disruption-targetted\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54539,7 +54539,7 @@
             "artist": "Rostyslav Zagornov",
             "alias": "",
             "position": "212",
-            "notes": "#blue #rare",
+            "notes": "!tag regrowth-artifact\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54561,7 +54561,7 @@
             "artist": "Cameron Nissen",
             "alias": "",
             "position": "213",
-            "notes": "#blue #rare",
+            "notes": "!tag anomaly\n!tag bounce\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54605,7 +54605,7 @@
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
             "position": "215",
-            "notes": "!tokens Junk\n\n#blue #rare",
+            "notes": "!tag counterspell\n!tokens Junk\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54627,7 +54627,7 @@
             "artist": "Athur Haas",
             "alias": "",
             "position": "216",
-            "notes": "!tokens Call The Beast Emblem\n\n#blue #rare",
+            "notes": "!tag card-advantage\n!tokens Call The Beast Emblem\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54649,7 +54649,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "217",
-            "notes": "#blue #rare",
+            "notes": "!tag tapper\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54671,7 +54671,7 @@
             "artist": "Maxim Lingert",
             "alias": "",
             "position": "218",
-            "notes": "!tokens Junk\n\n#blue #rare",
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n!tokens Junk\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54693,7 +54693,7 @@
             "artist": "WEI ShenGun",
             "alias": "",
             "position": "219",
-            "notes": "!exportname Shamuss Pontoon\n\n#blue #rare",
+            "notes": "!tag card-advantage\n!exportname Shamuss Pontoon\n\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54715,7 +54715,7 @@
             "artist": "Glenn Porter",
             "alias": "",
             "position": "220",
-            "notes": "#gold #rare",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54737,7 +54737,7 @@
             "artist": "Afanur Rashid",
             "alias": "",
             "position": "221",
-            "notes": "!tokens Junk\n\n#gold #rare",
+            "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n!tokens Junk\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54759,7 +54759,7 @@
             "artist": "David Newton",
             "alias": "",
             "position": "222",
-            "notes": "!tokens Nomad\n\n#gold #rare",
+            "notes": "!tag graveyard-hate\n!tokens Nomad\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54781,7 +54781,7 @@
             "artist": "Tatiana Novak",
             "alias": "",
             "position": "223",
-            "notes": "#colorless #rare",
+            "notes": "!tag graveyard-hate\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54803,7 +54803,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "224",
-            "notes": "#colorless #rare",
+            "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n!tag wrath\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54825,7 +54825,7 @@
             "artist": "Gabriele Vaccaro",
             "alias": "",
             "position": "225",
-            "notes": "#colorless #rare",
+            "notes": "!tag anomaly\n!tag removal-creature\n!tag wrath\n#colorless #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54847,7 +54847,7 @@
             "artist": "Maciej Laszkiewicz",
             "alias": "",
             "position": "226",
-            "notes": "!tokens Junk\n\n#black #mythic",
+            "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n!tokens Junk\n\n#black #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54869,7 +54869,7 @@
             "artist": "Luca Maiorani",
             "alias": "",
             "position": "227",
-            "notes": "#green #mythic",
+            "notes": "!tag anomaly\n#green #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54891,7 +54891,7 @@
             "artist": "Riccardo Varisco",
             "alias": "",
             "position": "228",
-            "notes": "!exportname Recycle-o-Tron\n\n#green #mythic",
+            "notes": "!tag anomaly\n!exportname Recycle-o-Tron\n\n#green #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54913,7 +54913,7 @@
             "artist": "Andrzej Rybus",
             "alias": "",
             "position": "229",
-            "notes": "#red #mythic",
+            "notes": "!tag anomaly\n#red #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -54935,7 +54935,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "230",
-            "notes": "!tokens Junk\n\n#colorless #mythic #planeswalker",
+            "notes": "!tag card-advantage\n!tag removal-creature\n!tokens Junk\n\n#colorless #mythic #planeswalker",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55111,7 +55111,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "238",
-            "notes": "#blue #mythic",
+            "notes": "!tag regrowth-artifact\n!tag card-advantage\n#blue #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55155,7 +55155,7 @@
             "artist": "Simon Douville",
             "alias": "",
             "position": "240",
-            "notes": "#blue #uncommon",
+            "notes": "!tag anomaly\n!tag cantrip\n!tag card-advantage\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55199,7 +55199,7 @@
             "artist": "Mikl\u00f3s Ligeti",
             "alias": "",
             "position": "242",
-            "notes": "#white #rare",
+            "notes": "!tag card-advantage\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55221,7 +55221,7 @@
             "artist": "Nikolai Lockertsen",
             "alias": "",
             "position": "243",
-            "notes": "#white #rare",
+            "notes": "!tag banish\n\n#white #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55233,7 +55233,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "When this Vehicle enters, return up to one target creature to its owner's hand.\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When this Vehicle enters, return up to one target creature to its owner's hand.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -55243,7 +55243,7 @@
             "artist": "Michal Kus",
             "alias": "",
             "position": "244",
-            "notes": "#blue #uncommon",
+            "notes": "!tag bounce-creature\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55265,7 +55265,7 @@
             "artist": "Marc Simonetti",
             "alias": "",
             "position": "245",
-            "notes": "#blue #common",
+            "notes": "!tag anomaly\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55287,7 +55287,7 @@
             "artist": "Kirill Udodov",
             "alias": "",
             "position": "246",
-            "notes": "!tokens Junk<3>\n\n#green #uncommon",
+            "notes": "!tag card-advantage\n!tokens Junk<3>\n\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55309,7 +55309,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "247",
-            "notes": "#colorless #common",
+            "notes": "!tag anomaly\n#colorless #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55375,7 +55375,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "250",
-            "notes": "!exportname Junklords Hole Puncher\n\n#red #mythic",
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Junklords Hole Puncher\n\n#red #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55463,7 +55463,7 @@
             "artist": "Felicien Nourry",
             "alias": "",
             "position": "254",
-            "notes": "#white #common",
+            "notes": "!tag banish\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55485,7 +55485,7 @@
             "artist": "Garrett Post",
             "alias": "",
             "position": "255",
-            "notes": "!exportname Vorricks Radicals\n!tokens Junk\n\n#gold #uncommon #arcun",
+            "notes": "!tag card-advantage\n!damage-any\n!exportname Vorricks Radicals\n!tokens Junk\n\n#gold #uncommon #arcun",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55507,7 +55507,7 @@
             "artist": "ROBOTA",
             "alias": "",
             "position": "256",
-            "notes": "#white #uncommon",
+            "notes": "!tag cantrip\n#white #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55529,7 +55529,7 @@
             "artist": "Daniel Ignacio",
             "alias": "",
             "position": "257",
-            "notes": "#blue #common",
+            "notes": "!tag cantrip\n#blue #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55551,7 +55551,7 @@
             "artist": "Gunnar Feldmann",
             "alias": "",
             "position": "258",
-            "notes": "#blue #uncommon",
+            "notes": "!tag tapper\n!tag cantrip\n#blue #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55573,7 +55573,7 @@
             "artist": "D4Disgruntled",
             "alias": "",
             "position": "259",
-            "notes": "#black #uncommon",
+            "notes": "!tag removal-creature\n!tag cantrip\n\n#black #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55595,7 +55595,7 @@
             "artist": "Piotr Kwasnicki",
             "alias": "",
             "position": "260",
-            "notes": "!tokens Treasure\n\n#red #uncommon",
+            "notes": "!tag cantrip\n!tokens Treasure\n\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55617,7 +55617,7 @@
             "artist": "Aster Reeve",
             "alias": "",
             "position": "261",
-            "notes": "#green #uncommon",
+            "notes": "!tag cantrip\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55639,7 +55639,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "262",
-            "notes": "!tokens Junk\n\n#gold #mythic #junklord",
+            "notes": "!tag card-advantage\n!tag damage-any\n!tokens Junk\n\n#gold #mythic #junklord",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55705,7 +55705,7 @@
             "artist": "Michel Lanoie",
             "alias": "",
             "position": "265",
-            "notes": "#red #rare",
+            "notes": "!tag card-advantage\n#red #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55815,7 +55815,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "270",
-            "notes": "#black #common",
+            "notes": "!tag anomaly\n!tag removal-creature\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55837,7 +55837,7 @@
             "artist": "Travis Anderson",
             "alias": "",
             "position": "271",
-            "notes": "#black #common",
+            "notes": "!tag anomaly\n#black #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55859,7 +55859,7 @@
             "artist": "J Hua",
             "alias": "",
             "position": "272",
-            "notes": "!tokens Servo\n\n#red #common",
+            "notes": "!tag damage-any\n!tokens Servo\n\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55881,7 +55881,7 @@
             "artist": "Pedro Otelcana",
             "alias": "",
             "position": "273",
-            "notes": "#black #rare",
+            "notes": "!tag anomaly\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55903,7 +55903,7 @@
             "artist": "Nick Storozhenko",
             "alias": "",
             "position": "274",
-            "notes": "#blue #mythic",
+            "notes": "!tag anomaly\n#blue #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55925,7 +55925,7 @@
             "artist": "Bachana Botchorishvilli",
             "alias": "",
             "position": "275",
-            "notes": "#white #common",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag graveyard-hate\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -55991,7 +55991,7 @@
             "artist": "Alu\u00edsio Cervelle Santos",
             "alias": "",
             "position": "278",
-            "notes": "!tokens Call The Beast Emblem\n#blue #rare",
+            "notes": "!tag card-advantage\n!tokens Call The Beast Emblem\n#blue #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56013,7 +56013,7 @@
             "artist": "Joshua Carter",
             "alias": "",
             "position": "279",
-            "notes": "#gold #rare",
+            "notes": "!tag wrath\n!tag wheel\n!tag regrowth-Vehicle\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56035,7 +56035,7 @@
             "artist": "Aleksei Shatunov",
             "alias": "",
             "position": "280",
-            "notes": "!tokens Call The Beast Emblem\n\n#gold #rare",
+            "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n!tokens Call The Beast Emblem\n\n#gold #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56057,7 +56057,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "281",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #rare",
+            "notes": "!tag anomaly\n!tag removal-creature\n!tokens Call The Beast Emblem\n\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56079,7 +56079,7 @@
             "artist": "LiXin Yin",
             "alias": "",
             "position": "282",
-            "notes": "!exportname The Junklords Gambit\n\n#colorless #mythic",
+            "notes": "!tag wrath\n!exportname The Junklords Gambit\n\n#colorless #mythic",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56123,7 +56123,7 @@
             "artist": "Polina Semenova",
             "alias": "",
             "position": "284",
-            "notes": "!tokens Call The Beast Emblem\n\n#green #rare",
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tokens Call The Beast Emblem\n\n#green #rare",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56145,7 +56145,7 @@
             "artist": "Wang Xian Kun",
             "alias": "",
             "position": "285",
-            "notes": "#red #uncommon",
+            "notes": "!tag anomaly\n#red #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56167,7 +56167,7 @@
             "artist": "Games Revolted",
             "alias": "",
             "position": "286",
-            "notes": "#green #uncommon",
+            "notes": "!tag anomaly\n#green #uncommon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56211,7 +56211,7 @@
             "artist": "Jun Huang",
             "alias": "",
             "position": "288",
-            "notes": "#white #common",
+            "notes": "!tag anomaly\n#white #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56233,7 +56233,7 @@
             "artist": "Wojciech Kr\u00f3lik",
             "alias": "",
             "position": "289",
-            "notes": "#red #common",
+            "notes": "!tag damage-any\n#red #common",
             "image_type": "png",
             "v_mana": ""
         },
@@ -56255,7 +56255,7 @@
             "artist": "Wenmo Zhang",
             "alias": "",
             "position": "290",
-            "notes": "#black #rare",
+            "notes": "!tag anomaly\n!tag reanimate-self\n#black #rare",
             "image_type": "png",
             "v_mana": ""
         },

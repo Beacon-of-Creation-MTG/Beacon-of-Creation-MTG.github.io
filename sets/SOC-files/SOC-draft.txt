@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/43.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/46.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Goblin Noble",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/51.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/53.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/86.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Elf",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/89.png"
 			}
@@ -1101,11 +1101,11 @@
 			}
 		},
 		{
-			"name": "Fight for Survival",
+			"name": "Survive the Onslaught",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/110.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/133.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/195.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/196.png"
 			}
@@ -2455,7 +2455,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/245.png"
 			}
@@ -2703,784 +2703,264 @@
 	]
 
 [rare(1)]
-	2 Deus Ex Machina
-	2 Lady, Arthouse Star
-	2 Tia Otumbo
-	2 Clean-up Crew
-	2 Split
-	2 Wayne Barnes
-	2 Volnir's Phoenix
-	2 Helm of Volnir
-	2 Dr. Archibald Ratticus
-	2 Leaky Futuretron
-	2 End of the Line
-	2 Holly Drake
-	2 Planetary Disaster
-	2 Ghost of Stage 10
-	1 Temporal Anomaly
-	2 Blue Spectre
-	2 VAL1000
-	2 Tyde Turner
-	2 Four Dimensional Beast
-	2 Sensei Ira
-	2 Message Received
-	2 Final Torment
-	2 Kill Your Darlings
-	2 Last Kiss
-	2 Hound Conjurer
-	2 Postal Carrier
-	2 Special Bond
-	2 Elder of the Guild
-	2 Hungry Little Terrors
-	2 Angry Primordial
-	2 Dr. Zenus Prime
-	2 Fates Foretold
-	2 Tommy Bones
-	2 Our Love is Forever
-	2 Detective Fluffles
-	2 Alternate Timelines
-	2 It's a Crossover!
-	2 Cosmic Horror
-	2 City of Heroes
-	2 Kaiju Homeworld
-	2 Shootout Gully
-	2 Intergalactic Spaceport
-	2 Adventurer's Village
-	2 Anguish
-	2 Forgotten Master
-	2 Film Editing
-	2 X-11, The Gargantuan
-	2 The Stone of Kings
-	2 Two is Better
-	2 Masked Vigilante
-	2 Uncapped Rage
-	2 Heroic Weakness
-	2 Takedown of Bai-Ran
-	2 Unravel the Code
-	2 Deceiving Fist
-	2 Never Found the Body
-	2 Charming Minotaur
-	2 Reset Protocol
-	2 Toxin
-	1 Seth, Breaking Through
-	1 Cohen, Archvillain
-	1 Virtuous Knight
-	1 Search the Universe
-	1 Admiral Joseph
-	1 Mantle of the Empire
-	1 Siege Mastodon
-	2 Kal Rod'r
-	2 The Illusionist
-	2 Lyndy
-	2 Ratrisha Rocket
-	2 Germinating Grub
-	1 Morgril, the Devastator
-	1 Skelly Boy Beatdown
-	1 Ortesian Sneak
-	1 Stormbringer Behemoth
-	1 Monitor Room
-	1 Hellbreach Heroine
-	1 Colossal Kaiju
-	1 One by One
-	1 Guppy
-	1 The Big Screen
-	1 Dimensional Antenna
-	1 Hero's Rise
+	5 Deus Ex Machina
+	5 Lady, Arthouse Star
+	5 Tia Otumbo
+	5 Clean-up Crew
+	5 Split
+	5 Wayne Barnes
+	5 Volnir's Phoenix
+	5 Helm of Volnir
+	5 Dr. Archibald Ratticus
+	5 Leaky Futuretron
+	5 End of the Line
+	5 Holly Drake
+	5 Planetary Disaster
+	5 Ghost of Stage 10
+	5 Temporal Anomaly
+	5 Blue Spectre
+	5 VAL1000
+	5 Tyde Turner
+	5 Four Dimensional Beast
+	5 Sensei Ira
+	5 Message Received
+	5 Final Torment
+	5 Kill Your Darlings
+	5 Last Kiss
+	5 Hound Conjurer
+	5 Postal Carrier
+	5 Special Bond
+	5 Elder of the Guild
+	5 Hungry Little Terrors
+	5 Angry Primordial
+	5 Dr. Zenus Prime
+	5 Fates Foretold
+	5 Tommy Bones
+	5 Our Love is Forever
+	5 Detective Fluffles
+	5 Alternate Timelines
+	5 It's a Crossover!
+	5 Cosmic Horror
+	5 City of Heroes
+	5 Kaiju Homeworld
+	5 Shootout Gully
+	5 Intergalactic Spaceport
+	5 Adventurer's Village
+	5 Anguish
+	5 Forgotten Master
+	5 Film Editing
+	5 X-11, The Gargantuan
+	5 The Stone of Kings
+	5 Two is Better
+	5 Masked Vigilante
+	5 Uncapped Rage
+	5 Heroic Weakness
+	5 Takedown of Bai-Ran
+	5 Unravel the Code
+	5 Deceiving Fist
+	5 Never Found the Body
+	5 Charming Minotaur
+	5 Reset Protocol
+	5 Toxin
+	5 Seth, Breaking Through
+	5 Cohen, Archvillain
+	5 Virtuous Knight
+	5 Search the Universe
+	5 Admiral Joseph
+	5 Mantle of the Empire
+	5 Siege Mastodon
+	5 Kal Rod'r
+	5 The Illusionist
+	5 Lyndy
+	5 Ratrisha Rocket
+	5 Germinating Grub
+	5 Morgril, the Devastator
+	5 Skelly Boy Beatdown
+	5 Ortesian Sneak
+	5 Stormbringer Behemoth
+	5 Monitor Room
+	5 Hellbreach Heroine
+	5 Colossal Kaiju
+	5 One by One
+	5 Guppy
+	5 The Big Screen
+	5 Dimensional Antenna
+	5 Hero's Rise
 [uncommon(3)]
-	4 Terror of the Darkwood
-	4 Adventurous Couple
-	4 Lightning Bug
-	4 Shyla Montgomery
-	4 Combat Experts
-	4 Eager Audience
-	4 Unlikely Betrayal
-	4 Buggy Shieldbearer
-	4 Altered Brain
-	4 Selfless Partner
-	4 Tactical Strike Team
-	4 Twist Villain
-	4 Charismatic Speaker
-	4 Soaring Woman
-	4 Pharmaceutical Expeditioners
-	4 Alien Anatomist
-	4 The Big Friendly Beast
-	4 Vengeful Shinobi
-	4 Bloodbutcher
-	4 Terrifying New Villain
-	4 Relentless Assassin
-	4 Sidekick
-	4 Bulked Star
-	4 Dreadmaw Matriarch
-	4 Endangered Species
-	4 Find the Sacred Place
-	4 Turned Ally
-	4 Colossal Greatcrab
-	4 Micromancer
-	4 Friend 'til the End
-	4 Fight for Survival
-	4 Break Trust
-	4 Write Back In
-	4 Close the Wormhole
-	4 CGI Animals
-	4 Lifeforce Ship
-	4 Into the Maw of Greatness
-	4 Dark Horde Rising
-	4 Cornered Lover
-	4 Raze the Castle
-	4 Punch the Turtle
-	4 Romantic Tension
-	4 The Scheme Unfolds
-	4 Dark Ending
-	4 Femme Fatale
-	4 Low Point
-	4 Team Up!
-	4 Stand Off
-	4 Incidental Destruction
-	4 Explore the Depths
-	4 Loving Beast
-	4 Hubris of Discovery
-	4 The Thunder Squad
-	4 Makeup Artist
-	4 Space Pilgrim
-	4 Paragon Battery
-	4 Redrin Greyfur
-	4 Khazra
-	4 Erupting Sandmaw
-	4 Citybreaker Kaiju
-	4 Electric Explosion
-	4 Super Hero Squad
-	4 Deep Space Defender
-	4 Cloning Chamber
-	4 Imperial Defense System
-	4 Roll the Dice
-	4 The Final Reveal
-	4 Shock and Awe
-	4 Harvest Killer
-	4 Master in the Marsh
-	4 Confident Criminal
-	4 Alliance of Passion
-	4 Magician Adept
-	4 Terrifying Slash
-	4 Dragged Back to the Shadows
-	4 Strange Beacon
-	4 Martial Arts Training
-	4 Gravity Anomaly
-	4 Compact Multitool
-	4 Break from Tradition
-	4 Consider the Possibilities
-	4 Refurbisher
-	4 Lost Sentinel
-	4 POV Camera
-	4 Sentient Car
-	4 Cornered Mobster
-	4 Buggy Vanguard
-	4 Mother Mon-Mon
-	4 Collete Klide
-	4 Captain Marvelous
-	4 Big Bad Tree
-	4 Completely Surrounded
-	4 Family Friendly Hero
-[common(7)]
-	8 Portal Opener
-	8 Ninja in the Wings
-	8 Deep Space Navigator
-	8 Cephalid Sidekick
-	8 Time Traveling Cop
-	8 Greatspan Kaiju
-	8 The Prestige
-	8 Plot Armor
-	8 Anticipate
-	8 Horizons Unfolding
-	8 Face in a Crowd
-	8 Banishing Portal
-	8 Training Session
-	8 Wild Rider
-	8 Scene Crasher
-	8 Gamblin' Gal
-	8 Family Man
-	8 Grinning Captive
-	8 Couple o' Escapees
-	8 Killer in the Streets
-	8 Wandering Dreadmaw
-	8 Cool Guys Don't Look at Explosions
-	8 Fastest Shot in the West
-	8 Forbidden Rendezvous
-	8 Stagecoach Robbery
-	8 Hero's Rage
-	8 Plasma Shield Defender
-	8 Brave Little Toadster
-	8 Wooden Slasher
-	8 Pining Suitor
-	8 Young Lovers
-	8 Eight-Legged Freak
-	8 Killer Croc
-	8 Armored Kaiju
-	8 Two-Headed Goliath
-	8 Monster's Fury
-	8 Ominous Warpgate
-	8 Stronger Together
-	8 Altar of Heroes
-	8 Hulking Growth
-	8 Flashblade Ninja
-	8 Unconventional Mentor
-	8 Villain's Underling
-	8 Pendant Thief
-	8 Brash Detective
-	8 Odd Pair
-	8 Sole Survivor
-	8 Brave Explorer
-	8 Chosen One
-	8 Power Player
-	8 Protocol Angel
-	8 Fight for Your Life
-	8 Zero to Hero
-	8 Hero's Stand
-	8 Broken Seal
-	8 Recurring Antagonist
-	8 Hyena Hooligans
-	8 Targeted Gumshoe
-	8 Killer Clown
-	8 Bone-Dry Bandit
-	8 Happy Camper
-	8 Spectre of Hate
-	8 Red Dawn Ninja
-	8 Wolf of Boxer Street
-	8 Climactic Demise
-	8 Upstage
-	8 Set up the Sequel
-	8 Interrogation Scene
-	8 Flying Front Kick
-	8 Harder They Fall
-	8 Camera Thopter
-	8 Actress Stand-in
-	8 Studio Director
-	8 Collector's Item
-	8 Makeup and Effects
-	8 Find the McGuffin
-	8 Banishing Light
-	8 Unnamed Hero
-	8 Film Stage
-	8 Location Scouting
-	8 Green Knight
-	8 Illuminate the Night
-	8 Sharktomus Prime
-[foil(1)]
-	12 Portal Opener
-	12 Ninja in the Wings
-	12 Deep Space Navigator
-	12 Cephalid Sidekick
-	12 Time Traveling Cop
-	12 Greatspan Kaiju
-	12 The Prestige
-	12 Plot Armor
-	12 Anticipate
-	12 Horizons Unfolding
-	12 Face in a Crowd
-	12 Banishing Portal
-	12 Training Session
-	12 Wild Rider
-	12 Scene Crasher
-	12 Gamblin' Gal
-	12 Family Man
-	12 Grinning Captive
-	12 Couple o' Escapees
-	12 Killer in the Streets
-	12 Wandering Dreadmaw
-	12 Cool Guys Don't Look at Explosions
-	12 Fastest Shot in the West
-	12 Forbidden Rendezvous
-	12 Stagecoach Robbery
-	12 Hero's Rage
-	12 Plasma Shield Defender
-	12 Brave Little Toadster
-	12 Wooden Slasher
-	12 Pining Suitor
-	12 Young Lovers
-	12 Eight-Legged Freak
-	12 Killer Croc
-	12 Armored Kaiju
-	12 Two-Headed Goliath
-	12 Monster's Fury
-	12 Ominous Warpgate
-	12 Stronger Together
-	12 Altar of Heroes
-	12 Hulking Growth
-	12 Flashblade Ninja
-	12 Unconventional Mentor
-	12 Villain's Underling
-	12 Pendant Thief
-	12 Brash Detective
-	12 Odd Pair
-	12 Sole Survivor
-	12 Brave Explorer
-	12 Chosen One
-	12 Power Player
-	12 Protocol Angel
-	12 Fight for Your Life
-	12 Zero to Hero
-	12 Hero's Stand
-	12 Broken Seal
-	12 Recurring Antagonist
-	12 Hyena Hooligans
-	12 Targeted Gumshoe
-	12 Killer Clown
-	12 Bone-Dry Bandit
-	12 Happy Camper
-	12 Spectre of Hate
-	12 Red Dawn Ninja
-	12 Wolf of Boxer Street
-	12 Climactic Demise
-	12 Upstage
-	12 Set up the Sequel
-	12 Interrogation Scene
-	12 Flying Front Kick
-	12 Harder They Fall
-	12 Camera Thopter
-	12 Actress Stand-in
-	12 Studio Director
-	12 Collector's Item
-	12 Makeup and Effects
-	12 Find the McGuffin
-	12 Banishing Light
-	6 Terror of the Darkwood
-	6 Adventurous Couple
-	6 Lightning Bug
-	6 Shyla Montgomery
-	6 Combat Experts
-	6 Eager Audience
-	6 Unlikely Betrayal
-	2 Deus Ex Machina
-	6 Buggy Shieldbearer
-	2 Lady, Arthouse Star
-	2 Tia Otumbo
-	6 Altered Brain
-	6 Selfless Partner
-	6 Tactical Strike Team
-	6 Twist Villain
-	6 Charismatic Speaker
-	6 Soaring Woman
-	6 Pharmaceutical Expeditioners
-	6 Alien Anatomist
-	6 The Big Friendly Beast
-	6 Vengeful Shinobi
-	6 Bloodbutcher
-	6 Terrifying New Villain
-	6 Relentless Assassin
-	6 Sidekick
-	6 Bulked Star
-	6 Dreadmaw Matriarch
-	6 Endangered Species
-	6 Find the Sacred Place
-	6 Turned Ally
-	6 Colossal Greatcrab
-	6 Micromancer
-	6 Friend 'til the End
-	6 Fight for Survival
-	6 Break Trust
-	6 Write Back In
-	6 Close the Wormhole
-	6 CGI Animals
-	6 Lifeforce Ship
-	6 Into the Maw of Greatness
-	6 Dark Horde Rising
-	6 Cornered Lover
-	6 Raze the Castle
-	6 Punch the Turtle
-	6 Romantic Tension
-	6 The Scheme Unfolds
-	6 Dark Ending
-	6 Femme Fatale
-	6 Low Point
-	6 Team Up!
-	6 Stand Off
-	6 Incidental Destruction
-	6 Explore the Depths
-	6 Loving Beast
-	6 Hubris of Discovery
-	6 The Thunder Squad
-	6 Makeup Artist
-	6 Space Pilgrim
-	6 Paragon Battery
-	6 Redrin Greyfur
-	6 Khazra
-	6 Erupting Sandmaw
-	6 Citybreaker Kaiju
-	6 Electric Explosion
-	6 Super Hero Squad
-	6 Deep Space Defender
-	6 Cloning Chamber
-	2 Clean-up Crew
-	6 Imperial Defense System
-	6 Roll the Dice
-	6 The Final Reveal
-	6 Shock and Awe
-	6 Harvest Killer
-	6 Master in the Marsh
-	6 Confident Criminal
-	6 Alliance of Passion
-	6 Magician Adept
-	6 Terrifying Slash
-	6 Dragged Back to the Shadows
-	2 Split
-	6 Strange Beacon
-	6 Martial Arts Training
-	6 Gravity Anomaly
-	6 Compact Multitool
-	6 Break from Tradition
-	6 Consider the Possibilities
-	6 Refurbisher
-	6 Lost Sentinel
-	6 POV Camera
-	6 Sentient Car
-	12 Unnamed Hero
-	12 Film Stage
-	12 Location Scouting
-	6 Cornered Mobster
-	6 Buggy Vanguard
-	6 Mother Mon-Mon
-	6 Collete Klide
-	6 Captain Marvelous
-	12 Green Knight
-	12 Illuminate the Night
-	12 Sharktomus Prime
-	6 Big Bad Tree
-	6 Completely Surrounded
-	2 Wayne Barnes
-	2 Volnir's Phoenix
-	2 Helm of Volnir
-	2 Dr. Archibald Ratticus
-	2 Leaky Futuretron
-	2 End of the Line
-	2 Holly Drake
-	2 Planetary Disaster
-	2 Ghost of Stage 10
-	1 Temporal Anomaly
-	2 Blue Spectre
-	2 VAL1000
-	2 Tyde Turner
-	2 Four Dimensional Beast
-	2 Sensei Ira
-	2 Message Received
-	2 Final Torment
-	2 Kill Your Darlings
-	2 Last Kiss
-	2 Hound Conjurer
-	2 Postal Carrier
-	2 Special Bond
-	2 Elder of the Guild
-	2 Hungry Little Terrors
-	2 Angry Primordial
-	2 Dr. Zenus Prime
-	2 Fates Foretold
-	2 Tommy Bones
-	2 Our Love is Forever
-	2 Detective Fluffles
-	2 Alternate Timelines
-	2 It's a Crossover!
-	2 Cosmic Horror
-	2 City of Heroes
-	2 Kaiju Homeworld
-	2 Shootout Gully
-	2 Intergalactic Spaceport
-	2 Adventurer's Village
-	2 Anguish
-	2 Forgotten Master
-	2 Film Editing
-	2 X-11, The Gargantuan
-	2 The Stone of Kings
-	2 Two is Better
-	2 Masked Vigilante
-	2 Uncapped Rage
-	2 Heroic Weakness
-	2 Takedown of Bai-Ran
-	2 Unravel the Code
-	2 Deceiving Fist
-	2 Never Found the Body
-	2 Charming Minotaur
-	2 Reset Protocol
-	2 Toxin
-	1 Seth, Breaking Through
-	1 Cohen, Archvillain
-	1 Virtuous Knight
-	1 Search the Universe
-	1 Admiral Joseph
-	1 Mantle of the Empire
-	1 Siege Mastodon
-	2 Kal Rod'r
-	2 The Illusionist
-	2 Lyndy
-	2 Ratrisha Rocket
-	2 Germinating Grub
-	1 Morgril, the Devastator
-	1 Skelly Boy Beatdown
-	1 Ortesian Sneak
-	1 Stormbringer Behemoth
-	1 Monitor Room
-	6 Family Friendly Hero
-	1 Hellbreach Heroine
-	1 Colossal Kaiju
-	1 One by One
-	1 Guppy
-	1 The Big Screen
-	1 Dimensional Antenna
-	1 Hero's Rise
-[wildcard(1)]
-	6 Portal Opener
-	6 Ninja in the Wings
-	6 Deep Space Navigator
-	6 Cephalid Sidekick
-	6 Time Traveling Cop
-	6 Greatspan Kaiju
-	6 The Prestige
-	6 Plot Armor
-	6 Anticipate
-	6 Horizons Unfolding
-	6 Face in a Crowd
-	6 Banishing Portal
-	6 Training Session
-	6 Wild Rider
-	6 Scene Crasher
-	6 Gamblin' Gal
-	6 Family Man
-	6 Grinning Captive
-	6 Couple o' Escapees
-	6 Killer in the Streets
-	6 Wandering Dreadmaw
-	6 Cool Guys Don't Look at Explosions
-	6 Fastest Shot in the West
-	6 Forbidden Rendezvous
-	6 Stagecoach Robbery
-	6 Hero's Rage
-	6 Plasma Shield Defender
-	6 Brave Little Toadster
-	6 Wooden Slasher
-	6 Pining Suitor
-	6 Young Lovers
-	6 Eight-Legged Freak
-	6 Killer Croc
-	6 Armored Kaiju
-	6 Two-Headed Goliath
-	6 Monster's Fury
-	6 Ominous Warpgate
-	6 Stronger Together
-	6 Altar of Heroes
-	6 Hulking Growth
-	6 Flashblade Ninja
-	6 Unconventional Mentor
-	6 Villain's Underling
-	6 Pendant Thief
-	6 Brash Detective
-	6 Odd Pair
-	6 Sole Survivor
-	6 Brave Explorer
-	6 Chosen One
-	6 Power Player
-	6 Protocol Angel
-	6 Fight for Your Life
-	6 Zero to Hero
-	6 Hero's Stand
-	6 Broken Seal
-	6 Recurring Antagonist
-	6 Hyena Hooligans
-	6 Targeted Gumshoe
-	6 Killer Clown
-	6 Bone-Dry Bandit
-	6 Happy Camper
-	6 Spectre of Hate
-	6 Red Dawn Ninja
-	6 Wolf of Boxer Street
-	6 Climactic Demise
-	6 Upstage
-	6 Set up the Sequel
-	6 Interrogation Scene
-	6 Flying Front Kick
-	6 Harder They Fall
-	6 Camera Thopter
-	6 Actress Stand-in
-	6 Studio Director
-	6 Collector's Item
-	6 Makeup and Effects
-	6 Find the McGuffin
-	6 Banishing Light
-	15 Terror of the Darkwood
-	15 Adventurous Couple
-	15 Lightning Bug
-	15 Shyla Montgomery
-	15 Combat Experts
-	15 Eager Audience
-	15 Unlikely Betrayal
-	7 Deus Ex Machina
-	15 Buggy Shieldbearer
-	7 Lady, Arthouse Star
-	7 Tia Otumbo
-	15 Altered Brain
-	15 Selfless Partner
-	15 Tactical Strike Team
-	15 Twist Villain
-	15 Charismatic Speaker
-	15 Soaring Woman
-	15 Pharmaceutical Expeditioners
-	15 Alien Anatomist
-	15 The Big Friendly Beast
-	15 Vengeful Shinobi
-	15 Bloodbutcher
-	15 Terrifying New Villain
-	15 Relentless Assassin
-	15 Sidekick
-	15 Bulked Star
-	15 Dreadmaw Matriarch
-	15 Endangered Species
-	15 Find the Sacred Place
-	15 Turned Ally
-	15 Colossal Greatcrab
-	15 Micromancer
-	15 Friend 'til the End
-	15 Fight for Survival
-	15 Break Trust
-	15 Write Back In
-	15 Close the Wormhole
-	15 CGI Animals
-	15 Lifeforce Ship
-	15 Into the Maw of Greatness
-	15 Dark Horde Rising
-	15 Cornered Lover
-	15 Raze the Castle
-	15 Punch the Turtle
-	15 Romantic Tension
-	15 The Scheme Unfolds
-	15 Dark Ending
-	15 Femme Fatale
-	15 Low Point
-	15 Team Up!
-	15 Stand Off
-	15 Incidental Destruction
-	15 Explore the Depths
-	15 Loving Beast
-	15 Hubris of Discovery
-	15 The Thunder Squad
-	15 Makeup Artist
-	15 Space Pilgrim
-	15 Paragon Battery
-	15 Redrin Greyfur
-	15 Khazra
-	15 Erupting Sandmaw
-	15 Citybreaker Kaiju
-	15 Electric Explosion
-	15 Super Hero Squad
-	15 Deep Space Defender
-	15 Cloning Chamber
-	7 Clean-up Crew
-	15 Imperial Defense System
-	15 Roll the Dice
-	15 The Final Reveal
-	15 Shock and Awe
-	15 Harvest Killer
-	15 Master in the Marsh
-	15 Confident Criminal
-	15 Alliance of Passion
-	15 Magician Adept
-	15 Terrifying Slash
-	15 Dragged Back to the Shadows
-	7 Split
-	15 Strange Beacon
-	15 Martial Arts Training
-	15 Gravity Anomaly
-	15 Compact Multitool
-	15 Break from Tradition
-	15 Consider the Possibilities
-	15 Refurbisher
-	15 Lost Sentinel
-	15 POV Camera
-	15 Sentient Car
-	6 Unnamed Hero
-	6 Film Stage
-	6 Location Scouting
-	15 Cornered Mobster
-	15 Buggy Vanguard
-	15 Mother Mon-Mon
-	15 Collete Klide
-	15 Captain Marvelous
-	6 Green Knight
-	6 Illuminate the Night
-	6 Sharktomus Prime
-	15 Big Bad Tree
-	15 Completely Surrounded
-	7 Wayne Barnes
-	7 Volnir's Phoenix
-	7 Helm of Volnir
-	7 Dr. Archibald Ratticus
-	7 Leaky Futuretron
-	7 End of the Line
-	7 Holly Drake
-	7 Planetary Disaster
-	7 Ghost of Stage 10
-	4 Temporal Anomaly
-	7 Blue Spectre
-	7 VAL1000
-	7 Tyde Turner
-	7 Four Dimensional Beast
-	7 Sensei Ira
-	7 Message Received
-	7 Final Torment
-	7 Kill Your Darlings
-	7 Last Kiss
-	7 Hound Conjurer
-	7 Postal Carrier
-	7 Special Bond
-	7 Elder of the Guild
-	7 Hungry Little Terrors
-	7 Angry Primordial
-	7 Dr. Zenus Prime
-	7 Fates Foretold
-	7 Tommy Bones
-	7 Our Love is Forever
-	7 Detective Fluffles
-	7 Alternate Timelines
-	7 It's a Crossover!
-	7 Cosmic Horror
-	7 City of Heroes
-	7 Kaiju Homeworld
-	7 Shootout Gully
-	7 Intergalactic Spaceport
-	7 Adventurer's Village
-	7 Anguish
-	7 Forgotten Master
-	7 Film Editing
-	7 X-11, The Gargantuan
-	7 The Stone of Kings
-	7 Two is Better
-	7 Masked Vigilante
-	7 Uncapped Rage
-	7 Heroic Weakness
-	7 Takedown of Bai-Ran
-	7 Unravel the Code
-	7 Deceiving Fist
-	7 Never Found the Body
-	7 Charming Minotaur
-	7 Reset Protocol
-	7 Toxin
-	4 Seth, Breaking Through
-	4 Cohen, Archvillain
-	4 Virtuous Knight
-	4 Search the Universe
-	4 Admiral Joseph
-	4 Mantle of the Empire
-	4 Siege Mastodon
-	7 Kal Rod'r
-	7 The Illusionist
-	7 Lyndy
-	7 Ratrisha Rocket
-	7 Germinating Grub
-	4 Morgril, the Devastator
-	4 Skelly Boy Beatdown
-	4 Ortesian Sneak
-	4 Stormbringer Behemoth
-	4 Monitor Room
-	15 Family Friendly Hero
-	4 Hellbreach Heroine
-	4 Colossal Kaiju
-	4 One by One
-	4 Guppy
-	4 The Big Screen
-	4 Dimensional Antenna
-	4 Hero's Rise
+	5 Terror of the Darkwood
+	5 Adventurous Couple
+	5 Lightning Bug
+	5 Shyla Montgomery
+	5 Combat Experts
+	5 Eager Audience
+	5 Unlikely Betrayal
+	5 Buggy Shieldbearer
+	5 Altered Brain
+	5 Selfless Partner
+	5 Tactical Strike Team
+	5 Twist Villain
+	5 Charismatic Speaker
+	5 Soaring Woman
+	5 Pharmaceutical Expeditioners
+	5 Alien Anatomist
+	5 The Big Friendly Beast
+	5 Vengeful Shinobi
+	5 Bloodbutcher
+	5 Terrifying New Villain
+	5 Relentless Assassin
+	5 Sidekick
+	5 Bulked Star
+	5 Dreadmaw Matriarch
+	5 Endangered Species
+	5 Find the Sacred Place
+	5 Turned Ally
+	5 Colossal Greatcrab
+	5 Micromancer
+	5 Friend 'til the End
+	5 Survive the Onslaught
+	5 Break Trust
+	5 Write Back In
+	5 Close the Wormhole
+	5 CGI Animals
+	5 Lifeforce Ship
+	5 Into the Maw of Greatness
+	5 Dark Horde Rising
+	5 Cornered Lover
+	5 Raze the Castle
+	5 Punch the Turtle
+	5 Romantic Tension
+	5 The Scheme Unfolds
+	5 Dark Ending
+	5 Femme Fatale
+	5 Low Point
+	5 Team Up!
+	5 Stand Off
+	5 Incidental Destruction
+	5 Explore the Depths
+	5 Loving Beast
+	5 Hubris of Discovery
+	5 The Thunder Squad
+	5 Makeup Artist
+	5 Space Pilgrim
+	5 Paragon Battery
+	5 Redrin Greyfur
+	5 Khazra
+	5 Erupting Sandmaw
+	5 Citybreaker Kaiju
+	5 Electric Explosion
+	5 Super Hero Squad
+	5 Deep Space Defender
+	5 Cloning Chamber
+	5 Imperial Defense System
+	5 Roll the Dice
+	5 The Final Reveal
+	5 Shock and Awe
+	5 Harvest Killer
+	5 Master in the Marsh
+	5 Confident Criminal
+	5 Alliance of Passion
+	5 Magician Adept
+	5 Terrifying Slash
+	5 Dragged Back to the Shadows
+	5 Strange Beacon
+	5 Martial Arts Training
+	5 Gravity Anomaly
+	5 Compact Multitool
+	5 Break from Tradition
+	5 Consider the Possibilities
+	5 Refurbisher
+	5 Lost Sentinel
+	5 POV Camera
+	5 Sentient Car
+	5 Cornered Mobster
+	5 Buggy Vanguard
+	5 Mother Mon-Mon
+	5 Collete Klide
+	5 Captain Marvelous
+	5 Big Bad Tree
+	5 Completely Surrounded
+	5 Family Friendly Hero
+[common(10)]
+	5 Portal Opener
+	5 Ninja in the Wings
+	5 Deep Space Navigator
+	5 Cephalid Sidekick
+	5 Time Traveling Cop
+	5 Greatspan Kaiju
+	5 The Prestige
+	5 Plot Armor
+	5 Anticipate
+	5 Horizons Unfolding
+	5 Face in a Crowd
+	5 Banishing Portal
+	5 Training Session
+	5 Wild Rider
+	5 Scene Crasher
+	5 Gamblin' Gal
+	5 Family Man
+	5 Grinning Captive
+	5 Couple o' Escapees
+	5 Killer in the Streets
+	5 Wandering Dreadmaw
+	5 Cool Guys Don't Look at Explosions
+	5 Fastest Shot in the West
+	5 Forbidden Rendezvous
+	5 Stagecoach Robbery
+	5 Hero's Rage
+	5 Plasma Shield Defender
+	5 Brave Little Toadster
+	5 Wooden Slasher
+	5 Pining Suitor
+	5 Young Lovers
+	5 Eight-Legged Freak
+	5 Killer Croc
+	5 Armored Kaiju
+	5 Two-Headed Goliath
+	5 Monster's Fury
+	5 Ominous Warpgate
+	5 Stronger Together
+	5 Altar of Heroes
+	5 Hulking Growth
+	5 Flashblade Ninja
+	5 Unconventional Mentor
+	5 Villain's Underling
+	5 Pendant Thief
+	5 Brash Detective
+	5 Odd Pair
+	5 Sole Survivor
+	5 Brave Explorer
+	5 Chosen One
+	5 Power Player
+	5 Protocol Angel
+	5 Fight for Your Life
+	5 Zero to Hero
+	5 Hero's Stand
+	5 Broken Seal
+	5 Recurring Antagonist
+	5 Hyena Hooligans
+	5 Targeted Gumshoe
+	5 Killer Clown
+	5 Bone-Dry Bandit
+	5 Happy Camper
+	5 Spectre of Hate
+	5 Red Dawn Ninja
+	5 Wolf of Boxer Street
+	5 Climactic Demise
+	5 Upstage
+	5 Set up the Sequel
+	5 Interrogation Scene
+	5 Flying Front Kick
+	5 Harder They Fall
+	5 Camera Thopter
+	5 Actress Stand-in
+	5 Studio Director
+	5 Collector's Item
+	5 Makeup and Effects
+	5 Find the McGuffin
+	5 Banishing Light
+	5 Unnamed Hero
+	5 Film Stage
+	5 Location Scouting
+	5 Green Knight
+	5 Illuminate the Night
+	5 Sharktomus Prime

@@ -5,7 +5,7 @@
 			<name>WGJ</name>
 			<longname>Wrenchmar: Gambit of the Junklords</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-01</releasedate>
+			<releasedate>2025-11-02</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -712,7 +712,7 @@ Salvage {4}{B} ({4}{B}, Exile this card from your graveyard: Put a number of +1/
 		</card>
 		<card>
 			<name>Oculus Collector</name>
-			<text>When this creature enters, create two Junk tokens and you lose two life. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
+			<text>When this creature enters, create two Junk tokens and you lose 2 life. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/40.png" num="107">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -2479,7 +2479,7 @@ Salvage {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Put a number 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Artifact Creature — Dwarf</type>
+				<type>Legendary Creature — Dwarf</type>
 				<maintype>Creature</maintype>
 				<manacost>4W</manacost>
 				<cmc>5</cmc>
@@ -3568,7 +3568,7 @@ At the beginning of combat on your turn, choose one that hasn&apos;t been chosen
 		</card>
 		<card>
 			<name>Lundquists Garage</name>
-			<text>You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a +1/+1 counter.
+			<text>You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. (If a creature with a finality counter on it would die, exile it instead.)
 At the beginning of your end step, exile Lundquist&apos;s Garage.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/199.png" num="25">WGJ</set>
 			<prop>
@@ -4396,7 +4396,7 @@ Crew 2</text>
 		<card>
 			<name>Fishing Float</name>
 			<text>When this Vehicle enters, return up to one target creature to its owner&apos;s hand.
-Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/244.png" num="52">WGJ</set>
 			<prop>
 				<layout>normal</layout>

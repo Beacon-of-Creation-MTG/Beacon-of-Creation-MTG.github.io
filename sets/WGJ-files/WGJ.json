@@ -3,7 +3,7 @@
     "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "none",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -26,7 +26,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "0",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Submerged Midden",
@@ -46,7 +46,7 @@
             "artist": "Giulia Gentilini",
             "alias": "",
             "position": "1",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Molten Midden",
@@ -66,7 +66,7 @@
             "artist": "Phil Saunders",
             "alias": "",
             "position": "2",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Brutal Midden",
@@ -86,7 +86,7 @@
             "artist": "Aboy Ningthouja",
             "alias": "",
             "position": "3",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Secluded Midden",
@@ -106,7 +106,7 @@
             "artist": "Sandra Duchiewicz",
             "alias": "",
             "position": "4",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Foreboding Midden",
@@ -126,7 +126,7 @@
             "artist": "Max Bedulenko",
             "alias": "",
             "position": "5",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Market Midden",
@@ -146,7 +146,7 @@
             "artist": "Forrest White",
             "alias": "",
             "position": "6",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Forgotten Midden",
@@ -166,7 +166,7 @@
             "artist": "Anna Semykina",
             "alias": "",
             "position": "7",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Riffraff Midden",
@@ -186,7 +186,7 @@
             "artist": "Wayne haag",
             "alias": "",
             "position": "8",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "Productive Midden",
@@ -206,7 +206,7 @@
             "artist": "Dmitry Vishnevsk",
             "alias": "",
             "position": "9",
-            "notes": "!tokens Junk\n\n#common #midden"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#common #midden"
         },
         {
             "card_name": "The Beast",
@@ -366,7 +366,7 @@
             "artist": "Mike Patrick",
             "alias": "",
             "position": "17",
-            "notes": "!tokens Junk\n\n#white #common"
+            "notes": "!tag anomaly\n!tag cantrip\n\n!tokens Junk\n\n#white #common"
         },
         {
             "card_name": "Priestess of Metal",
@@ -406,7 +406,7 @@
             "artist": "Mike Smith",
             "alias": "",
             "position": "19",
-            "notes": "#white #common"
+            "notes": "!tag anomaly\n#white #common"
         },
         {
             "card_name": "Avionic Scavenger",
@@ -426,7 +426,7 @@
             "artist": "Robert Chew",
             "alias": "",
             "position": "20",
-            "notes": "#white #common"
+            "notes": "!tag anomaly\n\n#white #common"
         },
         {
             "card_name": "Convoy Wrecker",
@@ -446,7 +446,7 @@
             "artist": "Raymond -hanhao",
             "alias": "",
             "position": "21",
-            "notes": "#white #common"
+            "notes": "!tag tapper\n#white #common"
         },
         {
             "card_name": "Scrapheap Roc",
@@ -486,7 +486,7 @@
             "artist": "Al Brady",
             "alias": "",
             "position": "23",
-            "notes": "#white #common"
+            "notes": "!tag removal-creature\n#white #common"
         },
         {
             "card_name": "Mechanohawk",
@@ -506,7 +506,7 @@
             "artist": "boris nenezic",
             "alias": "",
             "position": "24",
-            "notes": "!tokens Call The Beast Emblem\n\n#blue #common"
+            "notes": "!tag anomaly\n!tokens Call The Beast Emblem\n\n#blue #common"
         },
         {
             "card_name": "Lonely Wanderer",
@@ -546,7 +546,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "position": "26",
-            "notes": "!tokens Junk\n\n#blue #common"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#blue #common"
         },
         {
             "card_name": "Moonlight Yarder",
@@ -586,7 +586,7 @@
             "artist": "Dmitri Gorbushin",
             "alias": "",
             "position": "28",
-            "notes": "#blue #common"
+            "notes": "!tag anomaly\n#blue #common"
         },
         {
             "card_name": "Scrap-Shell Hermit",
@@ -606,7 +606,7 @@
             "artist": "Longque Chen",
             "alias": "",
             "position": "29",
-            "notes": "#blue #uncommon"
+            "notes": "!tag anomaly\n#blue #uncommon"
         },
         {
             "card_name": "Hidden Goliath",
@@ -626,7 +626,7 @@
             "artist": "Alexey Egorov",
             "alias": "",
             "position": "30",
-            "notes": "#blue #common"
+            "notes": "!tag anomaly\n#blue #common"
         },
         {
             "card_name": "Recharge",
@@ -666,7 +666,7 @@
             "artist": "Tuomas Korpi",
             "alias": "",
             "position": "32",
-            "notes": "#blue #common"
+            "notes": "!tag cantrip\n#blue #common"
         },
         {
             "card_name": "Crushing Defeat",
@@ -686,7 +686,7 @@
             "artist": "Stijn Beerts",
             "alias": "",
             "position": "33",
-            "notes": "!tokens Treasure\n\n#blue #common"
+            "notes": "!tag counterspell\n!tokens Treasure\n\n#blue #common"
         },
         {
             "card_name": "Compacted",
@@ -706,7 +706,7 @@
             "artist": "Yugin Maffioli",
             "alias": "",
             "position": "34",
-            "notes": "#blue #common"
+            "notes": "!tag tapper\n#blue #common"
         },
         {
             "card_name": "Initiation Sequence",
@@ -746,7 +746,7 @@
             "artist": "Vincent Delbarry",
             "alias": "",
             "position": "36",
-            "notes": "!tokens Junk\n\n#black #common"
+            "notes": "!tag hand-disruption-untargetted\n!tokens Junk\n\n#black #common"
         },
         {
             "card_name": "Assault Bot",
@@ -766,7 +766,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "37",
-            "notes": "!tokens Servo\n\n#black #common"
+            "notes": "!tag anomaly\n!tokens Servo\n\n#black #common"
         },
         {
             "card_name": "Transmogrified Yarder",
@@ -786,7 +786,7 @@
             "artist": "Sean Hughes",
             "alias": "",
             "position": "38",
-            "notes": "#black #common"
+            "notes": "!tag anomaly\n!tag reanimate-self\n#black #common"
         },
         {
             "card_name": "Maiden of Junk",
@@ -806,7 +806,7 @@
             "artist": "Denis Zhbankov",
             "alias": "",
             "position": "39",
-            "notes": "#black #common"
+            "notes": "!tag anomaly\n#black #common"
         },
         {
             "card_name": "Oculus Collector",
@@ -816,7 +816,7 @@
             "number": 107,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, create two Junk tokens and you lose two life. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "When this creature enters, create two Junk tokens and you lose 2 life. [i](They're artifacts with \u201c{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -826,7 +826,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "40",
-            "notes": "!tokens Junk<2>\n\n#black #common"
+            "notes": "!tag card-advantage\n!tokens Junk<2>\n\n#black #common"
         },
         {
             "card_name": "Deadly Goliath",
@@ -846,7 +846,7 @@
             "artist": "Daimey",
             "alias": "",
             "position": "41",
-            "notes": "#black #common"
+            "notes": "!tag anomaly\n#black #common"
         },
         {
             "card_name": "Cast Down",
@@ -866,7 +866,7 @@
             "artist": "Antoine Wilmot",
             "alias": "",
             "position": "42",
-            "notes": "#black #uncommon"
+            "notes": "!tag removal-creature\n#black #uncommon"
         },
         {
             "card_name": "Failed Experiment",
@@ -886,7 +886,7 @@
             "artist": "Lamin Martin",
             "alias": "",
             "position": "43",
-            "notes": "!tokens Zombie\n\n#black #common"
+            "notes": "!tag card-advantage\n!tokens Zombie\n\n#black #common"
         },
         {
             "card_name": "Visions of Terror",
@@ -906,7 +906,7 @@
             "artist": "Sebastian Kowoll",
             "alias": "",
             "position": "44",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #common"
+            "notes": "!tag hand-disruption-targetted\n!tokens Call The Beast Emblem\n\n#black #common"
         },
         {
             "card_name": "Decapitate",
@@ -926,7 +926,7 @@
             "artist": "Mingchen Shen",
             "alias": "",
             "position": "45",
-            "notes": "!tokens Call The Beast Emblem\n#black #common"
+            "notes": "!tag removal-creature\n!tokens Call The Beast Emblem\n#black #common"
         },
         {
             "card_name": "Target Locked",
@@ -946,7 +946,7 @@
             "artist": "rupam raaj r",
             "alias": "",
             "position": "46",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #common"
+            "notes": "!tag removal-creature\n!tag removal-Vehicle\n!tokens Call The Beast Emblem\n\n#black #common"
         },
         {
             "card_name": "Nitwit Yarder",
@@ -966,7 +966,7 @@
             "artist": "Miguel Regod\u00f3n Harkness",
             "alias": "",
             "position": "47",
-            "notes": "!tokens Junk\n\n#red #common"
+            "notes": "!tag cantrip\n!tokens Junk\n\n#red #common"
         },
         {
             "card_name": "Fire Starter",
@@ -1066,7 +1066,7 @@
             "artist": "Melissa Buffaloe",
             "alias": "",
             "position": "52",
-            "notes": "!tokens Mercenary\n\n#red #common"
+            "notes": "!tag anomaly\n!tokens Mercenary\n\n#red #common"
         },
         {
             "card_name": "Rampaging Goliath",
@@ -1086,7 +1086,7 @@
             "artist": "Wang Xian Kun",
             "alias": "",
             "position": "53",
-            "notes": "#red #common"
+            "notes": "!tag anomaly\n#red #common"
         },
         {
             "card_name": "Explosive Collision",
@@ -1106,7 +1106,7 @@
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
             "position": "54",
-            "notes": "!tokens Junk\n\n#red #common"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n!tokens Junk\n\n#red #common"
         },
         {
             "card_name": "Scrap Deals",
@@ -1126,7 +1126,7 @@
             "artist": "Tomasz Ryger",
             "alias": "",
             "position": "55",
-            "notes": "!tokens Junk<2>\n\n#red #common"
+            "notes": "!tag cantrip\n!tokens Junk<2>\n\n#red #common"
         },
         {
             "card_name": "Tyrants Fire",
@@ -1146,7 +1146,7 @@
             "artist": "Daniel Schmelling",
             "alias": "",
             "position": "56",
-            "notes": "!exportname Tyrants Fire\n!tokens Call The Beast Emblem\n\n#red #common"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Tyrants Fire\n!tokens Call The Beast Emblem\n\n#red #common"
         },
         {
             "card_name": "Sandstorm Dozer",
@@ -1186,7 +1186,7 @@
             "artist": "Donato Giancola",
             "alias": "",
             "position": "58",
-            "notes": "#green #common"
+            "notes": "!tag anomaly\n!tag cantrip\n#green #common"
         },
         {
             "card_name": "Happy Heaper",
@@ -1206,7 +1206,7 @@
             "artist": "Geoff Rosenthal",
             "alias": "",
             "position": "59",
-            "notes": "#green #common"
+            "notes": "!tag anomaly\n#green #common"
         },
         {
             "card_name": "Scaled Scrapper",
@@ -1266,7 +1266,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "62",
-            "notes": "!tokens Call The Beast Emblem\n\n#green #common"
+            "notes": "!tag anomaly\n!tokens Call The Beast Emblem\n\n#green #common"
         },
         {
             "card_name": "Grizzled Yarder",
@@ -1306,7 +1306,7 @@
             "artist": "Seungjin Woo",
             "alias": "",
             "position": "64",
-            "notes": "#green #common"
+            "notes": "!tag anomaly\n#green #common"
         },
         {
             "card_name": "Survey the Ruins",
@@ -1366,7 +1366,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "67",
-            "notes": "!tokens Junk\n\n#green #common"
+            "notes": "!tag removal-artifact\n!tokens Junk\n\n#green #common"
         },
         {
             "card_name": "Crafty Junker",
@@ -1446,7 +1446,7 @@
             "artist": "Tymoteusz Chlisz",
             "alias": "",
             "position": "71",
-            "notes": "2c-arcun\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n2c-arcun\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Drexil Acolyte",
@@ -1526,7 +1526,7 @@
             "artist": "Cameron Nissen",
             "alias": "",
             "position": "75",
-            "notes": "!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n!tokens Call The Beast Emblem\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Robotic Reverence",
@@ -1566,7 +1566,7 @@
             "artist": "Matt Dixon",
             "alias": "",
             "position": "77",
-            "notes": "!tokens Junk\n\n#colorless #common"
+            "notes": "!tag anomaly\n!tag cantrip\n!tokens Junk\n\n#colorless #common"
         },
         {
             "card_name": "Recommisioned Pounce-Bot",
@@ -1586,7 +1586,7 @@
             "artist": "Eric Elwell",
             "alias": "",
             "position": "78",
-            "notes": "#colorless #common"
+            "notes": "!tag anomaly\n#colorless #common"
         },
         {
             "card_name": "Bursting Vat",
@@ -1606,7 +1606,7 @@
             "artist": "Marc Escachx",
             "alias": "",
             "position": "79",
-            "notes": "!tokens Call The Beast Emblem\n\n#colorless #common"
+            "notes": "!tag removal-creature\n!tag removal-planeswalker\n!tag removal-artifact\n!tag removal-enchantment\n!tag removal-battle\n\n!tokens Call The Beast Emblem\n\n#colorless #common"
         },
         {
             "card_name": "Dune Dasher",
@@ -1726,7 +1726,7 @@
             "artist": "Veronica Voutila",
             "alias": "",
             "position": "85",
-            "notes": "#green #common"
+            "notes": "!tag damage-creature\n#green #common"
         },
         {
             "card_name": "Dirtbike Jouster",
@@ -1806,7 +1806,7 @@
             "artist": "Benedick Bana",
             "alias": "",
             "position": "89",
-            "notes": "#black #common"
+            "notes": "!tag anomaly\n#black #common"
         },
         {
             "card_name": "Beast Beckoner",
@@ -1846,7 +1846,7 @@
             "artist": "Riley O'Kane",
             "alias": "",
             "position": "91",
-            "notes": "#red #common"
+            "notes": "!tag regrowth-Vehicle\n#red #common"
         },
         {
             "card_name": "Alert Sentries",
@@ -2006,7 +2006,7 @@
             "artist": "Peter Rossa",
             "alias": "",
             "position": "99",
-            "notes": "#black #uncommon"
+            "notes": "!tag anomaly\n!tag regrowth-artifact\n!tag regrowth-creature\n#black #uncommon"
         },
         {
             "card_name": "Skullface Wastelander",
@@ -2026,7 +2026,7 @@
             "artist": "Yerbol Bulentayev",
             "alias": "",
             "position": "100",
-            "notes": "#black #uncommon"
+            "notes": "!tag card-advantage\n#black #uncommon"
         },
         {
             "card_name": "Battery Thief",
@@ -2086,7 +2086,7 @@
             "artist": "Danny Kundzinsh",
             "alias": "",
             "position": "103",
-            "notes": "#black #uncommon"
+            "notes": "!tag anomaly\n#black #uncommon"
         },
         {
             "card_name": "Feed the Monster",
@@ -2106,7 +2106,7 @@
             "artist": "Nolan Lu",
             "alias": "",
             "position": "104",
-            "notes": "#black #uncommon"
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n#black #uncommon"
         },
         {
             "card_name": "Putrefying Mists",
@@ -2126,7 +2126,7 @@
             "artist": "Jan Klooster, van de",
             "alias": "",
             "position": "105",
-            "notes": "#black #uncommon"
+            "notes": "!tag wrath\n#black #uncommon"
         },
         {
             "card_name": "Scrounge for Parts",
@@ -2146,7 +2146,7 @@
             "artist": "Maxime Teppe",
             "alias": "",
             "position": "106",
-            "notes": "#black #uncommon"
+            "notes": "!tag graveyard-hate\n#black #uncommon"
         },
         {
             "card_name": "Nightfall Approaches",
@@ -2166,7 +2166,7 @@
             "artist": "Cole Miller",
             "alias": "",
             "position": "107",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #uncommon"
+            "notes": "!tag removal-creature\n!tokens Call The Beast Emblem\n\n#black #uncommon"
         },
         {
             "card_name": "Hired Killer",
@@ -2186,7 +2186,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "108",
-            "notes": "#black #uncommon"
+            "notes": "!tag removal-creature\n#black #uncommon"
         },
         {
             "card_name": "Pull em Out",
@@ -2206,7 +2206,7 @@
             "artist": "Th\u00e9o DROULEZ",
             "alias": "",
             "position": "109",
-            "notes": "!exportname Pull em Out\n\n#black #uncommon"
+            "notes": "!tag regrowth-creature\n!exportname Pull em Out\n\n#black #uncommon"
         },
         {
             "card_name": "Fallen Paladin",
@@ -2226,7 +2226,7 @@
             "artist": "Geoffrey Ernault",
             "alias": "",
             "position": "110",
-            "notes": "#black #uncommon"
+            "notes": "!tag anomaly\n#black #uncommon"
         },
         {
             "card_name": "Rubbish Pack",
@@ -2266,7 +2266,7 @@
             "artist": "Germ\u00e1n Cid",
             "alias": "",
             "position": "112",
-            "notes": "!tokens Junk\n\n#red #uncommon"
+            "notes": "!tag card-advantage\n!tag reanimate-artifact\n!tokens Junk\n\n#red #uncommon"
         },
         {
             "card_name": "Hotwiring Hogs",
@@ -2346,7 +2346,7 @@
             "artist": "Stoyan Stoyanov",
             "alias": "",
             "position": "116",
-            "notes": "#red #uncommon"
+            "notes": "!tag anomaly\n#red #uncommon"
         },
         {
             "card_name": "Grabby Claws",
@@ -2406,7 +2406,7 @@
             "artist": "Andrej Z.T.",
             "alias": "",
             "position": "119",
-            "notes": "!tokens Call The Beast Emblem\n\n#red #uncommon"
+            "notes": "!tag removal-artifact\n!tag wrath\n!tokens Call The Beast Emblem\n\n#red #uncommon"
         },
         {
             "card_name": "Trashfire Crawler",
@@ -2446,7 +2446,7 @@
             "artist": "Dylan Scher",
             "alias": "",
             "position": "121",
-            "notes": "!tokens Junk<2>\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n!tokens Junk<2>\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Execution Tank",
@@ -2466,7 +2466,7 @@
             "artist": "Eric Elwell",
             "alias": "",
             "position": "122",
-            "notes": "#red #uncommon"
+            "notes": "!tag anomaly\n#red #uncommon"
         },
         {
             "card_name": "Harpooner Wagon",
@@ -2486,7 +2486,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "123",
-            "notes": "!tokens Treasure;Junk\n\n#red #uncommon"
+            "notes": "!tag card-advantage\n!tokens Treasure;Junk\n\n#red #uncommon"
         },
         {
             "card_name": "Scavenger Party",
@@ -2526,7 +2526,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "125",
-            "notes": "#green #uncommon"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#green #uncommon"
         },
         {
             "card_name": "Mecha Arachnid",
@@ -2546,7 +2546,7 @@
             "artist": "Ben Hancock",
             "alias": "",
             "position": "126",
-            "notes": "#green #uncommon"
+            "notes": "!tag anomaly\n#green #uncommon"
         },
         {
             "card_name": "Colossus Opus",
@@ -2566,7 +2566,7 @@
             "artist": "Cl\u00e9ment BRECHET",
             "alias": "",
             "position": "127",
-            "notes": "#colorless #uncommon"
+            "notes": "!tag anomaly\n#colorless #uncommon"
         },
         {
             "card_name": "Auto Recycler",
@@ -2606,7 +2606,7 @@
             "artist": "KRIS",
             "alias": "",
             "position": "129",
-            "notes": "#green #uncommon"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag damage-creature\n#green #uncommon"
         },
         {
             "card_name": "Face Off",
@@ -2626,7 +2626,7 @@
             "artist": "Rienque LeVerite",
             "alias": "",
             "position": "130",
-            "notes": "#green #uncommon"
+            "notes": "!tag damage-creature\n#green #uncommon"
         },
         {
             "card_name": "Gorr, Heapbreaker",
@@ -2666,7 +2666,7 @@
             "artist": "\u6b27\u745f\u65af \u5de5\u4f5c\u5ba4",
             "alias": "",
             "position": "132",
-            "notes": "!tokens Call The Beast Emblem\n\n#green #uncommon"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tokens Call The Beast Emblem\n\n#green #uncommon"
         },
         {
             "card_name": "ATV Hotshot",
@@ -2766,7 +2766,7 @@
             "artist": "Ondrej Spanhel",
             "alias": "",
             "position": "137",
-            "notes": "#white #uncommon"
+            "notes": "!tag anomaly\n#white #uncommon"
         },
         {
             "card_name": "Scrap Blast",
@@ -2786,13 +2786,13 @@
             "artist": "Jacob Kuhne",
             "alias": "",
             "position": "138",
-            "notes": "#white #uncommon"
+            "notes": "!tag damage-creature\n#white #uncommon"
         },
         {
             "card_name": "Bert, Parts Specialist",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Legendary Artifact Creature \u2014 Dwarf",
+            "type": "Legendary Creature \u2014 Dwarf",
             "number": 8,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -2846,7 +2846,7 @@
             "artist": "Grafit Studios",
             "alias": "",
             "position": "141",
-            "notes": "!tokens Servo<2>;Junk\n\n#white #uncommon"
+            "notes": "!tag cantrip\n!tokens Servo<2>;Junk\n\n#white #uncommon"
         },
         {
             "card_name": "Angel of Scrap",
@@ -2866,7 +2866,7 @@
             "artist": "Igor Artyomenko",
             "alias": "",
             "position": "142",
-            "notes": "#white #uncommon"
+            "notes": "!tag anomaly\n!tag regrowth-creature\n\n#white #uncommon"
         },
         {
             "card_name": "Sky Trawler",
@@ -2886,7 +2886,7 @@
             "artist": "Lo\u00efc Souquet",
             "alias": "",
             "position": "143",
-            "notes": "!tokens Junk\n\n#blue #uncommon"
+            "notes": "!tag card-advantage\n!tokens Junk\n\n#blue #uncommon"
         },
         {
             "card_name": "Remove Visage",
@@ -2906,7 +2906,7 @@
             "artist": "Oliver Wetter",
             "alias": "",
             "position": "144",
-            "notes": "#blue #uncommon"
+            "notes": "!tag pacifism\n#blue #uncommon"
         },
         {
             "card_name": "Junk Tornado",
@@ -2926,7 +2926,7 @@
             "artist": "Geoffrey Amesse",
             "alias": "",
             "position": "145",
-            "notes": "#blue #uncommon"
+            "notes": "!tag bounce\n#blue #uncommon"
         },
         {
             "card_name": "100,000 Volts",
@@ -2946,7 +2946,7 @@
             "artist": "David Savage",
             "alias": "",
             "position": "146",
-            "notes": "#blue #uncommon"
+            "notes": "!tag counterspell\n#blue #uncommon"
         },
         {
             "card_name": "Drexil Hiveguard",
@@ -3006,7 +3006,7 @@
             "artist": "Fran Fdez",
             "alias": "",
             "position": "149",
-            "notes": "#blue #uncommon"
+            "notes": "!tag card-advantage\n#blue #uncommon"
         },
         {
             "card_name": "Harbinger Drexil",
@@ -3046,7 +3046,7 @@
             "artist": "Huleeb",
             "alias": "",
             "position": "151",
-            "notes": "#blue #uncommon"
+            "notes": "!tag cantrip\n#blue #uncommon"
         },
         {
             "card_name": "Bandit Junker",
@@ -3066,7 +3066,7 @@
             "artist": "Vael",
             "alias": "",
             "position": "152",
-            "notes": "!tokens Junk\n\n#blue #uncommon"
+            "notes": "!tag card-advantage\n!tokens Junk\n\n#blue #uncommon"
         },
         {
             "card_name": "Rapid Materialization",
@@ -3086,7 +3086,7 @@
             "artist": "Lighting Luminoso",
             "alias": "",
             "position": "153",
-            "notes": "#blue #uncommon"
+            "notes": "!tag reanimate-creature\n!tag reanimate-artifact\n#blue #uncommon"
         },
         {
             "card_name": "The Junkfields",
@@ -3206,7 +3206,7 @@
             "artist": "Illarstration",
             "alias": "",
             "position": "159",
-            "notes": "#colorless #uncommon"
+            "notes": "!tag anomaly\n#colorless #uncommon"
         },
         {
             "card_name": "Willing Automaton",
@@ -3226,7 +3226,7 @@
             "artist": "Iain Hegoburu",
             "alias": "",
             "position": "160",
-            "notes": "!tokens Call The Beast Emblem\n\n#colorless #uncommon"
+            "notes": "!tag anomaly\n!tag cantrip\n!tokens Call The Beast Emblem\n\n#colorless #uncommon"
         },
         {
             "card_name": "Charging Station",
@@ -3266,7 +3266,7 @@
             "artist": "Franky Savant",
             "alias": "",
             "position": "162",
-            "notes": "#colorless #uncommon"
+            "notes": "!tag anomaly\n#colorless #uncommon"
         },
         {
             "card_name": "War-Javelin",
@@ -3286,7 +3286,7 @@
             "artist": "MoGi Group",
             "alias": "",
             "position": "163",
-            "notes": "#white #uncommon"
+            "notes": "!tag damage-creature\n#white #uncommon"
         },
         {
             "card_name": "Bicycle Bastion",
@@ -3326,7 +3326,7 @@
             "artist": "Svet Rezhet Glaza",
             "alias": "",
             "position": "165",
-            "notes": "#white #uncommon"
+            "notes": "!tag removal-artifact\n!tag removal-creature\n#white #uncommon"
         },
         {
             "card_name": "Lose to the Heap",
@@ -3346,7 +3346,7 @@
             "artist": "Boris Campistron",
             "alias": "",
             "position": "166",
-            "notes": "!tokens Call The Beast Emblem\n\n#blue #uncommon"
+            "notes": "!tag tapper\n!tokens Call The Beast Emblem\n\n#blue #uncommon"
         },
         {
             "card_name": "Overcharge",
@@ -3366,7 +3366,7 @@
             "artist": "Melanie Tan",
             "alias": "",
             "position": "167",
-            "notes": "#red #uncommon"
+            "notes": "!tag removal-artifact\n#red #uncommon"
         },
         {
             "card_name": "Recycling Engine",
@@ -3386,7 +3386,7 @@
             "artist": "Sung Choi",
             "alias": "",
             "position": "168",
-            "notes": "!tokens Zombie\n\n#black #uncommon"
+            "notes": "!tag card-advantage\n!tokens Zombie\n\n#black #uncommon"
         },
         {
             "card_name": "Raid the Workshop",
@@ -3406,7 +3406,7 @@
             "artist": "Tyler Edlin",
             "alias": "",
             "position": "169",
-            "notes": "#green #uncommon"
+            "notes": "!tag regrowth\n!tag reanimate-land\n#green #uncommon"
         },
         {
             "card_name": "Junklord Azareth",
@@ -3426,7 +3426,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "170",
-            "notes": "!tokens Zombie\n\n#gold #mythic #junklord"
+            "notes": "!tag card-advantage\n!tokens Zombie\n\n#gold #mythic #junklord"
         },
         {
             "card_name": "Junklord Felisah",
@@ -3446,7 +3446,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "171",
-            "notes": "!tokens Servo\n\n#gold #mythic #junklord"
+            "notes": "!tag card-advantage\n!tokens Servo\n\n#gold #mythic #junklord"
         },
         {
             "card_name": "Junklord Garoth",
@@ -3506,7 +3506,7 @@
             "artist": "Mario Brunner",
             "alias": "",
             "position": "174",
-            "notes": "!tokens Junk\n\n#blue #common"
+            "notes": "!tag tuck\n!tag cantrip\n!tokens Junk\n\n#blue #common"
         },
         {
             "card_name": "Techno Compies",
@@ -3526,7 +3526,7 @@
             "artist": "Romain Thirion",
             "alias": "",
             "position": "175",
-            "notes": "!tokens Junk\n\n#green #rare"
+            "notes": "!tag anomaly\n!tokens Junk\n\n#green #rare"
         },
         {
             "card_name": "Danavan, the Exile",
@@ -3606,7 +3606,7 @@
             "artist": "D DB",
             "alias": "",
             "position": "179",
-            "notes": "!tokens Junk\n\n#green #rare"
+            "notes": "!tag anomaly\n!tokens Junk\n\n#green #rare"
         },
         {
             "card_name": "Arachno-Killbot",
@@ -3626,7 +3626,7 @@
             "artist": "Orphan RTG",
             "alias": "",
             "position": "180",
-            "notes": "#green #rare"
+            "notes": "!tag anomaly\n!tag damage-creature\n#green #rare"
         },
         {
             "card_name": "World on the Brink",
@@ -3686,7 +3686,7 @@
             "artist": "Space Goose",
             "alias": "",
             "position": "183",
-            "notes": "#red #rare"
+            "notes": "!tag removal-artifact\n!tag damage-creature\n!tag damage-planeswalker\n#red #rare"
         },
         {
             "card_name": "Kinsley, Badlands Outcast",
@@ -3726,7 +3726,7 @@
             "artist": "Zack Jones",
             "alias": "",
             "position": "185",
-            "notes": "#red #rare"
+            "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n#red #rare"
         },
         {
             "card_name": "Goblin Express",
@@ -3786,7 +3786,7 @@
             "artist": "Tsvetelin Krastev",
             "alias": "",
             "position": "188",
-            "notes": "!exportname Vorricks Blast Array\n\n#red #rare"
+            "notes": "!tag damage-any\n!exportname Vorricks Blast Array\n\n#red #rare"
         },
         {
             "card_name": "Rager Blazer",
@@ -3826,7 +3826,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "190",
-            "notes": "#black #rare"
+            "notes": "!tag removal-creature\n!tag graveyard-hate\n#black #rare"
         },
         {
             "card_name": "Erys, Hunted Marksman",
@@ -3846,7 +3846,7 @@
             "artist": "Amanda Diaz",
             "alias": "",
             "position": "191",
-            "notes": "#gold #rare"
+            "notes": "!tag hand-disruption-targetted\n#gold #rare"
         },
         {
             "card_name": "Azyra, Queen of the Forge",
@@ -3866,7 +3866,7 @@
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
             "position": "192",
-            "notes": "!tokens Junk<2>\n\n#gold #rare"
+            "notes": "!tag anomaly\n!tag card-advantage\n!tokens Junk<2>\n\n#gold #rare"
         },
         {
             "card_name": "Saryna, Bounty Hunter",
@@ -3906,7 +3906,7 @@
             "artist": "Philipp Kruse",
             "alias": "",
             "position": "194",
-            "notes": "#gold #rare"
+            "notes": "!tag card-advantage\n#gold #rare"
         },
         {
             "card_name": "Speaker Lxtal",
@@ -3926,7 +3926,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "195",
-            "notes": "!tokens Call The Beast Emblem\n\n#gold #rare"
+            "notes": "!tag edict-creature\n!tokens Call The Beast Emblem\n\n#gold #rare"
         },
         {
             "card_name": "Ninety-Four",
@@ -3966,7 +3966,7 @@
             "artist": "Tom\u00e1\u0161 M\u00fcller",
             "alias": "",
             "position": "197",
-            "notes": "!exportname Felisahs Recruiter\n\n#white #rare"
+            "notes": "!tag card-advantage\n!exportname Felisahs Recruiter\n\n#white #rare"
         },
         {
             "card_name": "Sprawl Enforcers",
@@ -3986,7 +3986,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "198",
-            "notes": "!tokens Junk;Mercenary\n\n#white #rare"
+            "notes": "!tag cantrip\n!tokens Junk;Mercenary\n\n#white #rare"
         },
         {
             "card_name": "Lundquists Garage",
@@ -3996,7 +3996,7 @@
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a +1/+1 counter.\nAt the beginning of your end step, exile Lundquist's Garage.",
+            "rules_text": "You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]\nAt the beginning of your end step, exile Lundquist's Garage.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4006,7 +4006,7 @@
             "artist": "Paul Patricio",
             "alias": "",
             "position": "199",
-            "notes": "!exportname Lundquists Garage\n\n#white #rare"
+            "notes": "!tag reanimate-creature\n!tag reanimate-vehicle\n\n!exportname Lundquists Garage\n\n#white #rare"
         },
         {
             "card_name": "Survive Disaster",
@@ -4026,7 +4026,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "200",
-            "notes": "#white #rare"
+            "notes": "!tag wrath\n!tag reanimate-creature\n!tag regrowth-creature\n#white #rare"
         },
         {
             "card_name": "March of the Goliaths",
@@ -4046,7 +4046,7 @@
             "artist": "Sylvain Coutouly",
             "alias": "",
             "position": "201",
-            "notes": "#white #rare"
+            "notes": "!tag reanimate-artifact\n#white #rare"
         },
         {
             "card_name": "Baited Trap",
@@ -4066,7 +4066,7 @@
             "artist": "Chloe Beckett",
             "alias": "",
             "position": "202",
-            "notes": "!tokens Call The Beast Emblem\n\n#white #rare"
+            "notes": "!tag banish\n\n!tokens Call The Beast Emblem\n\n#white #rare"
         },
         {
             "card_name": "The Citadel",
@@ -4126,7 +4126,7 @@
             "artist": "Radik Shaikhullin",
             "alias": "",
             "position": "205",
-            "notes": "#black #mythic"
+            "notes": "!tag reanimate-creature\n#black #mythic"
         },
         {
             "card_name": "Azareths Dreadnought",
@@ -4146,7 +4146,7 @@
             "artist": "Sylvain Coutouly",
             "alias": "",
             "position": "206",
-            "notes": "!exportname Azareths Dreadnought\n\n#black #mythic"
+            "notes": "!tag removal\n!exportname Azareths Dreadnought\n\n#black #mythic"
         },
         {
             "card_name": "Ory, Enhanced Outlander",
@@ -4166,7 +4166,7 @@
             "artist": "Izzy Medrano",
             "alias": "",
             "position": "207",
-            "notes": "#black #rare"
+            "notes": "!tag graveyard-hate\n#black #rare"
         },
         {
             "card_name": "Drexil Hunters",
@@ -4186,7 +4186,7 @@
             "artist": "Hocheol Ryu Welz",
             "alias": "",
             "position": "208",
-            "notes": "#black #rare"
+            "notes": "!tag card-advantage\n#black #rare"
         },
         {
             "card_name": "Tireless Consumption",
@@ -4206,7 +4206,7 @@
             "artist": "Darwin Cellis",
             "alias": "",
             "position": "209",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #rare"
+            "notes": "!tag edict-creature\n!tag edict-planeswalker\n!tag wrath\n!tokens Call The Beast Emblem\n\n#black #rare"
         },
         {
             "card_name": "Caroline",
@@ -4226,7 +4226,7 @@
             "artist": "Typhaine Escande",
             "alias": "",
             "position": "210",
-            "notes": "#black #rare"
+            "notes": "!tag reanimate-self\n#black #rare"
         },
         {
             "card_name": "Pointed Interrogation",
@@ -4246,7 +4246,7 @@
             "artist": "Vael",
             "alias": "",
             "position": "211",
-            "notes": "#black #rare"
+            "notes": "!tag hand-disruption-targetted\n#black #rare"
         },
         {
             "card_name": "Jump Junkers",
@@ -4266,7 +4266,7 @@
             "artist": "Rostyslav Zagornov",
             "alias": "",
             "position": "212",
-            "notes": "#blue #rare"
+            "notes": "!tag regrowth-artifact\n#blue #rare"
         },
         {
             "card_name": "Seaside Goliath",
@@ -4286,7 +4286,7 @@
             "artist": "Cameron Nissen",
             "alias": "",
             "position": "213",
-            "notes": "#blue #rare"
+            "notes": "!tag anomaly\n!tag bounce\n#blue #rare"
         },
         {
             "card_name": "Lost Sea Haggling",
@@ -4326,7 +4326,7 @@
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
             "position": "215",
-            "notes": "!tokens Junk\n\n#blue #rare"
+            "notes": "!tag counterspell\n!tokens Junk\n\n#blue #rare"
         },
         {
             "card_name": "Seek the Laboratory",
@@ -4346,7 +4346,7 @@
             "artist": "Athur Haas",
             "alias": "",
             "position": "216",
-            "notes": "!tokens Call The Beast Emblem\n\n#blue #rare"
+            "notes": "!tag card-advantage\n!tokens Call The Beast Emblem\n\n#blue #rare"
         },
         {
             "card_name": "Replicate Design",
@@ -4366,7 +4366,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "217",
-            "notes": "#blue #rare"
+            "notes": "!tag tapper\n#blue #rare"
         },
         {
             "card_name": "Lev, Junker Genius",
@@ -4386,7 +4386,7 @@
             "artist": "Maxim Lingert",
             "alias": "",
             "position": "218",
-            "notes": "!tokens Junk\n\n#blue #rare"
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\n!tokens Junk\n\n#blue #rare"
         },
         {
             "card_name": "Shamuss Pontoon",
@@ -4406,7 +4406,7 @@
             "artist": "WEI ShenGun",
             "alias": "",
             "position": "219",
-            "notes": "!exportname Shamuss Pontoon\n\n#blue #rare"
+            "notes": "!tag card-advantage\n!exportname Shamuss Pontoon\n\n#blue #rare"
         },
         {
             "card_name": "Dreams of Incineration",
@@ -4426,7 +4426,7 @@
             "artist": "Glenn Porter",
             "alias": "",
             "position": "220",
-            "notes": "#gold #rare"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!tag cantrip\n\n#gold #rare"
         },
         {
             "card_name": "Dreams of Resilience",
@@ -4446,7 +4446,7 @@
             "artist": "Afanur Rashid",
             "alias": "",
             "position": "221",
-            "notes": "!tokens Junk\n\n#gold #rare"
+            "notes": "!tag damage-creature\n!tag removal-artfiact\n!tag cantrip\n\n!tokens Junk\n\n#gold #rare"
         },
         {
             "card_name": "Dreams of Restoration",
@@ -4466,7 +4466,7 @@
             "artist": "David Newton",
             "alias": "",
             "position": "222",
-            "notes": "!tokens Nomad\n\n#gold #rare"
+            "notes": "!tag graveyard-hate\n!tokens Nomad\n\n#gold #rare"
         },
         {
             "card_name": "Welding Mask",
@@ -4486,7 +4486,7 @@
             "artist": "Tatiana Novak",
             "alias": "",
             "position": "223",
-            "notes": "#colorless #rare"
+            "notes": "!tag graveyard-hate\n#colorless #rare"
         },
         {
             "card_name": "Buzzer-Walker",
@@ -4506,7 +4506,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "224",
-            "notes": "#colorless #rare"
+            "notes": "!tag anomaly\n!tag damage-creature\n!tag damage-planeswalker\n!tag wrath\n#colorless #rare"
         },
         {
             "card_name": "The Brain",
@@ -4526,7 +4526,7 @@
             "artist": "Gabriele Vaccaro",
             "alias": "",
             "position": "225",
-            "notes": "#colorless #rare"
+            "notes": "!tag anomaly\n!tag removal-creature\n!tag wrath\n#colorless #rare"
         },
         {
             "card_name": "The Spoon Man",
@@ -4546,7 +4546,7 @@
             "artist": "Maciej Laszkiewicz",
             "alias": "",
             "position": "226",
-            "notes": "!tokens Junk\n\n#black #mythic"
+            "notes": "!tag anomaly\n!tag graveyard-hate\n!tag card-advantage\n!tokens Junk\n\n#black #mythic"
         },
         {
             "card_name": "Garbage Gargantuan",
@@ -4566,7 +4566,7 @@
             "artist": "Luca Maiorani",
             "alias": "",
             "position": "227",
-            "notes": "#green #mythic"
+            "notes": "!tag anomaly\n#green #mythic"
         },
         {
             "card_name": "Recycle-o-Tron",
@@ -4586,7 +4586,7 @@
             "artist": "Riccardo Varisco",
             "alias": "",
             "position": "228",
-            "notes": "!exportname Recycle-o-Tron\n\n#green #mythic"
+            "notes": "!tag anomaly\n!exportname Recycle-o-Tron\n\n#green #mythic"
         },
         {
             "card_name": "Electro Punch-Bot",
@@ -4606,7 +4606,7 @@
             "artist": "Andrzej Rybus",
             "alias": "",
             "position": "229",
-            "notes": "#red #mythic"
+            "notes": "!tag anomaly\n#red #mythic"
         },
         {
             "card_name": "Sevrox, Ascended",
@@ -4626,7 +4626,7 @@
             "artist": "Dimitar Katsarov",
             "alias": "",
             "position": "230",
-            "notes": "!tokens Junk\n\n#colorless #mythic #planeswalker"
+            "notes": "!tag card-advantage\n!tag removal-creature\n!tokens Junk\n\n#colorless #mythic #planeswalker"
         },
         {
             "card_name": "Gum-Gum, Heap Lackey",
@@ -4786,7 +4786,7 @@
             "artist": "Eryk Szczygiel",
             "alias": "",
             "position": "238",
-            "notes": "#blue #mythic"
+            "notes": "!tag regrowth-artifact\n!tag card-advantage\n#blue #mythic"
         },
         {
             "card_name": "Throes of the Beast",
@@ -4826,7 +4826,7 @@
             "artist": "Simon Douville",
             "alias": "",
             "position": "240",
-            "notes": "#blue #uncommon"
+            "notes": "!tag anomaly\n!tag cantrip\n!tag card-advantage\n#blue #uncommon"
         },
         {
             "card_name": "Cloud Skimmer",
@@ -4866,7 +4866,7 @@
             "artist": "Mikl\u00f3s Ligeti",
             "alias": "",
             "position": "242",
-            "notes": "#white #rare"
+            "notes": "!tag card-advantage\n#white #rare"
         },
         {
             "card_name": "Escape Vehicle",
@@ -4886,7 +4886,7 @@
             "artist": "Nikolai Lockertsen",
             "alias": "",
             "position": "243",
-            "notes": "#white #rare"
+            "notes": "!tag banish\n\n#white #rare"
         },
         {
             "card_name": "Fishing Float",
@@ -4896,7 +4896,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "When this Vehicle enters, return up to one target creature to its owner's hand.\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When this Vehicle enters, return up to one target creature to its owner's hand.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -4906,7 +4906,7 @@
             "artist": "Michal Kus",
             "alias": "",
             "position": "244",
-            "notes": "#blue #uncommon"
+            "notes": "!tag bounce-creature\n#blue #uncommon"
         },
         {
             "card_name": "Flying Fish",
@@ -4926,7 +4926,7 @@
             "artist": "Marc Simonetti",
             "alias": "",
             "position": "245",
-            "notes": "#blue #common"
+            "notes": "!tag anomaly\n#blue #common"
         },
         {
             "card_name": "Gunhead Rhino",
@@ -4946,7 +4946,7 @@
             "artist": "Kirill Udodov",
             "alias": "",
             "position": "246",
-            "notes": "!tokens Junk<3>\n\n#green #uncommon"
+            "notes": "!tag card-advantage\n!tokens Junk<3>\n\n#green #uncommon"
         },
         {
             "card_name": "Lundquist's Heavies",
@@ -4966,7 +4966,7 @@
             "artist": "Daryl Mandryk",
             "alias": "",
             "position": "247",
-            "notes": "#colorless #common"
+            "notes": "!tag anomaly\n#colorless #common"
         },
         {
             "card_name": "Hoarders Caravan",
@@ -5026,7 +5026,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "250",
-            "notes": "!exportname Junklords Hole Puncher\n\n#red #mythic"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!exportname Junklords Hole Puncher\n\n#red #mythic"
         },
         {
             "card_name": "Monowheel Interceptor",
@@ -5106,7 +5106,7 @@
             "artist": "Felicien Nourry",
             "alias": "",
             "position": "254",
-            "notes": "#white #common"
+            "notes": "!tag banish\n#white #common"
         },
         {
             "card_name": "Vorricks Radicals",
@@ -5126,7 +5126,7 @@
             "artist": "Garrett Post",
             "alias": "",
             "position": "255",
-            "notes": "!exportname Vorricks Radicals\n!tokens Junk\n\n#gold #uncommon #arcun"
+            "notes": "!tag card-advantage\n!damage-any\n!exportname Vorricks Radicals\n!tokens Junk\n\n#gold #uncommon #arcun"
         },
         {
             "card_name": "Innovative Find",
@@ -5146,7 +5146,7 @@
             "artist": "ROBOTA",
             "alias": "",
             "position": "256",
-            "notes": "#white #uncommon"
+            "notes": "!tag cantrip\n#white #uncommon"
         },
         {
             "card_name": "Collector of Finds",
@@ -5166,7 +5166,7 @@
             "artist": "Daniel Ignacio",
             "alias": "",
             "position": "257",
-            "notes": "#blue #common"
+            "notes": "!tag cantrip\n#blue #common"
         },
         {
             "card_name": "Wondrous Find",
@@ -5186,7 +5186,7 @@
             "artist": "Gunnar Feldmann",
             "alias": "",
             "position": "258",
-            "notes": "#blue #uncommon"
+            "notes": "!tag tapper\n!tag cantrip\n#blue #uncommon"
         },
         {
             "card_name": "Broken Find",
@@ -5206,7 +5206,7 @@
             "artist": "D4Disgruntled",
             "alias": "",
             "position": "259",
-            "notes": "#black #uncommon"
+            "notes": "!tag removal-creature\n!tag cantrip\n\n#black #uncommon"
         },
         {
             "card_name": "Stolen Find",
@@ -5226,7 +5226,7 @@
             "artist": "Piotr Kwasnicki",
             "alias": "",
             "position": "260",
-            "notes": "!tokens Treasure\n\n#red #uncommon"
+            "notes": "!tag cantrip\n!tokens Treasure\n\n#red #uncommon"
         },
         {
             "card_name": "Massive Find",
@@ -5246,7 +5246,7 @@
             "artist": "Aster Reeve",
             "alias": "",
             "position": "261",
-            "notes": "#green #uncommon"
+            "notes": "!tag cantrip\n#green #uncommon"
         },
         {
             "card_name": "Junklord Vorrick",
@@ -5266,7 +5266,7 @@
             "artist": "zhihui Su",
             "alias": "",
             "position": "262",
-            "notes": "!tokens Junk\n\n#gold #mythic #junklord"
+            "notes": "!tag card-advantage\n!tag damage-any\n!tokens Junk\n\n#gold #mythic #junklord"
         },
         {
             "card_name": "Rippen, the Scarred",
@@ -5326,7 +5326,7 @@
             "artist": "Michel Lanoie",
             "alias": "",
             "position": "265",
-            "notes": "#red #rare"
+            "notes": "!tag card-advantage\n#red #rare"
         },
         {
             "card_name": "Marus, Calculated Killer",
@@ -5426,7 +5426,7 @@
             "artist": "Luka Brico",
             "alias": "",
             "position": "270",
-            "notes": "#black #common"
+            "notes": "!tag anomaly\n!tag removal-creature\n#black #common"
         },
         {
             "card_name": "Ghastly Scrapbeast",
@@ -5446,7 +5446,7 @@
             "artist": "Travis Anderson",
             "alias": "",
             "position": "271",
-            "notes": "#black #common"
+            "notes": "!tag anomaly\n#black #common"
         },
         {
             "card_name": "Rig Sparks",
@@ -5466,7 +5466,7 @@
             "artist": "J Hua",
             "alias": "",
             "position": "272",
-            "notes": "!tokens Servo\n\n#red #common"
+            "notes": "!tag damage-any\n!tokens Servo\n\n#red #common"
         },
         {
             "card_name": "Shiny Taker",
@@ -5486,7 +5486,7 @@
             "artist": "Pedro Otelcana",
             "alias": "",
             "position": "273",
-            "notes": "#black #rare"
+            "notes": "!tag anomaly\n#black #rare"
         },
         {
             "card_name": "Lost Sea Watcher",
@@ -5506,7 +5506,7 @@
             "artist": "Nick Storozhenko",
             "alias": "",
             "position": "274",
-            "notes": "#blue #mythic"
+            "notes": "!tag anomaly\n#blue #mythic"
         },
         {
             "card_name": "Disassemble",
@@ -5526,7 +5526,7 @@
             "artist": "Bachana Botchorishvilli",
             "alias": "",
             "position": "275",
-            "notes": "#white #common"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tag graveyard-hate\n#white #common"
         },
         {
             "card_name": "Machines Rule the World",
@@ -5586,7 +5586,7 @@
             "artist": "Alu\u00edsio Cervelle Santos",
             "alias": "",
             "position": "278",
-            "notes": "!tokens Call The Beast Emblem\n#blue #rare"
+            "notes": "!tag card-advantage\n!tokens Call The Beast Emblem\n#blue #rare"
         },
         {
             "card_name": "Dreams of Progress",
@@ -5606,7 +5606,7 @@
             "artist": "Joshua Carter",
             "alias": "",
             "position": "279",
-            "notes": "#gold #rare"
+            "notes": "!tag wrath\n!tag wheel\n!tag regrowth-Vehicle\n#gold #rare"
         },
         {
             "card_name": "Dreams of Exploitation",
@@ -5626,7 +5626,7 @@
             "artist": "Aleksei Shatunov",
             "alias": "",
             "position": "280",
-            "notes": "!tokens Call The Beast Emblem\n\n#gold #rare"
+            "notes": "!tag removal-creature\n!tag hand-disruption-untargeted\n!tag regrowth-artifact\n!tag regrowtwh-creature\n!tokens Call The Beast Emblem\n\n#gold #rare"
         },
         {
             "card_name": "Towering Killbot",
@@ -5646,7 +5646,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "281",
-            "notes": "!tokens Call The Beast Emblem\n\n#black #rare"
+            "notes": "!tag anomaly\n!tag removal-creature\n!tokens Call The Beast Emblem\n\n#black #rare"
         },
         {
             "card_name": "The Junklords Gambit",
@@ -5666,7 +5666,7 @@
             "artist": "LiXin Yin",
             "alias": "",
             "position": "282",
-            "notes": "!exportname The Junklords Gambit\n\n#colorless #mythic"
+            "notes": "!tag wrath\n!exportname The Junklords Gambit\n\n#colorless #mythic"
         },
         {
             "card_name": "Garoth's Sentries",
@@ -5706,7 +5706,7 @@
             "artist": "Polina Semenova",
             "alias": "",
             "position": "284",
-            "notes": "!tokens Call The Beast Emblem\n\n#green #rare"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n!tokens Call The Beast Emblem\n\n#green #rare"
         },
         {
             "card_name": "Pit-Burster Mech",
@@ -5726,7 +5726,7 @@
             "artist": "Wang Xian Kun",
             "alias": "",
             "position": "285",
-            "notes": "#red #uncommon"
+            "notes": "!tag anomaly\n#red #uncommon"
         },
         {
             "card_name": "Bulked Guardian",
@@ -5746,7 +5746,7 @@
             "artist": "Games Revolted",
             "alias": "",
             "position": "286",
-            "notes": "#green #uncommon"
+            "notes": "!tag anomaly\n#green #uncommon"
         },
         {
             "card_name": "Puck",
@@ -5786,7 +5786,7 @@
             "artist": "Jun Huang",
             "alias": "",
             "position": "288",
-            "notes": "#white #common"
+            "notes": "!tag anomaly\n#white #common"
         },
         {
             "card_name": "Flamethrower Battle-Wagon",
@@ -5806,7 +5806,7 @@
             "artist": "Wojciech Kr\u00f3lik",
             "alias": "",
             "position": "289",
-            "notes": "#red #common"
+            "notes": "!tag damage-any\n#red #common"
         },
         {
             "card_name": "Unyielding Husk",
@@ -5826,8 +5826,8 @@
             "artist": "Wenmo Zhang",
             "alias": "",
             "position": "290",
-            "notes": "#black #rare"
+            "notes": "!tag anomaly\n!tag reanimate-self\n#black #rare"
         }
     ],
-    "version": 2
+    "version": 3
 }
