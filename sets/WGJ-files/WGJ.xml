@@ -3568,7 +3568,7 @@ At the beginning of combat on your turn, choose one that hasn&apos;t been chosen
 		</card>
 		<card>
 			<name>Lundquists Garage</name>
-			<text>You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. (If a creature with a finality counter on it would die, exile it instead.)
+			<text>You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. (If a permanent with a finality counter on it would die, exile it instead.)
 At the beginning of your end step, exile Lundquist&apos;s Garage.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/199.png" num="25">WGJ</set>
 			<prop>

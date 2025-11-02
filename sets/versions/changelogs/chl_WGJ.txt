@@ -1,4 +1,15 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Lundquists Garage
+rules_text: You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+At the beginning of your end step, exile Lundquist's Garage. => You may cast creature and Vehicle cards with mana value 3 or less from your graveyard. Creatures and Vehicles cast this way enter with a finality counter. [i](If a permanent with a finality counter on it would die, exile it instead.)[/i]
+At the beginning of your end step, exile Lundquist's Garage.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
