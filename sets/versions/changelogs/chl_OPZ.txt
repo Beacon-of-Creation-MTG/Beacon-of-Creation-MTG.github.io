@@ -1,4 +1,40 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Plithium Quarry
+
+Targeted Strike
+
+Expanse Runners
+
+Frigid Pass Officers
+
+Drone Operator
+
+Levicycle Courier
+
+Salvage Hunter
+
+Duress
+
+Scour the Ruins
+
+Artificial Warfront
+
+Augmented Starfighter
+
+Razefire Raid
+
+Devastating Dilemma
+
+Unwitting Host
+
+D'Emil, Apex Hunter
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

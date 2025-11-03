@@ -23526,7 +23526,7 @@
             "loyalty2": "",
             "artist2": "Hermann Kromer",
             "alias2": "",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr\n\n!tag damage-player\n!tag edict-any\n!tag hand-distruption-untargetted",
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr\n\n!tag damage-player\n!tag edict-any\n!tag hand-disruption-untargeted",
             "image_type": "png",
             "v_mana": ""
         },
@@ -23647,7 +23647,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "11",
-            "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r\n\n!damage-any",
+            "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r\n\n!tag damage-any",
             "image_type": "png",
             "v_mana": ""
         },
@@ -23933,7 +23933,7 @@
             "artist": "Alex Ichim",
             "alias": "",
             "position": "24",
-            "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w\n\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w",
             "image_type": "png",
             "v_mana": ""
         },
@@ -24219,7 +24219,7 @@
             "artist": "Dmitry Vishnevsky",
             "alias": "",
             "position": "37",
-            "notes": "https://www.artstation.com/artwork/GabrVN\n\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/GabrVN",
             "image_type": "png",
             "v_mana": ""
         },
@@ -24637,7 +24637,7 @@
             "artist": "Marek Okon",
             "alias": "",
             "position": "56",
-            "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r\n\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r",
             "image_type": "png",
             "v_mana": ""
         },
@@ -25187,7 +25187,7 @@
             "artist": "Daniel McGarry",
             "alias": "",
             "position": "81",
-            "notes": "https://www.artstation.com/artwork/eRaVYb\n\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/eRaVYb",
             "image_type": "png",
             "v_mana": ""
         },
@@ -25484,7 +25484,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "94",
-            "notes": "https://www.artstation.com/artwork/0XL33y\n\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/0XL33y",
             "image_type": "png",
             "v_mana": ""
         },
@@ -25660,7 +25660,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "102",
-            "notes": "https://www.artstation.com/artwork/oO1bNk\n\n!tag hand-distruption-targetted",
+            "notes": "https://www.artstation.com/artwork/oO1bNk\n\n!tag hand-disruption-targeted",
             "image_type": "png",
             "v_mana": ""
         },
@@ -26166,7 +26166,7 @@
             "artist": "Andrej 'BATOU' Durik",
             "alias": "",
             "position": "125",
-            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag anomaly\n!tag card-advantage",
+            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag card-advantage",
             "image_type": "png",
             "v_mana": ""
         },
@@ -26254,7 +26254,7 @@
             "artist": "G-Hamm",
             "alias": "",
             "position": "129",
-            "notes": "https://www.artstation.com/artwork/9mLZgo\n\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/9mLZgo",
             "image_type": "png",
             "v_mana": ""
         },
@@ -26694,7 +26694,7 @@
             "artist": "Mathieu Boyer",
             "alias": "",
             "position": "149",
-            "notes": "https://www.artstation.com/artwork/L4gAav\n\n!tag damage-creature\n!tag damage-planeswalker\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/L4gAav\n\n!tag damage-creature\n!tag damage-planeswalker",
             "image_type": "png",
             "v_mana": ""
         },
@@ -27167,7 +27167,7 @@
             "artist": "Wojtek Fus",
             "alias": "",
             "position": "170",
-            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any\n!tag anomaly",
+            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any",
             "image_type": "png",
             "v_mana": ""
         },
@@ -27937,7 +27937,7 @@
             "artist": "Christina P. Myrvold",
             "alias": "",
             "position": "205",
-            "notes": "https://www.artstation.com/artwork/rJvwl2\n\n!tag edict-creature\n!tag hand-distruption-untargetted",
+            "notes": "https://www.artstation.com/artwork/rJvwl2\n\n!tag edict-creature\n!tag hand-disruption-untargeted",
             "image_type": "png",
             "v_mana": ""
         },
@@ -28619,7 +28619,7 @@
             "artist": "Kai Gavin Eberl",
             "alias": "",
             "position": "236",
-            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-distruption-untargetted",
+            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-disruption-untargeted",
             "image_type": "png",
             "v_mana": ""
         },
@@ -29455,7 +29455,7 @@
             "artist": "James Zapata",
             "alias": "",
             "position": "274",
-            "notes": "https://www.artstation.com/artwork/N405\n\n!tag anomaly\n!tag card-advantage",
+            "notes": "https://www.artstation.com/artwork/N405\n\n!tag card-advantage",
             "image_type": "png",
             "v_mana": ""
         },

@@ -1,6 +1,6 @@
 ﻿{
     "name": "Outpost Zero",
-    "formats": "",
+    "formats": "Standard",
     "trimmed": "n",
     "image_type": "png",
     "draft_structure": "play booster",
@@ -190,7 +190,7 @@
             "loyalty2": "",
             "artist2": "Hermann Kromer",
             "alias2": "",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr\n\n!tag damage-player\n!tag edict-any\n!tag hand-distruption-untargetted"
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/dy4Y21?collection_id=2324707\n\nhttps://www.artstation.com/artwork/L4aYkr\n\n!tag damage-player\n!tag edict-any\n!tag hand-disruption-untargeted"
         },
         {
             "card_name": "Innovative Hangar",
@@ -301,7 +301,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "11",
-            "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r\n\n!damage-any"
+            "notes": "https://www.artstation.com/artwork/bg0L6G\n\nidea\n\nJumpstart\nproto_r\n\n!tag damage-any"
         },
         {
             "card_name": "Acrid Chiropteran",
@@ -561,7 +561,7 @@
             "artist": "Alex Ichim",
             "alias": "",
             "position": "24",
-            "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w"
         },
         {
             "card_name": "Gleaming Kite",
@@ -821,7 +821,7 @@
             "artist": "Dmitry Vishnevsky",
             "alias": "",
             "position": "37",
-            "notes": "https://www.artstation.com/artwork/GabrVN\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/GabrVN"
         },
         {
             "card_name": "Splinter Brute",
@@ -1201,7 +1201,7 @@
             "artist": "Marek Okon",
             "alias": "",
             "position": "56",
-            "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r"
         },
         {
             "card_name": "Skittering Swarm",
@@ -1701,7 +1701,7 @@
             "artist": "Daniel McGarry",
             "alias": "",
             "position": "81",
-            "notes": "https://www.artstation.com/artwork/eRaVYb\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/eRaVYb"
         },
         {
             "card_name": "Sudden Evacuation",
@@ -1972,7 +1972,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "94",
-            "notes": "https://www.artstation.com/artwork/0XL33y\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/0XL33y"
         },
         {
             "card_name": "Tremor Spikeworm",
@@ -2132,7 +2132,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "102",
-            "notes": "https://www.artstation.com/artwork/oO1bNk\n\n!tag hand-distruption-targetted"
+            "notes": "https://www.artstation.com/artwork/oO1bNk\n\n!tag hand-disruption-targeted"
         },
         {
             "card_name": "Subjugation",
@@ -2592,7 +2592,7 @@
             "artist": "Andrej 'BATOU' Durik",
             "alias": "",
             "position": "125",
-            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag anomaly\n!tag card-advantage"
+            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag card-advantage"
         },
         {
             "card_name": "Commune With Evil",
@@ -2672,7 +2672,7 @@
             "artist": "G-Hamm",
             "alias": "",
             "position": "129",
-            "notes": "https://www.artstation.com/artwork/9mLZgo\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/9mLZgo"
         },
         {
             "card_name": "Cuphro Invasion",
@@ -3072,7 +3072,7 @@
             "artist": "Mathieu Boyer",
             "alias": "",
             "position": "149",
-            "notes": "https://www.artstation.com/artwork/L4gAav\n\n!tag damage-creature\n!tag damage-planeswalker\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/L4gAav\n\n!tag damage-creature\n!tag damage-planeswalker"
         },
         {
             "card_name": "Heart of Astorethe",
@@ -3503,7 +3503,7 @@
             "artist": "Wojtek Fus",
             "alias": "",
             "position": "170",
-            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any"
         },
         {
             "card_name": "Twilight Observer",
@@ -4203,7 +4203,7 @@
             "artist": "Christina P. Myrvold",
             "alias": "",
             "position": "205",
-            "notes": "https://www.artstation.com/artwork/rJvwl2\n\n!tag edict-creature\n!tag hand-distruption-untargetted"
+            "notes": "https://www.artstation.com/artwork/rJvwl2\n\n!tag edict-creature\n!tag hand-disruption-untargeted"
         },
         {
             "card_name": "Xathyz, Eternal Matriarch",
@@ -4823,7 +4823,7 @@
             "artist": "Kai Gavin Eberl",
             "alias": "",
             "position": "236",
-            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-distruption-untargetted"
+            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-disruption-untargeted"
         },
         {
             "card_name": "Temporal Harness",
@@ -5583,7 +5583,7 @@
             "artist": "James Zapata",
             "alias": "",
             "position": "274",
-            "notes": "https://www.artstation.com/artwork/N405\n\n!tag anomaly\n!tag card-advantage"
+            "notes": "https://www.artstation.com/artwork/N405\n\n!tag card-advantage"
         },
         {
             "card_name": "Moira, Rapid Adapter",
