@@ -190,7 +190,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/15.png"
 			}
@@ -636,23 +636,13 @@
 			}
 		},
 		{
-			"name": "Houkkipi Scavengers",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Beast",
-			"collector_number": "173",
-			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/60.png"
-			}
-		},
-		{
 			"name": "Biogenic Upgrade",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/61.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/60.png"
 			}
 		},
 		{
@@ -662,7 +652,7 @@
 			"type": "Artifact Creature — Ape Construct",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/62.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/61.png"
 			}
 		},
 		{
@@ -672,7 +662,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/63.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/62.png"
 			}
 		},
 		{
@@ -680,9 +670,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/64.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/63.png"
 			}
 		},
 		{
@@ -692,7 +682,7 @@
 			"type": "Instant",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/65.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/64.png"
 			}
 		},
 		{
@@ -700,9 +690,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/66.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/65.png"
 			}
 		},
 		{
@@ -712,7 +702,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/67.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/66.png"
 			}
 		},
 		{
@@ -720,9 +710,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Lizard",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/68.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/67.png"
 			}
 		},
 		{
@@ -732,7 +722,7 @@
 			"type": "Creature — Fungus Horror",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/69.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/68.png"
 			}
 		},
 		{
@@ -742,7 +732,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/70.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/69.png"
 			}
 		},
 		{
@@ -752,7 +742,7 @@
 			"type": "Artifact Creature — Drone Scout",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/71.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/70.png"
 			}
 		},
 		{
@@ -762,7 +752,7 @@
 			"type": "Creature — Weasel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/72.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/71.png"
 			}
 		},
 		{
@@ -772,7 +762,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/73.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/72.png"
 			}
 		},
 		{
@@ -782,7 +772,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/74.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/73.png"
 			}
 		},
 		{
@@ -792,7 +782,7 @@
 			"type": "Artifact Creature — Drone Soldier",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/75.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/74.png"
 			}
 		},
 		{
@@ -802,7 +792,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/76.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/75.png"
 			}
 		},
 		{
@@ -812,7 +802,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/77.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/76.png"
 			}
 		},
 		{
@@ -822,7 +812,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/78.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/77.png"
 			}
 		},
 		{
@@ -832,7 +822,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/79.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/78.png"
 			}
 		},
 		{
@@ -842,7 +832,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/80.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/79.png"
 			}
 		},
 		{
@@ -852,7 +842,7 @@
 			"type": "Creature — Horse",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/81.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/80.png"
 			}
 		},
 		{
@@ -862,7 +852,7 @@
 			"type": "Creature — Human Pilot",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/82.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/81.png"
 			}
 		},
 		{
@@ -872,7 +862,7 @@
 			"type": "Instant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/83.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/82.png"
 			}
 		},
 		{
@@ -882,7 +872,7 @@
 			"type": "Artifact Creature — Robot Pilot",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/84.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/83.png"
 			}
 		},
 		{
@@ -892,7 +882,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/85.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/84.png"
 			}
 		},
 		{
@@ -902,7 +892,7 @@
 			"type": "Creature — Illusion",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/86.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/85.png"
 			}
 		},
 		{
@@ -912,7 +902,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/87.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/86.png"
 			}
 		},
 		{
@@ -922,7 +912,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/88.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/87.png"
 			}
 		},
 		{
@@ -932,7 +922,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/89.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/88.png"
 			}
 		},
 		{
@@ -942,7 +932,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/90.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/89.png"
 			}
 		},
 		{
@@ -952,7 +942,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/91.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/90.png"
 			}
 		},
 		{
@@ -962,7 +952,7 @@
 			"type": "Land — Outpost",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/92.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/91.png"
 			}
 		},
 		{
@@ -975,11 +965,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/93_back.png"
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/92_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/93_front.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/92_front.png"
 			}
 		},
 		{
@@ -989,7 +979,7 @@
 			"type": "Artifact Land — Specimen",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/94.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/93.png"
 			}
 		},
 		{
@@ -999,7 +989,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/95.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/94.png"
 			}
 		},
 		{
@@ -1009,7 +999,7 @@
 			"type": "Creature — Worm",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/96.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/95.png"
 			}
 		},
 		{
@@ -1019,7 +1009,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/97.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/96.png"
 			}
 		},
 		{
@@ -1029,7 +1019,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/98.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/97.png"
 			}
 		},
 		{
@@ -1039,7 +1029,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/99.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/98.png"
 			}
 		},
 		{
@@ -1049,7 +1039,7 @@
 			"type": "Creature — Zombie Horror",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/100.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/99.png"
 			}
 		},
 		{
@@ -1059,7 +1049,7 @@
 			"type": "Creature — Specter",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/101.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/100.png"
 			}
 		},
 		{
@@ -1069,7 +1059,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/102.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/101.png"
 			}
 		},
 		{
@@ -1079,7 +1069,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/103.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/102.png"
 			}
 		},
 		{
@@ -1089,7 +1079,7 @@
 			"type": "Instant",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/104.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/103.png"
 			}
 		},
 		{
@@ -1099,7 +1089,7 @@
 			"type": "Token Creature — Parasite",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/105.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/104.png"
 			}
 		},
 		{
@@ -1109,7 +1099,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/106.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/105.png"
 			}
 		},
 		{
@@ -1119,7 +1109,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/107.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/106.png"
 			}
 		},
 		{
@@ -1129,7 +1119,7 @@
 			"type": "Creature — Human Scientist",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/108.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/107.png"
 			}
 		},
 		{
@@ -1139,7 +1129,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/109.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/108.png"
 			}
 		},
 		{
@@ -1149,7 +1139,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/110.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/109.png"
 			}
 		},
 		{
@@ -1159,7 +1149,7 @@
 			"type": "Instant",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/111.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/110.png"
 			}
 		},
 		{
@@ -1169,7 +1159,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/112.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/111.png"
 			}
 		},
 		{
@@ -1179,7 +1169,7 @@
 			"type": "Artifact Creature — Robot Artificer",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/113.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/112.png"
 			}
 		},
 		{
@@ -1189,7 +1179,7 @@
 			"type": "Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/114.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/113.png"
 			}
 		},
 		{
@@ -1197,9 +1187,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/115.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/114.png"
 			}
 		},
 		{
@@ -1207,9 +1197,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/116.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/115.png"
 			}
 		},
 		{
@@ -1219,7 +1209,7 @@
 			"type": "Creature — Spider Horror",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/117.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/116.png"
 			}
 		},
 		{
@@ -1229,7 +1219,7 @@
 			"type": "Creature — Ooze Mutant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/118.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/117.png"
 			}
 		},
 		{
@@ -1239,7 +1229,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/119.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/118.png"
 			}
 		},
 		{
@@ -1249,7 +1239,7 @@
 			"type": "Artifact",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/120.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/119.png"
 			}
 		},
 		{
@@ -1259,7 +1249,7 @@
 			"type": "Sorcery",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/121.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/120.png"
 			}
 		},
 		{
@@ -1269,7 +1259,7 @@
 			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/122.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/121.png"
 			}
 		},
 		{
@@ -1279,7 +1269,7 @@
 			"type": "Sorcery",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/123.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/122.png"
 			}
 		},
 		{
@@ -1289,7 +1279,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/124.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/123.png"
 			}
 		},
 		{
@@ -1299,7 +1289,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/125.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/124.png"
 			}
 		},
 		{
@@ -1309,7 +1299,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/126.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/125.png"
 			}
 		},
 		{
@@ -1319,7 +1309,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/127.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/126.png"
 			}
 		},
 		{
@@ -1329,7 +1319,7 @@
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/128.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/127.png"
 			}
 		},
 		{
@@ -1339,7 +1329,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/129.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/128.png"
 			}
 		},
 		{
@@ -1349,7 +1339,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/130.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/129.png"
 			}
 		},
 		{
@@ -1359,7 +1349,7 @@
 			"type": "Enchantment",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/131.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/130.png"
 			}
 		},
 		{
@@ -1369,7 +1359,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/132.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/131.png"
 			}
 		},
 		{
@@ -1379,7 +1369,7 @@
 			"type": "Sorcery",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/133.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/132.png"
 			}
 		},
 		{
@@ -1389,7 +1379,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/134.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/133.png"
 			}
 		},
 		{
@@ -1399,7 +1389,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/135.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/134.png"
 			}
 		},
 		{
@@ -1409,7 +1399,7 @@
 			"type": "Instant",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/136.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/135.png"
 			}
 		},
 		{
@@ -1419,7 +1409,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/137.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/136.png"
 			}
 		},
 		{
@@ -1429,7 +1419,7 @@
 			"type": "Creature — Human Mutant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/138.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/137.png"
 			}
 		},
 		{
@@ -1439,7 +1429,7 @@
 			"type": "Creature — Horror Wizard",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/139.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/138.png"
 			}
 		},
 		{
@@ -1449,7 +1439,7 @@
 			"type": "Legendary Creature — Human Mercenary",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/140.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/139.png"
 			}
 		},
 		{
@@ -1459,7 +1449,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/141.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/140.png"
 			}
 		},
 		{
@@ -1469,7 +1459,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/142.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/141.png"
 			}
 		},
 		{
@@ -1479,7 +1469,7 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/143.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/142.png"
 			}
 		},
 		{
@@ -1489,7 +1479,7 @@
 			"type": "Artifact Creature — Drone Soldier",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/144.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/143.png"
 			}
 		},
 		{
@@ -1499,7 +1489,7 @@
 			"type": "Enchantment",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/145.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/144.png"
 			}
 		},
 		{
@@ -1509,7 +1499,7 @@
 			"type": "Legendary Artifact Creature — Symbiote",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/146.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/145.png"
 			}
 		},
 		{
@@ -1519,7 +1509,7 @@
 			"type": "Artifact",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/147.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/146.png"
 			}
 		},
 		{
@@ -1529,7 +1519,7 @@
 			"type": "Creature — Kraken Horror",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/148.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/147.png"
 			}
 		},
 		{
@@ -1539,7 +1529,7 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/149.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/148.png"
 			}
 		},
 		{
@@ -1549,7 +1539,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/150.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/149.png"
 			}
 		},
 		{
@@ -1559,7 +1549,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/151.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/150.png"
 			}
 		},
 		{
@@ -1569,7 +1559,7 @@
 			"type": "Legendary Artifact Creature — Symbiote",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/152.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/151.png"
 			}
 		},
 		{
@@ -1579,7 +1569,7 @@
 			"type": "Artifact",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/153.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/152.png"
 			}
 		},
 		{
@@ -1592,11 +1582,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/154_back.png"
+					"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/153_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/154_front.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/153_front.png"
 			}
 		},
 		{
@@ -1606,7 +1596,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/155.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/154.png"
 			}
 		},
 		{
@@ -1616,7 +1606,7 @@
 			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/156.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/155.png"
 			}
 		},
 		{
@@ -1626,7 +1616,7 @@
 			"type": "Creature — Insect Horror",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/157.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/156.png"
 			}
 		},
 		{
@@ -1636,7 +1626,7 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/158.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/157.png"
 			}
 		},
 		{
@@ -1646,7 +1636,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/159.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/158.png"
 			}
 		},
 		{
@@ -1656,7 +1646,7 @@
 			"type": "Instant",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/160.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/159.png"
 			}
 		},
 		{
@@ -1666,7 +1656,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/161.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/160.png"
 			}
 		},
 		{
@@ -1676,7 +1666,7 @@
 			"type": "Instant",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/162.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/161.png"
 			}
 		},
 		{
@@ -1686,7 +1676,7 @@
 			"type": "Creature — Beast Mutant",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/163.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/162.png"
 			}
 		},
 		{
@@ -1696,7 +1686,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/164.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/163.png"
 			}
 		},
 		{
@@ -1706,7 +1696,7 @@
 			"type": "Instant",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/165.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/164.png"
 			}
 		},
 		{
@@ -1716,7 +1706,7 @@
 			"type": "Creature — Human Scientist",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/166.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/165.png"
 			}
 		},
 		{
@@ -1726,7 +1716,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/167.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/166.png"
 			}
 		},
 		{
@@ -1736,7 +1726,7 @@
 			"type": "Sorcery",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/168.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/167.png"
 			}
 		},
 		{
@@ -1746,7 +1736,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/169.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/168.png"
 			}
 		},
 		{
@@ -1756,7 +1746,7 @@
 			"type": "Artifact Creature — Drone Soldier",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/170.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/169.png"
 			}
 		},
 		{
@@ -1766,7 +1756,7 @@
 			"type": "Instant",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/171.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/170.png"
 			}
 		},
 		{
@@ -1776,7 +1766,7 @@
 			"type": "Creature — Veylid Wizard",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/172.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/171.png"
 			}
 		},
 		{
@@ -1786,7 +1776,7 @@
 			"type": "Enchantment",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/173.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/172.png"
 			}
 		},
 		{
@@ -1796,7 +1786,7 @@
 			"type": "Land — Plains Swamp",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/174.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/173.png"
 			}
 		},
 		{
@@ -1806,7 +1796,7 @@
 			"type": "Land — Island Mountain",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/175.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/174.png"
 			}
 		},
 		{
@@ -1816,7 +1806,7 @@
 			"type": "Land — Swamp Forest",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/176.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/175.png"
 			}
 		},
 		{
@@ -1826,7 +1816,7 @@
 			"type": "Land — Mountain Plains",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/177.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/176.png"
 			}
 		},
 		{
@@ -1836,7 +1826,7 @@
 			"type": "Land — Forest Island",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/178.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/177.png"
 			}
 		},
 		{
@@ -1846,7 +1836,7 @@
 			"type": "Land — Plains Island",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/179.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/178.png"
 			}
 		},
 		{
@@ -1856,7 +1846,7 @@
 			"type": "Land — Island Swamp",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/180.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/179.png"
 			}
 		},
 		{
@@ -1866,7 +1856,7 @@
 			"type": "Land — Swamp Mountain",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/181.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/180.png"
 			}
 		},
 		{
@@ -1876,7 +1866,7 @@
 			"type": "Land — Mountain Forest",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/182.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/181.png"
 			}
 		},
 		{
@@ -1886,7 +1876,7 @@
 			"type": "Land — Forest Plains",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/183.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/182.png"
 			}
 		},
 		{
@@ -1896,7 +1886,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/184.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/183.png"
 			}
 		},
 		{
@@ -1906,7 +1896,7 @@
 			"type": "Instant",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/185.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/184.png"
 			}
 		},
 		{
@@ -1916,7 +1906,7 @@
 			"type": "Instant",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/186.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/185.png"
 			}
 		},
 		{
@@ -1926,7 +1916,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/187.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/186.png"
 			}
 		},
 		{
@@ -1936,7 +1926,7 @@
 			"type": "Artifact",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/188.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/187.png"
 			}
 		},
 		{
@@ -1946,7 +1936,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/189.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/188.png"
 			}
 		},
 		{
@@ -1956,7 +1946,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/190.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/189.png"
 			}
 		},
 		{
@@ -1966,7 +1956,7 @@
 			"type": "Artifact",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/191.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/190.png"
 			}
 		},
 		{
@@ -1976,7 +1966,7 @@
 			"type": "Enchantment",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/192.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/191.png"
 			}
 		},
 		{
@@ -1986,7 +1976,7 @@
 			"type": "Creature — Fox Mutant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/193.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/192.png"
 			}
 		},
 		{
@@ -1996,7 +1986,7 @@
 			"type": "Creature — Nightmare",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/194.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/193.png"
 			}
 		},
 		{
@@ -2006,7 +1996,7 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/195.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/194.png"
 			}
 		},
 		{
@@ -2016,7 +2006,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/196.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/195.png"
 			}
 		},
 		{
@@ -2026,7 +2016,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/197.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/196.png"
 			}
 		},
 		{
@@ -2036,7 +2026,7 @@
 			"type": "Creature — Human Scientist",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/198.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/197.png"
 			}
 		},
 		{
@@ -2046,7 +2036,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/199.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/198.png"
 			}
 		},
 		{
@@ -2056,7 +2046,7 @@
 			"type": "Artifact Creature — Robot Soldier",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/200.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/199.png"
 			}
 		},
 		{
@@ -2066,7 +2056,7 @@
 			"type": "Artifact Creature — Zombie",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/201.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/200.png"
 			}
 		},
 		{
@@ -2076,7 +2066,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/202.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/201.png"
 			}
 		},
 		{
@@ -2086,7 +2076,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/203.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/202.png"
 			}
 		},
 		{
@@ -2096,7 +2086,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/204.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/203.png"
 			}
 		},
 		{
@@ -2106,7 +2096,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/205.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/204.png"
 			}
 		},
 		{
@@ -2116,7 +2106,7 @@
 			"type": "Enchantment",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/206.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/205.png"
 			}
 		},
 		{
@@ -2126,7 +2116,7 @@
 			"type": "Legendary Artifact Creature — Symbiote",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/207.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/206.png"
 			}
 		},
 		{
@@ -2136,7 +2126,7 @@
 			"type": "Creature — Human Mercenary",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/208.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/207.png"
 			}
 		},
 		{
@@ -2146,7 +2136,7 @@
 			"type": "Artifact Creature — Drone Scout",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/209.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/208.png"
 			}
 		},
 		{
@@ -2156,7 +2146,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/210.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/209.png"
 			}
 		},
 		{
@@ -2166,7 +2156,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/211.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/210.png"
 			}
 		},
 		{
@@ -2174,9 +2164,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast Mutant",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/212.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/211.png"
 			}
 		},
 		{
@@ -2186,7 +2176,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/213.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/212.png"
 			}
 		},
 		{
@@ -2196,7 +2186,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/214.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/213.png"
 			}
 		},
 		{
@@ -2206,7 +2196,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/215.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/214.png"
 			}
 		},
 		{
@@ -2216,7 +2206,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/216.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/215.png"
 			}
 		},
 		{
@@ -2226,7 +2216,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/217.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/216.png"
 			}
 		},
 		{
@@ -2236,7 +2226,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/218.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/217.png"
 			}
 		},
 		{
@@ -2246,7 +2236,7 @@
 			"type": "Legendary Creature — Ooze Mercenary",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/219.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/218.png"
 			}
 		},
 		{
@@ -2256,7 +2246,7 @@
 			"type": "Artifact Creature — Veylid Construct",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/220.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/219.png"
 			}
 		},
 		{
@@ -2264,9 +2254,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/221.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/220.png"
 			}
 		},
 		{
@@ -2276,7 +2266,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/222.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/221.png"
 			}
 		},
 		{
@@ -2286,7 +2276,7 @@
 			"type": "Legendary Planeswalker — Garruk",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/223.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/222.png"
 			}
 		},
 		{
@@ -2296,7 +2286,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/224.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/223.png"
 			}
 		},
 		{
@@ -2306,7 +2296,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/225.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/224.png"
 			}
 		},
 		{
@@ -2316,7 +2306,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/226.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/225.png"
 			}
 		},
 		{
@@ -2326,7 +2316,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/227.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/226.png"
 			}
 		},
 		{
@@ -2336,7 +2326,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/228.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/227.png"
 			}
 		},
 		{
@@ -2346,7 +2336,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/229.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/228.png"
 			}
 		},
 		{
@@ -2356,7 +2346,7 @@
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/230.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/229.png"
 			}
 		},
 		{
@@ -2366,7 +2356,7 @@
 			"type": "Instant",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/231.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/230.png"
 			}
 		},
 		{
@@ -2376,7 +2366,7 @@
 			"type": "Enchantment",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/232.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/231.png"
 			}
 		},
 		{
@@ -2386,7 +2376,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/233.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/232.png"
 			}
 		},
 		{
@@ -2394,9 +2384,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/234.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/233.png"
 			}
 		},
 		{
@@ -2406,7 +2396,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/235.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/234.png"
 			}
 		},
 		{
@@ -2414,9 +2404,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Mutant",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/236.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/235.png"
 			}
 		},
 		{
@@ -2426,7 +2416,7 @@
 			"type": "Creature — Human Horror",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/237.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/236.png"
 			}
 		},
 		{
@@ -2436,7 +2426,7 @@
 			"type": "Artifact",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/238.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/237.png"
 			}
 		},
 		{
@@ -2446,7 +2436,7 @@
 			"type": "Creature — Veylid Beast",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/239.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/238.png"
 			}
 		},
 		{
@@ -2456,7 +2446,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/240.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/239.png"
 			}
 		},
 		{
@@ -2466,7 +2456,7 @@
 			"type": "Artifact Creature — Robot Rogue",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/241.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/240.png"
 			}
 		},
 		{
@@ -2476,7 +2466,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/242.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/241.png"
 			}
 		},
 		{
@@ -2486,7 +2476,7 @@
 			"type": "Artifact Creature — Robot Rogue",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/243.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/242.png"
 			}
 		},
 		{
@@ -2496,7 +2486,7 @@
 			"type": "Artifact Creature — Veylid Juggernaut",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/244.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/243.png"
 			}
 		},
 		{
@@ -2506,7 +2496,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/245.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/244.png"
 			}
 		},
 		{
@@ -2516,7 +2506,7 @@
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/246.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/245.png"
 			}
 		},
 		{
@@ -2526,7 +2516,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/247.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/246.png"
 			}
 		},
 		{
@@ -2536,7 +2526,7 @@
 			"type": "Artifact Creature — Drone Soldier",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/248.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/247.png"
 			}
 		},
 		{
@@ -2546,7 +2536,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/249.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/248.png"
 			}
 		},
 		{
@@ -2556,7 +2546,7 @@
 			"type": "Creature — Veylid Berserker",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/250.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/249.png"
 			}
 		},
 		{
@@ -2566,7 +2556,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/251.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/250.png"
 			}
 		},
 		{
@@ -2576,7 +2566,7 @@
 			"type": "Artifact Creature — Spider Construct",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/252.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/251.png"
 			}
 		},
 		{
@@ -2586,7 +2576,7 @@
 			"type": "Instant",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/253.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/252.png"
 			}
 		},
 		{
@@ -2596,7 +2586,7 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/254.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/253.png"
 			}
 		},
 		{
@@ -2606,7 +2596,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/255.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/254.png"
 			}
 		},
 		{
@@ -2616,7 +2606,7 @@
 			"type": "Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/256.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/255.png"
 			}
 		},
 		{
@@ -2626,7 +2616,7 @@
 			"type": "Artifact",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/257.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/256.png"
 			}
 		},
 		{
@@ -2636,7 +2626,7 @@
 			"type": "Legendary Planeswalker — Maxine",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/258.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/257.png"
 			}
 		},
 		{
@@ -2646,7 +2636,7 @@
 			"type": "Artifact Creature — Robot Soldier",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/259.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/258.png"
 			}
 		},
 		{
@@ -2656,7 +2646,7 @@
 			"type": "Creature — Insect Wurm",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/260.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/259.png"
 			}
 		},
 		{
@@ -2666,7 +2656,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/261.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/260.png"
 			}
 		},
 		{
@@ -2676,7 +2666,7 @@
 			"type": "Sorcery",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/262.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/261.png"
 			}
 		},
 		{
@@ -2686,7 +2676,7 @@
 			"type": "Creature — Human Insect Mutant",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/263.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/262.png"
 			}
 		},
 		{
@@ -2696,7 +2686,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/264.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/263.png"
 			}
 		},
 		{
@@ -2706,7 +2696,7 @@
 			"type": "Legendary Creature — Parasite",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/265.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/264.png"
 			}
 		},
 		{
@@ -2716,7 +2706,7 @@
 			"type": "Legendary Artifact Creature — Robot Soldier",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/266.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/265.png"
 			}
 		},
 		{
@@ -2726,7 +2716,7 @@
 			"type": "Artifact Creature — Symbiote",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/267.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/266.png"
 			}
 		},
 		{
@@ -2736,7 +2726,7 @@
 			"type": "Artifact Creature — Robot Soldier",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/268.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/267.png"
 			}
 		},
 		{
@@ -2746,7 +2736,7 @@
 			"type": "Creature — Veylid Wizard",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/269.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/268.png"
 			}
 		},
 		{
@@ -2756,7 +2746,7 @@
 			"type": "Artifact Creature — Manticore Construct",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/270.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/269.png"
 			}
 		},
 		{
@@ -2766,7 +2756,7 @@
 			"type": "Instant",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/271.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/270.png"
 			}
 		},
 		{
@@ -2776,7 +2766,7 @@
 			"type": "Emblem",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/272.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/271.png"
 			}
 		},
 		{
@@ -2786,7 +2776,7 @@
 			"type": "Token Creature — Horror",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/273.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/272.png"
 			}
 		},
 		{
@@ -2796,7 +2786,7 @@
 			"type": "Legendary Planeswalker — Charim",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/274.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/273.png"
 			}
 		},
 		{
@@ -2806,7 +2796,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/275.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/274.png"
 			}
 		},
 		{
@@ -2816,7 +2806,7 @@
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/276.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/275.png"
 			}
 		},
 		{
@@ -2825,6 +2815,16 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Robot Shapeshifter",
 			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/276.png"
+			}
+		},
+		{
+			"name": "Synthetic Kobold",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Kobold Mutant",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/277.png"
 			}
@@ -2927,7 +2927,6 @@
 	4 Construction Bot
 	4 Ops Pointman
 	4 Drone Operator
-	4 Houkkipi Scavengers
 	4 Biogenic Upgrade
 	4 Consuming Polyp
 	4 Rapid Incubation
@@ -3006,6 +3005,7 @@
 	4 Astral Strategist
 	4 Multi-Point Waygate
 	4 Ensnaring Matrix
+	4 Synthetic Kobold
 [common(7)]
 	8 Forsaken Expedition
 	8 Portent Resonance
@@ -3155,7 +3155,6 @@
 	12 Skittering Swarm
 	12 Incinerating Blast
 	12 Ambush Drone
-	6 Houkkipi Scavengers
 	6 Biogenic Upgrade
 	12 Brush Surveyor
 	6 Consuming Polyp
@@ -3363,6 +3362,7 @@
 	2 D'Emil, Apex Hunter
 	1 Moira, Rapid Adapter
 	1 Nanotech Pilferer
+	6 Synthetic Kobold
 [wildcard(1)]
 	6 Forsaken Expedition
 	6 Portent Resonance
@@ -3420,7 +3420,6 @@
 	6 Skittering Swarm
 	6 Incinerating Blast
 	6 Ambush Drone
-	15 Houkkipi Scavengers
 	15 Biogenic Upgrade
 	6 Brush Surveyor
 	15 Consuming Polyp
@@ -3628,3 +3627,4 @@
 	7 D'Emil, Apex Hunter
 	4 Moira, Rapid Adapter
 	4 Nanotech Pilferer
+	15 Synthetic Kobold
