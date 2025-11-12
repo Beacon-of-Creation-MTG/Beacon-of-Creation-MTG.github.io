@@ -5,7 +5,7 @@
 			<name>WGJ</name>
 			<longname>Wrenchmar: Gambit of the Junklords</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-03</releasedate>
+			<releasedate>2025-11-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2733,8 +2733,8 @@ Jump-start (You may cast this card from your graveyard by discarding a card in a
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -3377,8 +3377,8 @@ Crew 3</text>
 		</card>
 		<card>
 			<name>Rager Blazer</name>
-			<text>Whenever an artifact you control enters, this creature deals 1 damage to target opponent.
-Whenever a Vehicle you control enters, you may tap this creature if it&apos;s untapped. If you do, that Vehicle becomes an artifact creature until end of turn. It gains haste.</text>
+			<text>Whenever a Vehicle you control enters, this creature deals 1 damage to target opponent.
+Whenever a Vehicle you control enters, you may tap this creature if it&apos;s untapped. When you do, that Vehicle becomes an artifact creature with haste until end of turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/189.png" num="154">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -3585,7 +3585,8 @@ At the beginning of your end step, exile Lundquist&apos;s Garage.</text>
 		</card>
 		<card>
 			<name>Survive Disaster</name>
-			<text>Destroy all creatures. Then choose a creature card in your graveyard. If that creature has mana value 3 or less, return it to the battlefield. Otherwise, put it into your hand. Exile Survive Disaster.</text>
+			<text>Destroy all creatures. You may return a creature card with mana value 3 or less put into your graveyard this way to your hand.
+Exile Survive Disaster.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/200.png" num="39">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4284,7 +4285,7 @@ At the beginning of your end step, remove all +1/+1 counters from this creature.
 		<card>
 			<name>Beetle Junker-Merchant</name>
 			<text>When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
-Artifacts you control are Junk in addition to their other types and have &quot;{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.&quot;</text>
+Artifacts you control have &quot;{T}: Add {C}.&quot;</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/238.png" num="46">WGJ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4857,6 +4858,7 @@ Tap six untapped creatures you control: Put X +1/+1 counters on VAL, where X is 
 			</prop>
 			<tablerow>1</tablerow>
 			<related>The Beast</related>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Toxic-Tail Bot</name>

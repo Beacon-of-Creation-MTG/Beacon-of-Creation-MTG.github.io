@@ -1,4 +1,53 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+City of Heroes
+rules_text: Third Act
+This land enters tapped unless you're in your third act.
+{T}: Add {R}.
+{4}{R}, {T}, Sacrifice this land: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => Third Act
+This land enters tapped unless you're in your third act.
+{T}: Add {R}.
+{3}{R}, {T}, Sacrifice this land: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.
+
+Seth, Breaking Through
+rules_text: Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once.
+[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
+[-3]: Seth deals 2 damage to any target.
+[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard. => Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once. Activate only as a sorcery.
+[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
+[-3]: Seth deals 2 damage to any target.
+[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.
+special_text: Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once.
+[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
+[-3]: Seth deals 2 damage to any target.
+[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard. => Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once. Activate only as a sorcery.
+[+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
+[-3]: Seth deals 2 damage to any target.
+[-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.
+
+Mantle of the Empire
+rules_text: Third Act
+During your turn, as long as you're in your third act, you may cast spells from your hand without paying their mana costs. 
+Whenever you cast a spell, you lose 2 life. => As an additional cost to cast spells from your hand, you may pay X life and discard X cards. Spells cast this way cost {X} less to cast.
+
+Germinating Grub
+rules_text: Third act
+{1}{G}{U}, Exile this card from your hand with a cocoon counter on it: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+You may cast this card from exile as long as it has a cocoon counter and you're in your third act. => {1}{G}{U}, Exile this card from your hand with a cocoon counter on it: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+You may cast this card from exile as long as it has a cocoon counter and you control seven or more lands.
+pt: 12/12 => 10/10
+
+Ortesian Sneak
+rules_text: Trample
+This creature gets +2/+2 as long as you control seven or more lands.
+Whenever this creature attacks, look at the top card of your library. You may put a land card from your hand or the top of your library onto the battlefield. => Trample
+Whenever this creature attacks, look at the top card of your library. You may put that card onto the battlefield tapped if it's a land. Otherwise, surveil 1.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Survive the Onslaught added.

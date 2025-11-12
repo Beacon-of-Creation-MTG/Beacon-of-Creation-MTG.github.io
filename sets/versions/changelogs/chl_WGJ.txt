@@ -1,4 +1,31 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Rapid Materialization
+cost: {1}{U} => {1}{U}{U}
+
+Rager Blazer
+rules_text: Whenever an artifact you control enters, this creature deals 1 damage to target opponent.
+Whenever a Vehicle you control enters, you may tap this creature if it's untapped. If you do, that Vehicle becomes an artifact creature until end of turn. It gains haste. => Whenever a Vehicle you control enters, this creature deals 1 damage to target opponent.
+Whenever a Vehicle you control enters, you may tap this creature if it's untapped. When you do, that Vehicle becomes an artifact creature with haste until end of turn.
+
+Lundquists Garage
+
+Survive Disaster
+rules_text: Destroy all creatures. Then choose a creature card in your graveyard. If that creature has mana value 3 or less, return it to the battlefield. Otherwise, put it into your hand. Exile Survive Disaster. => Destroy all creatures. You may return a creature card with mana value 3 or less put into your graveyard this way to your hand.
+Exile Survive Disaster.
+
+Beetle Junker-Merchant
+rules_text: When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
+Artifacts you control are Junk in addition to their other types and have “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.” => When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.
+Artifacts you control have “{T}: Add {C}.”
+
+Call The Beast Emblem
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

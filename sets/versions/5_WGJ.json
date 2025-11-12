@@ -3075,7 +3075,7 @@
             "type": "Sorcery",
             "number": 72,
             "color_identity": "U",
-            "cost": "{1}{U}",
+            "cost": "{1}{U}{U}",
             "rules_text": "Choose target creature or artifact card that was put into your graveyard from anywhere this turn. Exile it. Create a token that is a copy of the exiled card, except it's an artifact in addition to its other types.\nJump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -3796,7 +3796,7 @@
             "number": 154,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever an artifact you control enters, this creature deals 1 damage to target opponent.\nWhenever a Vehicle you control enters, you may tap this creature if it's untapped. If you do, that Vehicle becomes an artifact creature until end of turn. It gains haste.",
+            "rules_text": "Whenever a Vehicle you control enters, this creature deals 1 damage to target opponent.\nWhenever a Vehicle you control enters, you may tap this creature if it's untapped. When you do, that Vehicle becomes an artifact creature with haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4006,7 +4006,7 @@
             "artist": "Paul Patricio",
             "alias": "",
             "position": "199",
-            "notes": "!tag reanimate-creature\n!tag reanimate-vehicle\n\n!exportname Lundquists Garage\n\n#white #rare\n\n"
+            "notes": "!tag reanimate-creature\n!tag reanimate-vehicle\n\n!exportname Lundquists Garage\n\n#white #rare"
         },
         {
             "card_name": "Survive Disaster",
@@ -4016,7 +4016,7 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Destroy all creatures. Then choose a creature card in your graveyard. If that creature has mana value 3 or less, return it to the battlefield. Otherwise, put it into your hand. Exile Survive Disaster.",
+            "rules_text": "Destroy all creatures. You may return a creature card with mana value 3 or less put into your graveyard this way to your hand.\nExile Survive Disaster.",
             "flavor_text": "[i]\u201cLet them have their wars. I am done.\u201d\n\u2014Rippen, the Scarred[/i]",
             "pt": "",
             "special_text": "",
@@ -4776,7 +4776,7 @@
             "number": 46,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.\nArtifacts you control are Junk in addition to their other types and have \u201c{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.\u201d",
+            "rules_text": "When this creature enters, return up to two target artifact cards with mana value 1 or less from your graveyard to the battlefield.\nArtifacts you control have \u201c{T}: Add {C}.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5406,7 +5406,7 @@
             "artist": "Patryk Jedraszek",
             "alias": "",
             "position": "269",
-            "notes": "landslot\n!tokens The Beast"
+            "notes": "!exportname Call The Beast Emblem\nlandslot\n!tokens The Beast\n!tokenshape"
         },
         {
             "card_name": "Toxic-Tail Bot",

@@ -5,7 +5,7 @@
 			<name>SOC</name>
 			<longname>Stars of Cinesterra</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-03</releasedate>
+			<releasedate>2025-11-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3987,7 +3987,7 @@ At the beginning of your upkeep, if you&apos;re in your third act, create a toke
 			<text>Third Act
 This land enters tapped unless you&apos;re in your third act.
 {T}: Add {R}.
-{4}{R}, {T}, Sacrifice this land: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.</text>
+{3}{R}, {T}, Sacrifice this land: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/221.png" num="253">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4364,7 +4364,7 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 		</card>
 		<card>
 			<name>Seth, Breaking Through</name>
-			<text>Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once.
+			<text>Sacrifice an artifact: You may activate loyalty abilities of Seth twice this turn rather than only once. Activate only as a sorcery.
 [+1]: Up to one target creature has base power and toughness 1/1 until your next turn.
 [-3]: Seth deals 2 damage to any target.
 [-7]: Look at the top seven cards of your library. Put two of them into your hand. Put the rest in your graveyard.</text>
@@ -4460,9 +4460,7 @@ You may sacrifice another creature rather than pay the blockbuster cost of spell
 		</card>
 		<card>
 			<name>Mantle of the Empire</name>
-			<text>Third Act
-During your turn, as long as you&apos;re in your third act, you may cast spells from your hand without paying their mana costs. 
-Whenever you cast a spell, you lose 2 life.</text>
+			<text>As an additional cost to cast spells from your hand, you may pay X life and discard X cards. Spells cast this way cost {X} less to cast.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/247.png" num="104">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4576,9 +4574,8 @@ Whenever Ratrisha Rocket attacks, discard a card. When you do, exile the top car
 		</card>
 		<card>
 			<name>Germinating Grub</name>
-			<text>Third act
-{1}{G}{U}, Exile this card from your hand with a cocoon counter on it: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
-You may cast this card from exile as long as it has a cocoon counter and you&apos;re in your third act.</text>
+			<text>{1}{G}{U}, Exile this card from your hand with a cocoon counter on it: Search your library for a land card, put it onto the battlefield tapped, then shuffle.
+You may cast this card from exile as long as it has a cocoon counter and you control seven or more lands.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/253.png" num="213">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4589,7 +4586,7 @@ You may cast this card from exile as long as it has a cocoon counter and you&apo
 				<cmc>7</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>12/12</pt>
+				<pt>10/10</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Third Act</related>
@@ -4637,8 +4634,7 @@ Choose a creature you don&apos;t control at random. Skelly Boy Beatdown deals da
 		<card>
 			<name>Ortesian Sneak</name>
 			<text>Trample
-This creature gets +2/+2 as long as you control seven or more lands.
-Whenever this creature attacks, look at the top card of your library. You may put a land card from your hand or the top of your library onto the battlefield.</text>
+Whenever this creature attacks, look at the top card of your library. You may put that card onto the battlefield tapped if it&apos;s a land. Otherwise, surveil 1.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/256.png" num="181">SOC</set>
 			<prop>
 				<layout>normal</layout>

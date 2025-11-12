@@ -3046,29 +3046,19 @@
 	8 Spontaneous Outburst
 	8 Brutal Acquisition
 	8 Poison Whip-Tail
-	8 Radar Glade
 	8 Whirring Surveyor
 	8 Agile Furrowite
 	8 Profound Discovery
 	8 Methodical Infantry
 	8 Anti-Aerial Crawler
-	8 Hazard Enviro-Mech
-	8 Plithium Processing Plant
-	8 Buoyant Bay Port
-	8 Bismuth Flats
 	8 Shielding Dome
 	8 Charging Octomare
 	8 Levicycle Courier
 	8 Sudden Evacuation
+	8 Hazard Enviro-Mech
 	8 Navigator Core
 	8 Watcher in the Void
 	8 Digitized Duo
-	8 Cultivation Platforms
-	8 Wetland Botany Lab
-	8 Glacial Mill
-	8 Isle of Prophecy
-	8 Cavern of Piety
-	8 Auroral Cliffs
 	8 Precursor Colony
 	8 Veylid Reliquary
 	8 Salvage Hunter
@@ -3163,16 +3153,12 @@
 	6 Rapid Incubation
 	12 Poison Whip-Tail
 	2 Burgeoning Ascomycota
-	12 Radar Glade
 	12 Whirring Surveyor
 	12 Agile Furrowite
 	12 Profound Discovery
 	12 Methodical Infantry
 	12 Anti-Aerial Crawler
 	12 Hazard Enviro-Mech
-	12 Plithium Processing Plant
-	12 Buoyant Bay Port
-	12 Bismuth Flats
 	12 Shielding Dome
 	12 Charging Octomare
 	12 Levicycle Courier
@@ -3180,12 +3166,6 @@
 	12 Navigator Core
 	12 Watcher in the Void
 	12 Digitized Duo
-	12 Cultivation Platforms
-	12 Wetland Botany Lab
-	12 Glacial Mill
-	12 Isle of Prophecy
-	12 Cavern of Piety
-	12 Auroral Cliffs
 	12 Precursor Colony
 	12 Veylid Reliquary
 	12 Salvage Hunter
@@ -3428,16 +3408,12 @@
 	15 Rapid Incubation
 	6 Poison Whip-Tail
 	7 Burgeoning Ascomycota
-	6 Radar Glade
 	6 Whirring Surveyor
 	6 Agile Furrowite
 	6 Profound Discovery
 	6 Methodical Infantry
 	6 Anti-Aerial Crawler
 	6 Hazard Enviro-Mech
-	6 Plithium Processing Plant
-	6 Buoyant Bay Port
-	6 Bismuth Flats
 	6 Shielding Dome
 	6 Charging Octomare
 	6 Levicycle Courier
@@ -3445,12 +3421,6 @@
 	6 Navigator Core
 	6 Watcher in the Void
 	6 Digitized Duo
-	6 Cultivation Platforms
-	6 Wetland Botany Lab
-	6 Glacial Mill
-	6 Isle of Prophecy
-	6 Cavern of Piety
-	6 Auroral Cliffs
 	6 Precursor Colony
 	6 Veylid Reliquary
 	6 Salvage Hunter
@@ -3628,3 +3598,14 @@
 	4 Moira, Rapid Adapter
 	4 Nanotech Pilferer
 	15 Synthetic Kobold
+[land(1)]
+	3 Plithium Processing Plant
+	3 Buoyant Bay Port
+	3 Bismuth Flats
+	3 Cultivation Platforms
+	3 Wetland Botany Lab
+	3 Glacial Mill
+	3 Isle of Prophecy
+	3 Cavern of Piety
+	3 Auroral Cliffs
+	3 Radar Glade

@@ -1533,7 +1533,7 @@
 		{
 			"name": "Rapid Materialization",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "72",
 			"image_uris": {
