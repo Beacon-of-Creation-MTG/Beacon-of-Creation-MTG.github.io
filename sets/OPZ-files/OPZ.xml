@@ -5,7 +5,7 @@
 			<name>OPZ</name>
 			<longname>Outpost Zero</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-11</releasedate>
+			<releasedate>2025-11-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3689,7 +3689,7 @@ At the beginning of your end step, put a +1/+1 counter on this creature for each
 		</card>
 		<card>
 			<name>Hardened Commando</name>
-			<text>Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it&apos;s mana value is less than or equal to this creature&apos;s power. Otherwise, you may put it into your graveyard.</text>
+			<text>Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it&apos;s mana value is less than or equal to this creature&apos;s power. If you do, you lose life equal to that card&apos;s mana value. Otherwise, put it into your graveyard.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/204.png" num="92">OPZ</set>
 			<prop>
 				<layout>normal</layout>
@@ -4895,7 +4895,7 @@ Create X 1/1 red Mercenary creature tokens with &quot;{T}: Target creature you c
 		</card>
 		<card>
 			<name>Charim Kosta, Hullraider</name>
-			<text>[+1]: Up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
+			<text>[+1]: Until end of turn, up to one target creature gains menace, haste, and &quot;Whenever this creature deals combat damage to a player, exile that many cards from the top of that player&apos;s library and put a contraband counter on each.&quot;
 [-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
 [-X]:</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/OPZ-files/img/273.png" num="191">OPZ</set>
