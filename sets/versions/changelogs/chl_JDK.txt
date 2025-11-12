@@ -1,4 +1,563 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Met-A110 Moth added.
+Artserphlan Citizen added.
+MMx2, The Factory added.
+Under the Junk-Sea added.
+
+Met-a110 Moth removed.
+Artserphlan removed.
+MMx2 The Factory removed.
+Under the Junk-sea removed.
+Miasma Siphoner removed.
+
+Terramorphic Expanse
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Caves
+
+Rugged Highlands
+
+Blossoming Sands
+
+Scoured Barrens
+
+Swiftwater Cliffs
+
+Jungle Hollow
+
+Wind-Scarred Crag
+
+Thornwood Falls
+
+Lupa, the Metallophage
+
+Bolstering Scrapling
+
+Rattling Sentry
+
+Rabid Striker
+
+Parcelk
+
+Toolsmith Courier
+
+Trashore Freighter
+
+Voltaic Construct
+
+Abandoned Walker
+
+Old World Guardian
+
+Filtering Star
+
+Flensing Jar
+
+Scavenged Supplies
+
+Coalpower Gauntlet
+
+Metalshroom
+
+Cyclic Vessel
+
+Sedative Darts
+
+Dormant Tallmer
+
+Consumerist Spirit Guide
+
+Junkshore Fisherman
+
+Vampiric Strider
+
+Shearing Rager
+
+Deathblade
+
+Pillabegg Scavengers
+
+Furnace-Coals Hunter
+
+Trashore Racketeer
+
+Junksniffter
+
+Ravenous Blade
+
+Junkyard Hunt
+
+Thousand Cuts
+
+Junksea Reclaiming
+
+Cleaver's Carpace
+
+Lethal Prowess
+
+Mulchpot
+
+Verdantho Lizard
+
+Toolsmith Apprentice
+
+Ruins Ranger
+
+Pillabegg Elder
+
+Piled-Up Junkshell
+
+Basilisker
+
+Kybertusk Mammoth
+
+Steelgrazing Goat
+
+Junkbelly
+
+Excavating the Factory
+
+Grow From Steel
+
+Atomize
+
+Pillabegg Probiota
+
+Jawlock
+
+Cybernetic Might
+
+Trashore Trawl
+
+Blast Furnace Beetle
+
+Junker Man
+
+Scrappy Automaton
+
+Crucible Juggernaut
+
+Arc-Talon Lacerator
+
+Junksea Artillerist
+
+Slag Cruciblair
+
+Imminent Missile
+rules_text: As an additional cost to casting this spell, sacrifice a permanent.
+This spell deals 3 damage to any target. => As an additional cost to cast this spell, sacrifice a permanent.
+This spell deals 3 damage to any target.
+
+Rushed Rerpurposing
+
+Slagful Slam
+
+Reforge
+
+Blinding Flare
+
+Licensed Larcenist
+
+Draining Festerspark
+
+Triage Tri-Arm
+
+Prime Pugilist
+
+Drakepost Parcel
+
+Tort Artificer
+
+Spliceblade Rogue
+
+Leopard Drone Hunter
+
+Portable Barricade
+
+Quick Revision
+
+Fuel Freeze
+
+Artificer's Assertion
+
+Wing Servos
+
+Drawn Blade
+
+Holographm Umbra
+
+Strikesmith
+
+Dewmoth
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control,put a +1/+1 counter on it. Each ability source triggers this only once each turn.
+pt: 2/2 => 2/1
+
+Farmword
+
+Sandpeaks Cleric
+
+Heiromancer Hologram
+
+Lightstep Ascetic
+
+Sable Drone Recon
+
+Rune-Etch Artificer
+
+Moonmoth Steed
+
+Smite the Unlicensed
+
+Projectile Energy Shield
+
+Reforging Binding
+
+On Patrol
+
+Moonlight Mothering
+
+Protective Holographm
+
+Gone to History
+
+Steelstorm Conduit
+
+Astro, Wonder Wielder
+
+Grrr, Interplanar Armsdealer
+rules_text: Affinity for Equipment. [i](This spell costs {1} less to cast for each Equipment. you control.)[/i]
+[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
+[-X]: Each creature gets -X/-X until end of turn.
+[-7]: You get an emblem with “At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.” => Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]
+[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
+[-X]: Each creature gets -X/-X until end of turn.
+[-7]: You get an emblem with “At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.”
+special_text: Affinity for Equipment. [i](This spell costs {1} less to cast for each Equipment. you control.)[/i]
+[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
+[-X]: Each creature gets -X/-X until end of turn.
+[-7]: You get an emblem with “At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.” => Affinity for equipment. [i](This spell costs {1} less to cast for each equipment. you control.)[/i]
+[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
+[-X]: Each creature gets -X/-X until end of turn.
+[-7]: You get an emblem with “At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.”
+
+Konzah, Gastropod Proficcionado
+
+Witness the End
+
+Behel, Unliving Weapon
+
+Furnace-Coals Reaper
+
+Breach the Factory
+
+Symmetric Warfare
+
+Ayesha, Lost Embrace
+
+Behel's Escalating Machinations
+
+Reflective Hulk
+
+The Goldigarch
+
+Furnace Firestarter
+
+Crystalline Giant
+
+Tempered Powergem
+
+Sponsored Companion
+
+Brainial Plating
+
+Murk Shade
+
+Colossurs
+
+Serpent of the Void
+
+Darklash Flaggelant
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, each opponent loses 2 life, then put a +1/+1 counter on this creature. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, target creature an opponent controls gets -1/-1 until end of turn. Each ability source triggers this only once each turn.
+
+Acidspit Incubator
+
+Factory Wurm
+
+Pollution Armaments
+
+Industry Abomination
+
+Conflict of Interest
+
+Trashore Ogre
+
+Terrabombing
+
+Stampeding Oxobegg
+
+Perfect Complexion
+
+Cyborgmancer
+
+Dr. Fabre, the Junkseer
+
+Steel Gardener
+
+Frosted Sandpeaks
+
+Sunken Conservatory
+
+Remediated Outpost
+
+Coastal Crash-Site
+
+Dessicated Drift
+
+Scaled Armorer
+
+War Djinn
+
+Furnacemaster Orc
+
+Dreck Contamination
+
+Easy-Fix Scrapheap
+
+Daggers of Dance and Death
+
+Old World Engineers
+
+Dross Digestion
+
+Blitzwing Armorer
+
+Remelt
+
+Rhoogex, the Furnace Lord
+
+Immolation Automaton
+
+Clangorous Militia
+
+Furnace Knight
+
+Replicating Ripper
+
+Vedalken Tinkerer
+
+Veiled Armorer
+
+Archon of Artifice
+
+Mechanical Mimic
+
+Monitor's Autopugilistar
+rules_text: Affinity for Equipment [i](This spell costs {1} less to cast for each Equipment you control.)[/i]
+When this Equipment enters, draw two cards.
+Equipped creature gets +2/+2.
+Equip {2} => Affinity for equipment
+When this Equipment enters, draw two cards.
+Equipped creature gets +2/+2.
+Equip {2}
+
+Martial Tech
+
+Old World Flutist
+
+Brightlash Eggfly
+
+Perfected Armormod
+
+Bladeblessed Angel
+
+Cardboard Crustacean
+
+Half-Chi
+
+Ambushing Scuttler
+
+Junksea Tril-0
+
+Constructed Steward
+
+Rusted Recouper
+
+Cobbled Automaton
+
+Scintilla War Machine
+
+Remnant Warden
+
+Astro's Spaceblade
+
+Infomschematic Well
+
+Hardgraphm Armor
+
+Ciphered Blade
+
+Scorpion Spineclamp
+
+Metalshroom Foofballs
+
+Seeding Mine
+
+Blight Troop
+rules_text: Deathtouch
+[i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn. => Deathtouch
+[i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.
+
+Wredger
+
+Zjieg, Edgelord
+
+Extortionist Cutpurse
+
+Smokebrock Vulture
+
+Grrr's Warhound
+
+Merciless Rend
+
+Boneforged Staff
+
+Return Rearmed
+
+Steel Soul Farie
+
+Prime Forest Loamer
+
+Verdant Hologram
+
+Acrid Hound
+
+Crashing Rhinobegg
+
+Scrap Animist
+
+Beldram, Adaptive Automator
+
+Rhinodrone Piker
+
+Verdant Synthesizer
+
+Pin to the Ground
+
+Interlocking Insight
+
+Junksea's Stampede
+
+Stratify the Past
+
+Solaris Cleaner
+
+Weapons Merchant
+
+Death Machinist
+
+Rust Refiner
+
+Old World Decoration
+
+Angle Knight
+rules_text: Vigilance
+[i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn. => Vigilance, menace
+[i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.
+
+Artifizzard
+
+Junksea Hunter
+
+Scorpone Aristocrat
+
+Implant Enthusiast
+
+Kyberdaemon
+
+Slaghorn Rhino
+
+Opportunistic Saprotrophy
+
+Furnace Artillerist
+
+Blastman
+
+Furnace Crawler
+
+Glimmering Find
+
+Molten Wellspring
+
+Forged Ferocity
+
+Crucible Cannon
+
+Furnace Flare
+
+Junker's Furnace
+
+Nexus Salvage
+
+Interplanter
+
+Holographm Stalker
+
+Glirix, Toolsmith
+
+Augur of Implants
+
+Drone Falconer
+
+Metalmancer
+
+Jardekan Techmage
+
+Cryogen Broadsword
+
+Holographic Insight
+
+Digitalize
+
+Shackles of Artifice
+
+Skyclang Jetwings
+
+Assimilation Blade
+
+Assault Trooper
+
+Liscenced Scout
+
+Old World Noble
+
+Robotics Artisan
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, tap up to one target creature. Each ability source triggers this only once each turn.
+
+Derelict Sentinel
+
+Old World Armada
+
+Kudu-Drone Scout
+
+Tinkering Maestro
+
+Modified Mauling
+
+Embellish Armaments
+
+Clean Idea
+
+Juliet's Autodog
+
+Reassemble
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

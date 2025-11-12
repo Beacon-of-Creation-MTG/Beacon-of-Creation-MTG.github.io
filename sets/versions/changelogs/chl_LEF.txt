@@ -1,4 +1,427 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Backup Squad
+type: Instant Creature — Human soldier => Instant Creature — Human Soldier
+
+
+VERSION 3 CHANGELOG
+====================
+
+Map Out added.
+Tempestous Growthmagus added.
+Chromatic Monsoon added.
+Glade Trunkling added.
+Anchor-Root Vitality added.
+
+Map out removed.
+Stormful Growthmagus removed.
+Chromatic Storm removed.
+Growing Duderino removed.
+Anchor-root Vitality removed.
+
+Idol of Essence
+
+Forgetmenot Glade
+
+Chalcogen Spring
+
+Whizzing Sinews
+
+Prechronal Undergrowth
+
+Platau lumen
+
+Spritevitiligosix
+
+Spritevarix
+
+Willing Fodder
+
+Chitinous Hound
+
+Gerx Parasite
+
+Blood Seer
+
+Recluded Ronin
+
+Belltower Mystic
+
+Spritestenosix
+
+Minister of Bygones
+
+Prowling Saakstalker
+
+Ichorate
+
+Fae Blade Blessing
+
+Witherweight
+
+Chain Drain
+
+Ashassinate
+rules_text: Target player discards two cards
+Basic landcycling {B} [i]({B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Target player discards two cards.
+Basic landcycling {B} [i]({B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Spirima
+
+Wurmsoul Mystic
+
+Muscle Mystic
+
+Verdant Boar
+
+Canopy Ambusher
+
+Daunting Lifeflame
+
+Granky Mystic
+
+Vine Heroc
+
+Flightsteppe Centaur
+
+Neoitc Oldgrowth
+
+Druidic Vigor
+
+Natal Growth
+
+Heroic Growth
+
+Skrigi Honorguard
+
+Lith Mystic
+
+Anomulmutt
+
+Flamebow Elemental
+
+Blazing Mystic
+
+Goblin Muscician
+
+Idol of Skirmishes
+
+Whizzing Fireball
+
+Overpulse
+
+Wideflame
+
+Searing Thoughts
+rules_text: As an additional cost to casting this spell, discard two cards or exile a nonland card from your hand.
+Draw three cards. => As an additional cost to cast this spell, discard two cards or exile a nonland card from your hand.
+Draw three cards.
+
+Vampiric Fury
+
+Single Point Stab
+
+Drown In Flames
+
+Spritembolusix
+
+Safekeeper of the Chains
+
+Memory Nomad
+
+Aether Bird
+
+Ethereal Goat
+
+War Mystic
+
+Mistful Mystic
+
+Spriteamyloidosix
+
+Divedrake
+
+Bolstering Portal
+
+Counterslice
+rules_text: As an additional cost to casting this spell, sacrifice a permanent.
+Counter target spell unless its controller pays {2}. => As an additional cost to cast this spell, sacrifice a permanent.
+Counter target spell unless its controller pays {2}.
+
+Flutter Rebuttal
+rules_text: Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Whenever this spell is put into your graveyard from anywhere, create a 1/1 black Bird creature token with flying and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Whenever this card is put into your graveyard from anywhere, create a 1/1 black Bird creature token with flying and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Soul Surgery
+
+Mystic's Chill
+
+Fluffyhead
+
+Unrelenting Soltari
+
+Veiling Mist
+
+Panchar
+
+Batallion Frontliner
+
+Gladesprite
+
+Spritepallorix
+
+Attack Leader
+
+Blademaster
+
+Backup Squad
+
+Ageless Observer
+
+Fabric Weaver
+
+Ethereal Flourish
+
+Suprashield
+
+Banish an Opulent Soul
+
+Superposition Gateway
+rules_text: Whenever a nonland anomaly you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell if the anomaly was a creature. [i](A card with multiple card types is an anomaly.)[/i] => Whenever an anomalous creature you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell. [i](Any card with more than one card type is an anomaly.)[/i]
+
+Ingis, Chains of the worldsoul
+
+Lavez, Anchor of the Worldsoul
+type: Legendary Artifact => Legendary Enchantment
+
+Rix, Shackle of the Worldsoul
+rules_text: You may reveal Rix from your opening hand. If you do, the first anomalous spell you cast this game costs {1} less to cast. [i](Any card with more than one card type is an anomaly.)[/i]
+{2}, {T}, Sacrifice Rix: Copy the next anomaly spell you cast this turn. => You may reveal Rix from your opening hand. If you do, add {C}. Spend this mana only to cast anomalous spells. You don't lose this mana as steps and phases end. [i](Any card with more than one card type is an anomaly.)[/i]
+{2}, {T}, Sacrifice Rix: Copy the next anomalous spell you cast this turn.
+
+Lichbind
+
+Cloudyawner
+
+All Encompassing Wish
+rules_text: As an additional cost to casting this spell, discard your hand.
+Put each nonland card from your sideboard into your hand.
+Create two Treasure tokens. => As an additional cost to cast this spell, discard your hand.
+Put each nonland card from your sideboard into your hand.
+Create two Treasure tokens.
+
+Outpouring of Life
+
+Soul Augury
+
+The Observer of All
+rules_text: Emerge {3}{B}{WU}
+You may sacrifice any type of permanent to pay for this creature's emerge cost.
+If an effect, ability, or cost you pay would require you to sacrifice a creature, you may sacrifice any permanent instead.
+Sacrifice a permanent: Scry 1 => Emerge {3}{B}{B}{WU}
+The Observer can emerge from creatures your opponents control.
+Deathtouch, first strike.
+Whenever you would sacrifice a permanent, you may have it phase out instead of going to the graveyard as it's sacrificed. Do this only once each turn.
+pt: 3/3 => 5/2
+
+Demonic Prepotence
+
+Ravenous Rhizome
+
+Singe Elemental
+
+Grandmaster of Sparks
+
+Planar Till
+
+Harvest
+
+Elder Saakstalker
+
+Dominated Slither
+
+Spellbattery Ghoul
+
+Doldrum Dreamer
+
+Mythos of the First Hunger
+
+Lifegraft
+
+Elder Gangeth
+
+Aspect of Vigor
+
+Tune of Safeholding
+
+Hemorrphage, Spritevix Queen
+
+Distill Fears
+
+Boorish Mystic
+
+Antolie, Anomalous Apostate
+
+Augur of Soul
+
+Spritethrombosix
+
+Sinister Magister
+
+Szyssixz, Feaster of Essence
+
+Stroke of Avail
+
+Mindblaze Mystic
+
+Firemind Richualist
+
+Burning Apostle
+
+Blazing Wheel-Kin
+
+Mythos of the Sage
+
+Retroarcane Continuity
+
+The Wind Releaser
+
+Unmoored Ideas
+rules_text: Each player mills three cards.
+Draw a card.
+Whenever a player casts a spell while Unmoored Ideas is a spell, draw a card. => Each player mills three cards.
+Draw a card.
+Whenever a player casts a spell as long as this spell is on the stack, draw a card.
+
+Acolyte of the Anchor
+
+Anchorley Angel
+
+Re-Weave the World
+
+Sludgefly
+
+Saakstalker Egg
+
+Ichor Elemental
+
+Espien, Shellmage
+
+Hunting Saakstalker
+
+Resummon
+
+Gossamer Sins
+rules_text: As an additional cost to casting this spell, you may sacrifice a creature. If you do, this spell has storm. [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i]
+You lose 1 life and draw a card. => As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell has storm. [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i]
+You lose 1 life and draw a card.
+
+Nirvana Doldrums
+
+Mosswhelk
+
+Carrabaster Cultivator
+
+Bear Ghost
+
+Aran, Forest Hermit
+
+Greater Gangeth
+
+Essence Feeder
+
+Thornbark Prile
+
+Aran's Acuity
+
+Drench
+
+Leyline Channeler
+
+Idol of Harmony
+
+Mightsoul Samurai
+
+Knorguer, Saccloc
+
+Shadowflock
+
+Alarming Alteration
+
+Honourable Bushido
+
+Klashpeak Stinger
+
+Klashpeak Crusader
+
+Firemane Hyena
+
+Chainfiend
+
+Boastful Battlemage
+
+Kleefoff, Essence Looter
+
+Unanchored Richual
+
+Blitz Infusion
+
+Blazing Axe
+
+Ravencaller
+
+Spellatog
+
+Idol of Benthic Secrets
+
+Hereditary Heron
+rules_text: Flying
+Whenever this creature dies, target creature you control gains flying until the end of your next turn.
+Whenever this creature is sacrificed, put a flying counter on target creature you control. => Flying
+Whenever this creature dies, creatures you control gain flying until the end of your next turn.
+Whenever this creature is sacrificed, put a flying counter on each creature you control.
+
+Kefus, the Scribe
+
+Dragger of Depths
+
+Driftmuller
+
+Revoke Access
+
+Thirst for Acknowledgement
+
+Spritevix's Retrieveal
+
+Hatching the Spritevix
+
+Collective Ideals
+
+Voidliss Sky-Serpent
+
+Tale Weaver
+
+Defrock
+rules_text: This spell deals 3 damage to target attacking or blocking creature. Until end of turn, That creature loses all abilities and assigns combat damage equal to its base power. => This spell deals 3 damage to target attacking or blocking creature. Until end of turn that creature loses all abilities and assigns combat damage equal to its base power.
+
+Giant's Axe
+
+Bloodfell Caves
+
+Blossoming Sands
+
+Dismal Backwater
+
+Rugged Highlands
+
+Tranquil Cove
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Human Soldier added.
