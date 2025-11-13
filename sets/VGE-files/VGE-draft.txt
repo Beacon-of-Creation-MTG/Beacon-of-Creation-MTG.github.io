@@ -7,7 +7,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/0.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Dwarf Cleric",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/1.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/2.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Vampire Noble",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/3.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/4.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/5.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/6.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Instant",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/7.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/8.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/8.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/9.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/9.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/10.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/10.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/11.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/11.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Siren Scout",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/12.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/12.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Siren Bard",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/13.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/13.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/14.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/14.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Siren Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/15.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/15.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/16.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/16.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/17.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/17.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/18.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/18.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/19.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/19.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/20.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/20.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/21.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/21.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/22.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/22.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/23.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/23.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Creature — Zombie Siren",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/24.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/24.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/25.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/25.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Siren Bard",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/26.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/26.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/27.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/27.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Vampire Rogue",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/28.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/28.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/29.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/29.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/30.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/30.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/31.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/31.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/32.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/32.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/33.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/33.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/34.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/34.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Instant",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/35.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/35.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Creature — Siren Wizard",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/36.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/36.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Dwarf Wizard",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/37.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/37.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/38.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/38.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Dwarf Bard",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/39.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/39.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Dwarf Warrior",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/40.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/40.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/41.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/41.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/42.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/42.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/43.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/43.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/44.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/44.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/45.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/45.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/46.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/46.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/47.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/47.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Creature — Dwarf Bard",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/48.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/48.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/49.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/49.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/50.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/50.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Creature — Dwarf Bard",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/51.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/51.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/52.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/52.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/53.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/53.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/54.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/54.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Sorcery",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/55.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/55.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Sorcery",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/56.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/56.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Instant",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/57.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/57.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/58.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/58.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Instant",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/59.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/59.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/60.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/60.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/61.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/61.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Instant",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/62.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/62.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/63.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/63.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/64.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/64.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/65.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/65.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "206",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/66.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/66.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{R/W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/67.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/67.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Dwarf Shaman",
-			"collector_number": "205",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/68.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/68.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/69.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/69.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/70.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/70.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/71.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/71.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Dwarf Druid",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/72.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/72.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Dryad",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/73.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/73.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Enchantment",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/74.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/74.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/75.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/75.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/76.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/76.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/77.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/77.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/78.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/78.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/79.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/79.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Dwarf Advisor",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/80.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/80.png"
 			}
 		},
 		{
@@ -815,19 +815,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/81.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/81.png"
 			}
 		},
 		{
 			"name": "Gathering Whispers",
 			"rarity": "common",
-			"mana_cost": "{2}{B}{G}",
+			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "172",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/82.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/82.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/83.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/83.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/84.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/84.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Creature — Siren",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/85.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/85.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/86.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/86.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/87.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/87.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}{U/R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/88.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/88.png"
 			}
 		},
 		{
@@ -895,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Instant",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/89.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/89.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/90.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/90.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/91.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/91.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/92.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/92.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/93.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/93.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Artifact",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/94.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/94.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Artifact",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/95.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/95.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Enchantment — Murmur Saga",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/96.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/96.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/97.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/97.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/98.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/98.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Land",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/99.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/99.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Land",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/100.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/100.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/101.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/101.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Land",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/102.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/102.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/103.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/103.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Land",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/104.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/104.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Token Creature — Siren",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/105.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/105.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Token Artifact Creature — Wall",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/106.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/106.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/107.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/107.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/108.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/108.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/109.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/109.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/110.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/110.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/111.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/111.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/112.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/112.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/113.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/113.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/114.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/114.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/115.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/115.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/116.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/116.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Enchantment",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/117.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/117.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Elf Noble",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/118.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/118.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Creature — Human Noble",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/119.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/119.png"
 			}
 		},
 		{
@@ -1207,17 +1207,17 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/120.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/120.png"
 			}
 		},
 		{
 			"name": "Lethal Lead",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{W/B}{B}",
-			"type": "Creature",
+			"type": "Creature — Human Bard",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/121.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/121.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/122.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/122.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/123.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/123.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/124.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/124.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/125.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/125.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/126.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/126.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/127.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/127.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Enchantment",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/128.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/128.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/129.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/129.png"
 			}
 		},
 		{
@@ -1305,9 +1305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/130.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/130.png"
 			}
 		},
 		{
@@ -1315,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/131.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/131.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Legendary Enchantment Creature — Spirit",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/132.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/132.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/133.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/133.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/G}{B/G}",
 			"type": "Instant",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/134.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/134.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Creature — Satyr Warlock",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/135.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/135.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/136.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/136.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/137.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/137.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/138.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/138.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Creature — Zombie Bard",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/139.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/139.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/140.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/140.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/141.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/141.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Enchantment",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/142.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/142.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Instant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/143.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/143.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/144.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/144.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "207",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/145.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/145.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Legendary Creature — Cat Bard Druid",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/146.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/146.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/147.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/147.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/148.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/148.png"
 			}
 		},
 		{
@@ -1495,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{R/W}{W}",
 			"type": "Creature — Dwarf Warrior",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/149.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/149.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Elf Bard",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/150.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/150.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/151.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/151.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Creature — Siren Spellshaper",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/152.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/152.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Creature — Dwarf Artificer",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/153.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/153.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Creature — Bard",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/154.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/154.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/155.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/155.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/156.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/156.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/157.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/157.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/158.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/158.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/159.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/159.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Legendary Creature — Snake Elf Bard",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/160.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/160.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Creature — Siren Scout",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/161.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/161.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Instant",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/162.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/162.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Enchantment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/163.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/163.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/164.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/164.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/165.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/165.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Artifact Creature — Shapeshifter",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/166.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/166.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/167.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/167.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Creature — Human",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/168.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/168.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/169.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/169.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/170.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/170.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/171.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/171.png"
 			}
 		},
 		{
@@ -1725,9 +1725,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Siren Bard",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/172.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/172.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Instant",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/173.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/173.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Devil Bard",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/174.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/174.png"
 			}
 		},
 		{
@@ -1755,9 +1755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G/U}",
 			"type": "Creature — Hydra",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/175.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/175.png"
 			}
 		},
 		{
@@ -1765,9 +1765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}{U/R}",
 			"type": "Creature — Serpent",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/176.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/176.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Creature — Merfolk Wizard",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/177.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/177.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/178.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/178.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/179.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/179.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/180.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/180.png"
 			}
 		},
 		{
@@ -1817,17 +1817,17 @@
 			"type": "Kindred Artifact — Siren Vehicle",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/181.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/181.png"
 			}
 		},
 		{
 			"name": "Olgal Guardian",
 			"rarity": "uncommon",
-			"mana_cost": "{2/C}{2/C}{2/C}{2/C}",
+			"mana_cost": "{2}{2}{2}{2}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/182.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/182.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Enchantment Land",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/183.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/183.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/184.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/184.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Creature — Angel Noble",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/185.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/185.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/186.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/186.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/187.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/187.png"
 			}
 		},
 		{
@@ -1885,9 +1885,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/188.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/188.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/189.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/189.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Legendary Creature — Siren Bard",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/190.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/190.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Legendary Creature — Azra Bard",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/191.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/191.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Sorcery",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/192.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/192.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/193.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/193.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Creature — Siren Demon",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/194.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/194.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Elf Bard",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/195.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/195.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Creature — Elf",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/196.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/196.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Instant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/197.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/197.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Legendary Creature — Zombie Warlock Bard",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/198.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/198.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Creature — Siren",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/199.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/199.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Legendary Enchantment — Aura",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/200.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/200.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Legendary Planeswalker — Tacenda",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/201.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/201.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/202.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/202.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Plant Bard",
-			"collector_number": "192",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/203.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/203.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/204.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/204.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Land",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/205.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/205.png"
 			}
 		},
 		{
@@ -2067,17 +2067,17 @@
 			"type": "Land",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/206.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/206.png"
 			}
 		},
 		{
 			"name": "The Mumur Awakened",
 			"rarity": "rare",
-			"mana_cost": "{2/C}{2/C}{2/C}{2/C}{2/C}",
+			"mana_cost": "{2}{2}{2}{2}{2}",
 			"type": "Legendary Enchantment Creature — Bard",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/207.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/207.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/208.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/208.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/209.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/209.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Creature — Human Zombie",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/210.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/210.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/B}{B}{2/G}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/211.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/211.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/212.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/212.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Dwarf Warrior Bard",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/213.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/213.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Enchantment",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/214.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/214.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{G/U}{U}",
 			"type": "Sorcery",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/215.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/215.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Land",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/216.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/216.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Land",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/217.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/217.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Enchantment Creature — Spirit Siren",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/218.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/218.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Legendary Creature — Plant Elemental",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/219.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/219.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Legendary Creature — Angel Bard",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/220.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/220.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/221.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/221.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/222.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/222.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/223.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/223.png"
 			}
 		},
 		{
@@ -2245,19 +2245,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/U}{U}{2/R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/224.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/224.png"
 			}
 		},
 		{
 			"name": "Sing Con Vivace",
 			"rarity": "mythic",
-			"mana_cost": "{3}{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/225.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/225.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Artifact",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/226.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/226.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/227.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/227.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/228.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/228.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/229.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/229.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Enchantment",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/230.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/230.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/231.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/231.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/232.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/232.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/233.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/233.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/234.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/234.png"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/G}{G}{2/U}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/235.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/235.png"
 			}
 		},
 		{
@@ -2365,9 +2365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{U}",
 			"type": "Creature — Giant Bard",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/236.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/236.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/237.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/237.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Enchantment — Saga Murmur",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/238.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/238.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/239.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/239.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/R}{2/W}",
 			"type": "Sorcery",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/240.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/240.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Creature — Siren Giant",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/241.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/241.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Instant",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/242.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/242.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U/R}{U/R}",
 			"type": "Legendary Creature — Siren Warrior",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/243.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/243.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/244.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/244.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/245.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/245.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/246.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/246.png"
 			}
 		},
 		{
@@ -2475,9 +2475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment Creature — Angel Advisor",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/247.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/247.png"
 			}
 		},
 		{
@@ -2485,9 +2485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/W}{2/B}",
 			"type": "Sorcery",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/248.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/248.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Sorcery",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/249.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/249.png"
 			}
 		},
 		{
@@ -2505,9 +2505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/B}{2/G}",
 			"type": "Sorcery",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/250.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/250.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/251.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/251.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Enchantment — Saga Murmur",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/252.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/252.png"
 			}
 		},
 		{
@@ -2537,17 +2537,17 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/253.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/253.png"
 			}
 		},
 		{
 			"name": "The Oldest Story",
 			"rarity": "rare",
-			"mana_cost": "{2/C}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/254.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/254.png"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Legendary Creature — Elemental Plant Bard",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/255.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/255.png"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Legendary Enchantment — Saga",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/256.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/256.png"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/257.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/257.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Land",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/258.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/258.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Instant",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/259.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/259.png"
 			}
 		},
 		{
@@ -2607,17 +2607,17 @@
 			"type": "Creature — Noble Bard",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/260.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/260.png"
 			}
 		},
 		{
 			"name": "Amplification Construct",
 			"rarity": "rare",
-			"mana_cost": "{2/C}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/261.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/261.png"
 			}
 		},
 		{
@@ -2625,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Artifact",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/262.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/262.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/263.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/263.png"
 			}
 		},
 		{
@@ -2645,9 +2645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{2/W}{W}{2/B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/264.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/264.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/265.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/265.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/266.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/266.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/267.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/267.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/268.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/268.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/269.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/269.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/270.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/270.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/271.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/271.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/272.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/272.png"
 			}
 		},
 		{
@@ -2737,207 +2737,207 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/273.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/273.png"
 			}
 		},
 		{
 			"name": "Ascent of the Worthy",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/274.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/274.png"
 			}
 		},
 		{
 			"name": "Binding of the Old Gods",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/275.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/275.png"
 			}
 		},
 		{
 			"name": "Bounty of the Luxa",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/276.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/276.png"
 			}
 		},
 		{
 			"name": "Frenzied Fugue",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/277.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/277.png"
 			}
 		},
 		{
 			"name": "Korvold and the Noble Thief",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/278.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/278.png"
 			}
 		},
 		{
 			"name": "Lilting Refrain",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/279.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/279.png"
 			}
 		},
 		{
 			"name": "Lorehold Excavation",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/280.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/280.png"
 			}
 		},
 		{
 			"name": "Love Song of Night and Day",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/281.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/281.png"
 			}
 		},
 		{
 			"name": "No Rest for the Wicked",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/282.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/282.png"
 			}
 		},
 		{
 			"name": "Quicksilver Dagger",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/283.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/283.png"
 			}
 		},
 		{
 			"name": "Second Wind",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/284.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/284.png"
 			}
 		},
 		{
 			"name": "Serra's Embrace",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/285.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/285.png"
 			}
 		},
 		{
 			"name": "Song of Freyalise",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/286.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/286.png"
 			}
 		},
 		{
 			"name": "Song of Serenity",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/287.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/287.png"
 			}
 		},
 		{
 			"name": "Song of the Dryads",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/288.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/288.png"
 			}
 		},
 		{
 			"name": "Songbirds' Blessing",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/289.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/289.png"
 			}
 		},
 		{
 			"name": "The Bath Song",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/290.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/290.png"
 			}
 		},
 		{
 			"name": "The Eldest Reborn",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/291.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/291.png"
 			}
 		},
 		{
 			"name": "Torch Song",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/292.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/292.png"
 			}
 		},
 		{
 			"name": "Vile Requiem",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/293.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/293.png"
 			}
 		},
 		{
@@ -2947,7 +2947,7 @@
 			"type": "Token Enchantment — Saga Murmur",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/294.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/294.png"
 			}
 		},
 		{
@@ -2957,7 +2957,7 @@
 			"type": "Token Creature — Elf",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/295.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/295.png"
 			}
 		},
 		{
@@ -2967,7 +2967,7 @@
 			"type": "Token Creature — Leviathan",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/296.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/296.png"
 			}
 		},
 		{
@@ -2977,7 +2977,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/297.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/297.png"
 			}
 		},
 		{
@@ -2987,7 +2987,7 @@
 			"type": "Token Creature — Rat",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/298.png"
+				"en": "https://khord22.github.io/sets/VGE-files/img/298.png"
 			}
 		}
 	]
@@ -3254,11 +3254,6 @@
 	8 Crumbling Ruin
 	8 Olgal's Calling
 	8 Standard Repertoire
-	8 Choir Loft
-	8 Vocalists Round
-	8 Reverberant Shore
-	8 Anechoic Chamber
-	8 Crumbling Stage
 	8 Self-Assuring Siren
 	8 Sudden Screeching
 [foil(1)]
@@ -3362,11 +3357,6 @@
 	12 Standard Repertoire
 	6 Mnemonic Tune
 	6 Ruins of Olgal
-	12 Choir Loft
-	12 Vocalists Round
-	12 Reverberant Shore
-	12 Anechoic Chamber
-	12 Crumbling Stage
 	6 Whining Whisps
 	6 Encore Sibyl
 	6 Polyphonist
@@ -3629,11 +3619,6 @@
 	6 Standard Repertoire
 	15 Mnemonic Tune
 	15 Ruins of Olgal
-	6 Choir Loft
-	6 Vocalists Round
-	6 Reverberant Shore
-	6 Anechoic Chamber
-	6 Crumbling Stage
 	15 Whining Whisps
 	15 Encore Sibyl
 	15 Polyphonist
@@ -3795,3 +3780,121 @@
 	15 Olgal Composer
 	6 Sudden Screeching
 	15 Beat Boxer
+[specialcommon(1)]
+	8 Backup Singer
+	8 Mute Healer
+	8 Countros Soprano
+	8 Amphiteater Listener
+	8 Overeager Audience
+	8 Countros Ringer
+	8 Echo of Delight
+	8 Resolute Melody
+	8 Imprison Composer
+	8 Accoustic Reflections
+	8 Even Stars Fall
+	8 Rondelli Recruiter
+	8 Olgal Shore Guardian
+	8 Mistral Singer
+	8 Phase Inverter
+	8 Echo of Complexity
+	8 Auditioning Canon
+	8 Dream Songs
+	8 Thirst for Meaning
+	8 Performers Only
+	8 Tuck Within Harmony
+	8 Reminiscent Tune
+	8 Decreshh Revenant
+	8 Subtle Silencer
+	8 Mourning Soliliquist
+	8 Caller of Ravens
+	8 Finale Reveler
+	8 Echo of Silence
+	8 Call of the Cruel
+	8 Write Your Requiem
+	8 Discordant Ditty
+	8 Cut to Silence
+	8 Life's Echo
+	8 Vivace Vocalist
+	8 Dwarven Forge-Chanter
+	8 Scorned Diva
+	8 Cadence Contralto
+	8 Siren Tracker
+	8 Echo of Embers
+	8 Flaming Resolution
+	8 Crooning Stage
+	8 Set the Setlist
+	8 Accelerando
+	8 Hearty Chanter
+	8 Climbing Ivy
+	8 Harmony Essence
+	8 Storykeeper
+	8 Nature's Duet
+	8 Echo of Family
+	8 Doubletime Diva
+	8 Follow the Murmur
+	8 Echoed Ambush
+	8 Modal Harmonization
+	8 Step Back
+	8 Grave Requiem
+	8 Permanent Caesura
+	8 Short-Lived Soloist
+	8 Understudied Soloist
+	8 Choir of Spirits
+	8 Sparkling Finale
+	8 Countros Assailants
+	8 Countros Figurehead
+	8 Shattering Song
+	8 Ottava Angel
+	8 Shoreline Sonicist
+	8 Mycosong Dryad
+	8 Murmur Echoer
+	8 Olgal Murmur Leader
+	8 Suddenstar's Gift
+	8 Reoccuring Terror
+	8 Song-Calmed Beast
+	8 Olgal Researcher
+	8 Gathering Whispers
+	8 Rampaging Bellower
+	8 Snapjaw Serpent
+	8 Grandstaff Genius
+	8 Da Cappa al Coda
+	8 Descending Line
+	8 Requiem Automata
+	8 Soaring Melody
+	8 Prismite
+	8 Crumbling Ruin
+	8 Olgal's Calling
+	8 Standard Repertoire
+	8 Self-Assuring Siren
+	8 Sudden Screeching
+	6 Love Song of Night and Day
+	6 Serra's Embrace
+	6 Songbirds' Blessing
+	6 The Bath Song
+	6 Lilting Refrain
+	6 Second Wind
+	6 The Eldest Reborn
+	6 No Rest for the Wicked
+	6 Vile Requiem
+	6 Frenzied Fugue
+ 	6 Korvold and the Noble Thief
+	6 Torch Song
+	6 Song of Freyalise
+	6 Song of Serenity
+	6 Song of the Dryads
+	6 Ascent of the Worthy
+	6 Binding of the Old Gods
+	6 Bounty of the Luxa
+	6 Lorehold Excavation
+	6 Quicksilver Dagger
+[Land (1)]
+	4 Plains
+	4 Island
+	4 Swamp
+	4 Mountain
+	4 Forest
+	4 Anechoic Chamber
+	4 Choir Loft
+	4 Crumbling Stage
+	4 Reverberant Shore
+	4 Vocalists Round

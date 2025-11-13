@@ -1,4 +1,25 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Hardened Commando
+rules_text: Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it's mana value is less than or equal to this creature's power. Otherwise, you may put it into your graveyard. => Whenever this creature attacks, reveal the top card of your library. You may put it into your hand if it's mana value is less than or equal to this creature's power. If you do, you lose life equal to that card's mana value. Otherwise, put it into your graveyard.
+
+Charim Kosta, Hullraider
+rules_text: [+1]: Up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]: => [+1]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+special_text: [+1]: Up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]: => [+1]: Until end of turn, up to one target creature gains menace, haste, and “Whenever this creature deals combat damage to a player, exile that many cards from the top of that player's library and put a contraband counter on each.”
+[-X]: You may cast a nonland card an opponent owns in exile with mana value X and a contraband counter on it without paying its mana cost.
+[-X]:
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
