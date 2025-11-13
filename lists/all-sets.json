@@ -38,7 +38,7 @@
         {
             "set_code": "JDK",
             "set_name": "Jardeka, Age of Rust",
-            "formats": "Standard"
+            "formats": "standard"
         },
         {
             "set_code": "KEC",
@@ -58,7 +58,7 @@
         {
             "set_code": "LEF",
             "set_name": "Leffway is Made",
-            "formats": "Standard"
+            "formats": "standard"
         },
         {
             "set_code": "MRC",
