@@ -1,0 +1,53 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2025-06-14
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	symbol: 
+	masterpiece_symbol: 
+styling:
+	magic-m15-altered:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-14 15:04:29
+	time_modified: 2025-11-14 15:04:34
+	name: Test card A
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-14 15:04:29
+	time_modified: 2025-11-14 15:17:29
+	name: Test card B
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>With B</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	illustrator: Craftedlavaistrue
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+version_control:
+	type: none
+apprentice_code: 
