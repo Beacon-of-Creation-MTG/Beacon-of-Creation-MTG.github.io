@@ -5,7 +5,7 @@
 			<name>VGE</name>
 			<longname>Voc-Gal Echoes</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-13</releasedate>
+			<releasedate>2025-11-15</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2030,7 +2030,7 @@ Exile target creature card in a graveyard. You may cast that card for as long as
 		<card>
 			<name>Entombing Chant</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Search your library for a card, put that card into your graveyard, the shuffle.
+Search your library for a card, put that card into your graveyard, then shuffle.
 Draw a card. You lose 2 life.
 Shuffle your graveyard into your library.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/115.png" num="77">VGE</set>
