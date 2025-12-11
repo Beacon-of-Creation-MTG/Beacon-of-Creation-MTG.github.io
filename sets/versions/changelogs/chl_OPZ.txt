@@ -1,4 +1,20 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Keen-Eyed Engineer
+
+Artificial Warfront
+
+Circuit Liberator
+
+Razefire Raid
+
+Enforcer's Assault Rifle
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Leviathan added.
