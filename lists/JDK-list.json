@@ -2333,34 +2333,38 @@
     "a->token",
     {
         "card_name": "Implant",
-        "number": 2,
+        "number": 3,
         "shape": "token",
         "set": "JDK",
         "position": "307"
     },
     {
         "card_name": "Saproling Construct",
-        "number": 3,
+        "number": 4,
         "shape": "token",
         "set": "JDK",
         "position": "308"
     },
     {
         "card_name": "Servo",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "JDK",
         "position": "309"
     },
     {
-        "card_name": "Insect",
+        "card_name": "Crab",
         "number": 1,
         "shape": "token",
         "set": "JDK",
-        "position": "310"
+        "position": "311"
     },
     {
-        "card_name": "e"
+        "card_name": "Insect",
+        "number": 2,
+        "shape": "token",
+        "set": "JDK",
+        "position": "310"
     },
     {
         "card_name": "er"

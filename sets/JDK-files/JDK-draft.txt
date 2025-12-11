@@ -3075,7 +3075,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Implant",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/307.png"
 			}
@@ -3085,7 +3085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Saproling Construct",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/308.png"
 			}
@@ -3095,7 +3095,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Servo",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/309.png"
 			}
@@ -3105,9 +3105,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/310.png"
+			}
+		},
+		{
+			"name": "Crab",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Crab",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/311.png"
 			}
 		}
 	]

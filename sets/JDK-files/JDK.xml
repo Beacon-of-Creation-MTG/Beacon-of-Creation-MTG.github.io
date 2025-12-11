@@ -1084,6 +1084,7 @@ Equip {6}</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>crab JDK</reverse_related>
 		</card>
 		<card>
 			<name>Basilisker</name>
@@ -2708,6 +2709,7 @@ Equip {2}</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>crab JDK</reverse_related>
 		</card>
 		<card>
 			<name>Junkyard Expert</name>
@@ -2988,7 +2990,7 @@ When this creature dies, until end of turn, whenever you would create a token, c
 		<card>
 			<name>Frosted Sandpeaks</name>
 			<text>This land enters tapped.
-When this land enters, you may sacrifice it. If you do, search your library for a Mountain card and put it onto the battlefield tapped, then shuffle and add {R}.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Mountain card and put it onto the battlefield tapped, then shuffle and add {R}.
 {T}: Add {W} or {U}.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/176.png" num="286">JDK</set>
 			<prop>
@@ -3005,7 +3007,7 @@ When this land enters, you may sacrifice it. If you do, search your library for 
 		<card>
 			<name>Sunken Conservatory</name>
 			<text>This land enters tapped.
-When this land enters, you may sacrifice it. If you do, search your library for a Forest card and put it onto the battlefield tapped, then shuffle and add {G}.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Forest card and put it onto the battlefield tapped, then shuffle and add {G}.
 {T}: Add {U} or {B}.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/177.png" num="291">JDK</set>
 			<prop>
@@ -3022,7 +3024,7 @@ When this land enters, you may sacrifice it. If you do, search your library for 
 		<card>
 			<name>Remediated Outpost</name>
 			<text>This land enters tapped.
-When this land enters, you may sacrifice it. If you do, search your library for a Plains card and put it onto the battlefield tapped, then shuffle and add {W}.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Plains card and put it onto the battlefield tapped, then shuffle and add {W}.
 {T}: Add {B} or {R}.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/178.png" num="288">JDK</set>
 			<prop>
@@ -3039,7 +3041,7 @@ When this land enters, you may sacrifice it. If you do, search your library for 
 		<card>
 			<name>Coastal Crash-Site</name>
 			<text>This land enters tapped.
-When this land enters, you may sacrifice it. If you do, search your library for an Island card and put it onto the battlefield tapped, then shuffle and add {U}.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Island card and put it onto the battlefield tapped, then shuffle and add {U}.
 {T}: Add {R} or {G}.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/179.png" num="282">JDK</set>
 			<prop>
@@ -3056,7 +3058,7 @@ When this land enters, you may sacrifice it. If you do, search your library for 
 		<card>
 			<name>Dessicated Drift</name>
 			<text>This land enters tapped.
-When this land enters, you may sacrifice it. If you do, search your library for a Swamp card and put it onto the battlefield tapped, then shuffle and add {B}.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Swamp card and put it onto the battlefield tapped, then shuffle and add {B}.
 {T}: Add {G} or {W}.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/180.png" num="284">JDK</set>
 			<prop>
@@ -5262,7 +5264,7 @@ Equip {3}</text>
 		<card>
 			<name>Implant JDK</name>
 			<text>{1}, {T}, Sacrifice this token: Put its counters on target creature. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/307.png" num="2">JDK</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/307.png" num="3">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5277,7 +5279,7 @@ Equip {3}</text>
 		<card>
 			<name>Saproling Construct JDK</name>
 			<text></text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/308.png" num="3">JDK</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/308.png" num="4">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5293,7 +5295,7 @@ Equip {3}</text>
 		<card>
 			<name>Servo JDK</name>
 			<text></text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/309.png" num="4">JDK</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/309.png" num="5">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5309,7 +5311,7 @@ Equip {3}</text>
 		<card>
 			<name>Insect JDK</name>
 			<text></text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/310.png" num="1">JDK</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/310.png" num="2">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5320,6 +5322,24 @@ Equip {3}</text>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Crab JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/311.png" num="1">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>

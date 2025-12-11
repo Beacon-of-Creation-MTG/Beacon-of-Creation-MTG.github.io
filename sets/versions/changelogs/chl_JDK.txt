@@ -1,4 +1,52 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Crab added.
+
+
+Piled-Up Junkshell
+
+Perforating Carapace
+
+Frosted Sandpeaks
+rules_text: This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Mountain card and put it onto the battlefield tapped, then shuffle and add {R}.
+{T}: Add {W} or {U}. => This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Mountain card and put it onto the battlefield tapped, then shuffle and add {R}.
+{T}: Add {W} or {U}.
+
+Sunken Conservatory
+rules_text: This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Forest card and put it onto the battlefield tapped, then shuffle and add {G}.
+{T}: Add {U} or {B}. => This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Forest card and put it onto the battlefield tapped, then shuffle and add {G}.
+{T}: Add {U} or {B}.
+
+Remediated Outpost
+rules_text: This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Plains card and put it onto the battlefield tapped, then shuffle and add {W}.
+{T}: Add {B} or {R}. => This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Plains card and put it onto the battlefield tapped, then shuffle and add {W}.
+{T}: Add {B} or {R}.
+
+Coastal Crash-Site
+rules_text: This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for an Island card and put it onto the battlefield tapped, then shuffle and add {U}.
+{T}: Add {R} or {G}. => This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Island card and put it onto the battlefield tapped, then shuffle and add {U}.
+{T}: Add {R} or {G}.
+
+Dessicated Drift
+rules_text: This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Swamp card and put it onto the battlefield tapped, then shuffle and add {B}.
+{T}: Add {G} or {W}. => This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a basic Swamp card and put it onto the battlefield tapped, then shuffle and add {B}.
+{T}: Add {G} or {W}.
+
+Cardboard Crustacean
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Implant added.
