@@ -1,4 +1,297 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Shoreline Midden
+
+Submerged Midden
+
+Molten Midden
+
+Brutal Midden
+
+Secluded Midden
+
+Foreboding Midden
+
+Market Midden
+
+Forgotten Midden
+
+Riffraff Midden
+
+Productive Midden
+
+The Beast
+
+Treasure
+
+Automated Scrapper
+
+Mechanohawk
+
+Market Thief
+
+Moonlight Yarder
+
+Crushing Defeat
+
+Scrounging Vermin
+
+Assault Bot
+
+Transmogrified Yarder
+
+Oculus Collector
+
+Failed Experiment
+
+Visions of Terror
+
+Decapitate
+
+Target Locked
+
+Nitwit Yarder
+
+Gangland Tagteam
+
+Explosive Collision
+
+Scrap Deals
+
+Tyrants Fire
+
+Scaled Scrapper
+
+Daddy Swordlegs
+
+Overpower
+cost: {3}{G} => {2}{G}
+
+Friendly Trawler
+
+Drexil Acolyte
+
+Trawl the Fields
+
+Robotic Reverence
+
+Plucky Scrapper
+
+Bursting Vat
+
+Defend the Hive
+
+Beast Beckoner
+
+Alert Sentries
+
+Servo
+
+Mercenary
+
+Junk
+
+Nomad
+
+Power of the Beast
+
+Insidious Orb
+type: Artifact Creature — Construct => Artifact Creature — Orb Construct
+
+Battery Thief
+
+The Heap Rises
+
+Scrounge for Parts
+rules_text: Exile target card from a graveyard. If it was a creature card, you gain 3 life. If it was an artifact card, put a +1/+1 counter on up to one target creature you control.
+Draw a card. => Exile target card from a graveyard. When you do, put a +1/+1 counter on up to one target creature you control if that card was an artifact. Otherwise, you gain 3 life.
+Draw a card.
+
+Nightfall Approaches
+
+Anter, Wasteland Runner
+
+Yarders Uprising
+
+Absolute Victory
+
+Electric Junk Tower
+
+Harpooner Wagon
+
+Scavenger Party
+
+Auto Recycler
+
+Badlands Alpha
+
+Zombie
+
+Required Assembly
+rules_text: Choose one. You may choose both instead if you've cast another noncreature spell this turn.
+• Create two 1/1 colorless Servo artifact creature tokens.
+• Create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i] => Create two 1/1 colorless Servo artifact creature tokens. If you cast another noncreature spell this turn, create a Junk token. [i](It's an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)[/i]
+
+Sky Trawler
+
+Harbinger Drexil
+
+Bandit Junker
+
+The Junkfields
+
+The Heap
+
+The Pit
+
+The Wasteland
+rules_text: The Wasteland enters tapped.
+When The Wasteland enters, you may {1}. If you do, call The Beast. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]
+{T}: Add {G}. => The Wasteland enters tapped.
+When The Wasteland enters, you may pay {1}. If you do, call The Beast. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]
+{T}: Add {G}.
+
+The Lost Sea
+
+Willing Automaton
+
+Lose to the Heap
+
+Recycling Engine
+
+Junklord Azareth
+
+Junklord Felisah
+
+Junklord Garoth
+
+Gone Mag-Fishing
+
+Techno Compies
+
+Danavan, the Exile
+
+Combustion Goliath
+
+World on the Brink
+
+Kinsley, Badlands Outcast
+
+Goblin Express
+
+Azyra, Queen of the Forge
+
+Speaker Lxtal
+
+Sprawl Enforcers
+
+Baited Trap
+cost: {W} => {1}{W}
+rules_text: When this artifact enters, exile target nonland permanent with mana value 3 or less an opponent controls until this artifact leaves the battlefield.
+When this artifact dies, call The Beast. => Flash
+When this artifact enters, exile target creature an opponent controls with mana value 3 or less until this artifact leaves the battlefield.
+When this artifact dies, call The Beast. [i](You get a Call The Beast emblem if you don't have one. You may mill three cards. Then choose one of the emblem's abilities.)[/i]
+
+The Citadel
+
+The Sprawl
+
+Tireless Consumption
+
+Lost Sea Haggling
+
+Sabotage the Machine
+
+Seek the Laboratory
+
+Lev, Junker Genius
+rules_text: {U}, Sacrifice a nontoken artifact: Create a Junk token.
+Junks you control have “{T}, Sacrifice this artifact: Target instant or sorcery card in your graveyard gains Jump-start until end of turn.” => {U}, Sacrifice a nontoken artifact: Create a Junk token.
+Junks you control have “{T}, Sacrifice this artifact: Target instant or sorcery card in your graveyard gains jump-start until end of turn.”
+
+Dreams of Incineration
+
+Dreams of Resilience
+
+Dreams of Restoration
+
+The Spoon Man
+
+Sevrox, Ascended
+
+Gum-Gum, Heap Lackey
+
+Insect
+
+Louie
+
+Dog
+
+Goblin
+
+Gearbox
+
+Phoenix
+
+Throes of the Beast
+
+The Skyhorse
+rules_text: Flying, vigilance
+At the beginning of your end step, if you cast another noncreature spell this turn, you gain 3 life and draw a card.
+Crew 3 => Flying, vigilance
+At the beginning of your end step, if you cast another noncreature spell this turn, you gain 2 life and draw a card.
+Crew 3
+
+Gunhead Rhino
+
+Howling Rover
+
+Vorricks Radicals
+
+Stolen Find
+
+Junklord Vorrick
+
+Merc Squad
+
+Smelting Pit
+
+Marus, Calculated Killer
+
+Willing Offerings
+
+Call The Beast Emblem
+
+Rig Sparks
+
+Machines Rule the World
+
+Processing Point
+
+Pulsing Hedron
+
+Dreams of Exploitation
+
+Towering Killbot
+
+Garoth's Sentries
+rules_text: Reach
+Deathtouch => Reach, deathtouch
+
+Acidic Acolyte
+
+Puck
+
+Flamethrower Battle-Wagon
+rules_text: When this Vehicle enters, it deals 2 damage to any target.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => When this Vehicle enters, it deals 2 damage to any target.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

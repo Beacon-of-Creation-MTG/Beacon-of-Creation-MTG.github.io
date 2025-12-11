@@ -1798,6 +1798,13 @@
         "position": "174"
     },
     {
+        "card_name": "Third Act SOC",
+        "number": 1,
+        "shape": "rulestip",
+        "set": "SOC",
+        "position": "267"
+    },
+    {
         "card_name": "Find the McGuffin",
         "number": 3,
         "shape": "normal",
@@ -1838,6 +1845,18 @@
         "shape": "normal",
         "set": "SOC",
         "position": "72"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1950,15 +1969,22 @@
         "position": "170"
     },
     {
-        "card_name": "Third Act",
-        "number": 1,
+        "card_name": "Blood",
+        "number": 15,
         "shape": "token",
         "set": "SOC",
-        "position": "267"
+        "position": "270"
+    },
+    {
+        "card_name": "Drone",
+        "number": 16,
+        "shape": "token",
+        "set": "SOC",
+        "position": "272"
     },
     {
         "card_name": "Treasure",
-        "number": 10,
+        "number": 17,
         "shape": "token",
         "set": "SOC",
         "position": "169"
@@ -1992,35 +2018,67 @@
         "position": "165"
     },
     {
-        "card_name": "Skeleton",
+        "card_name": "Cohen, Archvillain Emblem",
         "number": 6,
+        "shape": "token",
+        "set": "SOC",
+        "position": "276"
+    },
+    {
+        "card_name": "Horror",
+        "number": 7,
+        "shape": "token",
+        "set": "SOC",
+        "position": "273"
+    },
+    {
+        "card_name": "Skeleton",
+        "number": 8,
         "shape": "token",
         "set": "SOC",
         "position": "166"
     },
     {
+        "card_name": "Dog",
+        "number": 9,
+        "shape": "token",
+        "set": "SOC",
+        "position": "274"
+    },
+    {
         "card_name": "Human",
-        "number": 7,
+        "number": 10,
         "shape": "token",
         "set": "SOC",
         "position": "167"
     },
     {
         "card_name": "Mikandros",
-        "number": 8,
+        "number": 11,
         "shape": "token",
         "set": "SOC",
-        "position": "269"
+        "position": "275"
     },
     {
         "card_name": "Rogue",
-        "number": 9,
+        "number": 12,
         "shape": "token",
         "set": "SOC",
         "position": "168"
     },
     {
-        "card_name": "e"
+        "card_name": "Beast",
+        "number": 13,
+        "shape": "token",
+        "set": "SOC",
+        "position": "269"
+    },
+    {
+        "card_name": "Dinosaur",
+        "number": 14,
+        "shape": "token",
+        "set": "SOC",
+        "position": "271"
     },
     {
         "card_name": "e"

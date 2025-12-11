@@ -1,6 +1,6 @@
 ﻿[
     {
-        "card_name": "Privledged Performer",
+        "card_name": "Privileged Performer",
         "number": 28,
         "shape": "normal",
         "set": "VGE",
@@ -511,7 +511,7 @@
         "position": "111"
     },
     {
-        "card_name": "Sirens Temptation",
+        "card_name": "Siren's Temptation",
         "number": 117,
         "shape": "normal",
         "set": "VGE",
@@ -1780,6 +1780,13 @@
         "position": "181"
     },
     {
+        "card_name": "Murmur VGE",
+        "number": 5,
+        "shape": "saga",
+        "set": "VGE",
+        "position": "294"
+    },
+    {
         "card_name": "Olgal's Calling",
         "number": 6,
         "shape": "saga",
@@ -1820,9 +1827,6 @@
         "shape": "normal",
         "set": "VGE",
         "position": "90"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2038,13 +2042,6 @@
     },
     "a->token",
     {
-        "card_name": "Murmur",
-        "number": 5,
-        "shape": "token",
-        "set": "VGE",
-        "position": "294"
-    },
-    {
         "card_name": "Wall",
         "number": 7,
         "shape": "token",
@@ -2092,6 +2089,9 @@
         "shape": "token",
         "set": "VGE",
         "position": "105"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

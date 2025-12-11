@@ -3,10 +3,10 @@
     "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
-    "v_mana": "ch.png",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Backup Singer",
@@ -76,7 +76,7 @@
             "number": 11,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature dies, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "When this creature dies, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i]It's polite to stay until the song is over. But the murmur never ends...[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -86,7 +86,7 @@
             "artist": "Igor Levchenko",
             "alias": "",
             "position": "3",
-            "notes": "!tokens Murmur"
+            "notes": "!related Murmur VGE\n!tokens Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Overeager Audience",
@@ -136,7 +136,7 @@
             "number": 18,
             "color_identity": "WBR",
             "cost": "{3}{W}{W}",
-            "rules_text": "Vigilance\nWhenever this creature attacks, you may pay {1}{BR}. If you do, return target Aura card from your graveyard to the battlefield attached to this creature. Sacrifice that Aura at the end of combat.",
+            "rules_text": "Vigilance\nWhenever this creature attacks, you may pay {1}{BR}. If you do, create two tapped and attacking 1/1 white Human creature tokens. Sacrifice them at the beginning of the next end step.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -146,7 +146,7 @@
             "artist": "anireal",
             "alias": "",
             "position": "6",
-            "notes": "!tag Cycle-Echo\n!tag anomaly\n!tag reanimate-aura"
+            "notes": "!tag Cycle-Echo\n!tag anomaly\n!tag reanimate-aura\n!addtoken Human VGE;2\n!related Human VGE<2>"
         },
         {
             "card_name": "Resolute Melody",
@@ -206,7 +206,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "9",
-            "notes": ""
+            "notes": "!addtoken Wall VGE\n!related Wall VGE;1"
         },
         {
             "card_name": "Even Stars Fall",
@@ -232,11 +232,11 @@
             "card_name": "Dynamic Dynamics",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Instant",
+            "type": "Enchantment \u2014 Aura",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "This spell costs {1} less to cast if a creature you control is attacking alone.\nTarget creature gets +2/+2 until end of turn.",
+            "rules_text": "Flash\nEnchant creature\nEnchanted creature gets +1/+1 and has exalted. [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]",
             "flavor_text": "[i]\u201cAnything you can sing I can sing LOUDER.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -276,7 +276,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhen this creature enters, you may pay {1}. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhen this creature enters, you may pay {1}. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -286,7 +286,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "position": "13",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Mistral Singer",
@@ -326,7 +326,7 @@
             "artist": "IrenHorrors",
             "alias": "",
             "position": "15",
-            "notes": ""
+            "notes": "!related Siren VGE\n!addtoken Siren VGE;1"
         },
         {
             "card_name": "Echo of Complexity",
@@ -366,7 +366,7 @@
             "artist": "Aether Games",
             "alias": "",
             "position": "17",
-            "notes": "Creates a creature token/becomes a creature"
+            "notes": "!addtoken Siren VGE;1\n!related Siren VGE\nCreates a creature token/becomes a creature"
         },
         {
             "card_name": "Dream Songs",
@@ -396,7 +396,7 @@
             "number": 42,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Return target spell to its owners hand unless they pay {2}. If they do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Return target spell to its owners hand unless they pay {2}. If they do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i]Delayed due to magical weather phenomena, no refunds.[/i]",
             "pt": "",
             "special_text": "",
@@ -406,7 +406,7 @@
             "artist": "Francis Goeltner",
             "alias": "",
             "position": "19",
-            "notes": "!tag counterspell"
+            "notes": "!tag counterspell\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Thirst for Meaning",
@@ -456,7 +456,7 @@
             "number": 65,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -466,7 +466,7 @@
             "artist": "ArtofLariz",
             "alias": "",
             "position": "22",
-            "notes": "!tag tuck-artifact\n!tag tuck-battle\n!tag tuck-creature\n!tag tuck-enchantment\n!tag tuck-planeswalker"
+            "notes": "!tag tuck-artifact\n!tag tuck-battle\n!tag tuck-creature\n!tag tuck-enchantment\n!tag tuck-planeswalker\n!addtoken Murmur VGE;1\n!related Murmur VGE"
         },
         {
             "card_name": "Reminiscent Tune",
@@ -475,18 +475,18 @@
             "type": "Enchantment \u2014 Saga",
             "number": 56,
             "color_identity": "U",
-            "cost": "{3}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nReturn target instant or sorcery card from your graveyard to your hand.\n[i]You do not recognize the melody in the murmur.[/i]",
+            "cost": "{2}{U}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nReturn target instant or sorcery card from your graveyard to your hand.\n[i]You do not recognize the melody in the murmur.[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nReturn target instant or sorcery card from your graveyard to your hand.\n[i]You do not recognize the melody in the murmur.[/i]",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nReturn target instant or sorcery card from your graveyard to your hand.\n[i]You do not recognize the melody in the murmur.[/i]",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "xcutHEREx",
             "alias": "",
             "position": "23",
-            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery"
+            "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Decreshh Revenant",
@@ -496,7 +496,7 @@
             "number": 72,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, target player mills a card.",
+            "rules_text": "Flying\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, target player mills two cards.",
             "flavor_text": "[i]Revenants are resurrected without song. A horrible fate, especially for a creature such as a siren.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -516,9 +516,9 @@
             "number": 90,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Whenever a lore counter is put on a permanent you control, surveil 1. If a nonland card is put into your graveyard this way this creature gets +1/+0 and gains deathtouch until end of turn. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "When this creature enters, Surveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\nWhenever this creature attacks alone it gets +1/+0 and gains deathtouch until end of turn.",
             "flavor_text": "[i]A song ended early is one less voice in the murmur.[/i]",
-            "pt": "2/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "VGE",
@@ -536,7 +536,7 @@
             "number": 85,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Whenever a creature card is put into a graveyard from anywhere for the first time each turn you may pay {B} and 2 life, if you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Whenever a creature card is put into a graveyard from anywhere for the first time each turn you may pay {B} and 2 life, if you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -546,7 +546,7 @@
             "artist": "Iren Horrors",
             "alias": "",
             "position": "26",
-            "notes": "AA Down to {B}?"
+            "notes": "AA Down to {B}?\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Caller of Ravens",
@@ -616,17 +616,17 @@
             "number": 69,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill three cards.\nCreate a 1/1 blue and red Siren creature token with \u201c{T}:Target creature can't block alone until end of turn. Activate only as a sorcery\u201d\nYou may sacrifice a creature. If you do return a creature card from your graveyard to your hand.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill three cards.\nCreate a 1/1 blue and red Siren creature token with \u201c{T}:Target creature can't block alone until end of turn. Activate only as a sorcery\u201d\nReturn up to one target creature card and up to one target Siren card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill three cards.\nCreate a 1/1 blue and red Siren creature token with \u201c{T}:Target creature can't block alone until end of turn. Activate only as a sorcery\u201d\nYou may sacrifice a creature. If you do return a creature card from your graveyard to your hand.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill three cards.\nCreate a 1/1 blue and red Siren creature token with \u201c{T}:Target creature can't block alone until end of turn. Activate only as a sorcery\u201d\nReturn up to one target creature card and up to one target Siren card from your graveyard to your hand.",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "IrenHorrors",
             "alias": "",
             "position": "30",
-            "notes": "!tag regrowth-creature"
+            "notes": "!addtoken Siren VGE;1\n!related Siren VGE\n!tag regrowth-creature"
         },
         {
             "card_name": "Write Your Requiem",
@@ -696,7 +696,7 @@
             "number": 84,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flash\nEnchant creature\nWhen enchanted creature dies, return it to the battlefield with a finality counter on it, except it's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014Add {C}.\u201d in addition to its other types an abilities.",
+            "rules_text": "Flash\nEnchant creature\nWhen enchanted creature dies, return it to the battlefield with a finality counter on it, except it's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014Add {C}.\u201d in addition to its other types an abilities.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -826,7 +826,7 @@
             "artist": "ArtofLariz",
             "alias": "",
             "position": "40",
-            "notes": ""
+            "notes": "!related Siren VGE\n!addtoken Siren VGE"
         },
         {
             "card_name": "Echo of Embers",
@@ -836,7 +836,7 @@
             "number": 101,
             "color_identity": "WUR",
             "cost": "{3}{R}{R}",
-            "rules_text": "Haste\nWhenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X target creatures, where X is one plus the number of Auras you control.",
+            "rules_text": "Haste\nWhenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X target creatures, where X is equal to the number of enchantments you control.",
             "flavor_text": "[i][/i]",
             "pt": "5/2",
             "special_text": "",
@@ -855,8 +855,8 @@
             "type": "Instant",
             "number": 103,
             "color_identity": "R",
-            "cost": "{2}{R}{R}",
-            "rules_text": "As an additional cost to cast this spell you may sacrifice an enchantment.\nThis spell deals 4 damage to target creature or planeswalker. If you sacrificed an enchantment as you cast this spell it deals 4 damage to any target instead.",
+            "cost": "{1}{R}{R}",
+            "rules_text": "As an additional cost to cast this spell you may sacrifice an enchantment.\nThis spell deals 3 damage to target creature or planeswalker. If you sacrificed an enchantment as you cast this spell it deals 5 damage to any target instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -916,17 +916,17 @@
             "number": 107,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI, II \u2014 This Saga deals 1 damage to each creature and planeswalker.\nIII \u2014 Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI, II \u2014 This Saga deals 1 damage to each creature and planeswalker.\nIII \u2014 Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI, II \u2014 This Saga deals 1 damage to each creature and planeswalker.\nIII \u2014 Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI, II \u2014 This Saga deals 1 damage to each creature and planeswalker.\nIII \u2014 Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\n\u200b",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "Pierre Gaux",
             "alias": "",
             "position": "45",
-            "notes": "!tag damage-creature\n!tag damage-planeswalker"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Lightning Belt",
@@ -1036,7 +1036,7 @@
             "number": 148,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i]Let me tell you about the world before the invasion...[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1046,7 +1046,7 @@
             "artist": "Henrik Rosenborg",
             "alias": "",
             "position": "51",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE"
         },
         {
             "card_name": "Nature's Duet",
@@ -1066,7 +1066,7 @@
             "artist": "G-Hamm",
             "alias": "",
             "position": "52",
-            "notes": ""
+            "notes": "!related Elemental VGE\n!addtoken Elemental VGE;1"
         },
         {
             "card_name": "Echo of Family",
@@ -1076,7 +1076,7 @@
             "number": 129,
             "color_identity": "UBG",
             "cost": "{3}{G}{G}",
-            "rules_text": "Trample\nWhenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Trample\nWhenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1086,7 +1086,7 @@
             "artist": "1oshuart",
             "alias": "",
             "position": "53",
-            "notes": "!tag Cycle-Echo\n!tag Anomaly\n!tag Card-advantage"
+            "notes": "!tag Cycle-Echo\n!tag Anomaly\n!tag Card-advantage\n!addtoken Murmur VGE;1\n!related Murmur VGE"
         },
         {
             "card_name": "Doubletime Diva",
@@ -1116,7 +1116,7 @@
             "number": 133,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Search your library for a basic land card, put it into your hand, then shuffle.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Search your library for a basic land card, put it into your hand, then shuffle.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i]\u201cQuick it's louder this way!\u201d \u2014 Sennai, Songclade's Start[/i]",
             "pt": "",
             "special_text": "",
@@ -1126,7 +1126,7 @@
             "artist": "G-Hamm",
             "alias": "",
             "position": "55",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Echoed Ambush",
@@ -1316,7 +1316,7 @@
             "number": 159,
             "color_identity": "WB",
             "cost": "{2}{W}{W}{B}{B}",
-            "rules_text": "Vigilance\n{CW}{CB}, Discard this creature: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Vigilance\n{CW}{CB}, Discard this creature: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i]Olgal is full of spirits, their songs one with the murmur.[/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1326,7 +1326,7 @@
             "artist": "Iren Horrors",
             "alias": "",
             "position": "65",
-            "notes": "!tag anomaly"
+            "notes": "!tag anomaly\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Sparkling Finale",
@@ -1486,7 +1486,7 @@
             "artist": "Tjota",
             "alias": "",
             "position": "73",
-            "notes": ""
+            "notes": "!related Elemental VGE\n!addtoken Elemental VGE"
         },
         {
             "card_name": "Center of the Ruins",
@@ -1516,7 +1516,7 @@
             "number": 226,
             "color_identity": "UG",
             "cost": "{GU}{GU}",
-            "rules_text": "Whenever you cast your second spell each turn, you may tap an untapped creature you control. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Whenever you cast your second spell each turn, you may tap an untapped creature you control. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1526,7 +1526,7 @@
             "artist": "Henrik Rosenborg",
             "alias": "",
             "position": "75",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Olgal Murmur Leader",
@@ -1536,7 +1536,7 @@
             "number": 228,
             "color_identity": "UG",
             "cost": "{GU}",
-            "rules_text": "Whenever this creature deals combat damage to a player, you may pay {1}, if you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Whenever this creature deals combat damage to a player, you may pay {1}, if you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1546,7 +1546,7 @@
             "artist": "ryan agsawa",
             "alias": "",
             "position": "76",
-            "notes": "!tag Anomaly\n!tag Cycle-hybrid-spirits"
+            "notes": "!tag Anomaly\n!tag Cycle-hybrid-spirits\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Suddenstar's Gift",
@@ -1566,7 +1566,7 @@
             "artist": "LiigaKlavina",
             "alias": "",
             "position": "77",
-            "notes": "!tag cantrip"
+            "notes": "!tag cantrip\n!related Leviathan VGE\n!addtoken Leviathan VGE;1"
         },
         {
             "card_name": "Reoccuring Terror",
@@ -1655,18 +1655,18 @@
             "type": "Enchantment \u2014 Saga",
             "number": 222,
             "color_identity": "BG",
-            "cost": "{2}{BG}{BG}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nCreate a 1/1 black and green Elf creature token.\nYou lose 1 life, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n\u200b",
+            "cost": "{1}{BG}{BG}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nCreate a 1/1 black and green Elf creature token.\nYou lose 1 life. Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nCreate a 1/1 black and green Elf creature token.\nYou lose 1 life, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nCreate a 1/1 black and green Elf creature token.\nYou lose 1 life. Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\n\u200b",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "Night Dragonfly",
             "alias": "",
             "position": "82",
-            "notes": "Remove Lifelink"
+            "notes": "!related Elf VGE\n!related Murmur VGE\n!addtoken Elf VGE;1\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Rampaging Bellower",
@@ -1696,7 +1696,7 @@
             "number": 241,
             "color_identity": "UR",
             "cost": "{3}{UR}{UR}",
-            "rules_text": "Whenever you cast a noncreature spell put a +1/+1 counter on this creature.\nThe second spell you cast each turn costs {1} less to cast.",
+            "rules_text": "Whenever noncreature, nonland permanent enters under your control put a +1/+1 counter on this creature.\nThe second spell you cast each turn costs {1} less to cast.",
             "flavor_text": "[i]The waters carry many dangers[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1716,7 +1716,7 @@
             "number": 189,
             "color_identity": "UR",
             "cost": "{3}{U}{R}",
-            "rules_text": "When this creature enters create a 1/1 blue and red Siren creature token with \u201c{T}:Target creature can't block alone until end of turn. Activate only as a sorcery\u201d.\nWhenever a Siren you control deals combat damage to a player, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "When this creature enters create a 1/1 blue and red Siren creature token with \u201c{T}:Target creature can't block alone until end of turn. Activate only as a sorcery\u201d.\nWhenever you create one or more tokens, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1726,7 +1726,7 @@
             "artist": "Sandra Duchiewicz",
             "alias": "",
             "position": "85",
-            "notes": ""
+            "notes": "!related Siren VGE\n!addtoken Siren VGE;1"
         },
         {
             "card_name": "Grandstaff Genius",
@@ -1736,7 +1736,7 @@
             "number": 172,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]\nWhen this creature enters, create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery\u201d.",
+            "rules_text": "Whenever a Siren or noncreature, nonland permanent enters under your control, this creature gets +1/+0 and gains menace until end of turn.\nWhen this creature enters, create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery\u201d.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1746,7 +1746,7 @@
             "artist": "Andrea Walls",
             "alias": "",
             "position": "86",
-            "notes": "Rework with Sirens"
+            "notes": "Rework with Sirens\n!addtoken Siren VGE;1\n!related Siren VGE"
         },
         {
             "card_name": "Copycat Composer",
@@ -1996,7 +1996,7 @@
             "number": 268,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{T}, Sacrifice this land: Exile target player's graveyard.",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.\n{T}, Sacrifice this land: Exile target player's graveyard. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2016,7 +2016,7 @@
             "number": 262,
             "color_identity": "WR",
             "cost": "",
-            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {R} or {W}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {R} or {W}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2026,7 +2026,7 @@
             "artist": "Ryan Okita",
             "alias": "",
             "position": "100",
-            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual"
+            "notes": "!addtoken Murmur VGE;1\n!related Murmur VGE\n!landslot\n!tapped\n!tag Cycle-MumurDual"
         },
         {
             "card_name": "Vocalists Round",
@@ -2036,7 +2036,7 @@
             "number": 271,
             "color_identity": "UR",
             "cost": "",
-            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {U} or {R}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {U} or {R}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2046,7 +2046,7 @@
             "artist": "Rm0555",
             "alias": "",
             "position": "101",
-            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual"
+            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Reverberant Shore",
@@ -2056,7 +2056,7 @@
             "number": 266,
             "color_identity": "UG",
             "cost": "",
-            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {G} or {U}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {G} or {U}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2066,7 +2066,7 @@
             "artist": "Julia Gorokhova",
             "alias": "",
             "position": "102",
-            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual"
+            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Anechoic Chamber",
@@ -2076,7 +2076,7 @@
             "number": 260,
             "color_identity": "BG",
             "cost": "",
-            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {B} or {G}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {B} or {G}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2086,7 +2086,7 @@
             "artist": "Ryan Okita",
             "alias": "",
             "position": "103",
-            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual"
+            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual\n!addtoken Murmur VGE;1\n!related Murmur VGE"
         },
         {
             "card_name": "Crumbling Stage",
@@ -2096,7 +2096,7 @@
             "number": 263,
             "color_identity": "WB",
             "cost": "",
-            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {W} or {B}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "This land enters tapped unless you pay {C}.\n{T}: Add {W} or {B}.\n{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2106,7 +2106,7 @@
             "artist": "Ryan Okita",
             "alias": "",
             "position": "104",
-            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual"
+            "notes": "!landslot\n!tapped\n!tag Cycle-MumurDual\n!addtoken Murmur VGE;1\n!related Murmur VGE"
         },
         {
             "card_name": "Siren",
@@ -2126,7 +2126,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "position": "105",
-            "notes": "!token\n!tokenrarity Phase Inverter; Auditioning Canon; Call of the Cruel; Siren Tracker; Olgal Song-Seer; Grandstaff Genius; Tempting Siren; Spellshaper Siren; Siren Choir <x>; Siren Song; Siren Seabed <2>;"
+            "notes": "!token\n!tokenshape\n!tokentag Siren VGE\n!tokenrarity Phase Inverter; Auditioning Canon; Call of the Cruel; Siren Tracker; Olgal Song-Seer; Grandstaff Genius; Tempting Siren; Spellshaper Siren; Siren Choir <x>; Siren Song; Siren Seabed <2>;"
         },
         {
             "card_name": "Wall",
@@ -2146,7 +2146,7 @@
             "artist": "Surya Murugesan",
             "alias": "",
             "position": "106",
-            "notes": "!token\n!tokenrarity\n!tag Anomaly\n!related Accoustic Reflections; Stable Resolution;"
+            "notes": "!token\n!tokenrarity\n!tokenshape\n!tokentag Wall VGE\n!tag Anomaly\n!related Accoustic Reflections; Stable Resolution;"
         },
         {
             "card_name": "Elemental",
@@ -2166,7 +2166,7 @@
             "artist": "Sandra Duchiewicz",
             "alias": "",
             "position": "107",
-            "notes": "!token\n!tokenrarity\n!related Mycosong Dryad; Call and Response; Strict Rehearsal;"
+            "notes": "!token\n!tokenshape\n!tokentag Elemental VGE\n!tokenrarity\n!related Mycosong Dryad; Call and Response; Strict Rehearsal;"
         },
         {
             "card_name": "Whining Whisps",
@@ -2176,7 +2176,7 @@
             "number": 37,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flying\nWhen this creature enters, you may return another nonland permanent you control to your hand. If you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Flying\nWhen this creature enters, you may return another nonland permanent you control to your hand. If you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2186,7 +2186,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "position": "108",
-            "notes": "!tag anomaly"
+            "notes": "!tag anomaly\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Encore Sibyl",
@@ -2406,7 +2406,7 @@
             "artist": "Pierre Gaux",
             "alias": "",
             "position": "119",
-            "notes": "!tag removal-creature"
+            "notes": "!tag removal-creature\n!related Human VGE\n!addtoken Human VGE;1"
         },
         {
             "card_name": "Worst Critique",
@@ -2526,7 +2526,7 @@
             "artist": "Saint Savage",
             "alias": "",
             "position": "125",
-            "notes": ""
+            "notes": "!related Human VGE<3>\n!addtoken Human VGE;3"
         },
         {
             "card_name": "Musicologist",
@@ -2566,7 +2566,7 @@
             "artist": "YunaXD",
             "alias": "",
             "position": "127",
-            "notes": "!tag banish-creature\n!tag cantrip"
+            "notes": "!tag banish-creature\n!tag cantrip\n!related Wall VGE\n!addtoken Wall VGE;1"
         },
         {
             "card_name": "Debut Disapproval",
@@ -2696,7 +2696,7 @@
             "number": 212,
             "color_identity": "BG",
             "cost": "{2}{BG}{BG}",
-            "rules_text": "Create a 1/1 black and green Elf creature token for each enchantment card in your graveyard.\n{2}, Exile this card from your graveyard: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Create a 1/1 black and green Elf creature token for each enchantment card in your graveyard.\n{2}, Exile this card from your graveyard: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2706,7 +2706,7 @@
             "artist": "Andrzej Rybus",
             "alias": "",
             "position": "134",
-            "notes": ""
+            "notes": "!related Elf VGE\n!related Murmur VGE\n!addtoken Elf VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Mentromone Meister",
@@ -2776,9 +2776,9 @@
             "number": 121,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Ward\u2014Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]\nWhenever an Aura becomes attached to Tempting Siren, create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.\u201d",
+            "rules_text": "Ward\u2014Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]\nWhenever a noncreature, nonland permanent enters under your control create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.\u201d",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "VGE",
@@ -2786,7 +2786,7 @@
             "artist": "Clarisse Magand",
             "alias": "",
             "position": "138",
-            "notes": ""
+            "notes": "!related Siren VGE\n!addtoken Siren VGE;1"
         },
         {
             "card_name": "Unsung Corpse",
@@ -2796,7 +2796,7 @@
             "number": 150,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n{2}{C}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.",
+            "rules_text": "When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\n{2}{C}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.",
             "flavor_text": "[i]The spirit is trapped within the body, no song to raise them into the murmur.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2806,7 +2806,7 @@
             "artist": "francisco eugenio jimenez garcia",
             "alias": "",
             "position": "139",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Firedancer",
@@ -2829,14 +2829,14 @@
             "notes": ""
         },
         {
-            "card_name": "Sirens Temptation",
+            "card_name": "Siren's Temptation",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Enchantment \u2014 Aura",
             "number": 117,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Gain control of target creature until end of turn. Untap it.\nCreatures you control get +1/+0 and gain haste until end of turn.",
+            "rules_text": "Enchant creature\nYou control enchanted creature.\nWhen this aura enters, untap enchanted creature. Then creatures you control get +1/+0 and gain haste until end of turn.\nAt the beginning of the end step, sacrifice this enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2936,7 +2936,7 @@
             "number": 177,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "Haste\nThis creature attacks each turn if able.\nTokens you control have exalted. [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]",
+            "rules_text": "Haste\nThis creature attacks each turn if able.\nCreature tokens you control have exalted. [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2986,7 +2986,7 @@
             "artist": "Andy Aslamov",
             "alias": "",
             "position": "148",
-            "notes": ""
+            "notes": "!related Human VGE\n!addtoken Human VGE;1"
         },
         {
             "card_name": "Dynamic Lead",
@@ -3036,7 +3036,7 @@
             "number": 108,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Whenever a creature you control attacks alone, it gains prowess until end of turn.",
+            "rules_text": "Whenever a creature you control attacks alone, it gets +1/+0 for each permanent that entered this turn.",
             "flavor_text": "[i]Alone she sings in the deep dark waters. Her sweet songs calling out to those who dive deep enough to hear.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3056,7 +3056,7 @@
             "number": 62,
             "color_identity": "UR",
             "cost": "{1}{U}",
-            "rules_text": "{UR}, {T}, Discard a card: Create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.\u201d",
+            "rules_text": "Vigilance\n{UR}, {T}, Discard a card: Create a 1/1 blue and red Siren creature token with \u201c{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3066,7 +3066,7 @@
             "artist": "Tjota",
             "alias": "",
             "position": "152",
-            "notes": ""
+            "notes": "!related Siren VGE\n!addtoken Siren VGE;1"
         },
         {
             "card_name": "Inspiration Bottler",
@@ -3186,7 +3186,7 @@
             "artist": "\u2022 Soe \u2022",
             "alias": "",
             "position": "158",
-            "notes": "!tag counterspell"
+            "notes": "!tag counterspell\n!related Human VGE\n!addtoken Human VGE;1"
         },
         {
             "card_name": "Call and Response",
@@ -3196,17 +3196,17 @@
             "number": 157,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 green Elemental creature token.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nCreate a token copy of each of up to two target tokens.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 green Elemental creature token.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nCreate a token copy of each of up to two target tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 green Elemental creature token.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nCreate a token copy of each of up to two target tokens.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 2/2 green Elemental creature token.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nCreate a token copy of each of up to two target tokens.",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "Altered TCG",
             "alias": "",
             "position": "159",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!related Elemental VGE\n!addtoken Elemental VGE;1\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Sennai, Songclade's Start",
@@ -3216,7 +3216,7 @@
             "number": 196,
             "color_identity": "UG",
             "cost": "{G}{U}",
-            "rules_text": "Murmurs you control have \u201c{2ch.png} \u2014 Put a +1/+1 counter on target creature you control.\u201d in addition to its other abilities.",
+            "rules_text": "Murmurs you control have \u201c{2V} \u2014 Put a +1/+1 counter on target creature you control.\u201d in addition to its other abilities.",
             "flavor_text": "[i]The whispers contain more than just raw magic, let them in and you too can evolve.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3286,7 +3286,7 @@
             "artist": "Shairys Bj",
             "alias": "",
             "position": "163",
-            "notes": "!tag Cycle-PartialHybridArcun"
+            "notes": "!tag Cycle-PartialHybridArcun\n!addtoken Siren VGE;1\n!related Siren VGE"
         },
         {
             "card_name": "Ruins Scaler",
@@ -3406,7 +3406,7 @@
             "artist": "Tjota",
             "alias": "",
             "position": "169",
-            "notes": "!tag counterspell"
+            "notes": "!tag counterspell\n!related Siren VGE\n!addtoken Siren VGE;1"
         },
         {
             "card_name": "Songbird Swarms",
@@ -3456,7 +3456,7 @@
             "number": 195,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Vigilance\n{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.",
+            "rules_text": "Vigilance\nWhen this creature attacks target creature can't block alone until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i]\u201cI must be the best, more than the rest\u201d[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3538,7 +3538,7 @@
             "cost": "{UR}{UR}{UR}",
             "rules_text": "Whenever you activate an activated ability that isn't a mana ability, if it's the third activated ability you've activated this turn, draw a card.\n{CU}{CR}: This creature gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "2/4",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "VGE",
@@ -3709,7 +3709,7 @@
             "notes": "!landslot"
         },
         {
-            "card_name": "Privledged Performer",
+            "card_name": "Privileged Performer",
             "color": "W",
             "rarity": "mythic",
             "type": "Creature \u2014 Angel Noble",
@@ -3816,7 +3816,7 @@
             "number": 38,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "When this creature enters create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nOther Sirens you control get +1/+1.\nSagas you control have \u201c{4ch.png}\u2014 Create a token that's a copy of target Siren.\u201d",
+            "rules_text": "When this creature enters create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nOther Sirens you control get +1/+1.\nSagas you control have \u201c{4V}\u2014 Create a token that's a copy of target Siren.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3826,7 +3826,7 @@
             "artist": "Davide Bondi",
             "alias": "",
             "position": "190",
-            "notes": ""
+            "notes": "!addtoken Murmur VGE;1\n!related Murmur VGE"
         },
         {
             "card_name": "Emmsi, Rondelli Royalty",
@@ -3836,7 +3836,7 @@
             "number": 166,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Haste\nThis creature gets +2/+0 for each permanent that entered the battlefield under your control this turn.\n{UR}, {T}: Return this card to your hand.",
+            "rules_text": "Haste\nEmmsi gets +2/+0 for each permanent that entered the battlefield under your control this turn.\n{UR}, {T}: Return Emmsi to your hand.",
             "flavor_text": "[i]\u201cHoney, [/i]I'm[i] your biggest sponsor.\u201d[/i]",
             "pt": "0/2",
             "special_text": "",
@@ -3846,17 +3846,17 @@
             "artist": "Rhys Kim",
             "alias": "",
             "position": "191",
-            "notes": "!tag FactionHeads"
+            "notes": "!tag Cycle-FactionHeads"
         },
         {
             "card_name": "Gastal Requiem",
             "color": "UR",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 171,
             "color_identity": "UR",
-            "cost": "{1}{2U}{2R}",
-            "rules_text": "As an additional cost to cast this spell discard X cards.\nGain control of target creature with mana value X until end of turn. Untap it. It gains haste until end of turn. Then draw X cards.\n[i]Finale \u2014[/i] Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.",
+            "cost": "{2U}{2R}",
+            "rules_text": "Discard your hand, then draw that many cards plus one.\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3876,7 +3876,7 @@
             "number": 86,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Flying\nWhenever another creature you control dies, return it to the battlefield with a finality counter on it, its a Saga enchantment with \u201c{1ch.png},{2ch.png},{3ch.png}\u2014 Each player loses 1 life.\u201d",
+            "rules_text": "Flying\nWhenever another creature you control dies, return it to the battlefield with a finality counter on it, its a Saga enchantment with \u201c{1V},{2V},{3V}\u2014 Each player loses 1 life.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3896,7 +3896,7 @@
             "number": 92,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
-            "rules_text": "Menace, haste\nWhenever this creature attacks, put a lore counter on it.\n{4ch.png}\u2014Creatures you control get +2/+2 and gain lifelink and can't be blocked until end of turn.",
+            "rules_text": "Menace, haste\nWhenever this creature attacks, put a lore counter on it.\n{4V}\u2014Creatures you control get +2/+2 and gain lifelink and can't be blocked until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -3946,7 +3946,7 @@
             "artist": "chair house",
             "alias": "",
             "position": "196",
-            "notes": "!tag edict-enchantment"
+            "notes": "!tag edict-enchantment\n!related Elf VGE\n!addtoken Elf VGE;1"
         },
         {
             "card_name": "Crowd Amplification",
@@ -3986,17 +3986,17 @@
             "artist": "Anastasia Elzas3 Konovalova",
             "alias": "",
             "position": "198",
-            "notes": "Visitor\nIs dead"
+            "notes": "Visitor\nIs dead\n!related Rat VGE\n!addtoken Rat VGE;1"
         },
         {
             "card_name": "Phoenix Siren",
             "color": "WR",
             "rarity": "rare",
-            "type": "Creature \u2014 Siren",
+            "type": "Creature \u2014 Phoenix Siren",
             "number": 232,
             "color_identity": "WR",
             "cost": "{3}{RW}",
-            "rules_text": "Prowess, flying, haste\nWhenever a chapter ability of a saga you control triggers, return this creature from your graveyard to the battlefield, it gains flying until end of turn.",
+            "rules_text": "Prowess, flying\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, return this creature from your graveyard to the battlefield, it gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4016,7 +4016,7 @@
             "number": 154,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "Enchant Creature\nWhenever enchanted creature deals combat damage to a player, create a token copy of target nonlegendary creature or enchantment you control.\nWhenever a creature you control attacks alone, you may cast this card from your graveyard targeting that creature.",
+            "rules_text": "Enchant creature\nWhenever enchanted creature deals combat damage to a player, create a token copy of target nonlegendary creature or enchantment you control.\nWhenever a creature you control attacks alone, you may cast this card from your graveyard targeting that creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4056,7 +4056,7 @@
             "number": 139,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Creatures you control have \u201c{T}: Create a Murmur token.\u201d [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Creatures you control have \u201c{T}: Create a Murmur token.\u201d [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i]Deep within the ruins, lie the arrangements that formed the murmur.[/i]",
             "pt": "",
             "special_text": "",
@@ -4066,7 +4066,7 @@
             "artist": "Amber Edwards",
             "alias": "",
             "position": "202",
-            "notes": ""
+            "notes": "!addtoken Murmur VGE;1\n!related Murmur VGE"
         },
         {
             "card_name": "Pel, Tremolos Tutor",
@@ -4076,7 +4076,7 @@
             "number": 191,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
-            "rules_text": "Reach\nWhen Pel, Tremolos Tutor enters, search your library for a card that could create a Murmur token, reveal it. Put it into your hand, then shuffle. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nYou don't lose unspent mana as steps and phases end.",
+            "rules_text": "Reach\nWhen Pel, Tremolos Tutor enters, search your library for a card that could create a Murmur token, reveal it, put it into your hand, then shuffle. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nYou don't lose unspent mana as steps and phases end.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4086,17 +4086,17 @@
             "artist": "Vilde Sahlberg",
             "alias": "",
             "position": "203",
-            "notes": "!tag FactionHeads"
+            "notes": "!tag Cycle-FactionHeads"
         },
         {
             "card_name": "Amonkheti Requiem",
             "color": "UG",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 152,
             "color_identity": "UG",
-            "cost": "{1}{2G}{2U}",
-            "rules_text": "Create a Murmur token. Put a lore counter on target permanent or a +1/+1 counter on target creature. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.",
+            "cost": "{2G}{2U}",
+            "rules_text": "Create a Murmur token. Then proliferate, or put a +1/+1 counter on target creature.\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4106,7 +4106,7 @@
             "artist": "Diana Balt\u00e9zar",
             "alias": "",
             "position": "204",
-            "notes": "!tag Requiem"
+            "notes": "!tag Cycle-Requiem\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Open Air Theater",
@@ -4196,7 +4196,7 @@
             "number": 80,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "[i]Finale \u2014 [/i]Whenever an enchantment is put into your graveyard from the battlefield, target opponent discards a card. If a permanent card was discarded this way this way, create a Murmur token, otherwise they lose 2 life. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "[i]Finale \u2014 [/i]Whenever an enchantment is put into your graveyard from the battlefield, target opponent discards a card. If a permanent card was discarded this way this way, create a Murmur token, otherwise they lose 2 life. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4206,7 +4206,7 @@
             "artist": "Justin Reed",
             "alias": "",
             "position": "209",
-            "notes": "Visitor\n!tokens Murmur\nThraben\n!tag hand-disruption-untargeted"
+            "notes": "Visitor\n!tokens Murmur\nThraben\n!tag hand-disruption-untargeted\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Rune-Cursed Poet",
@@ -4246,7 +4246,7 @@
             "artist": "Shoonyah",
             "alias": "",
             "position": "211",
-            "notes": "!tag cycle-pledge\n!tag removal-enchantment\n!tag removal-token\n!tag removal-land"
+            "notes": "!tag cycle-pledge\n!tag removal-enchantment\n!tag removal-token\n!tag removal-land\n!related Elf VGE\n!addtoken Elf VGE;1\n"
         },
         {
             "card_name": "Swallow the Ruins",
@@ -4276,7 +4276,7 @@
             "number": 151,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Vigilance \n{T}: Put a lore counter on target Saga you control.\nWhenever this creature attacks, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Vigilance \n{T}: Put a lore counter on target Saga you control.\nWhenever this creature attacks, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -4286,7 +4286,7 @@
             "artist": "Dusan Markovic",
             "alias": "",
             "position": "213",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE"
         },
         {
             "card_name": "Ends of the Earth",
@@ -4376,7 +4376,7 @@
             "number": 118,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\nWhenever this creature dies, return it to the battlefield, except it's a Saga enchantment without this ability. [i](It's no longer a creature)[/i]\nWhenever a creature attacks alone, put a lore counter on this enchantment.\n{3ch.png}\u2014 After this phase there is an additional combat phase.",
+            "rules_text": "Haste\nWhenever this creature dies, return it to the battlefield, except it's a Saga enchantment without this ability. [i](It's no longer a creature)[/i]\nWhenever a creature attacks alone, put a lore counter on this enchantment.\n{3V}\u2014 After this phase there is an additional combat phase.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4416,7 +4416,7 @@
             "number": 170,
             "color_identity": "WR",
             "cost": "{3}{R}{W}",
-            "rules_text": "Flying, trample\nWhenever a creature you control dies while attacking, you may put a creature card with mana value less than that creatures mana value from your hand onto the battlefield tapped.",
+            "rules_text": "Flying, trample\nWhenever a creature you control dies while attacking, you may put a creature card with mana value less than that creatures mana value from your hand or graveyard onto the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4456,7 +4456,7 @@
             "number": 66,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Counter target multicolored spell. Its controller creates a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Counter target multicolored spell. Its controller creates a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4466,7 +4466,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "222",
-            "notes": "!tag counterspell"
+            "notes": "!tag counterspell\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Song of Blue Yonder",
@@ -4516,7 +4516,7 @@
             "number": 198,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "Sagas you control have \u201c{1ch.png} \u2014 This Saga becomes a 3/3 creature with haste in addition to its other types an abilities until end of turn.\u201d\nWhenever a Saga you control deals combat damage to a player, put a lore counter on it.",
+            "rules_text": "Sagas you control have \u201c{1V} \u2014 This Saga becomes a 3/3 creature with haste in addition to its other types an abilities until end of turn.\u201d\nWhenever a Saga you control deals combat damage to a player, put a lore counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4536,7 +4536,7 @@
             "number": 27,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "{T}: Put a lore counter on this artifact. Activate only as a sorcery.\nAt the beginning of your end step you gain 1 life for each lore counter on this artifact, if it's untapped draw a card.",
+            "rules_text": "Whenever you put a lore counter on a permanent you control, you gain 1 life.\n{2C}, {T}: Put a lore counter on target permanent you control.\nAt the beginning of your end step draw a card if you gained three or more life this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4566,7 +4566,7 @@
             "artist": "Nia Kovalevski",
             "alias": "",
             "position": "227",
-            "notes": "!tag cantrip"
+            "notes": "!addtoken Elemental VGE;1\n!related Elemental VGE\n!tag cantrip"
         },
         {
             "card_name": "Mielle, Soloist Primo",
@@ -4586,7 +4586,7 @@
             "artist": "Moa Carnbro",
             "alias": "",
             "position": "228",
-            "notes": "!tag FactionHeads"
+            "notes": "!tag Cycle-FactionHeads\n!addtoken Elf VGE;1\n!related Elf VGE"
         },
         {
             "card_name": "Killian, Lyricist",
@@ -4616,7 +4616,7 @@
             "number": 67,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "{2C}, Sacrifice a creature or enchantment: Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.\nSagas you control have \u201c{2ch.png}\u2014Each player that controls two or more creatures sacrifices a creature.\u201d",
+            "rules_text": "{2C}, Sacrifice a creature or enchantment: Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.\nSagas you control have \u201c{2V}\u2014Each player that controls two or more creatures sacrifices a creature.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4676,7 +4676,7 @@
             "number": 227,
             "color_identity": "BG",
             "cost": "{2}{BG}",
-            "rules_text": "When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\n{2C}, Sacrifice a nonartifact permanent: This creature gets +1/+1 and gains haste until end of turn.",
+            "rules_text": "When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\n{2C}, Sacrifice a nonartifact permanent: This creature gets +1/+1 and gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4686,7 +4686,7 @@
             "artist": "Angi Pauly Llobet",
             "alias": "",
             "position": "233",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Spirit of the Composer",
@@ -4716,17 +4716,17 @@
             "number": 209,
             "color_identity": "UG",
             "cost": "{1}{2G}{G}{2U}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nReturn target nonland permanent to its owner's hand.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nWhenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.\nYou may pay {X}. If you do creatures you control have size X/X until end of turn.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nReturn target nonland permanent to its owner's hand.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nWhenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.\nYou may pay {X}. If you do creatures you control have size X/X until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nReturn target nonland permanent to its owner's hand.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nWhenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.\nYou may pay {X}. If you do creatures you control have size X/X until end of turn.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nReturn target nonland permanent to its owner's hand.\nCreate a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nWhenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.\nYou may pay {X}. If you do creatures you control have size X/X until end of turn.",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "Shoonyah",
             "alias": "",
             "position": "235",
-            "notes": "!tag Cycle-Pledge\n!tag bounce-artifact\n!tag bounce-battle\n!tag bounce-creature\n!tag bounce-enchantment\n!tag bounce-planeswalker"
+            "notes": "!tag Cycle-Pledge\n!tag bounce-artifact\n!tag bounce-battle\n!tag bounce-creature\n!tag bounce-enchantment\n!tag bounce-planeswalker\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Whispering Titan",
@@ -4736,7 +4736,7 @@
             "number": 210,
             "color_identity": "UG",
             "cost": "{5}{G}{U}",
-            "rules_text": "When this creature enters, create three Murmur tokens. [i](They're colorless Saga Murmur enchantments with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i] [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nThis creature gets +1/+1 for each chapter ability among sagas you control. [i](Murmurs have two chapter abilities)[/i]",
+            "rules_text": "When this creature enters, create three Murmur tokens. [i](They're colorless Saga Murmur enchantments with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nThis creature gets +1/+1 for each chapter ability among sagas you control.\n[i](Murmurs have two chapter abilities)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -4746,7 +4746,7 @@
             "artist": "Daniel Kamarudin",
             "alias": "",
             "position": "236",
-            "notes": "Simic Big Beater"
+            "notes": "Simic Big Beater\n!related Murmur VGE<3>\n!addtoken Murmur VGE;3"
         },
         {
             "card_name": "Catchy Tune",
@@ -4812,11 +4812,11 @@
             "card_name": "Mirran Requiem",
             "color": "WR",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 181,
             "color_identity": "WR",
-            "cost": "{1}{2R}{2W}",
-            "rules_text": "Target creature gets first strike until end of turn, put a +1/+1 counter on it for each color of mana spent to cast this spell.\n[i]Finale \u2014[/i] Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.",
+            "cost": "{2R}{2W}",
+            "rules_text": "Target creature gets first strike until end of turn, put a +1/+1 counter on it for each color of mana spent to cast this spell.\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4836,7 +4836,7 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Vigilance, trample\n{1}{U}, {T}: Creatures you opponents control attack this turn if able. Whenever you're dealt damage by a creature this turn, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Vigilance, trample\n{1}{U}, {T}: Creatures you opponents control attack this turn if able. Whenever you're dealt damage by a creature this turn, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4846,7 +4846,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "241",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Lost in Whispers",
@@ -4856,7 +4856,7 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Return each creature to its owner's hand. Create a Murmur token for each creature returned to your hand this way. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]",
+            "rules_text": "Return each creature to its owner's hand. Create a Murmur token for each creature returned to your hand this way. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4866,7 +4866,7 @@
             "artist": "Jo\u00e3o Garin",
             "alias": "",
             "position": "242",
-            "notes": ""
+            "notes": "!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Claine, Belting Siren",
@@ -4936,7 +4936,7 @@
             "number": 23,
             "color_identity": "W",
             "cost": "{3}{W}{W}{W}",
-            "rules_text": "Flying, vigilance\nWhenever a creature you control attacks alone, return target creature card from your graveyard to the battlefield, except it's an enchantment Saga Murmur with \u201c{ch.png}, {3ch.png} \u2014 Add {C}.\u201d in addition to its other types and abilities.",
+            "rules_text": "Flying, vigilance\nWhenever a creature you control attacks alone, return target creature card from your graveyard to the battlefield, except it's an enchantment Saga Murmur with \u201c{V}, {3V} \u2014 Add {C}.\u201d in addition to its other types and abilities.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4956,7 +4956,7 @@
             "number": 201,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "Flying\nAs long as you control another creature, this enchantment is a Saga enchantment. [i](It's not a creature)[/i]\n{1ch.png}\u2014 Put three +1/+1 counters on target creature you control.\n{2ch.png}\u2014 Destroy target creature.\n{3ch.png}\u2014 Each player chooses a creature they control, and then sacrifices the rest.",
+            "rules_text": "Flying\nAs long as you control another creature, this enchantment is a Saga enchantment. [i](It's not a creature)[/i]\n{1V}\u2014 Put three +1/+1 counters on target creature you control.\n{2V}\u2014 Destroy target creature.\n{3V}\u2014 Each player chooses a creature they control, and then sacrifices the rest.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4972,11 +4972,11 @@
             "card_name": "Tolvadan Requiem",
             "color": "WB",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 208,
             "color_identity": "WB",
-            "cost": "{1}{2W}{2B}",
-            "rules_text": "Whenever a creature you control dies this turn, return to the battlefield tapped with a finality counter on it.\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.",
+            "cost": "{2W}{2B}",
+            "rules_text": "Whenever a creature you control dies this turn, return to the battlefield tapped with a finality counter on it.\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5012,11 +5012,11 @@
             "card_name": "Skallan Requiem",
             "color": "BG",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 200,
             "color_identity": "BG",
-            "cost": "{1}{2B}{2G}",
-            "rules_text": "Mill three cards. Then return a creature card and an enchantment card from your graveyard to your hand.\n[i]Finale \u2014[/i] Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.",
+            "cost": "{2B}{2G}",
+            "rules_text": "Mill three cards. Then return up to two permanent cards that don't share a type from your graveyard to your hand.\n[i]Finale [/i]\u2014 Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5106,7 +5106,7 @@
             "artist": "Phuoc Quan",
             "alias": "",
             "position": "254",
-            "notes": "!tag damage-creature\n!tag damage-planeswalker"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!related Elf VGE\n!addtoken Elf VGE;1"
         },
         {
             "card_name": "Notyis, Grown from Tales",
@@ -5116,7 +5116,7 @@
             "number": 186,
             "color_identity": "UG",
             "cost": "{X}{G}{U}",
-            "rules_text": "When this creature enters, mill X cards, if X is 4 or more, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2ch.png},{3ch.png}\u2014 Add {C}.\u201d)[/i]\nSagas you control have \u201c{4ch.png}\u2014Return target non-saga card from your graveyard to your hand.\u201d",
+            "rules_text": "When this creature enters, mill X cards, if X is 4 or more, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with \u201c{2V},{3V}\u2014 Add {C}.\u201d)[/i]\nSagas you control have \u201c{4V}\u2014Return target non-saga card from your graveyard to your hand.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5126,7 +5126,7 @@
             "artist": "Hilary Purnamasari",
             "alias": "",
             "position": "255",
-            "notes": "!tag regrowth-any"
+            "notes": "!tag regrowth-any\n!related Murmur VGE\n!addtoken Murmur VGE;1"
         },
         {
             "card_name": "Pel's Compound Duple",
@@ -5136,10 +5136,10 @@
             "number": 230,
             "color_identity": "UG",
             "cost": "{3}{GU}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]\nTrigger target {1ch.png} chapter ability of another target Saga.\nTrigger target {2ch.png} chapter ability of another target Saga.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]\nTrigger target {1V} chapter ability of another target Saga.\nTrigger target {2V} chapter ability of another target Saga.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]\nTrigger target {1ch.png} chapter ability of another target Saga.\nTrigger target {2ch.png} chapter ability of another target Saga.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]\nTrigger target {1V} chapter ability of another target Saga.\nTrigger target {2V} chapter ability of another target Saga.\n\u200b",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
@@ -5266,7 +5266,7 @@
             "artist": "Davide Bondi",
             "alias": "",
             "position": "262",
-            "notes": ""
+            "notes": "!related Siren VGE<2>\n!addtoken Siren VGE;2"
         },
         {
             "card_name": "Wailing Whisps",
@@ -5576,17 +5576,17 @@
             "number": 11,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nExile the top three cards of target opponent's library. You may play those cards this turn.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nExile the top three cards of target opponent's library. You may play those cards this turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nExile the top three cards of target opponent's library. You may play those cards this turn.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a Treasure token. [i](It's an artifact with \u201c{T}, Sacrifice this token: Add one mana of any color.\u201d)[/i]\nExile the top three cards of target opponent's library. You may play those cards this turn.\n\u200b",
             "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "RighteousPebble",
             "alias": "",
             "position": "278",
-            "notes": "!last\n!tag Multiverses-Music"
+            "notes": "!last\n!tag Multiverses-Music\n!addtoken Treasure WOE;1\n!related Treasure WOE"
         },
         {
             "card_name": "Lilting Refrain",
@@ -5626,7 +5626,7 @@
             "artist": "Travis Goldmann-Couch",
             "alias": "",
             "position": "280",
-            "notes": "!last\nLook for Non-Cannon option\n!tag Multiverses-Music"
+            "notes": "!last\nLook for Non-Cannon option\n!tag Multiverses-Music\n!addtoken Spirit STX;1\n!related Spirit STX"
         },
         {
             "card_name": "Love Song of Night and Day",
@@ -5646,7 +5646,7 @@
             "artist": "Gene Raz von Edler",
             "alias": "",
             "position": "281",
-            "notes": "!last\n!tag Multiverses-Music"
+            "notes": "!last\n!tag Multiverses-Music\n!addtoken Bird DMU;1\n!related Bird DMU"
         },
         {
             "card_name": "No Rest for the Wicked",
@@ -5889,24 +5889,24 @@
             "notes": "!last\n!tag Multiverses-Music"
         },
         {
-            "card_name": "Murmur",
+            "card_name": "Murmur VGE",
             "color": "",
             "rarity": "common",
             "type": "Token Enchantment \u2014 Saga Murmur",
             "number": 5,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\n[i]\u201cTheir song echos on and on.\u201d[/i]\nAdd {C}. \n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI \u2014 [i]\u201cTheir song echos on and on.\u201d[/i]\nII, III \u2014 Add {C}. \n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\n[i]\u201cTheir song echos on and on.\u201d[/i]\nAdd {C}. \n\u200b",
-            "shape": "token",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]\nI \u2014 [i]\u201cTheir song echos on and on.\u201d[/i]\nII, III \u2014 Add {C}. \n\u200b",
+            "shape": "saga",
             "set": "VGE",
             "loyalty": "",
             "artist": "ecovoron",
             "alias": "",
             "position": "294",
-            "notes": "!token\n!tokenrarity\nhttps://www.artstation.com/artwork/ZaRR11\n\n!related Amphiteater Listener; Olgal Shore Guardian; Delayed Performance; Tuck Within Harmony; Reminiscent Tune; Mourning Soliliquist; Life's Echo; Lonely Whispering; Storykeeper; Echo of Family; Follow the Murmur; Choir of Spirits; Murmur Echoer; Gathering Whispers; Choir Loft; Vocalists Round; Reverberant Shore; Anechoic Chamber; Crumbling Stage; Whining Whisps; Call the Chorus; Unsung Corpse; Call and Response; Amaia, Coda Composer; The Murmursong Score; Amonkheti Requiem; Gisa, Grave Ringer; Well-Traveled Skald; Unsung Song; Muse of the Ruins; Tremolos Pledge; Whispering Titan <3>; Siren Titan; Lost in Whispers; Notyis, Grown from Tales;"
+            "notes": "!token\n!tokenrarity\n!tokenshape\n!tokentag Murmur VGE\n!exportname Murmur VGE\nhttps://www.artstation.com/artwork/ZaRR11\n\n!related Amphiteater Listener; Olgal Shore Guardian; Delayed Performance; Tuck Within Harmony; Reminiscent Tune; Mourning Soliliquist; Life's Echo; Lonely Whispering; Storykeeper; Echo of Family; Follow the Murmur; Choir of Spirits; Murmur Echoer; Gathering Whispers; Choir Loft; Vocalists Round; Reverberant Shore; Anechoic Chamber; Crumbling Stage; Whining Whisps; Call the Chorus; Unsung Corpse; Call and Response; Amaia, Coda Composer; The Murmursong Score; Amonkheti Requiem; Gisa, Grave Ringer; Well-Traveled Skald; Unsung Song; Muse of the Ruins; Tremolos Pledge; Whispering Titan <3>; Siren Titan; Lost in Whispers; Notyis, Grown from Tales;"
         },
         {
             "card_name": "Elf",
@@ -5926,7 +5926,7 @@
             "artist": "C. A. Gutierrez",
             "alias": "",
             "position": "295",
-            "notes": "!token\n!related Gathering Whispers; Call the Chorus <x>; Finalesong Clade; Pledge of Silence; Mielle, Soloist Primo; The Oldest Story;"
+            "notes": "!token\n!tokenshape\n!tokentag Elf VGE\n!related Gathering Whispers; Call the Chorus <x>; Finalesong Clade; Pledge of Silence; Mielle, Soloist Primo; The Oldest Story;"
         },
         {
             "card_name": "Leviathan",
@@ -5946,7 +5946,7 @@
             "artist": "Kiara Phethean",
             "alias": "",
             "position": "296",
-            "notes": "!token\n!tokenrarity\n!related Suddenstar's Gift;"
+            "notes": "!token\n!tokenrarity\n!tokenshape\n!tokentag Leviathan VGE\n!related Suddenstar's Gift;"
         },
         {
             "card_name": "Human",
@@ -5966,7 +5966,7 @@
             "artist": "mokkun way",
             "alias": "",
             "position": "297",
-            "notes": "!token\n!tokenrarity\n!related Maestro of Whims; Ruin-Delving Quartet <3>; Blessings of the Crowd; Dowsing Couple;"
+            "notes": "!token\n!tokenrarity\n!tokenshape\n!tokentag Human VGE\n!related Maestro of Whims; Ruin-Delving Quartet <3>; Blessings of the Crowd; Dowsing Couple;"
         },
         {
             "card_name": "Rat",
@@ -5986,8 +5986,8 @@
             "artist": "Mike Szabados",
             "alias": "",
             "position": "298",
-            "notes": "!token\n!related Totentanz, Murmur Maginifier <x>;"
+            "notes": "!token\n!tokenshape\n!tokentag Rat VGE\n!related Totentanz, Murmur Maginifier <x>;"
         }
     ],
-    "version": 8
+    "version": 3
 }

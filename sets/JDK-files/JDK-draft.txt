@@ -1583,7 +1583,7 @@
 		{
 			"name": "Serpent of the Void",
 			"rarity": "rare",
-			"mana_cost": "{X}",
+			"mana_cost": "{X}{X}",
 			"type": "Artifact Creature — Serpent Implant",
 			"collector_number": "268",
 			"image_uris": {
@@ -2814,7 +2814,7 @@
 			"name": "Interplanter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Merfolk Artificer",
+			"type": "Creature — Siren Artificer",
 			"collector_number": "60",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/281.png"
@@ -3069,899 +3069,345 @@
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/306.png"
 			}
+		},
+		{
+			"name": "Implant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Implant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/307.png"
+			}
+		},
+		{
+			"name": "Saproling Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Saproling Construct",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/308.png"
+			}
+		},
+		{
+			"name": "Servo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Servo",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/309.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/310.png"
+			}
 		}
 	]
 
 [rare(1)]
-	1 Steelstorm Conduit
-	1 Sword of One and Many
-	1 Astro, Wonder Wielder
-	1 Assimilate
-	1 Grrr, Interplanar Armsdealer
-	1 Konzah, Gastropod Proficcionado
-	1 Semblance of Prosperity
-	1 Witness the End
-	1 Behel, Unliving Weapon
-	1 Furnace-Coals Reaper
-	1 Breach the Factory
-	1 Illusion of Peace
-	1 Deep Strata Pressure
-	1 Symmetric Warfare
-	1 MMx2, The Factory
-	1 Apocalypse Then
-	1 Retrofitter's Ritual
-	1 Ayesha, Lost Embrace
-	1 Behel's Escalating Machinations
-	1 Reflective Hulk
-	2 The Goldigarch
-	2 Verdant Rebreather
-	2 Furnace Firestarter
-	2 Crystalline Giant
-	2 Tempered Powergem
-	2 Sponsored Companion
-	2 Brainial Plating
-	2 Murk Shade
-	2 Colossurs
-	2 Specimen Container
-	2 Serpent of the Void
-	2 Perforating Carapace
-	2 Junkyard Expert
-	2 Darklash Flaggelant
-	2 Acidspit Incubator
-	2 Factory Wurm
-	2 Pollution Armaments
-	2 Industry Abomination
-	2 Conflict of Interest
-	2 Trashore Ogre
-	2 Terrabombing
-	2 Jade Armorer
-	2 Stampeding Oxobegg
-	2 Perfect Complexion
-	2 Cyborgmancer
-	2 Dr. Fabre, the Junkseer
-	2 Steel Gardener
-	2 Deflecting Pool
-	2 Frosted Sandpeaks
-	2 Sunken Conservatory
-	2 Remediated Outpost
-	2 Coastal Crash-Site
-	2 Dessicated Drift
-	2 Scaled Armorer
-	2 War Djinn
-	2 Furnacemaster Orc
-	2 Dreck Contamination
-	2 Easy-Fix Scrapheap
-	2 Daggers of Dance and Death
-	2 Old World Engineers
-	2 Dross Digestion
-	2 Collected Clangours
-	2 Mass Reproduction
-	2 Old World Rockstar
-	2 Blitzwing Armorer
-	2 Remelt
-	2 Rhoogex, the Furnace Lord
-	2 Immolation Automaton
-	2 Clangorous Militia
-	2 Furnace Knight
-	2 Replicating Ripper
-	2 Vedalken Tinkerer
-	2 Override Clamp
-	2 Veiled Armorer
-	2 Archon of Artifice
-	2 Mind Numbing Screech
-	2 Mechanical Mimic
-	2 Monitor's Autopugilistar
-	2 Nerveweave Swap Station
-	2 Martial Tech
-	2 Old World Flutist
-	2 Brightlash Eggfly
-	2 License Suspender
-	2 Perfected Armormod
-	2 Scholar of Runes
-	2 Bladeblessed Angel
-	2 Universal Engineer
+	5 Steelstorm Conduit
+	5 Sword of One and Many
+	5 Astro, Wonder Wielder
+	5 Assimilate
+	5 Grrr, Interplanar Armsdealer
+	5 Konzah, Gastropod Proficcionado
+	5 Semblance of Prosperity
+	5 Witness the End
+	5 Behel, Unliving Weapon
+	5 Furnace-Coals Reaper
+	5 Breach the Factory
+	5 Illusion of Peace
+	5 Deep Strata Pressure
+	5 Symmetric Warfare
+	5 MMx2, The Factory
+	5 Apocalypse Then
+	5 Retrofitter's Ritual
+	5 Ayesha, Lost Embrace
+	5 Behel's Escalating Machinations
+	5 Reflective Hulk
+	5 The Goldigarch
+	5 Verdant Rebreather
+	5 Furnace Firestarter
+	5 Crystalline Giant
+	5 Tempered Powergem
+	5 Sponsored Companion
+	5 Brainial Plating
+	5 Murk Shade
+	5 Colossurs
+	5 Specimen Container
+	5 Serpent of the Void
+	5 Perforating Carapace
+	5 Junkyard Expert
+	5 Darklash Flaggelant
+	5 Acidspit Incubator
+	5 Factory Wurm
+	5 Pollution Armaments
+	5 Industry Abomination
+	5 Conflict of Interest
+	5 Trashore Ogre
+	5 Terrabombing
+	5 Jade Armorer
+	5 Stampeding Oxobegg
+	5 Perfect Complexion
+	5 Cyborgmancer
+	5 Dr. Fabre, the Junkseer
+	5 Steel Gardener
+	5 Deflecting Pool
+	5 Frosted Sandpeaks
+	5 Sunken Conservatory
+	5 Remediated Outpost
+	5 Coastal Crash-Site
+	5 Dessicated Drift
+	5 Scaled Armorer
+	5 War Djinn
+	5 Furnacemaster Orc
+	5 Dreck Contamination
+	5 Easy-Fix Scrapheap
+	5 Daggers of Dance and Death
+	5 Old World Engineers
+	5 Dross Digestion
+	5 Collected Clangours
+	5 Mass Reproduction
+	5 Old World Rockstar
+	5 Blitzwing Armorer
+	5 Remelt
+	5 Rhoogex, the Furnace Lord
+	5 Immolation Automaton
+	5 Clangorous Militia
+	5 Furnace Knight
+	5 Replicating Ripper
+	5 Vedalken Tinkerer
+	5 Override Clamp
+	5 Veiled Armorer
+	5 Archon of Artifice
+	5 Mind Numbing Screech
+	5 Mechanical Mimic
+	5 Monitor's Autopugilistar
+	5 Nerveweave Swap Station
+	5 Martial Tech
+	5 Old World Flutist
+	5 Brightlash Eggfly
+	5 License Suspender
+	5 Perfected Armormod
+	5 Scholar of Runes
+	5 Bladeblessed Angel
+	5 Universal Engineer
 [uncommon(3)]
-	4 Cardboard Crustacean
-	4 Half-Chi
-	4 Ambushing Scuttler
-	4 Junksea Tril-0
-	4 Constructed Steward
-	4 Rusted Recouper
-	4 Cobbled Automaton
-	4 Scintilla War Machine
-	4 Remnant Warden
-	4 Astro's Spaceblade
-	4 Infomschematic Well
-	4 Trash Dowsing Staff
-	4 Hardgraphm Armor
-	4 Ciphered Blade
-	4 Scorpion Spineclamp
-	4 Metalshroom Foofballs
-	4 Seeding Mine
-	4 Blight Troop
-	4 Resentful Smith
-	4 Wredger
-	4 Zjieg, Edgelord
-	4 Extortionist Cutpurse
-	4 Smokebrock Vulture
-	4 Grrr's Warhound
-	4 Merciless Rend
-	4 Manufacturing Defect
-	4 Under the Junk-Sea
-	4 Boneforged Staff
-	4 Return Rearmed
-	4 Sulphuric Seas
-	4 Steel Soul Farie
-	4 Prime Forest Loamer
-	4 Verdant Hologram
-	4 Acrid Hound
-	4 Crashing Rhinobegg
-	4 Scrap Animist
-	4 Beldram, Adaptive Automator
-	4 Rhinodrone Piker
-	4 Verdant Synthesizer
-	4 Pin to the Ground
-	4 Interlocking Insight
-	4 Junksea's Stampede
-	4 Stratify the Past
-	4 Solaris Cleaner
-	4 Weapons Merchant
-	4 Death Machinist
-	4 Rust Refiner
-	4 Old World Decoration
-	4 Angle Knight
-	4 Artifizzard
-	4 Junksea Hunter
-	4 Scorpone Aristocrat
-	4 Implant Enthusiast
-	4 Kyberdaemon
-	4 Slaghorn Rhino
-	4 Opportunistic Saprotrophy
-	4 Furnace Artillerist
-	4 Blastman
-	4 Furnace Crawler
-	4 Glimmering Find
-	4 Molten Wellspring
-	4 Forged Ferocity
-	4 Crucible Cannon
-	4 Furnace Flare
-	4 Junker's Furnace
-	4 Nexus Salvage
-	4 Interplanter
-	4 Holographm Stalker
-	4 Glirix, Toolsmith
-	4 Augur of Implants
-	4 Drone Falconer
-	4 Metalmancer
-	4 Jardekan Techmage
-	4 Cryogen Broadsword
-	4 Holographic Insight
-	4 Digitalize
-	4 Shackles of Artifice
-	4 Skyclang Jetwings
-	4 Assimilation Blade
-	4 Assault Trooper
-	4 Liscenced Scout
-	4 Old World Noble
-	4 Robotics Artisan
-	4 Derelict Sentinel
-	4 Old World Armada
-	4 Kudu-Drone Scout
-	4 Tinkering Maestro
-	4 Modified Mauling
-	4 Embellish Armaments
-	4 Clean Idea
-	4 Juliet's Autodog
-	4 Reassemble
-[common(7)]
-	8 Terramorphic Expanse
-	8 Tranquil Cove
-	8 Dismal Backwater
-	8 Bloodfell Caves
-	8 Rugged Highlands
-	8 Blossoming Sands
-	8 Scoured Barrens
-	8 Swiftwater Cliffs
-	8 Jungle Hollow
-	8 Wind-Scarred Crag
-	8 Thornwood Falls
-	8 Lupa, the Metallophage
-	8 Bolstering Scrapling
-	8 Rattling Sentry
-	8 Rabid Striker
-	8 Parcelk
-	8 Toolsmith Courier
-	8 Trashore Freighter
-	8 Voltaic Construct
-	8 Abandoned Walker
-	8 Old World Guardian
-	8 Filtering Star
-	8 Rusty Gauntlet
-	8 Universal Corrosive
-	8 Flensing Jar
-	8 Scavenged Supplies
-	8 Coalpower Gauntlet
-	8 Metalshroom
-	8 Cyclic Vessel
-	8 Sedative Darts
-	8 Dormant Tallmer
-	8 Consumerist Spirit Guide
-	8 Scuttling Bronzeplate
-	8 Junkshore Fisherman
-	8 Vampiric Strider
-	8 Shearing Rager
-	8 Deathblade
-	8 Pillabegg Scavengers
-	8 Furnace-Coals Hunter
-	8 Trashore Racketeer
-	8 Junksniffter
-	8 Ravenous Blade
-	8 Junkyard Hunt
-	8 Bleed Out
-	8 Thousand Cuts
-	8 Junksea Reclaiming
-	8 Divestion Blade
-	8 Cleaver's Carpace
-	8 Lethal Prowess
-	8 Mulchpot
-	8 Verdantho Lizard
-	8 Toolsmith Apprentice
-	8 Ruins Ranger
-	8 Pillabegg Elder
-	8 Piled-Up Junkshell
-	8 Basilisker
-	8 Kybertusk Mammoth
-	8 Steelgrazing Goat
-	8 Junkbelly
-	8 Excavating the Factory
-	8 Grow From Steel
-	8 Atomize
-	8 Pillabegg Probiota
-	8 Jawlock
-	8 Cybernetic Might
-	8 Trashore Trawl
-	8 Blast Furnace Beetle
-	8 Junker Man
-	8 Scrappy Automaton
-	8 Crucible Juggernaut
-	8 Arc-Talon Lacerator
-	8 Junksea Artillerist
-	8 Slag Cruciblair
-	8 Met-A110 Moth
-	8 Smokewagg
-	8 Automaton Arc-Flamer
-	8 Transmute Thermite
-	8 Imminent Missile
-	8 Pugilist's Prize
-	8 Rushed Rerpurposing
-	8 Slagful Slam
-	8 Reforge
-	8 Blinding Flare
-	8 Licensed Larcenist
-	8 Artserphlan Citizen
-	8 Draining Festerspark
-	8 Triage Tri-Arm
-	8 Prime Pugilist
-	8 Drakepost Parcel
-	8 Tort Artificer
-	8 Spliceblade Rogue
-	8 Leopard Drone Hunter
-	8 Portable Barricade
-	8 Quick Revision
-	8 Fuel Freeze
-	8 Artificer's Assertion
-	8 Wing Servos
-	8 Hitreg
-	8 Drawn Blade
-	8 Holographm Umbra
-	8 Strikesmith
-	8 Dwarftificer
-	8 Dewmoth
-	8 Farmword
-	8 Sandpeaks Cleric
-	8 Heiromancer Hologram
-	8 Lightstep Ascetic
-	8 Sable Drone Recon
-	8 Rune-Etch Artificer
-	8 Moonmoth Steed
-	8 Smite the Unlicensed
-	8 Projectile Energy Shield
-	8 Reforging Binding
-	8 On Patrol
-	8 Moonlight Mothering
-	8 Protective Holographm
-	8 Gone to History
-[foil(1)]
-	12 Terramorphic Expanse
-	12 Tranquil Cove
-	12 Dismal Backwater
-	12 Bloodfell Caves
-	12 Rugged Highlands
-	12 Blossoming Sands
-	12 Scoured Barrens
-	12 Swiftwater Cliffs
-	12 Jungle Hollow
-	12 Wind-Scarred Crag
-	12 Thornwood Falls
-	12 Lupa, the Metallophage
-	12 Bolstering Scrapling
-	12 Rattling Sentry
-	12 Rabid Striker
-	12 Parcelk
-	12 Toolsmith Courier
-	12 Trashore Freighter
-	12 Voltaic Construct
-	12 Abandoned Walker
-	12 Old World Guardian
-	12 Filtering Star
-	12 Rusty Gauntlet
-	12 Universal Corrosive
-	12 Flensing Jar
-	12 Scavenged Supplies
-	12 Coalpower Gauntlet
-	12 Metalshroom
-	12 Cyclic Vessel
-	12 Sedative Darts
-	12 Dormant Tallmer
-	12 Consumerist Spirit Guide
-	12 Scuttling Bronzeplate
-	12 Junkshore Fisherman
-	12 Vampiric Strider
-	12 Shearing Rager
-	12 Deathblade
-	12 Pillabegg Scavengers
-	12 Furnace-Coals Hunter
-	12 Trashore Racketeer
-	12 Junksniffter
-	12 Ravenous Blade
-	12 Junkyard Hunt
-	12 Bleed Out
-	12 Thousand Cuts
-	12 Junksea Reclaiming
-	12 Divestion Blade
-	12 Cleaver's Carpace
-	12 Lethal Prowess
-	12 Mulchpot
-	12 Verdantho Lizard
-	12 Toolsmith Apprentice
-	12 Ruins Ranger
-	12 Pillabegg Elder
-	12 Piled-Up Junkshell
-	12 Basilisker
-	12 Kybertusk Mammoth
-	12 Steelgrazing Goat
-	12 Junkbelly
-	12 Excavating the Factory
-	12 Grow From Steel
-	12 Atomize
-	12 Pillabegg Probiota
-	12 Jawlock
-	12 Cybernetic Might
-	12 Trashore Trawl
-	12 Blast Furnace Beetle
-	12 Junker Man
-	12 Scrappy Automaton
-	12 Crucible Juggernaut
-	12 Arc-Talon Lacerator
-	12 Junksea Artillerist
-	12 Slag Cruciblair
-	12 Met-A110 Moth
-	12 Smokewagg
-	12 Automaton Arc-Flamer
-	12 Transmute Thermite
-	12 Imminent Missile
-	12 Pugilist's Prize
-	12 Rushed Rerpurposing
-	12 Slagful Slam
-	12 Reforge
-	12 Blinding Flare
-	12 Licensed Larcenist
-	12 Artserphlan Citizen
-	12 Draining Festerspark
-	12 Triage Tri-Arm
-	12 Prime Pugilist
-	12 Drakepost Parcel
-	12 Tort Artificer
-	12 Spliceblade Rogue
-	12 Leopard Drone Hunter
-	12 Portable Barricade
-	12 Quick Revision
-	12 Fuel Freeze
-	12 Artificer's Assertion
-	12 Wing Servos
-	12 Hitreg
-	12 Drawn Blade
-	12 Holographm Umbra
-	12 Strikesmith
-	12 Dwarftificer
-	12 Dewmoth
-	12 Farmword
-	12 Sandpeaks Cleric
-	12 Heiromancer Hologram
-	12 Lightstep Ascetic
-	12 Sable Drone Recon
-	12 Rune-Etch Artificer
-	12 Moonmoth Steed
-	12 Smite the Unlicensed
-	12 Projectile Energy Shield
-	12 Reforging Binding
-	12 On Patrol
-	12 Moonlight Mothering
-	12 Protective Holographm
-	12 Gone to History
-	1 Steelstorm Conduit
-	1 Sword of One and Many
-	1 Astro, Wonder Wielder
-	1 Assimilate
-	1 Grrr, Interplanar Armsdealer
-	1 Konzah, Gastropod Proficcionado
-	1 Semblance of Prosperity
-	1 Witness the End
-	1 Behel, Unliving Weapon
-	1 Furnace-Coals Reaper
-	1 Breach the Factory
-	1 Illusion of Peace
-	1 Deep Strata Pressure
-	1 Symmetric Warfare
-	1 MMx2, The Factory
-	1 Apocalypse Then
-	1 Retrofitter's Ritual
-	1 Ayesha, Lost Embrace
-	1 Behel's Escalating Machinations
-	1 Reflective Hulk
-	2 The Goldigarch
-	2 Verdant Rebreather
-	2 Furnace Firestarter
-	2 Crystalline Giant
-	2 Tempered Powergem
-	2 Sponsored Companion
-	2 Brainial Plating
-	2 Murk Shade
-	2 Colossurs
-	2 Specimen Container
-	2 Serpent of the Void
-	2 Perforating Carapace
-	2 Junkyard Expert
-	2 Darklash Flaggelant
-	2 Acidspit Incubator
-	2 Factory Wurm
-	2 Pollution Armaments
-	2 Industry Abomination
-	2 Conflict of Interest
-	2 Trashore Ogre
-	2 Terrabombing
-	2 Jade Armorer
-	2 Stampeding Oxobegg
-	2 Perfect Complexion
-	2 Cyborgmancer
-	2 Dr. Fabre, the Junkseer
-	2 Steel Gardener
-	2 Deflecting Pool
-	2 Frosted Sandpeaks
-	2 Sunken Conservatory
-	2 Remediated Outpost
-	2 Coastal Crash-Site
-	2 Dessicated Drift
-	2 Scaled Armorer
-	2 War Djinn
-	2 Furnacemaster Orc
-	2 Dreck Contamination
-	2 Easy-Fix Scrapheap
-	2 Daggers of Dance and Death
-	2 Old World Engineers
-	2 Dross Digestion
-	2 Collected Clangours
-	2 Mass Reproduction
-	2 Old World Rockstar
-	2 Blitzwing Armorer
-	2 Remelt
-	2 Rhoogex, the Furnace Lord
-	2 Immolation Automaton
-	2 Clangorous Militia
-	2 Furnace Knight
-	2 Replicating Ripper
-	2 Vedalken Tinkerer
-	2 Override Clamp
-	2 Veiled Armorer
-	2 Archon of Artifice
-	2 Mind Numbing Screech
-	2 Mechanical Mimic
-	2 Monitor's Autopugilistar
-	2 Nerveweave Swap Station
-	2 Martial Tech
-	2 Old World Flutist
-	2 Brightlash Eggfly
-	2 License Suspender
-	2 Perfected Armormod
-	2 Scholar of Runes
-	2 Bladeblessed Angel
-	2 Universal Engineer
-	6 Cardboard Crustacean
-	6 Half-Chi
-	6 Ambushing Scuttler
-	6 Junksea Tril-0
-	6 Constructed Steward
-	6 Rusted Recouper
-	6 Cobbled Automaton
-	6 Scintilla War Machine
-	6 Remnant Warden
-	6 Astro's Spaceblade
-	6 Infomschematic Well
-	6 Trash Dowsing Staff
-	6 Hardgraphm Armor
-	6 Ciphered Blade
-	6 Scorpion Spineclamp
-	6 Metalshroom Foofballs
-	6 Seeding Mine
-	6 Blight Troop
-	6 Resentful Smith
-	6 Wredger
-	6 Zjieg, Edgelord
-	6 Extortionist Cutpurse
-	6 Smokebrock Vulture
-	6 Grrr's Warhound
-	6 Merciless Rend
-	6 Manufacturing Defect
-	6 Under the Junk-Sea
-	6 Boneforged Staff
-	6 Return Rearmed
-	6 Sulphuric Seas
-	6 Steel Soul Farie
-	6 Prime Forest Loamer
-	6 Verdant Hologram
-	6 Acrid Hound
-	6 Crashing Rhinobegg
-	6 Scrap Animist
-	6 Beldram, Adaptive Automator
-	6 Rhinodrone Piker
-	6 Verdant Synthesizer
-	6 Pin to the Ground
-	6 Interlocking Insight
-	6 Junksea's Stampede
-	6 Stratify the Past
-	6 Solaris Cleaner
-	6 Weapons Merchant
-	6 Death Machinist
-	6 Rust Refiner
-	6 Old World Decoration
-	6 Angle Knight
-	6 Artifizzard
-	6 Junksea Hunter
-	6 Scorpone Aristocrat
-	6 Implant Enthusiast
-	6 Kyberdaemon
-	6 Slaghorn Rhino
-	6 Opportunistic Saprotrophy
-	6 Furnace Artillerist
-	6 Blastman
-	6 Furnace Crawler
-	6 Glimmering Find
-	6 Molten Wellspring
-	6 Forged Ferocity
-	6 Crucible Cannon
-	6 Furnace Flare
-	6 Junker's Furnace
-	6 Nexus Salvage
-	6 Interplanter
-	6 Holographm Stalker
-	6 Glirix, Toolsmith
-	6 Augur of Implants
-	6 Drone Falconer
-	6 Metalmancer
-	6 Jardekan Techmage
-	6 Cryogen Broadsword
-	6 Holographic Insight
-	6 Digitalize
-	6 Shackles of Artifice
-	6 Skyclang Jetwings
-	6 Assimilation Blade
-	6 Assault Trooper
-	6 Liscenced Scout
-	6 Old World Noble
-	6 Robotics Artisan
-	6 Derelict Sentinel
-	6 Old World Armada
-	6 Kudu-Drone Scout
-	6 Tinkering Maestro
-	6 Modified Mauling
-	6 Embellish Armaments
-	6 Clean Idea
-	6 Juliet's Autodog
-	6 Reassemble
-[wildcard(1)]
-	6 Terramorphic Expanse
-	6 Tranquil Cove
-	6 Dismal Backwater
-	6 Bloodfell Caves
-	6 Rugged Highlands
-	6 Blossoming Sands
-	6 Scoured Barrens
-	6 Swiftwater Cliffs
-	6 Jungle Hollow
-	6 Wind-Scarred Crag
-	6 Thornwood Falls
-	6 Lupa, the Metallophage
-	6 Bolstering Scrapling
-	6 Rattling Sentry
-	6 Rabid Striker
-	6 Parcelk
-	6 Toolsmith Courier
-	6 Trashore Freighter
-	6 Voltaic Construct
-	6 Abandoned Walker
-	6 Old World Guardian
-	6 Filtering Star
-	6 Rusty Gauntlet
-	6 Universal Corrosive
-	6 Flensing Jar
-	6 Scavenged Supplies
-	6 Coalpower Gauntlet
-	6 Metalshroom
-	6 Cyclic Vessel
-	6 Sedative Darts
-	6 Dormant Tallmer
-	6 Consumerist Spirit Guide
-	6 Scuttling Bronzeplate
-	6 Junkshore Fisherman
-	6 Vampiric Strider
-	6 Shearing Rager
-	6 Deathblade
-	6 Pillabegg Scavengers
-	6 Furnace-Coals Hunter
-	6 Trashore Racketeer
-	6 Junksniffter
-	6 Ravenous Blade
-	6 Junkyard Hunt
-	6 Bleed Out
-	6 Thousand Cuts
-	6 Junksea Reclaiming
-	6 Divestion Blade
-	6 Cleaver's Carpace
-	6 Lethal Prowess
-	6 Mulchpot
-	6 Verdantho Lizard
-	6 Toolsmith Apprentice
-	6 Ruins Ranger
-	6 Pillabegg Elder
-	6 Piled-Up Junkshell
-	6 Basilisker
-	6 Kybertusk Mammoth
-	6 Steelgrazing Goat
-	6 Junkbelly
-	6 Excavating the Factory
-	6 Grow From Steel
-	6 Atomize
-	6 Pillabegg Probiota
-	6 Jawlock
-	6 Cybernetic Might
-	6 Trashore Trawl
-	6 Blast Furnace Beetle
-	6 Junker Man
-	6 Scrappy Automaton
-	6 Crucible Juggernaut
-	6 Arc-Talon Lacerator
-	6 Junksea Artillerist
-	6 Slag Cruciblair
-	6 Met-A110 Moth
-	6 Smokewagg
-	6 Automaton Arc-Flamer
-	6 Transmute Thermite
-	6 Imminent Missile
-	6 Pugilist's Prize
-	6 Rushed Rerpurposing
-	6 Slagful Slam
-	6 Reforge
-	6 Blinding Flare
-	6 Licensed Larcenist
-	6 Artserphlan Citizen
-	6 Draining Festerspark
-	6 Triage Tri-Arm
-	6 Prime Pugilist
-	6 Drakepost Parcel
-	6 Tort Artificer
-	6 Spliceblade Rogue
-	6 Leopard Drone Hunter
-	6 Portable Barricade
-	6 Quick Revision
-	6 Fuel Freeze
-	6 Artificer's Assertion
-	6 Wing Servos
-	6 Hitreg
-	6 Drawn Blade
-	6 Holographm Umbra
-	6 Strikesmith
-	6 Dwarftificer
-	6 Dewmoth
-	6 Farmword
-	6 Sandpeaks Cleric
-	6 Heiromancer Hologram
-	6 Lightstep Ascetic
-	6 Sable Drone Recon
-	6 Rune-Etch Artificer
-	6 Moonmoth Steed
-	6 Smite the Unlicensed
-	6 Projectile Energy Shield
-	6 Reforging Binding
-	6 On Patrol
-	6 Moonlight Mothering
-	6 Protective Holographm
-	6 Gone to History
-	4 Steelstorm Conduit
-	4 Sword of One and Many
-	4 Astro, Wonder Wielder
-	4 Assimilate
-	4 Grrr, Interplanar Armsdealer
-	4 Konzah, Gastropod Proficcionado
-	4 Semblance of Prosperity
-	4 Witness the End
-	4 Behel, Unliving Weapon
-	4 Furnace-Coals Reaper
-	4 Breach the Factory
-	4 Illusion of Peace
-	4 Deep Strata Pressure
-	4 Symmetric Warfare
-	4 MMx2, The Factory
-	4 Apocalypse Then
-	4 Retrofitter's Ritual
-	4 Ayesha, Lost Embrace
-	4 Behel's Escalating Machinations
-	4 Reflective Hulk
-	7 The Goldigarch
-	7 Verdant Rebreather
-	7 Furnace Firestarter
-	7 Crystalline Giant
-	7 Tempered Powergem
-	7 Sponsored Companion
-	7 Brainial Plating
-	7 Murk Shade
-	7 Colossurs
-	7 Specimen Container
-	7 Serpent of the Void
-	7 Perforating Carapace
-	7 Junkyard Expert
-	7 Darklash Flaggelant
-	7 Acidspit Incubator
-	7 Factory Wurm
-	7 Pollution Armaments
-	7 Industry Abomination
-	7 Conflict of Interest
-	7 Trashore Ogre
-	7 Terrabombing
-	7 Jade Armorer
-	7 Stampeding Oxobegg
-	7 Perfect Complexion
-	7 Cyborgmancer
-	7 Dr. Fabre, the Junkseer
-	7 Steel Gardener
-	7 Deflecting Pool
-	7 Frosted Sandpeaks
-	7 Sunken Conservatory
-	7 Remediated Outpost
-	7 Coastal Crash-Site
-	7 Dessicated Drift
-	7 Scaled Armorer
-	7 War Djinn
-	7 Furnacemaster Orc
-	7 Dreck Contamination
-	7 Easy-Fix Scrapheap
-	7 Daggers of Dance and Death
-	7 Old World Engineers
-	7 Dross Digestion
-	7 Collected Clangours
-	7 Mass Reproduction
-	7 Old World Rockstar
-	7 Blitzwing Armorer
-	7 Remelt
-	7 Rhoogex, the Furnace Lord
-	7 Immolation Automaton
-	7 Clangorous Militia
-	7 Furnace Knight
-	7 Replicating Ripper
-	7 Vedalken Tinkerer
-	7 Override Clamp
-	7 Veiled Armorer
-	7 Archon of Artifice
-	7 Mind Numbing Screech
-	7 Mechanical Mimic
-	7 Monitor's Autopugilistar
-	7 Nerveweave Swap Station
-	7 Martial Tech
-	7 Old World Flutist
-	7 Brightlash Eggfly
-	7 License Suspender
-	7 Perfected Armormod
-	7 Scholar of Runes
-	7 Bladeblessed Angel
-	7 Universal Engineer
-	15 Cardboard Crustacean
-	15 Half-Chi
-	15 Ambushing Scuttler
-	15 Junksea Tril-0
-	15 Constructed Steward
-	15 Rusted Recouper
-	15 Cobbled Automaton
-	15 Scintilla War Machine
-	15 Remnant Warden
-	15 Astro's Spaceblade
-	15 Infomschematic Well
-	15 Trash Dowsing Staff
-	15 Hardgraphm Armor
-	15 Ciphered Blade
-	15 Scorpion Spineclamp
-	15 Metalshroom Foofballs
-	15 Seeding Mine
-	15 Blight Troop
-	15 Resentful Smith
-	15 Wredger
-	15 Zjieg, Edgelord
-	15 Extortionist Cutpurse
-	15 Smokebrock Vulture
-	15 Grrr's Warhound
-	15 Merciless Rend
-	15 Manufacturing Defect
-	15 Under the Junk-Sea
-	15 Boneforged Staff
-	15 Return Rearmed
-	15 Sulphuric Seas
-	15 Steel Soul Farie
-	15 Prime Forest Loamer
-	15 Verdant Hologram
-	15 Acrid Hound
-	15 Crashing Rhinobegg
-	15 Scrap Animist
-	15 Beldram, Adaptive Automator
-	15 Rhinodrone Piker
-	15 Verdant Synthesizer
-	15 Pin to the Ground
-	15 Interlocking Insight
-	15 Junksea's Stampede
-	15 Stratify the Past
-	15 Solaris Cleaner
-	15 Weapons Merchant
-	15 Death Machinist
-	15 Rust Refiner
-	15 Old World Decoration
-	15 Angle Knight
-	15 Artifizzard
-	15 Junksea Hunter
-	15 Scorpone Aristocrat
-	15 Implant Enthusiast
-	15 Kyberdaemon
-	15 Slaghorn Rhino
-	15 Opportunistic Saprotrophy
-	15 Furnace Artillerist
-	15 Blastman
-	15 Furnace Crawler
-	15 Glimmering Find
-	15 Molten Wellspring
-	15 Forged Ferocity
-	15 Crucible Cannon
-	15 Furnace Flare
-	15 Junker's Furnace
-	15 Nexus Salvage
-	15 Interplanter
-	15 Holographm Stalker
-	15 Glirix, Toolsmith
-	15 Augur of Implants
-	15 Drone Falconer
-	15 Metalmancer
-	15 Jardekan Techmage
-	15 Cryogen Broadsword
-	15 Holographic Insight
-	15 Digitalize
-	15 Shackles of Artifice
-	15 Skyclang Jetwings
-	15 Assimilation Blade
-	15 Assault Trooper
-	15 Liscenced Scout
-	15 Old World Noble
-	15 Robotics Artisan
-	15 Derelict Sentinel
-	15 Old World Armada
-	15 Kudu-Drone Scout
-	15 Tinkering Maestro
-	15 Modified Mauling
-	15 Embellish Armaments
-	15 Clean Idea
-	15 Juliet's Autodog
-	15 Reassemble
+	5 Cardboard Crustacean
+	5 Half-Chi
+	5 Ambushing Scuttler
+	5 Junksea Tril-0
+	5 Constructed Steward
+	5 Rusted Recouper
+	5 Cobbled Automaton
+	5 Scintilla War Machine
+	5 Remnant Warden
+	5 Astro's Spaceblade
+	5 Infomschematic Well
+	5 Trash Dowsing Staff
+	5 Hardgraphm Armor
+	5 Ciphered Blade
+	5 Scorpion Spineclamp
+	5 Metalshroom Foofballs
+	5 Seeding Mine
+	5 Blight Troop
+	5 Resentful Smith
+	5 Wredger
+	5 Zjieg, Edgelord
+	5 Extortionist Cutpurse
+	5 Smokebrock Vulture
+	5 Grrr's Warhound
+	5 Merciless Rend
+	5 Manufacturing Defect
+	5 Under the Junk-Sea
+	5 Boneforged Staff
+	5 Return Rearmed
+	5 Sulphuric Seas
+	5 Steel Soul Farie
+	5 Prime Forest Loamer
+	5 Verdant Hologram
+	5 Acrid Hound
+	5 Crashing Rhinobegg
+	5 Scrap Animist
+	5 Beldram, Adaptive Automator
+	5 Rhinodrone Piker
+	5 Verdant Synthesizer
+	5 Pin to the Ground
+	5 Interlocking Insight
+	5 Junksea's Stampede
+	5 Stratify the Past
+	5 Solaris Cleaner
+	5 Weapons Merchant
+	5 Death Machinist
+	5 Rust Refiner
+	5 Old World Decoration
+	5 Angle Knight
+	5 Artifizzard
+	5 Junksea Hunter
+	5 Scorpone Aristocrat
+	5 Implant Enthusiast
+	5 Kyberdaemon
+	5 Slaghorn Rhino
+	5 Opportunistic Saprotrophy
+	5 Furnace Artillerist
+	5 Blastman
+	5 Furnace Crawler
+	5 Glimmering Find
+	5 Molten Wellspring
+	5 Forged Ferocity
+	5 Crucible Cannon
+	5 Furnace Flare
+	5 Junker's Furnace
+	5 Nexus Salvage
+	5 Interplanter
+	5 Holographm Stalker
+	5 Glirix, Toolsmith
+	5 Augur of Implants
+	5 Drone Falconer
+	5 Metalmancer
+	5 Jardekan Techmage
+	5 Cryogen Broadsword
+	5 Holographic Insight
+	5 Digitalize
+	5 Shackles of Artifice
+	5 Skyclang Jetwings
+	5 Assimilation Blade
+	5 Assault Trooper
+	5 Liscenced Scout
+	5 Old World Noble
+	5 Robotics Artisan
+	5 Derelict Sentinel
+	5 Old World Armada
+	5 Kudu-Drone Scout
+	5 Tinkering Maestro
+	5 Modified Mauling
+	5 Embellish Armaments
+	5 Clean Idea
+	5 Juliet's Autodog
+	5 Reassemble
+[common(10)]
+	5 Terramorphic Expanse
+	5 Tranquil Cove
+	5 Dismal Backwater
+	5 Bloodfell Caves
+	5 Rugged Highlands
+	5 Blossoming Sands
+	5 Scoured Barrens
+	5 Swiftwater Cliffs
+	5 Jungle Hollow
+	5 Wind-Scarred Crag
+	5 Thornwood Falls
+	5 Lupa, the Metallophage
+	5 Bolstering Scrapling
+	5 Rattling Sentry
+	5 Rabid Striker
+	5 Parcelk
+	5 Toolsmith Courier
+	5 Trashore Freighter
+	5 Voltaic Construct
+	5 Abandoned Walker
+	5 Old World Guardian
+	5 Filtering Star
+	5 Rusty Gauntlet
+	5 Universal Corrosive
+	5 Flensing Jar
+	5 Scavenged Supplies
+	5 Coalpower Gauntlet
+	5 Metalshroom
+	5 Cyclic Vessel
+	5 Sedative Darts
+	5 Dormant Tallmer
+	5 Consumerist Spirit Guide
+	5 Scuttling Bronzeplate
+	5 Junkshore Fisherman
+	5 Vampiric Strider
+	5 Shearing Rager
+	5 Deathblade
+	5 Pillabegg Scavengers
+	5 Furnace-Coals Hunter
+	5 Trashore Racketeer
+	5 Junksniffter
+	5 Ravenous Blade
+	5 Junkyard Hunt
+	5 Bleed Out
+	5 Thousand Cuts
+	5 Junksea Reclaiming
+	5 Divestion Blade
+	5 Cleaver's Carpace
+	5 Lethal Prowess
+	5 Mulchpot
+	5 Verdantho Lizard
+	5 Toolsmith Apprentice
+	5 Ruins Ranger
+	5 Pillabegg Elder
+	5 Piled-Up Junkshell
+	5 Basilisker
+	5 Kybertusk Mammoth
+	5 Steelgrazing Goat
+	5 Junkbelly
+	5 Excavating the Factory
+	5 Grow From Steel
+	5 Atomize
+	5 Pillabegg Probiota
+	5 Jawlock
+	5 Cybernetic Might
+	5 Trashore Trawl
+	5 Blast Furnace Beetle
+	5 Junker Man
+	5 Scrappy Automaton
+	5 Crucible Juggernaut
+	5 Arc-Talon Lacerator
+	5 Junksea Artillerist
+	5 Slag Cruciblair
+	5 Met-A110 Moth
+	5 Smokewagg
+	5 Automaton Arc-Flamer
+	5 Transmute Thermite
+	5 Imminent Missile
+	5 Pugilist's Prize
+	5 Rushed Rerpurposing
+	5 Slagful Slam
+	5 Reforge
+	5 Blinding Flare
+	5 Licensed Larcenist
+	5 Artserphlan Citizen
+	5 Draining Festerspark
+	5 Triage Tri-Arm
+	5 Prime Pugilist
+	5 Drakepost Parcel
+	5 Tort Artificer
+	5 Spliceblade Rogue
+	5 Leopard Drone Hunter
+	5 Portable Barricade
+	5 Quick Revision
+	5 Fuel Freeze
+	5 Artificer's Assertion
+	5 Wing Servos
+	5 Hitreg
+	5 Drawn Blade
+	5 Holographm Umbra
+	5 Strikesmith
+	5 Dwarftificer
+	5 Dewmoth
+	5 Farmword
+	5 Sandpeaks Cleric
+	5 Heiromancer Hologram
+	5 Lightstep Ascetic
+	5 Sable Drone Recon
+	5 Rune-Etch Artificer
+	5 Moonmoth Steed
+	5 Smite the Unlicensed
+	5 Projectile Energy Shield
+	5 Reforging Binding
+	5 On Patrol
+	5 Moonlight Mothering
+	5 Protective Holographm
+	5 Gone to History

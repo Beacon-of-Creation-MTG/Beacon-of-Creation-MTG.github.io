@@ -1,4 +1,586 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Murmur VGE added.
+
+Murmur removed.
+
+
+VERSION 2 CHANGELOG
+====================
+
+Siren's Temptation added.
+Privileged Performer added.
+
+Sirens Temptation removed.
+Privledged Performer removed.
+
+Amphiteater Listener
+rules_text: When this creature dies, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => When this creature dies, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Echo of Delight
+rules_text: Vigilance
+Whenever this creature attacks, you may pay {1}{BR}. If you do, return target Aura card from your graveyard to the battlefield attached to this creature. Sacrifice that Aura at the end of combat. => Vigilance
+Whenever this creature attacks, you may pay {1}{BR}. If you do, create two tapped and attacking 1/1 white Human creature tokens. Sacrifice them at the beginning of the next end step.
+
+Accoustic Reflections
+
+Dynamic Dynamics
+type: Instant => Enchantment — Aura
+rules_text: This spell costs {1} less to cast if a creature you control is attacking alone.
+Target creature gets +2/+2 until end of turn. => Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has exalted. [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+
+Olgal Shore Guardian
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, you may pay {1}. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, you may pay {1}. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Phase Inverter
+
+Auditioning Canon
+
+Delayed Performance
+rules_text: Return target spell to its owners hand unless they pay {2}. If they do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Return target spell to its owners hand unless they pay {2}. If they do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Tuck Within Harmony
+rules_text: The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Reminiscent Tune
+cost: {3}{U} => {2}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Return target instant or sorcery card from your graveyard to your hand.
+[i]You do not recognize the melody in the murmur.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Return target instant or sorcery card from your graveyard to your hand.
+[i]You do not recognize the melody in the murmur.[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Return target instant or sorcery card from your graveyard to your hand.
+[i]You do not recognize the melody in the murmur.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)[/i]
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Return target instant or sorcery card from your graveyard to your hand.
+[i]You do not recognize the melody in the murmur.[/i]
+
+Decreshh Revenant
+rules_text: Flying
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, target player mills a card. => Flying
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, target player mills two cards.
+
+Subtle Silencer
+rules_text: Whenever a lore counter is put on a permanent you control, surveil 1. If a nonland card is put into your graveyard this way this creature gets +1/+0 and gains deathtouch until end of turn. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters, Surveil 1 [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Whenever this creature attacks alone it gets +1/+0 and gains deathtouch until end of turn.
+pt: 2/2 => 2/1
+
+Mourning Soliliquist
+rules_text: Whenever a creature card is put into a graveyard from anywhere for the first time each turn you may pay {B} and 2 life, if you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Whenever a creature card is put into a graveyard from anywhere for the first time each turn you may pay {B} and 2 life, if you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Call of the Cruel
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill three cards.
+Create a 1/1 blue and red Siren creature token with “{T}:Target creature can't block alone until end of turn. Activate only as a sorcery”
+You may sacrifice a creature. If you do return a creature card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill three cards.
+Create a 1/1 blue and red Siren creature token with “{T}:Target creature can't block alone until end of turn. Activate only as a sorcery”
+Return up to one target creature card and up to one target Siren card from your graveyard to your hand.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill three cards.
+Create a 1/1 blue and red Siren creature token with “{T}:Target creature can't block alone until end of turn. Activate only as a sorcery”
+You may sacrifice a creature. If you do return a creature card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill three cards.
+Create a 1/1 blue and red Siren creature token with “{T}:Target creature can't block alone until end of turn. Activate only as a sorcery”
+Return up to one target creature card and up to one target Siren card from your graveyard to your hand.
+
+Life's Echo
+rules_text: Flash
+Enchant creature
+When enchanted creature dies, return it to the battlefield with a finality counter on it, except it's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}—Add {C}.” in addition to its other types an abilities. => Flash
+Enchant creature
+When enchanted creature dies, return it to the battlefield with a finality counter on it, except it's a colorless Saga Murmur enchantment with “{2V},{3V}—Add {C}.” in addition to its other types an abilities.
+
+Siren Tracker
+
+Echo of Embers
+rules_text: Haste
+Whenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X target creatures, where X is one plus the number of Auras you control. => Haste
+Whenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X target creatures, where X is equal to the number of enchantments you control.
+
+Flaming Resolution
+cost: {2}{R}{R} => {1}{R}{R}
+rules_text: As an additional cost to cast this spell you may sacrifice an enchantment.
+This spell deals 4 damage to target creature or planeswalker. If you sacrificed an enchantment as you cast this spell it deals 4 damage to any target instead. => As an additional cost to cast this spell you may sacrifice an enchantment.
+This spell deals 3 damage to target creature or planeswalker. If you sacrificed an enchantment as you cast this spell it deals 5 damage to any target instead.
+
+Lonely Whispering
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I, II — This Saga deals 1 damage to each creature and planeswalker.
+III — Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I, II — This Saga deals 1 damage to each creature and planeswalker.
+III — Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I, II — This Saga deals 1 damage to each creature and planeswalker.
+III — Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+I, II — This Saga deals 1 damage to each creature and planeswalker.
+III — Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+​
+
+Storykeeper
+rules_text: When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Nature's Duet
+
+Echo of Family
+rules_text: Trample
+Whenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Trample
+Whenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Follow the Murmur
+rules_text: Search your library for a basic land card, put it into your hand, then shuffle.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Search your library for a basic land card, put it into your hand, then shuffle.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Choir of Spirits
+rules_text: Vigilance
+{CW}{CB}, Discard this creature: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Vigilance
+{CW}{CB}, Discard this creature: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Mycosong Dryad
+
+Murmur Echoer
+rules_text: Whenever you cast your second spell each turn, you may tap an untapped creature you control. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Whenever you cast your second spell each turn, you may tap an untapped creature you control. If you do create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Olgal Murmur Leader
+rules_text: Whenever this creature deals combat damage to a player, you may pay {1}, if you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Whenever this creature deals combat damage to a player, you may pay {1}, if you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Suddenstar's Gift
+
+Gathering Whispers
+cost: {2}{BG}{BG} => {1}{BG}{BG}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Create a 1/1 black and green Elf creature token.
+You lose 1 life, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Create a 1/1 black and green Elf creature token.
+You lose 1 life. Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Create a 1/1 black and green Elf creature token.
+You lose 1 life, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)[/i]
+Create a 1/1 black and green Elf creature token.
+You lose 1 life. Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+​
+
+Snapjaw Serpent
+rules_text: Whenever you cast a noncreature spell put a +1/+1 counter on this creature.
+The second spell you cast each turn costs {1} less to cast. => Whenever noncreature, nonland permanent enters under your control put a +1/+1 counter on this creature.
+The second spell you cast each turn costs {1} less to cast.
+
+Olgal Song-Seer
+rules_text: When this creature enters create a 1/1 blue and red Siren creature token with “{T}:Target creature can't block alone until end of turn. Activate only as a sorcery”.
+Whenever a Siren you control deals combat damage to a player, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters create a 1/1 blue and red Siren creature token with “{T}:Target creature can't block alone until end of turn. Activate only as a sorcery”.
+Whenever you create one or more tokens, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Grandstaff Genius
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, create a 1/1 blue and red Siren creature token with “{T}: Target creature can't block alone until end of turn. Activate only as a sorcery”. => Whenever a Siren or noncreature, nonland permanent enters under your control, this creature gets +1/+0 and gains menace until end of turn.
+When this creature enters, create a 1/1 blue and red Siren creature token with “{T}: Target creature can't block alone until end of turn. Activate only as a sorcery”.
+
+Ruins of Olgal
+rules_text: {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{T}, Sacrifice this land: Exile target player's graveyard. => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{T}, Sacrifice this land: Exile target player's graveyard. Activate only as a sorcery.
+
+Choir Loft
+rules_text: This land enters tapped unless you pay {C}.
+{T}: Add {R} or {W}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => This land enters tapped unless you pay {C}.
+{T}: Add {R} or {W}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Vocalists Round
+rules_text: This land enters tapped unless you pay {C}.
+{T}: Add {U} or {R}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => This land enters tapped unless you pay {C}.
+{T}: Add {U} or {R}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Reverberant Shore
+rules_text: This land enters tapped unless you pay {C}.
+{T}: Add {G} or {U}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => This land enters tapped unless you pay {C}.
+{T}: Add {G} or {U}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Anechoic Chamber
+rules_text: This land enters tapped unless you pay {C}.
+{T}: Add {B} or {G}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => This land enters tapped unless you pay {C}.
+{T}: Add {B} or {G}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Crumbling Stage
+rules_text: This land enters tapped unless you pay {C}.
+{T}: Add {W} or {B}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => This land enters tapped unless you pay {C}.
+{T}: Add {W} or {B}.
+{4}, {T}: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Siren
+
+Wall
+
+Elemental
+
+Whining Whisps
+rules_text: Flying
+When this creature enters, you may return another nonland permanent you control to your hand. If you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Flying
+When this creature enters, you may return another nonland permanent you control to your hand. If you do, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Entombing Chant
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for a card, put that card into your graveyard, the shuffle.
+Draw a card. You lose 2 life.
+Shuffle your graveyard into your library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for a card, put that card into your graveyard, then shuffle.
+Draw a card. You lose 2 life.
+Shuffle your graveyard into your library.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for a card, put that card into your graveyard, the shuffle.
+Draw a card. You lose 2 life.
+Shuffle your graveyard into your library. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Search your library for a card, put that card into your graveyard, then shuffle.
+Draw a card. You lose 2 life.
+Shuffle your graveyard into your library.
+
+Maestro of Whims
+
+Ruin-Delving Quartet
+
+Stable Resolution
+
+Call the Chorus
+rules_text: Create a 1/1 black and green Elf creature token for each enchantment card in your graveyard.
+{2}, Exile this card from your graveyard: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Create a 1/1 black and green Elf creature token for each enchantment card in your graveyard.
+{2}, Exile this card from your graveyard: Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Tempting Siren
+rules_text: Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+Whenever an Aura becomes attached to Tempting Siren, create a 1/1 blue and red Siren creature token with “{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.” => Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+Whenever a noncreature, nonland permanent enters under your control create a 1/1 blue and red Siren creature token with “{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.”
+pt: 3/2 => 2/2
+
+Unsung Corpse
+rules_text: When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+{2}{C}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery. => When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+{2}{C}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.
+
+Kitt Kanto, on Tour
+rules_text: Haste
+This creature attacks each turn if able.
+Tokens you control have exalted. [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i] => Haste
+This creature attacks each turn if able.
+Creature tokens you control have exalted. [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+
+Blessings of the Crowd
+
+Lonesome Siren
+rules_text: Whenever a creature you control attacks alone, it gains prowess until end of turn. => Whenever a creature you control attacks alone, it gets +1/+0 for each permanent that entered this turn.
+
+Spellshaper Siren
+rules_text: {UR}, {T}, Discard a card: Create a 1/1 blue and red Siren creature token with “{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.” => Vigilance
+{UR}, {T}, Discard a card: Create a 1/1 blue and red Siren creature token with “{T}: Target creature can't block alone until end of turn. Activate only as a sorcery.”
+
+Dowsing Couple
+
+Call and Response
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green Elemental creature token.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Create a token copy of each of up to two target tokens. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green Elemental creature token.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Create a token copy of each of up to two target tokens.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green Elemental creature token.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Create a token copy of each of up to two target tokens. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 2/2 green Elemental creature token.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Create a token copy of each of up to two target tokens.
+
+Sennai, Songclade's Start
+rules_text: Murmurs you control have “{2ch.png} — Put a +1/+1 counter on target creature you control.” in addition to its other abilities. => Murmurs you control have “{2V} — Put a +1/+1 counter on target creature you control.” in addition to its other abilities.
+
+Siren Choir
+
+Siren Song
+
+Self-Assuring Siren
+rules_text: Vigilance
+{T}: Target creature can't block alone until end of turn. Activate only as a sorcery. => Vigilance
+When this creature attacks target creature can't block alone until end of turn. Activate only as a sorcery.
+
+Clever Serpent
+pt: 2/4 => 3/3
+
+Amaia, Coda Composer
+rules_text: When this creature enters create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Other Sirens you control get +1/+1.
+Sagas you control have “{4ch.png}— Create a token that's a copy of target Siren.” => When this creature enters create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Other Sirens you control get +1/+1.
+Sagas you control have “{4V}— Create a token that's a copy of target Siren.”
+
+Emmsi, Rondelli Royalty
+rules_text: Haste
+This creature gets +2/+0 for each permanent that entered the battlefield under your control this turn.
+{UR}, {T}: Return this card to your hand. => Haste
+Emmsi gets +2/+0 for each permanent that entered the battlefield under your control this turn.
+{UR}, {T}: Return Emmsi to your hand.
+
+Gastal Requiem
+type: Sorcery => Instant
+cost: {1}{2U}{2R} => {2U}{2R}
+rules_text: As an additional cost to cast this spell discard X cards.
+Gain control of target creature with mana value X until end of turn. Untap it. It gains haste until end of turn. Then draw X cards.
+[i]Finale —[/i] Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it. => Discard your hand, then draw that many cards plus one.
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.
+
+Olgal Demon
+rules_text: Flying
+Whenever another creature you control dies, return it to the battlefield with a finality counter on it, its a Saga enchantment with “{1ch.png},{2ch.png},{3ch.png}— Each player loses 1 life.” => Flying
+Whenever another creature you control dies, return it to the battlefield with a finality counter on it, its a Saga enchantment with “{1V},{2V},{3V}— Each player loses 1 life.”
+
+Trench Siren
+rules_text: Menace, haste
+Whenever this creature attacks, put a lore counter on it.
+{4ch.png}—Creatures you control get +2/+2 and gain lifelink and can't be blocked until end of turn. => Menace, haste
+Whenever this creature attacks, put a lore counter on it.
+{4V}—Creatures you control get +2/+2 and gain lifelink and can't be blocked until end of turn.
+
+Finalesong Clade
+
+Totentanz, Murmur Maginifier
+
+Phoenix Siren
+type: Creature — Siren => Creature — Phoenix Siren
+rules_text: Prowess, flying, haste
+Whenever a chapter ability of a saga you control triggers, return this creature from your graveyard to the battlefield, it gains flying until end of turn. => Prowess, flying
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, return this creature from your graveyard to the battlefield, it gains haste until end of turn.
+
+Aura of Stardom
+rules_text: Enchant Creature
+Whenever enchanted creature deals combat damage to a player, create a token copy of target nonlegendary creature or enchantment you control.
+Whenever a creature you control attacks alone, you may cast this card from your graveyard targeting that creature. => Enchant creature
+Whenever enchanted creature deals combat damage to a player, create a token copy of target nonlegendary creature or enchantment you control.
+Whenever a creature you control attacks alone, you may cast this card from your graveyard targeting that creature.
+
+The Murmursong Score
+rules_text: Creatures you control have “{T}: Create a Murmur token.” [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Creatures you control have “{T}: Create a Murmur token.” [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Pel, Tremolos Tutor
+rules_text: Reach
+When Pel, Tremolos Tutor enters, search your library for a card that could create a Murmur token, reveal it. Put it into your hand, then shuffle. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+You don't lose unspent mana as steps and phases end. => Reach
+When Pel, Tremolos Tutor enters, search your library for a card that could create a Murmur token, reveal it, put it into your hand, then shuffle. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+You don't lose unspent mana as steps and phases end.
+
+Amonkheti Requiem
+type: Sorcery => Instant
+cost: {1}{2G}{2U} => {2G}{2U}
+rules_text: Create a Murmur token. Put a lore counter on target permanent or a +1/+1 counter on target creature. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it. => Create a Murmur token. Then proliferate, or put a +1/+1 counter on target creature.
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.
+
+Gisa, Grave Ringer
+rules_text: [i]Finale — [/i]Whenever an enchantment is put into your graveyard from the battlefield, target opponent discards a card. If a permanent card was discarded this way this way, create a Murmur token, otherwise they lose 2 life. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => [i]Finale — [/i]Whenever an enchantment is put into your graveyard from the battlefield, target opponent discards a card. If a permanent card was discarded this way this way, create a Murmur token, otherwise they lose 2 life. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Pledge of Silence
+
+Well-Traveled Skald
+rules_text: Vigilance 
+{T}: Put a lore counter on target Saga you control.
+Whenever this creature attacks, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Vigilance 
+{T}: Put a lore counter on target Saga you control.
+Whenever this creature attacks, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Spirit Siren
+rules_text: Haste
+Whenever this creature dies, return it to the battlefield, except it's a Saga enchantment without this ability. [i](It's no longer a creature)[/i]
+Whenever a creature attacks alone, put a lore counter on this enchantment.
+{3ch.png}— After this phase there is an additional combat phase. => Haste
+Whenever this creature dies, return it to the battlefield, except it's a Saga enchantment without this ability. [i](It's no longer a creature)[/i]
+Whenever a creature attacks alone, put a lore counter on this enchantment.
+{3V}— After this phase there is an additional combat phase.
+
+Fortiss, Countros Conductor
+rules_text: Flying, trample
+Whenever a creature you control dies while attacking, you may put a creature card with mana value less than that creatures mana value from your hand onto the battlefield tapped. => Flying, trample
+Whenever a creature you control dies while attacking, you may put a creature card with mana value less than that creatures mana value from your hand or graveyard onto the battlefield tapped.
+
+Unsung Song
+rules_text: Counter target multicolored spell. Its controller creates a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Counter target multicolored spell. Its controller creates a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Sing Con Vivace
+rules_text: Sagas you control have “{1ch.png} — This Saga becomes a 3/3 creature with haste in addition to its other types an abilities until end of turn.”
+Whenever a Saga you control deals combat damage to a player, put a lore counter on it. => Sagas you control have “{1V} — This Saga becomes a 3/3 creature with haste in addition to its other types an abilities until end of turn.”
+Whenever a Saga you control deals combat damage to a player, put a lore counter on it.
+
+Practice Room
+rules_text: {T}: Put a lore counter on this artifact. Activate only as a sorcery.
+At the beginning of your end step you gain 1 life for each lore counter on this artifact, if it's untapped draw a card. => Whenever you put a lore counter on a permanent you control, you gain 1 life.
+{2C}, {T}: Put a lore counter on target permanent you control.
+At the beginning of your end step draw a card if you gained three or more life this turn.
+
+Strict Rehearsal
+
+Mielle, Soloist Primo
+
+Above the Chaff
+rules_text: {2C}, Sacrifice a creature or enchantment: Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.
+Sagas you control have “{2ch.png}—Each player that controls two or more creatures sacrifices a creature.” => {2C}, Sacrifice a creature or enchantment: Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.
+Sagas you control have “{2V}—Each player that controls two or more creatures sacrifices a creature.”
+
+Muse of the Ruins
+rules_text: When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+{2C}, Sacrifice a nonartifact permanent: This creature gets +1/+1 and gains haste until end of turn. => When this creature enters, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+{2C}, Sacrifice a nonartifact permanent: This creature gets +1/+1 and gains haste until end of turn.
+
+Tremolos Pledge
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Return target nonland permanent to its owner's hand.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Whenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.
+You may pay {X}. If you do creatures you control have size X/X until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Return target nonland permanent to its owner's hand.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Whenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.
+You may pay {X}. If you do creatures you control have size X/X until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Return target nonland permanent to its owner's hand.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Whenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.
+You may pay {X}. If you do creatures you control have size X/X until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Return target nonland permanent to its owner's hand.
+Create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Whenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.
+You may pay {X}. If you do creatures you control have size X/X until end of turn.
+
+Whispering Titan
+rules_text: When this creature enters, create three Murmur tokens. [i](They're colorless Saga Murmur enchantments with “{2ch.png},{3ch.png}— Add {C}.”)[/i] [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+This creature gets +1/+1 for each chapter ability among sagas you control. [i](Murmurs have two chapter abilities)[/i] => When this creature enters, create three Murmur tokens. [i](They're colorless Saga Murmur enchantments with “{2V},{3V}— Add {C}.”)[/i]
+This creature gets +1/+1 for each chapter ability among sagas you control.
+[i](Murmurs have two chapter abilities)[/i]
+
+Mirran Requiem
+type: Sorcery => Instant
+cost: {1}{2R}{2W} => {2R}{2W}
+rules_text: Target creature gets first strike until end of turn, put a +1/+1 counter on it for each color of mana spent to cast this spell.
+[i]Finale —[/i] Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it. => Target creature gets first strike until end of turn, put a +1/+1 counter on it for each color of mana spent to cast this spell.
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.
+
+Siren Titan
+rules_text: Vigilance, trample
+{1}{U}, {T}: Creatures you opponents control attack this turn if able. Whenever you're dealt damage by a creature this turn, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Vigilance, trample
+{1}{U}, {T}: Creatures you opponents control attack this turn if able. Whenever you're dealt damage by a creature this turn, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Lost in Whispers
+rules_text: Return each creature to its owner's hand. Create a Murmur token for each creature returned to your hand this way. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i] => Return each creature to its owner's hand. Create a Murmur token for each creature returned to your hand this way. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+
+Olgal Valkyrie
+rules_text: Flying, vigilance
+Whenever a creature you control attacks alone, return target creature card from your graveyard to the battlefield, except it's an enchantment Saga Murmur with “{ch.png}, {3ch.png} — Add {C}.” in addition to its other types and abilities. => Flying, vigilance
+Whenever a creature you control attacks alone, return target creature card from your graveyard to the battlefield, except it's an enchantment Saga Murmur with “{V}, {3V} — Add {C}.” in addition to its other types and abilities.
+
+Soaring Conductor
+rules_text: Flying
+As long as you control another creature, this enchantment is a Saga enchantment. [i](It's not a creature)[/i]
+{1ch.png}— Put three +1/+1 counters on target creature you control.
+{2ch.png}— Destroy target creature.
+{3ch.png}— Each player chooses a creature they control, and then sacrifices the rest. => Flying
+As long as you control another creature, this enchantment is a Saga enchantment. [i](It's not a creature)[/i]
+{1V}— Put three +1/+1 counters on target creature you control.
+{2V}— Destroy target creature.
+{3V}— Each player chooses a creature they control, and then sacrifices the rest.
+
+Tolvadan Requiem
+type: Sorcery => Instant
+cost: {1}{2W}{2B} => {2W}{2B}
+rules_text: Whenever a creature you control dies this turn, return to the battlefield tapped with a finality counter on it.
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it. => Whenever a creature you control dies this turn, return to the battlefield tapped with a finality counter on it.
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.
+
+Skallan Requiem
+type: Sorcery => Instant
+cost: {1}{2B}{2G} => {2B}{2G}
+rules_text: Mill three cards. Then return a creature card and an enchantment card from your graveyard to your hand.
+[i]Finale —[/i] Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it. => Mill three cards. Then return up to two permanent cards that don't share a type from your graveyard to your hand.
+[i]Finale [/i]— Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.
+
+The Oldest Story
+
+Notyis, Grown from Tales
+rules_text: When this creature enters, mill X cards, if X is 4 or more, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2ch.png},{3ch.png}— Add {C}.”)[/i]
+Sagas you control have “{4ch.png}—Return target non-saga card from your graveyard to your hand.” => When this creature enters, mill X cards, if X is 4 or more, create a Murmur token. [i](It's a colorless Saga Murmur enchantment with “{2V},{3V}— Add {C}.”)[/i]
+Sagas you control have “{4V}—Return target non-saga card from your graveyard to your hand.”
+
+Pel's Compound Duple
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+Trigger target {1ch.png} chapter ability of another target Saga.
+Trigger target {2ch.png} chapter ability of another target Saga.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+Trigger target {1V} chapter ability of another target Saga.
+Trigger target {2V} chapter ability of another target Saga.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+Trigger target {1ch.png} chapter ability of another target Saga.
+Trigger target {2ch.png} chapter ability of another target Saga.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)[/i]
+Trigger target {1V} chapter ability of another target Saga.
+Trigger target {2V} chapter ability of another target Saga.
+​
+
+Siren Seabed
+
+Korvold and the Noble Thief
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Exile the top three cards of target opponent's library. You may play those cards this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Exile the top three cards of target opponent's library. You may play those cards this turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Exile the top three cards of target opponent's library. You may play those cards this turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+Exile the top three cards of target opponent's library. You may play those cards this turn.
+​
+
+Lorehold Excavation
+
+Love Song of Night and Day
+
+Murmur
+
+Elf
+
+Leviathan
+
+Human
+
+Rat
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

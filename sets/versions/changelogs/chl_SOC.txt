@@ -1,4 +1,299 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Third Act SOC added.
+
+Third Act removed.
+
+Last Kiss
+
+
+VERSION 4 CHANGELOG
+====================
+
+Beast added.
+Blood added.
+Dinosaur added.
+Drone added.
+Horror added.
+Dog added.
+Cohen, Archvillain Emblem added.
+
+
+Cephalid Sidekick
+
+Wild Rider
+
+Gamblin' Gal
+
+Family Man
+
+Couple o' Escapees
+
+Wandering Dreadmaw
+
+Fastest Shot in the West
+
+Plasma Shield Defender
+
+Brave Little Toadster
+
+Young Lovers
+
+Two-Headed Goliath
+
+Stronger Together
+
+Altar of Heroes
+
+Flashblade Ninja
+
+Unconventional Mentor
+
+Villain's Underling
+
+Pendant Thief
+
+Odd Pair
+
+Chosen One
+
+Protocol Angel
+
+Fight for Your Life
+
+Targeted Gumshoe
+
+Red Dawn Ninja
+
+Wolf of Boxer Street
+
+Upstage
+
+Flying Front Kick
+
+Find the McGuffin
+
+Shyla Montgomery
+
+Combat Experts
+
+Deus Ex Machina
+
+Buggy Shieldbearer
+
+Lady, Arthouse Star
+
+Tia Otumbo
+
+Selfless Partner
+
+Charismatic Speaker
+
+Soaring Woman
+rules_text: Flying
+When this creature enters, if you control another creature named Soaring Woman or produced a blockbuster this turn, draw card. => Flying
+When this creature enters, if you control another creature with flying or produced a blockbuster this turn, draw card.
+
+Pharmaceutical Expeditioners
+
+Alien Anatomist
+
+The Big Friendly Beast
+
+Vengeful Shinobi
+
+Bloodbutcher
+rules_text: When this creature enters, another target creature you don't control gets -X/-X where X is this creature's power.
+Sequel {B} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i] => When this creature enters, up to one other target creature gets -X/-X until end of turn, where X is this creature's power.
+Sequel {B} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]
+
+Dreadmaw Matriarch
+
+Write Back In
+
+Close the Wormhole
+
+Lifeforce Ship
+
+Into the Maw of Greatness
+
+Dark Horde Rising
+
+Punch the Turtle
+
+The Scheme Unfolds
+
+Team Up!
+
+Explore the Depths
+
+The Thunder Squad
+
+Makeup Artist
+
+Space Pilgrim
+rules_text: Vigilance
+Whenever you produce a blockbuster, create a 1/1 colorless Thopter artifact creature token with flying. => Vigilance
+Whenever you produce a blockbuster, create a 1/1 colorless Drone artifact creature token with flying.
+
+Redrin Greyfur
+
+Khazra
+
+Super Hero Squad
+
+Clean-up Crew
+
+Roll the Dice
+
+Confident Criminal
+
+Alliance of Passion
+
+Dragged Back to the Shadows
+rules_text: As an additional cost to cast this spell, discard a card or pay 3 life.
+Put target nonland permanent on the bottom of its owner's library. => As an additional cost to cast this spell, discard a card or pay 3 life.
+Put target creature on the bottom of its owner's library.
+
+Martial Arts Training
+cost: {2}{U} => {1}{U}
+
+Compact Multitool
+rules_text: When this equipment enters, attach it to a creature you control.
+Equipped creature gets +2/+2. 
+At the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike.
+Equip {3} => When this equipment enters, attach it to a creature you control.
+At the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike until end of turn.
+Equipped creature gets +2/+2. 
+Equip {3}
+
+Break from Tradition
+
+Consider the Possibilities
+
+Bird
+
+Horse
+
+Soldier
+
+Skeleton
+
+Human
+
+Rogue
+
+Treasure
+
+Leading Role
+
+Lost Sentinel
+
+Film Stage
+
+Collete Klide
+
+Captain Marvelous
+
+Sharktomus Prime
+
+Big Bad Tree
+
+Completely Surrounded
+
+Dr. Archibald Ratticus
+
+Holly Drake
+rules_text: First strike
+Aura and Equipment spells you cast cost {1} less to cast.
+When Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle. => Aura and Equipment spells you cast cost {1} less to cast.
+When Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+
+Blue Spectre
+
+Tyde Turner
+
+Kill Your Darlings
+
+Last Kiss
+
+Hound Conjurer
+
+Postal Carrier
+
+Elder of the Guild
+
+Cosmic Horror
+
+City of Heroes
+
+Kaiju Homeworld
+
+Shootout Gully
+
+Intergalactic Spaceport
+
+Adventurer's Village
+
+Forgotten Master
+
+X-11, The Gargantuan
+
+Masked Vigilante
+pt: 2/2 => 2/1
+
+Deceiving Fist
+cost: {1}{U}{B} => {U}{U}{B}
+
+Never Found the Body
+
+Charming Minotaur
+
+Cohen, Archvillain
+
+Virtuous Knight
+
+Mantle of the Empire
+
+Siege Mastodon
+
+Ratrisha Rocket
+
+Germinating Grub
+
+Morgril, the Devastator
+
+Skelly Boy Beatdown
+
+Ortesian Sneak
+
+Monitor Room
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any color among legendary creatures you control.
+{4}, {T}, Sacrifice this land: Return target legendary creature card from your graveyard to your hand. => {T}: Add {C}.
+{T}: Add one mana of any color among legendary creatures you control.
+{4}, {T}, Sacrifice this land: Return target legendary card from your graveyard to your hand.
+
+Family Friendly Hero
+rules_text: When this creature enters, return another target creature to its owner's hand.
+Sequel {4}{U} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i] => When this creature enters, return another target creature to its owner's hand.
+Sequel {3}{U}{U} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]
+
+Hellbreach Heroine
+
+Hero's Rise
+cost: {R}{W} => {1}{R}{W}
+
+Third Act
+
+Detective
+
+Mikandros
+type: Legendary Creature — Dragon => Token Legendary Creature — Dragon
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

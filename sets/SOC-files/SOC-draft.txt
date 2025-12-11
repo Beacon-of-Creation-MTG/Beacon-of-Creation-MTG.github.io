@@ -1583,7 +1583,7 @@
 		{
 			"name": "Martial Arts Training",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "62",
 			"image_uris": {
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Skeleton",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/166.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
-			"collector_number": "7",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rogue",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/168.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "10",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/169.png"
 			}
@@ -2373,7 +2373,7 @@
 		{
 			"name": "Deceiving Fist",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{U}{U}{B}",
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
@@ -2663,7 +2663,7 @@
 		{
 			"name": "Hero's Rise",
 			"rarity": "mythic",
-			"mana_cost": "{R}{W}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "216",
 			"image_uris": {
@@ -2671,7 +2671,7 @@
 			}
 		},
 		{
-			"name": "Third Act",
+			"name": "Third Act SOC",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
@@ -2691,13 +2691,83 @@
 			}
 		},
 		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/269.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/270.png"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/271.png"
+			}
+		},
+		{
+			"name": "Drone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Drone",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/272.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/273.png"
+			}
+		},
+		{
+			"name": "Dog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dog",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/274.png"
+			}
+		},
+		{
 			"name": "Mikandros",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Legendary Creature — Dragon",
-			"collector_number": "8",
+			"type": "Token Legendary Creature — Dragon",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/269.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/275.png"
+			}
+		},
+		{
+			"name": "Cohen, Archvillain Emblem",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/276.png"
 			}
 		}
 	]
@@ -2964,3 +3034,4 @@
 	5 Green Knight
 	5 Illuminate the Night
 	5 Sharktomus Prime
+	5 Third Act SOC

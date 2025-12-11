@@ -1,4 +1,123 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Implant added.
+Saproling Construct added.
+Servo added.
+Insect added.
+
+
+Trashore Freighter
+
+Old World Guardian
+
+Filtering Star
+rules_text: {2}, {T}: Add three mana in any combination of colors.
+ {T}, Sacrifice this artifact: Draw a card. => {1}, {T}: Add two mana in any combination of colors.
+ {T}, Sacrifice this artifact: Draw a card.
+
+Coalpower Gauntlet
+rules_text: Equipped creature gets +1/+0 and has Lurk {1}. [i](Defending player can't block that creature unless they pay {1})[/i]
+Equip {2} => Equipped creature gets +1/+0 and has lurk {1}. [i](Defending player can't block that creature unless they pay {1})[/i]
+Equip {2}
+
+Metalshroom
+
+Vampiric Strider
+
+Cleaver's Carpace
+
+Basilisker
+
+Kybertusk Mammoth
+
+Atomize
+
+Arc-Talon Lacerator
+
+Slag Cruciblair
+
+Draining Festerspark
+
+Tort Artificer
+
+Leopard Drone Hunter
+
+Portable Barricade
+rules_text: When this Equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.
+Equipped creature gets +0/+4.
+Equip {3} => When this Equipment enters, create a colorless 0/1 Servo artifact creature token and attach this to it.
+Equipped creature gets +0/+4.
+Equip {3}
+
+Dwarftificer
+
+Dewmoth
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control,put a +1/+1 counter on it. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes the target of an ability you control, put a +1/+1 counter on it. Each ability source triggers this only once each turn.
+
+Sable Drone Recon
+
+Semblance of Prosperity
+
+Symmetric Warfare
+rules_text: Whenever a permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it. => Whenever a nonland permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it.
+
+Ayesha, Lost Embrace
+
+Serpent of the Void
+cost: {X} => {X}{X}
+
+Trashore Ogre
+
+Jade Armorer
+
+Stampeding Oxobegg
+
+Scaled Armorer
+
+Mass Reproduction
+
+Blitzwing Armorer
+
+Veiled Armorer
+
+Bladeblessed Angel
+
+Rusted Recouper
+
+Metalshroom Foofballs
+
+Merciless Rend
+
+Beldram, Adaptive Automator
+
+Rhinodrone Piker
+
+Solaris Cleaner
+rules_text: [i]Clang[/i] — Whenever an artifact enters under your control, tap target creature an opponent controls. => Lurk {1} [i](Defending player can't block this creature unless they pay {1}.)[/i]
+[i]Clang[/i] — Whenever an artifact enters under your control, tap target creature an opponent controls.
+
+Junksea Hunter
+
+Opportunistic Saprotrophy
+
+Interplanter
+type: Creature — Merfolk Artificer => Creature — Siren Artificer
+rules_text: When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i] => Lurk {1} [i](Defending player can't block this creature unless they pay {1}.)[/i]
+When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.”)[/i]
+
+Drone Falconer
+
+Holographic Insight
+
+Kudu-Drone Scout
+
+Embellish Armaments
+
+Juliet's Autodog
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Met-A110 Moth added.

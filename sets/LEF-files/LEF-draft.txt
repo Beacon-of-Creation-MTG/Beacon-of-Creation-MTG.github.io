@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "266",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/3.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "257",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "263",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/16.png"
 			}
@@ -195,26 +195,26 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Shell",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/19.png"
 			}
 		},
 		{
-			"name": "Human Soldier",
+			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/20.png"
 			}
 		},
 		{
-			"name": "Soltari Wizard",
+			"name": "Soltari Samurai",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Soltari Wizard",
+			"type": "Token Creature — Soltari Samurai",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/21.png"
@@ -235,7 +235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/24.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Faerie Vampire",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/28.png"
 			}
@@ -1063,7 +1063,7 @@
 		{
 			"name": "Panchar",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "30",
 			"image_uris": {
@@ -1144,7 +1144,7 @@
 			"name": "Fabric Weaver",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Instant Creature — Human Cleric",
+			"type": "Sorcery Creature — Human Cleric",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/114.png"
@@ -1215,17 +1215,17 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}",
 			"type": "Artifact",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/121.png"
 			}
 		},
 		{
-			"name": "Ingis, Chains of the worldsoul",
+			"name": "Ingis, Chains of the Worldsoul",
 			"rarity": "mythic",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/122.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/124.png"
 			}
@@ -1303,7 +1303,7 @@
 		{
 			"name": "All Encompassing Wish",
 			"rarity": "mythic",
-			"mana_cost": "{3}{B}{R}",
+			"mana_cost": "{2}{B}{B}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "210",
 			"image_uris": {
@@ -1631,23 +1631,13 @@
 			}
 		},
 		{
-			"name": "Augur of Soul",
-			"rarity": "rare",
-			"mana_cost": "{G}{W}{U}",
-			"type": "Enchantment Creature — Spirit",
-			"collector_number": "212",
-			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/163.png"
-			}
-		},
-		{
 			"name": "Spritethrombosix",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Enchantment Creature — Faerie Vampire",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/164.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/163.png"
 			}
 		},
 		{
@@ -1657,7 +1647,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/165.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/164.png"
 			}
 		},
 		{
@@ -1667,7 +1657,7 @@
 			"type": "Legendary Creature — Zombie Warrior",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/166.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/165.png"
 			}
 		},
 		{
@@ -1677,7 +1667,7 @@
 			"type": "Sorcery",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/167.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/166.png"
 			}
 		},
 		{
@@ -1687,7 +1677,7 @@
 			"type": "Creature — Snail",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/168.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/167.png"
 			}
 		},
 		{
@@ -1697,7 +1687,7 @@
 			"type": "Sorcery",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/169.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/168.png"
 			}
 		},
 		{
@@ -1707,7 +1697,7 @@
 			"type": "Instant",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/170.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/169.png"
 			}
 		},
 		{
@@ -1717,7 +1707,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/171.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/170.png"
 			}
 		},
 		{
@@ -1727,7 +1717,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/172.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/171.png"
 			}
 		},
 		{
@@ -1737,7 +1727,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/173.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/172.png"
 			}
 		},
 		{
@@ -1747,7 +1737,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/174.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/173.png"
 			}
 		},
 		{
@@ -1757,7 +1747,7 @@
 			"type": "Sorcery Creature — Elemental",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/175.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/174.png"
 			}
 		},
 		{
@@ -1767,7 +1757,7 @@
 			"type": "Artifact",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/176.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/175.png"
 			}
 		},
 		{
@@ -1777,7 +1767,7 @@
 			"type": "Sorcery",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/177.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/176.png"
 			}
 		},
 		{
@@ -1787,7 +1777,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/178.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/177.png"
 			}
 		},
 		{
@@ -1797,7 +1787,7 @@
 			"type": "Instant",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/179.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/178.png"
 			}
 		},
 		{
@@ -1807,7 +1797,7 @@
 			"type": "Legendary Creature — Merfolk Shaman",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/180.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/179.png"
 			}
 		},
 		{
@@ -1817,7 +1807,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/181.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/180.png"
 			}
 		},
 		{
@@ -1827,7 +1817,7 @@
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/182.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/181.png"
 			}
 		},
 		{
@@ -1837,7 +1827,7 @@
 			"type": "Sorcery",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/183.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/182.png"
 			}
 		},
 		{
@@ -1847,7 +1837,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/184.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/183.png"
 			}
 		},
 		{
@@ -1857,7 +1847,7 @@
 			"type": "Enchantment Creature — Angel",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/185.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/184.png"
 			}
 		},
 		{
@@ -1867,7 +1857,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/186.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/185.png"
 			}
 		},
 		{
@@ -1877,7 +1867,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/187.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/186.png"
 			}
 		},
 		{
@@ -1887,7 +1877,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/188.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/187.png"
 			}
 		},
 		{
@@ -1897,7 +1887,7 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/189.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/188.png"
 			}
 		},
 		{
@@ -1907,7 +1897,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/190.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/189.png"
 			}
 		},
 		{
@@ -1917,7 +1907,7 @@
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/191.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/190.png"
 			}
 		},
 		{
@@ -1927,7 +1917,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/192.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/191.png"
 			}
 		},
 		{
@@ -1937,7 +1927,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/193.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/192.png"
 			}
 		},
 		{
@@ -1947,7 +1937,7 @@
 			"type": "Creature — Demon Egg",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/194.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/193.png"
 			}
 		},
 		{
@@ -1957,7 +1947,7 @@
 			"type": "Creature — Vampire Lizard Rouge",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/195.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/194.png"
 			}
 		},
 		{
@@ -1967,7 +1957,7 @@
 			"type": "Creature — Elemental Ooze Horror",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/196.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/195.png"
 			}
 		},
 		{
@@ -1977,17 +1967,7 @@
 			"type": "Legendary Creature — Snail Wizard",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/197.png"
-			}
-		},
-		{
-			"name": "Hunting Saakstalker",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{B}",
-			"type": "Sorcery Creature — Demon",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/198.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/196.png"
 			}
 		},
 		{
@@ -1997,7 +1977,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/199.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/197.png"
 			}
 		},
 		{
@@ -2007,7 +1987,7 @@
 			"type": "Sorcery",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/200.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/198.png"
 			}
 		},
 		{
@@ -2017,7 +1997,7 @@
 			"type": "Instant",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/201.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/199.png"
 			}
 		},
 		{
@@ -2027,7 +2007,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/202.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/200.png"
 			}
 		},
 		{
@@ -2037,7 +2017,7 @@
 			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/203.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/201.png"
 			}
 		},
 		{
@@ -2047,7 +2027,7 @@
 			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/204.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/202.png"
 			}
 		},
 		{
@@ -2057,7 +2037,7 @@
 			"type": "Enchantment Creature — Snail",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/205.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/203.png"
 			}
 		},
 		{
@@ -2067,7 +2047,7 @@
 			"type": "Sorcery Creature — Dryad Rogue",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/206.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/204.png"
 			}
 		},
 		{
@@ -2077,7 +2057,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/207.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/205.png"
 			}
 		},
 		{
@@ -2087,7 +2067,7 @@
 			"type": "Creature — Bear Spirit",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/208.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/206.png"
 			}
 		},
 		{
@@ -2097,7 +2077,7 @@
 			"type": "Legendary Creature — Troll Druid",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/209.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/207.png"
 			}
 		},
 		{
@@ -2107,7 +2087,7 @@
 			"type": "Creature — Elk Beast",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/210.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/208.png"
 			}
 		},
 		{
@@ -2117,7 +2097,7 @@
 			"type": "Instant Creature — Elemental Beast",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/211.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/209.png"
 			}
 		},
 		{
@@ -2127,7 +2107,7 @@
 			"type": "Creature — Treefolk Horror",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/212.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/210.png"
 			}
 		},
 		{
@@ -2137,7 +2117,7 @@
 			"type": "Sorcery",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/213.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/211.png"
 			}
 		},
 		{
@@ -2147,7 +2127,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/214.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/212.png"
 			}
 		},
 		{
@@ -2157,7 +2137,7 @@
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/215.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/213.png"
 			}
 		},
 		{
@@ -2167,7 +2147,7 @@
 			"type": "Instant",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/216.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/214.png"
 			}
 		},
 		{
@@ -2177,7 +2157,7 @@
 			"type": "Sorcery",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/217.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/215.png"
 			}
 		},
 		{
@@ -2187,7 +2167,7 @@
 			"type": "Enchantment Creature — Sheep",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/218.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/216.png"
 			}
 		},
 		{
@@ -2197,7 +2177,7 @@
 			"type": "Instant",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/219.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/217.png"
 			}
 		},
 		{
@@ -2207,7 +2187,7 @@
 			"type": "Sorcery",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/220.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/218.png"
 			}
 		},
 		{
@@ -2217,7 +2197,7 @@
 			"type": "Creature — Human Shaman Warrior",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/221.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/219.png"
 			}
 		},
 		{
@@ -2227,7 +2207,7 @@
 			"type": "Enchantment",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/222.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/220.png"
 			}
 		},
 		{
@@ -2237,7 +2217,7 @@
 			"type": "Creature — Samurai Spirit",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/223.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/221.png"
 			}
 		},
 		{
@@ -2247,7 +2227,7 @@
 			"type": "Legendary Creature — Dragon Knight",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/224.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/222.png"
 			}
 		},
 		{
@@ -2257,7 +2237,7 @@
 			"type": "Creature — Bird Nightmare",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/225.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/223.png"
 			}
 		},
 		{
@@ -2267,7 +2247,7 @@
 			"type": "Instant",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/226.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/224.png"
 			}
 		},
 		{
@@ -2277,7 +2257,7 @@
 			"type": "Creature — Soltari Samurai",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/227.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/225.png"
 			}
 		},
 		{
@@ -2287,7 +2267,7 @@
 			"type": "Instant Creature — Elemental Wizard",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/228.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/226.png"
 			}
 		},
 		{
@@ -2297,7 +2277,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/229.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/227.png"
 			}
 		},
 		{
@@ -2307,7 +2287,7 @@
 			"type": "Creature — Elemental Hyena",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/230.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/228.png"
 			}
 		},
 		{
@@ -2317,7 +2297,7 @@
 			"type": "Artifact Creature — Spirit",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/231.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/229.png"
 			}
 		},
 		{
@@ -2327,7 +2307,7 @@
 			"type": "Creature — Elemental Shaman",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/232.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/230.png"
 			}
 		},
 		{
@@ -2337,17 +2317,7 @@
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/233.png"
-			}
-		},
-		{
-			"name": "Kleefoff, Essence Looter",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Legendary Creature — Minotaur Shaman",
-			"collector_number": "152",
-			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/234.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/231.png"
 			}
 		},
 		{
@@ -2357,7 +2327,7 @@
 			"type": "Instant",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/235.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/232.png"
 			}
 		},
 		{
@@ -2367,7 +2337,7 @@
 			"type": "Sorcery",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/236.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/233.png"
 			}
 		},
 		{
@@ -2377,7 +2347,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/237.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/234.png"
 			}
 		},
 		{
@@ -2387,7 +2357,7 @@
 			"type": "Sorcery",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/238.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/235.png"
 			}
 		},
 		{
@@ -2397,7 +2367,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/239.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/236.png"
 			}
 		},
 		{
@@ -2407,7 +2377,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/240.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/237.png"
 			}
 		},
 		{
@@ -2417,7 +2387,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/241.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/238.png"
 			}
 		},
 		{
@@ -2427,7 +2397,7 @@
 			"type": "Creature — Atog",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/242.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/239.png"
 			}
 		},
 		{
@@ -2437,7 +2407,7 @@
 			"type": "Enchantment Creature — Snail Nymph",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/243.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/240.png"
 			}
 		},
 		{
@@ -2447,17 +2417,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/244.png"
-			}
-		},
-		{
-			"name": "Kefus, the Scribe",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Elemental Soldier",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/245.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/241.png"
 			}
 		},
 		{
@@ -2467,7 +2427,7 @@
 			"type": "Sorcery Creature — Kraken",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/246.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/242.png"
 			}
 		},
 		{
@@ -2477,7 +2437,7 @@
 			"type": "Sorcery Creature — Elemental",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/247.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/243.png"
 			}
 		},
 		{
@@ -2487,7 +2447,7 @@
 			"type": "Instant",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/248.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/244.png"
 			}
 		},
 		{
@@ -2497,7 +2457,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/249.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/245.png"
 			}
 		},
 		{
@@ -2507,7 +2467,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/250.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/246.png"
 			}
 		},
 		{
@@ -2517,7 +2477,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/251.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/247.png"
 			}
 		},
 		{
@@ -2527,7 +2487,7 @@
 			"type": "Sorcery",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/252.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/248.png"
 			}
 		},
 		{
@@ -2537,7 +2497,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/253.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/249.png"
 			}
 		},
 		{
@@ -2547,7 +2507,7 @@
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/254.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/250.png"
 			}
 		},
 		{
@@ -2557,7 +2517,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/255.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/251.png"
 			}
 		},
 		{
@@ -2567,7 +2527,7 @@
 			"type": "Instant Creature — Human Soldier",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/256.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/252.png"
 			}
 		},
 		{
@@ -2577,7 +2537,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/257.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/253.png"
 			}
 		},
 		{
@@ -2587,7 +2547,7 @@
 			"type": "Instant Creature — Spirit",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/258.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/254.png"
 			}
 		},
 		{
@@ -2597,7 +2557,7 @@
 			"type": "Creature — Beast Bard",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/259.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/255.png"
 			}
 		},
 		{
@@ -2607,7 +2567,7 @@
 			"type": "Legendary Artifact Creature — Angel",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/260.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/256.png"
 			}
 		},
 		{
@@ -2617,7 +2577,7 @@
 			"type": "Enchantment Creature — Elemental",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/261.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/257.png"
 			}
 		},
 		{
@@ -2627,7 +2587,7 @@
 			"type": "Creature — Soltari Shaman",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/262.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/258.png"
 			}
 		},
 		{
@@ -2637,7 +2597,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/263.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/259.png"
 			}
 		},
 		{
@@ -2647,7 +2607,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/264.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/260.png"
 			}
 		},
 		{
@@ -2657,7 +2617,7 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/265.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/261.png"
 			}
 		},
 		{
@@ -2667,7 +2627,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/266.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/262.png"
 			}
 		},
 		{
@@ -2677,7 +2637,7 @@
 			"type": "Instant",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/267.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/263.png"
 			}
 		},
 		{
@@ -2685,9 +2645,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/268.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/264.png"
 			}
 		},
 		{
@@ -2695,9 +2655,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/269.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/265.png"
 			}
 		},
 		{
@@ -2705,9 +2665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/270.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/266.png"
 			}
 		},
 		{
@@ -2715,9 +2675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/271.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/267.png"
 			}
 		},
 		{
@@ -2725,771 +2685,316 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/268.png"
+			}
+		},
+		{
+			"name": "Kefus, the Scribe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Elemental Soldier",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/269.png"
+			}
+		},
+		{
+			"name": "Kleefoff, Essence Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Minotaur Shaman",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/270.png"
+			}
+		},
+		{
+			"name": "Distilled Essence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/271.png"
+			}
+		},
+		{
+			"name": "Hunting Saakstalker",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery Creature — Demon",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/272.png"
+			}
+		},
+		{
+			"name": "Augur of Soul",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/LEF-files/img/273.png"
 			}
 		}
 	]
 
 [rare(1)]
-	1 Superposition Gateway
-	1 Ingis, Chains of the worldsoul
-	1 Lavez, Anchor of the Worldsoul
-	1 Rix, Shackle of the Worldsoul
-	1 Lichbind
-	1 Overgrowing Pumkin
-	1 Flurry of Regrowth
-	1 Cloudyawner
-	1 Ruination Mystic
-	1 All Encompassing Wish
-	1 Tempestous Growthmagus
-	1 Outpouring of Life
-	1 Soul Augury
-	1 The Observer of All
-	1 Demonic Prepotence
-	1 Ravenous Rhizome
-	1 Singe Elemental
-	1 Chromatic Monsoon
-	1 Grandmaster of Sparks
-	1 Culumonibus Tyrant
-	1 Planar Till
-	2 Presence of Undeath
-	2 Harvest
-	2 Mythos of the Unyielding King
-	2 Elder Saakstalker
-	2 Dominated Slither
-	2 Spellbattery Ghoul
-	2 Cthonitaur
-	2 Doldrum Dreamer
-	2 Soulflame Ring
-	2 Bellow of Verdure
-	2 Mythos of the First Hunger
-	2 Lifegraft
-	2 Seek the Immense
-	2 Elder Gangeth
-	2 Tanglespell Briar
-	2 Aspect of Vigor
-	2 Tune of Safeholding
-	2 Hemorrphage, Spritevix Queen
-	2 Distill Fears
-	2 Boorish Mystic
-	2 Antolie, Anomalous Apostate
-	2 Augur of Soul
-	2 Spritethrombosix
-	2 Sinister Magister
-	2 Szyssixz, Feaster of Essence
-	2 Stroke of Avail
-	2 Scalemail Magmawhelk
-	2 Final Ember Embrace
-	2 Mythos of the Archdemon
-	2 Mindblaze Mystic
-	2 Firemind Richualist
-	2 Hyperbolt
-	2 Burning Apostle
-	2 Blazing Wheel-Kin
-	2 Ominous Soul Tome
-	2 Chronoduplicate
-	2 Mythos of the Sage
-	2 Retroarcane Continuity
-	2 The Wind Releaser
-	2 Narcorelapsy
-	2 Unmoored Ideas
-	2 Temporal Emergence
-	2 Acolyte of the Anchor
-	2 Anchorley Angel
-	2 Mythos of the Pale
-	2 Unanchored Sky-Serpent
-	2 Ultrashield Angel
-	2 Decrown
-	2 Re-Weave the World
-	2 Drawn From Discussion
+	5 Superposition Gateway
+	5 Ingis, Chains of the Worldsoul
+	5 Lavez, Anchor of the Worldsoul
+	5 Rix, Shackle of the Worldsoul
+	5 Lichbind
+	5 Overgrowing Pumkin
+	5 Flurry of Regrowth
+	5 Cloudyawner
+	5 Ruination Mystic
+	5 All Encompassing Wish
+	5 Tempestous Growthmagus
+	5 Outpouring of Life
+	5 Soul Augury
+	5 The Observer of All
+	5 Demonic Prepotence
+	5 Ravenous Rhizome
+	5 Singe Elemental
+	5 Chromatic Monsoon
+	5 Grandmaster of Sparks
+	5 Culumonibus Tyrant
+	5 Planar Till
+	5 Presence of Undeath
+	5 Harvest
+	5 Mythos of the Unyielding King
+	5 Elder Saakstalker
+	5 Dominated Slither
+	5 Spellbattery Ghoul
+	5 Cthonitaur
+	5 Doldrum Dreamer
+	5 Soulflame Ring
+	5 Bellow of Verdure
+	5 Mythos of the First Hunger
+	5 Lifegraft
+	5 Seek the Immense
+	5 Elder Gangeth
+	5 Tanglespell Briar
+	5 Aspect of Vigor
+	5 Tune of Safeholding
+	5 Hemorrphage, Spritevix Queen
+	5 Distill Fears
+	5 Boorish Mystic
+	5 Antolie, Anomalous Apostate
+	5 Spritethrombosix
+	5 Sinister Magister
+	5 Szyssixz, Feaster of Essence
+	5 Stroke of Avail
+	5 Scalemail Magmawhelk
+	5 Final Ember Embrace
+	5 Mythos of the Archdemon
+	5 Mindblaze Mystic
+	5 Firemind Richualist
+	5 Hyperbolt
+	5 Burning Apostle
+	5 Blazing Wheel-Kin
+	5 Ominous Soul Tome
+	5 Chronoduplicate
+	5 Mythos of the Sage
+	5 Retroarcane Continuity
+	5 The Wind Releaser
+	5 Narcorelapsy
+	5 Unmoored Ideas
+	5 Temporal Emergence
+	5 Acolyte of the Anchor
+	5 Anchorley Angel
+	5 Mythos of the Pale
+	5 Unanchored Sky-Serpent
+	5 Ultrashield Angel
+	5 Decrown
+	5 Re-Weave the World
+	5 Drawn From Discussion
+	5 Augur of Soul
 [uncommon(3)]
-	4 Forgetmenot Glade
-	4 Chalcogen Spring
-	4 Whizzing Sinews
-	4 Prechronal Undergrowth
-	4 Platau lumen
-	4 Sludgefly
-	4 Twilight Tiger
-	4 Saakstalker Egg
-	4 Influenced Informant
-	4 Ichor Elemental
-	4 Espien, Shellmage
-	4 Hunting Saakstalker
-	4 Brainseize
-	4 Resummon
-	4 Gossamer Sins
-	4 Demon's Prowl
-	4 Nirvana Doldrums
-	4 Revolving Dread
-	4 Mosswhelk
-	4 Carrabaster Cultivator
-	4 Glade Trunkling
-	4 Bear Ghost
-	4 Aran, Forest Hermit
-	4 Greater Gangeth
-	4 Essence Feeder
-	4 Thornbark Prile
-	4 Mawssive Hunger
-	4 Archdruid's Insight
-	4 Aran's Acuity
-	4 Anchor-Root Vitality
-	4 Revolving Medititation
-	4 Benevolent Herd
-	4 Drench
-	4 Excrutiating Voice
-	4 Leyline Channeler
-	4 Idol of Harmony
-	4 Mightsoul Samurai
-	4 Knorguer, Saccloc
-	4 Shadowflock
-	4 Alarming Alteration
-	4 Honourable Bushido
-	4 Klashpeak Stinger
-	4 Klashpeak Crusader
-	4 Firemane Hyena
-	4 Chainfiend
-	4 Boastful Battlemage
-	4 Heroic Spearmagus
-	4 Kleefoff, Essence Looter
-	4 Bloodflare
-	4 Flip of Allegiance
-	4 Unanchored Richual
-	4 Blitz Infusion
-	4 Blazing Axe
-	4 Revolving Panic
-	4 Ravencaller
-	4 Spellatog
-	4 Idol of Benthic Secrets
-	4 Hereditary Heron
-	4 Kefus, the Scribe
-	4 Dragger of Depths
-	4 Driftmuller
-	4 Revoke Access
-	4 Storm Shield
-	4 Thirst for Acknowledgement
-	4 Spritevix's Retrieveal
-	4 Hatching the Spritevix
-	4 Revolving Insight
-	4 Collective Ideals
-	4 Voidliss Sky-Serpent
-	4 Aspiring Bannerette
-	4 Mild Mystic
-	4 Skviper Skimmer
-	4 Tale Weaver
-	4 Lathinia, Metalwinged
-	4 Idol of Decrees
-	4 Wise Lichtmancer
-	4 Defrock
-	4 Giant's Axe
-	4 Rematerialize
-	4 Astral Barrage
-	4 Revolving Arts
-[common(7)]
-	8 Map Out
-	8 Idol of Essence
-	8 Spritevitiligosix
-	8 See Ahead
-	8 Spritevarix
-	8 Willing Fodder
-	8 Chitinous Hound
-	8 Gerx Parasite
-	8 Blood Seer
-	8 Recluded Ronin
-	8 Belltower Mystic
-	8 Spritestenosix
-	8 Minister of Bygones
-	8 Prowling Saakstalker
-	8 Ichorate
-	8 Fae Blade Blessing
-	8 Witherweight
-	8 Chain Drain
-	8 Spritevix Bargain
-	8 Reposess Soul
-	8 Ashassinate
-	8 Demonstrate Dissent
-	8 Spirima
-	8 Glade Protector
-	8 Wurmsoul Mystic
-	8 Muscle Mystic
-	8 Verdant Boar
-	8 Canopy Ambusher
-	8 Daunting Lifeflame
-	8 Granky Mystic
-	8 Vine Heroc
-	8 Flightsteppe Centaur
-	8 Neoitc Oldgrowth
-	8 Mystic's Retort
-	8 Druidic Vigor
-	8 Natal Growth
-	8 Verdant Synthesis
-	8 Disarming Vines
-	8 Endless Vegetation
-	8 Heroic Growth
-	8 Skrigi Honorguard
-	8 Lith Mystic
-	8 Ritual Ram
-	8 Anomulmutt
-	8 Flamebow Elemental
-	8 Featherseer Mystic
-	8 Blazing Mystic
-	8 Goblin Muscician
-	8 Chainbreak Ragetaur
-	8 Idol of Skirmishes
-	8 Whizzing Fireball
-	8 Overpulse
-	8 Prowling Peck
-	8 Wideflame
-	8 Searing Thoughts
-	8 Vampiric Fury
-	8 Single Point Stab
-	8 Drown In Flames
-	8 Spritembolusix
-	8 Safekeeper of the Chains
-	8 Memory Nomad
-	8 Seer of Unchained Sight
-	8 Aether Bird
-	8 Ethereal Goat
-	8 War Mystic
-	8 Mistful Mystic
-	8 Spriteamyloidosix
-	8 Divedrake
-	8 Bolstering Portal
-	8 Recall Without Knowing
-	8 Counterslice
-	8 Suppresion Force
-	8 Flutter Rebuttal
-	8 Drawl
-	8 Perforate Spirit
-	8 Soul Surgery
-	8 Mystic's Chill
-	8 Fluffyhead
-	8 Unrelenting Soltari
-	8 Veiling Mist
-	8 Panchar
-	8 Batallion Frontliner
-	8 Gladesprite
-	8 Spritepallorix
-	8 Attack Leader
-	8 Blademaster
-	8 Backup Squad
-	8 Ageless Observer
-	8 Fabric Weaver
-	8 Piercing Barrage
-	8 Celestial Binding
-	8 Brilliant Polish
-	8 Ethereal Flourish
-	8 Suprashield
-	8 Banish an Opulent Soul
-	8 Bloodfell Caves
-	8 Blossoming Sands
-	8 Dismal Backwater
-	8 Rugged Highlands
-	8 Tranquil Cove
-[foil(1)]
-	12 Map Out
-	12 Idol of Essence
-	6 Forgetmenot Glade
-	6 Chalcogen Spring
-	6 Whizzing Sinews
-	6 Prechronal Undergrowth
-	6 Platau lumen
-	12 Spritevitiligosix
-	12 See Ahead
-	12 Spritevarix
-	12 Willing Fodder
-	12 Chitinous Hound
-	12 Gerx Parasite
-	12 Blood Seer
-	12 Recluded Ronin
-	12 Belltower Mystic
-	12 Spritestenosix
-	12 Minister of Bygones
-	12 Prowling Saakstalker
-	12 Ichorate
-	12 Fae Blade Blessing
-	12 Witherweight
-	12 Chain Drain
-	12 Spritevix Bargain
-	12 Reposess Soul
-	12 Ashassinate
-	12 Demonstrate Dissent
-	12 Spirima
-	12 Glade Protector
-	12 Wurmsoul Mystic
-	12 Muscle Mystic
-	12 Verdant Boar
-	12 Canopy Ambusher
-	12 Daunting Lifeflame
-	12 Granky Mystic
-	12 Vine Heroc
-	12 Flightsteppe Centaur
-	12 Neoitc Oldgrowth
-	12 Mystic's Retort
-	12 Druidic Vigor
-	12 Natal Growth
-	12 Verdant Synthesis
-	12 Disarming Vines
-	12 Endless Vegetation
-	12 Heroic Growth
-	12 Skrigi Honorguard
-	12 Lith Mystic
-	12 Ritual Ram
-	12 Anomulmutt
-	12 Flamebow Elemental
-	12 Featherseer Mystic
-	12 Blazing Mystic
-	12 Goblin Muscician
-	12 Chainbreak Ragetaur
-	12 Idol of Skirmishes
-	12 Whizzing Fireball
-	12 Overpulse
-	12 Prowling Peck
-	12 Wideflame
-	12 Searing Thoughts
-	12 Vampiric Fury
-	12 Single Point Stab
-	12 Drown In Flames
-	12 Spritembolusix
-	12 Safekeeper of the Chains
-	12 Memory Nomad
-	12 Seer of Unchained Sight
-	12 Aether Bird
-	12 Ethereal Goat
-	12 War Mystic
-	12 Mistful Mystic
-	12 Spriteamyloidosix
-	12 Divedrake
-	12 Bolstering Portal
-	12 Recall Without Knowing
-	12 Counterslice
-	12 Suppresion Force
-	12 Flutter Rebuttal
-	12 Drawl
-	12 Perforate Spirit
-	12 Soul Surgery
-	12 Mystic's Chill
-	12 Fluffyhead
-	12 Unrelenting Soltari
-	12 Veiling Mist
-	12 Panchar
-	12 Batallion Frontliner
-	12 Gladesprite
-	12 Spritepallorix
-	12 Attack Leader
-	12 Blademaster
-	12 Backup Squad
-	12 Ageless Observer
-	12 Fabric Weaver
-	12 Piercing Barrage
-	12 Celestial Binding
-	12 Brilliant Polish
-	12 Ethereal Flourish
-	12 Suprashield
-	12 Banish an Opulent Soul
-	1 Superposition Gateway
-	1 Ingis, Chains of the worldsoul
-	1 Lavez, Anchor of the Worldsoul
-	1 Rix, Shackle of the Worldsoul
-	1 Lichbind
-	1 Overgrowing Pumkin
-	1 Flurry of Regrowth
-	1 Cloudyawner
-	1 Ruination Mystic
-	1 All Encompassing Wish
-	1 Tempestous Growthmagus
-	1 Outpouring of Life
-	1 Soul Augury
-	1 The Observer of All
-	1 Demonic Prepotence
-	1 Ravenous Rhizome
-	1 Singe Elemental
-	1 Chromatic Monsoon
-	1 Grandmaster of Sparks
-	1 Culumonibus Tyrant
-	1 Planar Till
-	2 Presence of Undeath
-	2 Harvest
-	2 Mythos of the Unyielding King
-	2 Elder Saakstalker
-	2 Dominated Slither
-	2 Spellbattery Ghoul
-	2 Cthonitaur
-	2 Doldrum Dreamer
-	2 Soulflame Ring
-	2 Bellow of Verdure
-	2 Mythos of the First Hunger
-	2 Lifegraft
-	2 Seek the Immense
-	2 Elder Gangeth
-	2 Tanglespell Briar
-	2 Aspect of Vigor
-	2 Tune of Safeholding
-	2 Hemorrphage, Spritevix Queen
-	2 Distill Fears
-	2 Boorish Mystic
-	2 Antolie, Anomalous Apostate
-	2 Augur of Soul
-	2 Spritethrombosix
-	2 Sinister Magister
-	2 Szyssixz, Feaster of Essence
-	2 Stroke of Avail
-	2 Scalemail Magmawhelk
-	2 Final Ember Embrace
-	2 Mythos of the Archdemon
-	2 Mindblaze Mystic
-	2 Firemind Richualist
-	2 Hyperbolt
-	2 Burning Apostle
-	2 Blazing Wheel-Kin
-	2 Ominous Soul Tome
-	2 Chronoduplicate
-	2 Mythos of the Sage
-	2 Retroarcane Continuity
-	2 The Wind Releaser
-	2 Narcorelapsy
-	2 Unmoored Ideas
-	2 Temporal Emergence
-	2 Acolyte of the Anchor
-	2 Anchorley Angel
-	2 Mythos of the Pale
-	2 Unanchored Sky-Serpent
-	2 Ultrashield Angel
-	2 Decrown
-	2 Re-Weave the World
-	2 Drawn From Discussion
-	6 Sludgefly
-	6 Twilight Tiger
-	6 Saakstalker Egg
-	6 Influenced Informant
-	6 Ichor Elemental
-	6 Espien, Shellmage
-	6 Hunting Saakstalker
-	6 Brainseize
-	6 Resummon
-	6 Gossamer Sins
-	6 Demon's Prowl
-	6 Nirvana Doldrums
-	6 Revolving Dread
-	6 Mosswhelk
-	6 Carrabaster Cultivator
-	6 Glade Trunkling
-	6 Bear Ghost
-	6 Aran, Forest Hermit
-	6 Greater Gangeth
-	6 Essence Feeder
-	6 Thornbark Prile
-	6 Mawssive Hunger
-	6 Archdruid's Insight
-	6 Aran's Acuity
-	6 Anchor-Root Vitality
-	6 Revolving Medititation
-	6 Benevolent Herd
-	6 Drench
-	6 Excrutiating Voice
-	6 Leyline Channeler
-	6 Idol of Harmony
-	6 Mightsoul Samurai
-	6 Knorguer, Saccloc
-	6 Shadowflock
-	6 Alarming Alteration
-	6 Honourable Bushido
-	6 Klashpeak Stinger
-	6 Klashpeak Crusader
-	6 Firemane Hyena
-	6 Chainfiend
-	6 Boastful Battlemage
-	6 Heroic Spearmagus
-	6 Kleefoff, Essence Looter
-	6 Bloodflare
-	6 Flip of Allegiance
-	6 Unanchored Richual
-	6 Blitz Infusion
-	6 Blazing Axe
-	6 Revolving Panic
-	6 Ravencaller
-	6 Spellatog
-	6 Idol of Benthic Secrets
-	6 Hereditary Heron
-	6 Kefus, the Scribe
-	6 Dragger of Depths
-	6 Driftmuller
-	6 Revoke Access
-	6 Storm Shield
-	6 Thirst for Acknowledgement
-	6 Spritevix's Retrieveal
-	6 Hatching the Spritevix
-	6 Revolving Insight
-	6 Collective Ideals
-	6 Voidliss Sky-Serpent
-	6 Aspiring Bannerette
-	6 Mild Mystic
-	6 Skviper Skimmer
-	6 Tale Weaver
-	6 Lathinia, Metalwinged
-	6 Idol of Decrees
-	6 Wise Lichtmancer
-	6 Defrock
-	6 Giant's Axe
-	6 Rematerialize
-	6 Astral Barrage
-	6 Revolving Arts
-	12 Bloodfell Caves
-	12 Blossoming Sands
-	12 Dismal Backwater
-	12 Rugged Highlands
-	12 Tranquil Cove
-[wildcard(1)]
-	6 Map Out
-	6 Idol of Essence
-	15 Forgetmenot Glade
-	15 Chalcogen Spring
-	15 Whizzing Sinews
-	15 Prechronal Undergrowth
-	15 Platau lumen
-	6 Spritevitiligosix
-	6 See Ahead
-	6 Spritevarix
-	6 Willing Fodder
-	6 Chitinous Hound
-	6 Gerx Parasite
-	6 Blood Seer
-	6 Recluded Ronin
-	6 Belltower Mystic
-	6 Spritestenosix
-	6 Minister of Bygones
-	6 Prowling Saakstalker
-	6 Ichorate
-	6 Fae Blade Blessing
-	6 Witherweight
-	6 Chain Drain
-	6 Spritevix Bargain
-	6 Reposess Soul
-	6 Ashassinate
-	6 Demonstrate Dissent
-	6 Spirima
-	6 Glade Protector
-	6 Wurmsoul Mystic
-	6 Muscle Mystic
-	6 Verdant Boar
-	6 Canopy Ambusher
-	6 Daunting Lifeflame
-	6 Granky Mystic
-	6 Vine Heroc
-	6 Flightsteppe Centaur
-	6 Neoitc Oldgrowth
-	6 Mystic's Retort
-	6 Druidic Vigor
-	6 Natal Growth
-	6 Verdant Synthesis
-	6 Disarming Vines
-	6 Endless Vegetation
-	6 Heroic Growth
-	6 Skrigi Honorguard
-	6 Lith Mystic
-	6 Ritual Ram
-	6 Anomulmutt
-	6 Flamebow Elemental
-	6 Featherseer Mystic
-	6 Blazing Mystic
-	6 Goblin Muscician
-	6 Chainbreak Ragetaur
-	6 Idol of Skirmishes
-	6 Whizzing Fireball
-	6 Overpulse
-	6 Prowling Peck
-	6 Wideflame
-	6 Searing Thoughts
-	6 Vampiric Fury
-	6 Single Point Stab
-	6 Drown In Flames
-	6 Spritembolusix
-	6 Safekeeper of the Chains
-	6 Memory Nomad
-	6 Seer of Unchained Sight
-	6 Aether Bird
-	6 Ethereal Goat
-	6 War Mystic
-	6 Mistful Mystic
-	6 Spriteamyloidosix
-	6 Divedrake
-	6 Bolstering Portal
-	6 Recall Without Knowing
-	6 Counterslice
-	6 Suppresion Force
-	6 Flutter Rebuttal
-	6 Drawl
-	6 Perforate Spirit
-	6 Soul Surgery
-	6 Mystic's Chill
-	6 Fluffyhead
-	6 Unrelenting Soltari
-	6 Veiling Mist
-	6 Panchar
-	6 Batallion Frontliner
-	6 Gladesprite
-	6 Spritepallorix
-	6 Attack Leader
-	6 Blademaster
-	6 Backup Squad
-	6 Ageless Observer
-	6 Fabric Weaver
-	6 Piercing Barrage
-	6 Celestial Binding
-	6 Brilliant Polish
-	6 Ethereal Flourish
-	6 Suprashield
-	6 Banish an Opulent Soul
-	4 Superposition Gateway
-	4 Ingis, Chains of the worldsoul
-	4 Lavez, Anchor of the Worldsoul
-	4 Rix, Shackle of the Worldsoul
-	4 Lichbind
-	4 Overgrowing Pumkin
-	4 Flurry of Regrowth
-	4 Cloudyawner
-	4 Ruination Mystic
-	4 All Encompassing Wish
-	4 Tempestous Growthmagus
-	4 Outpouring of Life
-	4 Soul Augury
-	4 The Observer of All
-	4 Demonic Prepotence
-	4 Ravenous Rhizome
-	4 Singe Elemental
-	4 Chromatic Monsoon
-	4 Grandmaster of Sparks
-	4 Culumonibus Tyrant
-	4 Planar Till
-	7 Presence of Undeath
-	7 Harvest
-	7 Mythos of the Unyielding King
-	7 Elder Saakstalker
-	7 Dominated Slither
-	7 Spellbattery Ghoul
-	7 Cthonitaur
-	7 Doldrum Dreamer
-	7 Soulflame Ring
-	7 Bellow of Verdure
-	7 Mythos of the First Hunger
-	7 Lifegraft
-	7 Seek the Immense
-	7 Elder Gangeth
-	7 Tanglespell Briar
-	7 Aspect of Vigor
-	7 Tune of Safeholding
-	7 Hemorrphage, Spritevix Queen
-	7 Distill Fears
-	7 Boorish Mystic
-	7 Antolie, Anomalous Apostate
-	7 Augur of Soul
-	7 Spritethrombosix
-	7 Sinister Magister
-	7 Szyssixz, Feaster of Essence
-	7 Stroke of Avail
-	7 Scalemail Magmawhelk
-	7 Final Ember Embrace
-	7 Mythos of the Archdemon
-	7 Mindblaze Mystic
-	7 Firemind Richualist
-	7 Hyperbolt
-	7 Burning Apostle
-	7 Blazing Wheel-Kin
-	7 Ominous Soul Tome
-	7 Chronoduplicate
-	7 Mythos of the Sage
-	7 Retroarcane Continuity
-	7 The Wind Releaser
-	7 Narcorelapsy
-	7 Unmoored Ideas
-	7 Temporal Emergence
-	7 Acolyte of the Anchor
-	7 Anchorley Angel
-	7 Mythos of the Pale
-	7 Unanchored Sky-Serpent
-	7 Ultrashield Angel
-	7 Decrown
-	7 Re-Weave the World
-	7 Drawn From Discussion
-	15 Sludgefly
-	15 Twilight Tiger
-	15 Saakstalker Egg
-	15 Influenced Informant
-	15 Ichor Elemental
-	15 Espien, Shellmage
-	15 Hunting Saakstalker
-	15 Brainseize
-	15 Resummon
-	15 Gossamer Sins
-	15 Demon's Prowl
-	15 Nirvana Doldrums
-	15 Revolving Dread
-	15 Mosswhelk
-	15 Carrabaster Cultivator
-	15 Glade Trunkling
-	15 Bear Ghost
-	15 Aran, Forest Hermit
-	15 Greater Gangeth
-	15 Essence Feeder
-	15 Thornbark Prile
-	15 Mawssive Hunger
-	15 Archdruid's Insight
-	15 Aran's Acuity
-	15 Anchor-Root Vitality
-	15 Revolving Medititation
-	15 Benevolent Herd
-	15 Drench
-	15 Excrutiating Voice
-	15 Leyline Channeler
-	15 Idol of Harmony
-	15 Mightsoul Samurai
-	15 Knorguer, Saccloc
-	15 Shadowflock
-	15 Alarming Alteration
-	15 Honourable Bushido
-	15 Klashpeak Stinger
-	15 Klashpeak Crusader
-	15 Firemane Hyena
-	15 Chainfiend
-	15 Boastful Battlemage
-	15 Heroic Spearmagus
-	15 Kleefoff, Essence Looter
-	15 Bloodflare
-	15 Flip of Allegiance
-	15 Unanchored Richual
-	15 Blitz Infusion
-	15 Blazing Axe
-	15 Revolving Panic
-	15 Ravencaller
-	15 Spellatog
-	15 Idol of Benthic Secrets
-	15 Hereditary Heron
-	15 Kefus, the Scribe
-	15 Dragger of Depths
-	15 Driftmuller
-	15 Revoke Access
-	15 Storm Shield
-	15 Thirst for Acknowledgement
-	15 Spritevix's Retrieveal
-	15 Hatching the Spritevix
-	15 Revolving Insight
-	15 Collective Ideals
-	15 Voidliss Sky-Serpent
-	15 Aspiring Bannerette
-	15 Mild Mystic
-	15 Skviper Skimmer
-	15 Tale Weaver
-	15 Lathinia, Metalwinged
-	15 Idol of Decrees
-	15 Wise Lichtmancer
-	15 Defrock
-	15 Giant's Axe
-	15 Rematerialize
-	15 Astral Barrage
-	15 Revolving Arts
-	6 Bloodfell Caves
-	6 Blossoming Sands
-	6 Dismal Backwater
-	6 Rugged Highlands
-	6 Tranquil Cove
+	5 Forgetmenot Glade
+	5 Chalcogen Spring
+	5 Whizzing Sinews
+	5 Prechronal Undergrowth
+	5 Platau lumen
+	5 Sludgefly
+	5 Twilight Tiger
+	5 Saakstalker Egg
+	5 Influenced Informant
+	5 Ichor Elemental
+	5 Espien, Shellmage
+	5 Brainseize
+	5 Resummon
+	5 Gossamer Sins
+	5 Demon's Prowl
+	5 Nirvana Doldrums
+	5 Revolving Dread
+	5 Mosswhelk
+	5 Carrabaster Cultivator
+	5 Glade Trunkling
+	5 Bear Ghost
+	5 Aran, Forest Hermit
+	5 Greater Gangeth
+	5 Essence Feeder
+	5 Thornbark Prile
+	5 Mawssive Hunger
+	5 Archdruid's Insight
+	5 Aran's Acuity
+	5 Anchor-Root Vitality
+	5 Revolving Medititation
+	5 Benevolent Herd
+	5 Drench
+	5 Excrutiating Voice
+	5 Leyline Channeler
+	5 Idol of Harmony
+	5 Mightsoul Samurai
+	5 Knorguer, Saccloc
+	5 Shadowflock
+	5 Alarming Alteration
+	5 Honourable Bushido
+	5 Klashpeak Stinger
+	5 Klashpeak Crusader
+	5 Firemane Hyena
+	5 Chainfiend
+	5 Boastful Battlemage
+	5 Heroic Spearmagus
+	5 Bloodflare
+	5 Flip of Allegiance
+	5 Unanchored Richual
+	5 Blitz Infusion
+	5 Blazing Axe
+	5 Revolving Panic
+	5 Ravencaller
+	5 Spellatog
+	5 Idol of Benthic Secrets
+	5 Hereditary Heron
+	5 Dragger of Depths
+	5 Driftmuller
+	5 Revoke Access
+	5 Storm Shield
+	5 Thirst for Acknowledgement
+	5 Spritevix's Retrieveal
+	5 Hatching the Spritevix
+	5 Revolving Insight
+	5 Collective Ideals
+	5 Voidliss Sky-Serpent
+	5 Aspiring Bannerette
+	5 Mild Mystic
+	5 Skviper Skimmer
+	5 Tale Weaver
+	5 Lathinia, Metalwinged
+	5 Idol of Decrees
+	5 Wise Lichtmancer
+	5 Defrock
+	5 Giant's Axe
+	5 Rematerialize
+	5 Astral Barrage
+	5 Revolving Arts
+	5 Kefus, the Scribe
+	5 Kleefoff, Essence Looter
+	5 Distilled Essence
+	5 Hunting Saakstalker
+[common(10)]
+	5 Map Out
+	5 Idol of Essence
+	5 Spritevitiligosix
+	5 See Ahead
+	5 Spritevarix
+	5 Willing Fodder
+	5 Chitinous Hound
+	5 Gerx Parasite
+	5 Blood Seer
+	5 Recluded Ronin
+	5 Belltower Mystic
+	5 Spritestenosix
+	5 Minister of Bygones
+	5 Prowling Saakstalker
+	5 Ichorate
+	5 Fae Blade Blessing
+	5 Witherweight
+	5 Chain Drain
+	5 Spritevix Bargain
+	5 Reposess Soul
+	5 Ashassinate
+	5 Demonstrate Dissent
+	5 Spirima
+	5 Glade Protector
+	5 Wurmsoul Mystic
+	5 Muscle Mystic
+	5 Verdant Boar
+	5 Canopy Ambusher
+	5 Daunting Lifeflame
+	5 Granky Mystic
+	5 Vine Heroc
+	5 Flightsteppe Centaur
+	5 Neoitc Oldgrowth
+	5 Mystic's Retort
+	5 Druidic Vigor
+	5 Natal Growth
+	5 Verdant Synthesis
+	5 Disarming Vines
+	5 Endless Vegetation
+	5 Heroic Growth
+	5 Skrigi Honorguard
+	5 Lith Mystic
+	5 Ritual Ram
+	5 Anomulmutt
+	5 Flamebow Elemental
+	5 Featherseer Mystic
+	5 Blazing Mystic
+	5 Goblin Muscician
+	5 Chainbreak Ragetaur
+	5 Idol of Skirmishes
+	5 Whizzing Fireball
+	5 Overpulse
+	5 Prowling Peck
+	5 Wideflame
+	5 Searing Thoughts
+	5 Vampiric Fury
+	5 Single Point Stab
+	5 Drown In Flames
+	5 Spritembolusix
+	5 Safekeeper of the Chains
+	5 Memory Nomad
+	5 Seer of Unchained Sight
+	5 Aether Bird
+	5 Ethereal Goat
+	5 War Mystic
+	5 Mistful Mystic
+	5 Spriteamyloidosix
+	5 Divedrake
+	5 Bolstering Portal
+	5 Recall Without Knowing
+	5 Counterslice
+	5 Suppresion Force
+	5 Flutter Rebuttal
+	5 Drawl
+	5 Perforate Spirit
+	5 Soul Surgery
+	5 Mystic's Chill
+	5 Fluffyhead
+	5 Unrelenting Soltari
+	5 Veiling Mist
+	5 Panchar
+	5 Batallion Frontliner
+	5 Gladesprite
+	5 Spritepallorix
+	5 Attack Leader
+	5 Blademaster
+	5 Backup Squad
+	5 Ageless Observer
+	5 Fabric Weaver
+	5 Piercing Barrage
+	5 Celestial Binding
+	5 Brilliant Polish
+	5 Ethereal Flourish
+	5 Suprashield
+	5 Banish an Opulent Soul
+	5 Bloodfell Caves
+	5 Blossoming Sands
+	5 Dismal Backwater
+	5 Rugged Highlands
+	5 Tranquil Cove

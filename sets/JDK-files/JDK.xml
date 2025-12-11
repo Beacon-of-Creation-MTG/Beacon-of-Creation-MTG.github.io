@@ -5,13 +5,13 @@
 			<name>JDK</name>
 			<longname>Jardeka, Age of Rust</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-15</releasedate>
+			<releasedate>2025-12-11</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Forest</name>
-			<text>{T}: Add {G}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/0.png" num="305">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -26,7 +26,7 @@
 		</card>
 		<card>
 			<name>Forest</name>
-			<text>{T}: Add {G}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/1.png" num="306">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -41,7 +41,7 @@
 		</card>
 		<card>
 			<name>Forest</name>
-			<text>{T}: Add {G}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/2.png" num="307">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -56,7 +56,7 @@
 		</card>
 		<card>
 			<name>Island</name>
-			<text>{T}: Add {U}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/3.png" num="299">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -71,7 +71,7 @@
 		</card>
 		<card>
 			<name>Island</name>
-			<text>{T}: Add {U}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/4.png" num="300">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -86,7 +86,7 @@
 		</card>
 		<card>
 			<name>Mountain</name>
-			<text>{T}: Add {R}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/5.png" num="303">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -101,7 +101,7 @@
 		</card>
 		<card>
 			<name>Mountain</name>
-			<text>{T}: Add {R}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/6.png" num="304">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -116,7 +116,7 @@
 		</card>
 		<card>
 			<name>Plains</name>
-			<text>{T}: Add {W}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/7.png" num="297">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -131,7 +131,7 @@
 		</card>
 		<card>
 			<name>Plains</name>
-			<text>{T}: Add {W}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/8.png" num="298">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -146,7 +146,7 @@
 		</card>
 		<card>
 			<name>Swamp</name>
-			<text>{T}: Add {B}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/9.png" num="302">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -161,7 +161,7 @@
 		</card>
 		<card>
 			<name>Swamp</name>
-			<text>{T}: Add {B}</text>
+			<text></text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/10.png" num="301">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -466,6 +466,7 @@ When this land enters, you gain 1 life.
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Voltaic Construct</name>
@@ -515,7 +516,7 @@ When this land enters, you gain 1 life.
 		</card>
 		<card>
 			<name>Filtering Star</name>
-			<text>{2}, {T}: Add three mana in any combination of colors.
+			<text>{1}, {T}: Add two mana in any combination of colors.
  {T}, Sacrifice this artifact: Draw a card.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/32.png" num="244">JDK</set>
 			<prop>
@@ -590,7 +591,7 @@ Equip {5}</text>
 		</card>
 		<card>
 			<name>Coalpower Gauntlet</name>
-			<text>Equipped creature gets +1/+0 and has Lurk {1}. (Defending player can&apos;t block that creature unless they pay {1})
+			<text>Equipped creature gets +1/+0 and has lurk {1}. (Defending player can&apos;t block that creature unless they pay {1})
 Equip {2}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/37.png" num="236">JDK</set>
 			<prop>
@@ -618,6 +619,7 @@ Equip {2}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Saproling Construct JDK</reverse_related>
 		</card>
 		<card>
 			<name>Cyclic Vessel</name>
@@ -734,6 +736,7 @@ When this artifact is put into a graveyard from the battlefield, you may pay {U}
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Shearing Rager</name>
@@ -959,6 +962,7 @@ Equip {2}
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Insect JDK</reverse_related>
 		</card>
 		<card>
 			<name>Lethal Prowess</name>
@@ -1097,6 +1101,7 @@ Equip {6}</text>
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Kybertusk Mammoth</name>
@@ -1115,6 +1120,7 @@ When this creature dies, create an Implant token and put this creature&apos;s co
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Steelgrazing Goat</name>
@@ -1202,6 +1208,7 @@ Create an Implant token with a trample counter. (It&apos;s a token artifact with
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Pillabegg Probiota</name>
@@ -1359,6 +1366,7 @@ This creature can&apos;t block.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Junksea Artillerist</name>
@@ -1395,6 +1403,7 @@ This creature can&apos;t attack unless you&apos;ve sacrificed a permanent this t
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Met-A110 Moth</name>
@@ -1614,6 +1623,7 @@ Exile the top card of your library. You may play that card until the end of your
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Triage Tri-Arm</name>
@@ -1685,6 +1695,7 @@ Equip {2}</text>
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Spliceblade Rogue</name>
@@ -1720,10 +1731,11 @@ Lurk {3} (Defending player can&apos;t block this creature unless they pay {3}.)<
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Portable Barricade</name>
-			<text>When this Equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.
+			<text>When this Equipment enters, create a colorless 0/1 Servo artifact creature token and attach this to it.
 Equipped creature gets +0/+4.
 Equip {3}</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/103.png" num="70">JDK</set>
@@ -1738,6 +1750,7 @@ Equip {3}</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Servo JDK</reverse_related>
 		</card>
 		<card>
 			<name>Quick Revision</name>
@@ -1890,10 +1903,11 @@ Equip {2}</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Dewmoth</name>
-			<text>Proficiency — Whenever this creature becomes the target of an ability you control,put a +1/+1 counter on it. Each ability source triggers this only once each turn.</text>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, put a +1/+1 counter on it. Each ability source triggers this only once each turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/113.png" num="7">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -1995,6 +2009,7 @@ This creature enters with a +1/+1 counter if you control a modified creature. (E
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related count="2">Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Rune-Etch Artificer</name>
@@ -2272,6 +2287,7 @@ Whenever enchanted creature dies, you control target opponent during their next 
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Witness the End</name>
@@ -2379,7 +2395,7 @@ Whenever you sacrifice your third permanent each turn, return this card from you
 		</card>
 		<card>
 			<name>Symmetric Warfare</name>
-			<text>Whenever a permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it.</text>
+			<text>Whenever a nonland permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/141.png" num="225">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -2669,7 +2685,7 @@ Whenever a player would cast a spell with mana value equal to the number of +1/+
 				<side>front</side>
 				<type>Artifact Creature — Serpent Implant</type>
 				<maintype>Creature</maintype>
-				<manacost>X</manacost>
+				<manacost>XX</manacost>
 				<cmc>0</cmc>
 				<pt>0/0</pt>
 			</prop>
@@ -2832,6 +2848,7 @@ When this creature enters, create a green 1/1 Insect creature token for each dif
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Insect JDK</reverse_related>
 		</card>
 		<card>
 			<name>Terrabombing</name>
@@ -2865,6 +2882,7 @@ When this creature enters, create a green 1/1 Insect creature token for each dif
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Stampeding Oxobegg</name>
@@ -2884,6 +2902,7 @@ When this creature dies, until end of turn, whenever you would create a token, c
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Insect JDK</reverse_related>
 		</card>
 		<card>
 			<name>Perfect Complexion</name>
@@ -3068,6 +3087,7 @@ Clang — Whenever an artifact enters under your control, put a +1/+1 counter on
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>War Djinn</name>
@@ -3224,6 +3244,7 @@ The next time you activate an ability that isn&apos;t a mana ability this turn, 
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Old World Rockstar</name>
@@ -3259,6 +3280,7 @@ Whenever a creature you control attacks, if it entered the battlefield this turn
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related count="4">Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Remelt</name>
@@ -3416,6 +3438,7 @@ Permanents you control with counters on them have ward {X}, where X is the numbe
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Archon of Artifice</name>
@@ -3626,6 +3649,7 @@ Whenever this creature attacks, create an Implant token with your choice of a fl
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Universal Engineer</name>
@@ -3739,6 +3763,7 @@ When this creature enters, create an Implant token with a +1/+1 counter. (It&apo
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Cobbled Automaton</name>
@@ -3899,6 +3924,7 @@ Equip artifact creature {B}</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Saproling Construct JDK</reverse_related>
 		</card>
 		<card>
 			<name>Seeding Mine</name>
@@ -4054,6 +4080,7 @@ When this creature enters, return target artifact creature card from your gravey
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Manufacturing Defect</name>
@@ -4264,6 +4291,7 @@ Whenever you would put a keyword counter on a creature you control, put a keywor
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Rhinodrone Piker</name>
@@ -4282,6 +4310,7 @@ Modified creatures you control can&apos;t be blocked by creatures with power 2 o
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Verdant Synthesizer</name>
@@ -4369,7 +4398,8 @@ Return up to three target cards from your graveyard to your hand. Exile this car
 		</card>
 		<card>
 			<name>Solaris Cleaner</name>
-			<text>Clang — Whenever an artifact enters under your control, tap target creature an opponent controls.</text>
+			<text>Lurk {1} (Defending player can&apos;t block this creature unless they pay {1}.)
+Clang — Whenever an artifact enters under your control, tap target creature an opponent controls.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/258.png" num="224">JDK</set>
 			<prop>
 				<layout>normal</layout>
@@ -4599,6 +4629,7 @@ At the beginning of your end step, sacrifice an artifact.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related count="2">Saproling Construct JDK</reverse_related>
 		</card>
 		<card>
 			<name>Furnace Artillerist</name>
@@ -4773,12 +4804,13 @@ Whenever one or more creatures block this turn, create that many Treasure tokens
 		</card>
 		<card>
 			<name>Interplanter</name>
-			<text>When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<text>Lurk {1} (Defending player can&apos;t block this creature unless they pay {1}.)
+When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/281.png" num="60">JDK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Merfolk Artificer</type>
+				<type>Creature — Siren Artificer</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -4787,6 +4819,7 @@ Whenever one or more creatures block this turn, create that many Treasure tokens
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Holographm Stalker</name>
@@ -4858,6 +4891,7 @@ When this creature enters, create an Implant token with a flying counter. (It&ap
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Metalmancer</name>
@@ -4928,6 +4962,7 @@ Create an Implant token with a vigilance counter and a flying counter. (It&apos;
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Digitalize</name>
@@ -5119,6 +5154,7 @@ Protection from colorless sources your opponents control. (This creature can&apo
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Tinkering Maestro</name>
@@ -5169,6 +5205,7 @@ When this creature enters, modified creatures you control get +2/+0 until end of
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related count="3">Implant JDK</reverse_related>
 		</card>
 		<card>
 			<name>Clean Idea</name>
@@ -5204,6 +5241,7 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Servo JDK</reverse_related>
 		</card>
 		<card>
 			<name>Reassemble</name>
@@ -5220,6 +5258,71 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Implant JDK</name>
+			<text>{1}, {T}, Sacrifice this token: Put its counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/307.png" num="2">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Implant</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Saproling Construct JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/308.png" num="3">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Saproling Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Servo JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/309.png" num="4">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/JDK-files/img/310.png" num="1">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

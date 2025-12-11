@@ -5,7 +5,7 @@
 			<name>VGE</name>
 			<longname>Voc-Gal Echoes</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-15</releasedate>
+			<releasedate>2025-12-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -64,7 +64,7 @@ Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1
 		</card>
 		<card>
 			<name>Amphiteater Listener</name>
-			<text>When this creature dies, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>When this creature dies, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/3.png" num="11">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -78,7 +78,8 @@ Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Murmur</related>
+			<related>Murmur VGE</related>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Overeager Audience</name>
@@ -119,7 +120,7 @@ When this creature attacks, if it is enchanted it gets +3/+0 until end of turn.<
 		<card>
 			<name>Echo of Delight</name>
 			<text>Vigilance
-Whenever this creature attacks, you may pay {1}{BR}. If you do, return target Aura card from your graveyard to the battlefield attached to this creature. Sacrifice that Aura at the end of combat.</text>
+Whenever this creature attacks, you may pay {1}{BR}. If you do, create two tapped and attacking 1/1 white Human creature tokens. Sacrifice them at the beginning of the next end step.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/6.png" num="18">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -133,6 +134,7 @@ Whenever this creature attacks, you may pay {1}{BR}. If you do, return target Au
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related count="2">Human VGE</reverse_related>
 		</card>
 		<card>
 			<name>Resolute Melody</name>
@@ -185,6 +187,8 @@ Creatures you control gain exalted until end of turn. (Whenever a creature you c
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Wall VGE</reverse_related>
+			<reverse_related>1</reverse_related>
 		</card>
 		<card>
 			<name>Even Stars Fall</name>
@@ -207,20 +211,21 @@ One bad performance sent her career tumbling to the gutter.</text>
 		</card>
 		<card>
 			<name>Dynamic Dynamics</name>
-			<text>This spell costs {1} less to cast if a creature you control is attacking alone.
-Target creature gets +2/+2 until end of turn.</text>
+			<text>Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/11.png" num="17">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Rondelli Recruiter</name>
@@ -242,7 +247,7 @@ Target creature gets +2/+2 until end of turn.</text>
 		<card>
 			<name>Olgal Shore Guardian</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-When this creature enters, you may pay {1}. If you do create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+When this creature enters, you may pay {1}. If you do create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/13.png" num="51">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -256,6 +261,7 @@ When this creature enters, you may pay {1}. If you do create a Murmur token. (It
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Mistral Singer</name>
@@ -292,6 +298,7 @@ When this creature enters, create a 1/1 blue and red Siren creature token with &
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Echo of Complexity</name>
@@ -329,6 +336,7 @@ It&apos;s a round, just follow me. One, Two, Three...</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Dream Songs</name>
@@ -349,7 +357,7 @@ Put a lore counter on up to one target permanent you control.</text>
 		</card>
 		<card>
 			<name>Delayed Performance</name>
-			<text>Return target spell to its owners hand unless they pay {2}. If they do, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Return target spell to its owners hand unless they pay {2}. If they do, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/19.png" num="42">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -362,6 +370,7 @@ Put a lore counter on up to one target permanent you control.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Thirst for Meaning</name>
@@ -397,7 +406,7 @@ Put a lore counter on up to one target permanent you control.</text>
 		</card>
 		<card>
 			<name>Tuck Within Harmony</name>
-			<text>The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>The owner of target nonland permanent puts it on the top or bottom of their library. Then they create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/22.png" num="65">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -410,11 +419,12 @@ Put a lore counter on up to one target permanent you control.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Reminiscent Tune</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II)
-Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 Return target instant or sorcery card from your graveyard to your hand.
 You do not recognize the melody in the murmur.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/23.png" num="56">VGE</set>
@@ -423,17 +433,18 @@ You do not recognize the melody in the murmur.</text>
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>3U</manacost>
-				<cmc>4</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Decreshh Revenant</name>
 			<text>Flying
-Finale — Whenever an enchantment is put into your graveyard from the battlefield, target player mills a card.</text>
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, target player mills two cards.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/24.png" num="72">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -450,7 +461,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 		</card>
 		<card>
 			<name>Subtle Silencer</name>
-			<text>Whenever a lore counter is put on a permanent you control, surveil 1. If a nonland card is put into your graveyard this way this creature gets +1/+0 and gains deathtouch until end of turn. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<text>When this creature enters, Surveil 1 (Look at the top card of your library. You may put it into your graveyard.)
+Whenever this creature attacks alone it gets +1/+0 and gains deathtouch until end of turn.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/25.png" num="90">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -461,13 +473,13 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Mourning Soliliquist</name>
-			<text>Whenever a creature card is put into a graveyard from anywhere for the first time each turn you may pay {B} and 2 life, if you do create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Whenever a creature card is put into a graveyard from anywhere for the first time each turn you may pay {B} and 2 life, if you do create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/26.png" num="85">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -481,6 +493,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Caller of Ravens</name>
@@ -541,7 +554,7 @@ Whenever this creature attacks, you may pay {1}{GW}. If you do return target Sag
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 Mill three cards.
 Create a 1/1 blue and red Siren creature token with &quot;{T}:Target creature can&apos;t block alone until end of turn. Activate only as a sorcery&quot;
-You may sacrifice a creature. If you do return a creature card from your graveyard to your hand.</text>
+Return up to one target creature card and up to one target Siren card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/30.png" num="69">VGE</set>
 			<prop>
 				<layout>saga</layout>
@@ -554,6 +567,7 @@ You may sacrifice a creature. If you do return a creature card from your graveya
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Write Your Requiem</name>
@@ -611,7 +625,7 @@ Each player loses 1 life.
 			<name>Life&apos;s Echo</name>
 			<text>Flash
 Enchant creature
-When enchanted creature dies, return it to the battlefield with a finality counter on it, except it&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}—Add {C}.&quot; in addition to its other types an abilities.</text>
+When enchanted creature dies, return it to the battlefield with a finality counter on it, except it&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}—Add {C}.&quot; in addition to its other types an abilities.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/34.png" num="84">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -727,11 +741,12 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Echo of Embers</name>
 			<text>Haste
-Whenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X target creatures, where X is one plus the number of Auras you control.</text>
+Whenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X target creatures, where X is equal to the number of enchantments you control.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/41.png" num="101">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -749,15 +764,15 @@ Whenever this creature attacks, you may pay {1}{WU}. If you do, tap up to X targ
 		<card>
 			<name>Flaming Resolution</name>
 			<text>As an additional cost to cast this spell you may sacrifice an enchantment.
-This spell deals 4 damage to target creature or planeswalker. If you sacrificed an enchantment as you cast this spell it deals 4 damage to any target instead.</text>
+This spell deals 3 damage to target creature or planeswalker. If you sacrificed an enchantment as you cast this spell it deals 5 damage to any target instead.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/42.png" num="103">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -801,7 +816,7 @@ Draw two cards.</text>
 			<name>Lonely Whispering</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)
 I, II — This Saga deals 1 damage to each creature and planeswalker.
-III — Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+III — Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 ​</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/45.png" num="107">VGE</set>
 			<prop>
@@ -815,6 +830,7 @@ III — Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment wi
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Lightning Belt</name>
@@ -910,7 +926,7 @@ Enchanted creature gets +2/+0 and has haste.</text>
 		</card>
 		<card>
 			<name>Storykeeper</name>
-			<text>When this creature enters, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>When this creature enters, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/51.png" num="148">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -924,6 +940,7 @@ Enchanted creature gets +2/+0 and has haste.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Nature&apos;s Duet</name>
@@ -943,11 +960,12 @@ Put a +1/+1 counter on target creature you control.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Elemental VGE</reverse_related>
 		</card>
 		<card>
 			<name>Echo of Family</name>
 			<text>Trample
-Whenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+Whenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/53.png" num="129">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -961,6 +979,7 @@ Whenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Doubletime Diva</name>
@@ -983,7 +1002,7 @@ Whenever you cast your second spell each turn, double the number of +1/+1 counte
 		<card>
 			<name>Follow the Murmur</name>
 			<text>Search your library for a basic land card, put it into your hand, then shuffle.
-Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/55.png" num="133">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -996,6 +1015,7 @@ Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Echoed Ambush</name>
@@ -1154,7 +1174,7 @@ Whenever one or more creature or enchantment cards leaves your graveyard, if you
 		<card>
 			<name>Choir of Spirits</name>
 			<text>Vigilance
-{CW}{CB}, Discard this creature: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{CW}{CB}, Discard this creature: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/65.png" num="159">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1168,6 +1188,7 @@ Whenever one or more creature or enchantment cards leaves your graveyard, if you
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Sparkling Finale</name>
@@ -1309,6 +1330,7 @@ Target creature you control gains double strike until end of turn.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Elemental VGE</reverse_related>
 		</card>
 		<card>
 			<name>Center of the Ruins</name>
@@ -1329,7 +1351,7 @@ You may spend {C} as though it were mana of any color.</text>
 		</card>
 		<card>
 			<name>Murmur Echoer</name>
-			<text>Whenever you cast your second spell each turn, you may tap an untapped creature you control. If you do create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Whenever you cast your second spell each turn, you may tap an untapped creature you control. If you do create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/75.png" num="226">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1343,10 +1365,11 @@ You may spend {C} as though it were mana of any color.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Olgal Murmur Leader</name>
-			<text>Whenever this creature deals combat damage to a player, you may pay {1}, if you do, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Whenever this creature deals combat damage to a player, you may pay {1}, if you do, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/76.png" num="228">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1360,6 +1383,7 @@ You may spend {C} as though it were mana of any color.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Suddenstar&apos;s Gift</name>
@@ -1379,6 +1403,7 @@ Create a 5/7 green Leviathan creature token with trample.</text>
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Leviathan VGE</reverse_related>
 		</card>
 		<card>
 			<name>Reoccuring Terror</name>
@@ -1456,7 +1481,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 			<name>Gathering Whispers</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)
 Create a 1/1 black and green Elf creature token.
-You lose 1 life, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+You lose 1 life. Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 ​</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/82.png" num="222">VGE</set>
 			<prop>
@@ -1464,12 +1489,14 @@ You lose 1 life, create a Murmur token. (It&apos;s a colorless Saga Murmur encha
 				<side>front</side>
 				<type>Enchantment — Saga</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2B/GB/G</manacost>
-				<cmc>4</cmc>
+				<manacost>1B/GB/G</manacost>
+				<cmc>3</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Elf VGE</reverse_related>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Rampaging Bellower</name>
@@ -1490,7 +1517,7 @@ You lose 1 life, create a Murmur token. (It&apos;s a colorless Saga Murmur encha
 		</card>
 		<card>
 			<name>Snapjaw Serpent</name>
-			<text>Whenever you cast a noncreature spell put a +1/+1 counter on this creature.
+			<text>Whenever noncreature, nonland permanent enters under your control put a +1/+1 counter on this creature.
 The second spell you cast each turn costs {1} less to cast.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/84.png" num="241">VGE</set>
 			<prop>
@@ -1509,7 +1536,7 @@ The second spell you cast each turn costs {1} less to cast.</text>
 		<card>
 			<name>Olgal Song-Seer</name>
 			<text>When this creature enters create a 1/1 blue and red Siren creature token with &quot;{T}:Target creature can&apos;t block alone until end of turn. Activate only as a sorcery&quot;.
-Whenever a Siren you control deals combat damage to a player, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+Whenever you create one or more tokens, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/85.png" num="189">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1523,10 +1550,11 @@ Whenever a Siren you control deals combat damage to a player, surveil 1. (Look a
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Grandstaff Genius</name>
-			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+			<text>Whenever a Siren or noncreature, nonland permanent enters under your control, this creature gets +1/+0 and gains menace until end of turn.
 When this creature enters, create a 1/1 blue and red Siren creature token with &quot;{T}: Target creature can&apos;t block alone until end of turn. Activate only as a sorcery&quot;.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/86.png" num="172">VGE</set>
 			<prop>
@@ -1541,6 +1569,7 @@ When this creature enters, create a 1/1 blue and red Siren creature token with &
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Copycat Composer</name>
@@ -1743,7 +1772,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			<name>Ruins of Olgal</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add one mana of any color.
-{T}, Sacrifice this land: Exile target player&apos;s graveyard.</text>
+{T}, Sacrifice this land: Exile target player&apos;s graveyard. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/99.png" num="268">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1759,7 +1788,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			<name>Choir Loft</name>
 			<text>This land enters tapped unless you pay {C}.
 {T}: Add {R} or {W}.
-{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/100.png" num="262">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1771,13 +1800,14 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Vocalists Round</name>
 			<text>This land enters tapped unless you pay {C}.
 {T}: Add {U} or {R}.
-{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/101.png" num="271">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1789,13 +1819,14 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Reverberant Shore</name>
 			<text>This land enters tapped unless you pay {C}.
 {T}: Add {G} or {U}.
-{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/102.png" num="266">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1807,13 +1838,14 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Anechoic Chamber</name>
 			<text>This land enters tapped unless you pay {C}.
 {T}: Add {B} or {G}.
-{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/103.png" num="260">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1825,13 +1857,14 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 			<cipt>1</cipt>
 		</card>
 		<card>
 			<name>Crumbling Stage</name>
 			<text>This land enters tapped unless you pay {C}.
 {T}: Add {W} or {B}.
-{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{4}, {T}: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/104.png" num="263">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1843,6 +1876,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -1862,6 +1896,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Wall VGE</name>
@@ -1878,6 +1913,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 			<reverse_related>Accoustic Reflections</reverse_related>
 			<reverse_related> Stable Resolution</reverse_related>
 		</card>
@@ -1898,6 +1934,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 			<reverse_related>Mycosong Dryad</reverse_related>
 			<reverse_related> Call and Response</reverse_related>
 			<reverse_related> Strict Rehearsal</reverse_related>
@@ -1905,7 +1942,7 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 		<card>
 			<name>Whining Whisps</name>
 			<text>Flying
-When this creature enters, you may return another nonland permanent you control to your hand. If you do, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+When this creature enters, you may return another nonland permanent you control to your hand. If you do, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/108.png" num="37">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -1919,6 +1956,7 @@ When this creature enters, you may return another nonland permanent you control 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Encore Sibyl</name>
@@ -2115,6 +2153,7 @@ Finale — Whenever this enchantment or another enchantment is put into your gra
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Human VGE</reverse_related>
 		</card>
 		<card>
 			<name>Worst Critique</name>
@@ -2223,6 +2262,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related count="3">Human VGE</reverse_related>
 		</card>
 		<card>
 			<name>Musicologist</name>
@@ -2260,6 +2300,7 @@ Draw a card.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Wall VGE</reverse_related>
 		</card>
 		<card>
 			<name>Debut Disapproval</name>
@@ -2370,7 +2411,7 @@ Finale — Whenever this creature or another enchantment is put into your gravey
 		<card>
 			<name>Call the Chorus</name>
 			<text>Create a 1/1 black and green Elf creature token for each enchantment card in your graveyard.
-{2}, Exile this card from your graveyard: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{2}, Exile this card from your graveyard: Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/134.png" num="212">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2383,6 +2424,8 @@ Finale — Whenever this creature or another enchantment is put into your gravey
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Elf VGE</reverse_related>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Mentromone Meister</name>
@@ -2440,7 +2483,7 @@ When this creature enters, look at the top card of your library. You may reveal 
 		<card>
 			<name>Tempting Siren</name>
 			<text>Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
-Whenever an Aura becomes attached to Tempting Siren, create a 1/1 blue and red Siren creature token with &quot;{T}: Target creature can&apos;t block alone until end of turn. Activate only as a sorcery.&quot;</text>
+Whenever a noncreature, nonland permanent enters under your control create a 1/1 blue and red Siren creature token with &quot;{T}: Target creature can&apos;t block alone until end of turn. Activate only as a sorcery.&quot;</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/138.png" num="121">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2451,13 +2494,14 @@ Whenever an Aura becomes attached to Tempting Siren, create a 1/1 blue and red S
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Unsung Corpse</name>
-			<text>When this creature enters, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+			<text>When this creature enters, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 {2}{C}: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/139.png" num="150">VGE</set>
 			<prop>
@@ -2472,6 +2516,7 @@ Whenever an Aura becomes attached to Tempting Siren, create a 1/1 blue and red S
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Firedancer</name>
@@ -2492,21 +2537,23 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Sirens Temptation</name>
-			<text>Gain control of target creature until end of turn. Untap it.
-Creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<name>Siren&apos;s Temptation</name>
+			<text>Enchant creature
+You control enchanted creature.
+When this aura enters, untap enchanted creature. Then creatures you control get +1/+0 and gain haste until end of turn.
+At the beginning of the end step, sacrifice this enchantment.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/141.png" num="117">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
 				<manacost>2RR</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Spoils of Olgal</name>
@@ -2582,7 +2629,7 @@ Whenever a creature you control attacks alone, you may cast an Aura or Equipment
 			<name>Kitt Kanto, on Tour</name>
 			<text>Haste
 This creature attacks each turn if able.
-Tokens you control have exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+Creature tokens you control have exalted. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/146.png" num="177">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2631,6 +2678,7 @@ Enchanted creature gets +1/+1 for each other creature you control. Whenever ench
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Human VGE</reverse_related>
 		</card>
 		<card>
 			<name>Dynamic Lead</name>
@@ -2671,7 +2719,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 		</card>
 		<card>
 			<name>Lonesome Siren</name>
-			<text>Whenever a creature you control attacks alone, it gains prowess until end of turn.</text>
+			<text>Whenever a creature you control attacks alone, it gets +1/+0 for each permanent that entered this turn.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/151.png" num="108">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2688,7 +2736,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 		</card>
 		<card>
 			<name>Spellshaper Siren</name>
-			<text>{UR}, {T}, Discard a card: Create a 1/1 blue and red Siren creature token with &quot;{T}: Target creature can&apos;t block alone until end of turn. Activate only as a sorcery.&quot;</text>
+			<text>Vigilance
+{UR}, {T}, Discard a card: Create a 1/1 blue and red Siren creature token with &quot;{T}: Target creature can&apos;t block alone until end of turn. Activate only as a sorcery.&quot;</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/152.png" num="62">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2702,6 +2751,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Inspiration Bottler</name>
@@ -2812,12 +2862,13 @@ When this creature enters, counter up to one target creature spell. If you do, i
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Human VGE</reverse_related>
 		</card>
 		<card>
 			<name>Call and Response</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 Create a 2/2 green Elemental creature token.
-Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 Create a token copy of each of up to two target tokens.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/159.png" num="157">VGE</set>
 			<prop>
@@ -2831,10 +2882,12 @@ Create a token copy of each of up to two target tokens.</text>
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
+			<reverse_related>Elemental VGE</reverse_related>
 		</card>
 		<card>
 			<name>Sennai, Songclade&apos;s Start</name>
-			<text>Murmurs you control have &quot;{2ch.png} — Put a +1/+1 counter on target creature you control.&quot; in addition to its other abilities.</text>
+			<text>Murmurs you control have &quot;{2V} — Put a +1/+1 counter on target creature you control.&quot; in addition to its other abilities.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/160.png" num="196">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -2899,6 +2952,7 @@ Sirens you control have haste.</text>
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Ruins Scaler</name>
@@ -3003,6 +3057,7 @@ As long as a creature or enchantment has entered or left your graveyard this tur
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Songbird Swarms</name>
@@ -3041,7 +3096,7 @@ Enchanted creature can&apos;t block alone. You control it.</text>
 		<card>
 			<name>Self-Assuring Siren</name>
 			<text>Vigilance
-{T}: Target creature can&apos;t block alone until end of turn. Activate only as a sorcery.</text>
+When this creature attacks target creature can&apos;t block alone until end of turn. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/172.png" num="195">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3126,7 +3181,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<cmc>3</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3257,7 +3312,7 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Privledged Performer</name>
+			<name>Privileged Performer</name>
 			<text>Vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 As long as you control a nonland permanent with a lore counter on it you can&apos;t lose the game and your opponents can&apos;t win the game.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/185.png" num="28">VGE</set>
@@ -3349,9 +3404,9 @@ Draw three cards.
 		</card>
 		<card>
 			<name>Amaia, Coda Composer</name>
-			<text>When this creature enters create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+			<text>When this creature enters create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 Other Sirens you control get +1/+1.
-Sagas you control have &quot;{4ch.png}— Create a token that&apos;s a copy of target Siren.&quot;</text>
+Sagas you control have &quot;{4V}— Create a token that&apos;s a copy of target Siren.&quot;</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/190.png" num="38">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3365,12 +3420,13 @@ Sagas you control have &quot;{4ch.png}— Create a token that&apos;s a copy of t
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Emmsi, Rondelli Royalty</name>
 			<text>Haste
-This creature gets +2/+0 for each permanent that entered the battlefield under your control this turn.
-{UR}, {T}: Return this card to your hand.</text>
+Emmsi gets +2/+0 for each permanent that entered the battlefield under your control this turn.
+{UR}, {T}: Return Emmsi to your hand.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/191.png" num="166">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3387,17 +3443,16 @@ This creature gets +2/+0 for each permanent that entered the battlefield under y
 		</card>
 		<card>
 			<name>Gastal Requiem</name>
-			<text>As an additional cost to cast this spell discard X cards.
-Gain control of target creature with mana value X until end of turn. Untap it. It gains haste until end of turn. Then draw X cards.
-Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.</text>
+			<text>Discard your hand, then draw that many cards plus one.
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/192.png" num="171">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>12/U2/R</manacost>
-				<cmc>5</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2/U2/R</manacost>
+				<cmc>4</cmc>
 				<colors>UR</colors>
 				<coloridentity>UR</coloridentity>
 			</prop>
@@ -3406,7 +3461,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 		<card>
 			<name>Olgal Demon</name>
 			<text>Flying
-Whenever another creature you control dies, return it to the battlefield with a finality counter on it, its a Saga enchantment with &quot;{1ch.png},{2ch.png},{3ch.png}— Each player loses 1 life.&quot;</text>
+Whenever another creature you control dies, return it to the battlefield with a finality counter on it, its a Saga enchantment with &quot;{1V},{2V},{3V}— Each player loses 1 life.&quot;</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/193.png" num="86">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3425,7 +3480,7 @@ Whenever another creature you control dies, return it to the battlefield with a 
 			<name>Trench Siren</name>
 			<text>Menace, haste
 Whenever this creature attacks, put a lore counter on it.
-{4ch.png}—Creatures you control get +2/+2 and gain lifelink and can&apos;t be blocked until end of turn.</text>
+{4V}—Creatures you control get +2/+2 and gain lifelink and can&apos;t be blocked until end of turn.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/194.png" num="92">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3477,6 +3532,7 @@ Finale — Whenever an enchantment you control is put into the graveyard from th
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Elf VGE</reverse_related>
 		</card>
 		<card>
 			<name>Crowd Amplification</name>
@@ -3511,16 +3567,17 @@ Finale — Whenever an enchantment you control is put into the graveyard from th
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Rat VGE</reverse_related>
 		</card>
 		<card>
 			<name>Phoenix Siren</name>
-			<text>Prowess, flying, haste
-Whenever a chapter ability of a saga you control triggers, return this creature from your graveyard to the battlefield, it gains flying until end of turn.</text>
+			<text>Prowess, flying
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, return this creature from your graveyard to the battlefield, it gains haste until end of turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/199.png" num="232">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Siren</type>
+				<type>Creature — Phoenix Siren</type>
 				<maintype>Creature</maintype>
 				<manacost>3R/W</manacost>
 				<cmc>4</cmc>
@@ -3532,7 +3589,7 @@ Whenever a chapter ability of a saga you control triggers, return this creature 
 		</card>
 		<card>
 			<name>Aura of Stardom</name>
-			<text>Enchant Creature
+			<text>Enchant creature
 Whenever enchanted creature deals combat damage to a player, create a token copy of target nonlegendary creature or enchantment you control.
 Whenever a creature you control attacks alone, you may cast this card from your graveyard targeting that creature.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/200.png" num="154">VGE</set>
@@ -3569,7 +3626,7 @@ Whenever a creature you control attacks alone, you may cast this card from your 
 		</card>
 		<card>
 			<name>The Murmursong Score</name>
-			<text>Creatures you control have &quot;{T}: Create a Murmur token.&quot; (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Creatures you control have &quot;{T}: Create a Murmur token.&quot; (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/202.png" num="139">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3582,11 +3639,12 @@ Whenever a creature you control attacks alone, you may cast this card from your 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Pel, Tremolos Tutor</name>
 			<text>Reach
-When Pel, Tremolos Tutor enters, search your library for a card that could create a Murmur token, reveal it. Put it into your hand, then shuffle. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+When Pel, Tremolos Tutor enters, search your library for a card that could create a Murmur token, reveal it, put it into your hand, then shuffle. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 You don&apos;t lose unspent mana as steps and phases end.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/203.png" num="191">VGE</set>
 			<prop>
@@ -3604,20 +3662,21 @@ You don&apos;t lose unspent mana as steps and phases end.</text>
 		</card>
 		<card>
 			<name>Amonkheti Requiem</name>
-			<text>Create a Murmur token. Put a lore counter on target permanent or a +1/+1 counter on target creature. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
-Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.</text>
+			<text>Create a Murmur token. Then proliferate, or put a +1/+1 counter on target creature.
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/204.png" num="152">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>12/G2/U</manacost>
-				<cmc>5</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2/G2/U</manacost>
+				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Open Air Theater</name>
@@ -3694,7 +3753,7 @@ Search your library for a Planeswalker card that doesn&apos;t share a planeswalk
 		</card>
 		<card>
 			<name>Gisa, Grave Ringer</name>
-			<text>Finale — Whenever an enchantment is put into your graveyard from the battlefield, target opponent discards a card. If a permanent card was discarded this way this way, create a Murmur token, otherwise they lose 2 life. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Finale — Whenever an enchantment is put into your graveyard from the battlefield, target opponent discards a card. If a permanent card was discarded this way this way, create a Murmur token, otherwise they lose 2 life. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/209.png" num="80">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3709,6 +3768,7 @@ Search your library for a Planeswalker card that doesn&apos;t share a planeswalk
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Murmur</related>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Rune-Cursed Poet</name>
@@ -3748,6 +3808,7 @@ Proliferate (Choose any number of permanents and/or players, then give each anot
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Elf VGE</reverse_related>
 		</card>
 		<card>
 			<name>Swallow the Ruins</name>
@@ -3769,7 +3830,7 @@ Proliferate (Choose any number of permanents and/or players, then give each anot
 			<name>Well-Traveled Skald</name>
 			<text>Vigilance 
 {T}: Put a lore counter on target Saga you control.
-Whenever this creature attacks, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+Whenever this creature attacks, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/213.png" num="151">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3783,6 +3844,7 @@ Whenever this creature attacks, create a Murmur token. (It&apos;s a colorless Sa
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Ends of the Earth</name>
@@ -3859,7 +3921,7 @@ Add one mana of any color.
 			<text>Haste
 Whenever this creature dies, return it to the battlefield, except it&apos;s a Saga enchantment without this ability. (It&apos;s no longer a creature)
 Whenever a creature attacks alone, put a lore counter on this enchantment.
-{3ch.png}— After this phase there is an additional combat phase.</text>
+{3V}— After this phase there is an additional combat phase.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/218.png" num="118">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3894,7 +3956,7 @@ Whenever a creature attacks alone, put a lore counter on this enchantment.
 		<card>
 			<name>Fortiss, Countros Conductor</name>
 			<text>Flying, trample
-Whenever a creature you control dies while attacking, you may put a creature card with mana value less than that creatures mana value from your hand onto the battlefield tapped.</text>
+Whenever a creature you control dies while attacking, you may put a creature card with mana value less than that creatures mana value from your hand or graveyard onto the battlefield tapped.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/220.png" num="170">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3930,7 +3992,7 @@ This creature and enchanted creature get +1/+1 for each enchantment you control.
 		</card>
 		<card>
 			<name>Unsung Song</name>
-			<text>Counter target multicolored spell. Its controller creates a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Counter target multicolored spell. Its controller creates a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/222.png" num="66">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -3943,6 +4005,7 @@ This creature and enchanted creature get +1/+1 for each enchantment you control.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Song of Blue Yonder</name>
@@ -3986,7 +4049,7 @@ Creatures you control gain trample until end of turn.</text>
 		</card>
 		<card>
 			<name>Sing Con Vivace</name>
-			<text>Sagas you control have &quot;{1ch.png} — This Saga becomes a 3/3 creature with haste in addition to its other types an abilities until end of turn.&quot;
+			<text>Sagas you control have &quot;{1V} — This Saga becomes a 3/3 creature with haste in addition to its other types an abilities until end of turn.&quot;
 Whenever a Saga you control deals combat damage to a player, put a lore counter on it.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/225.png" num="198">VGE</set>
 			<prop>
@@ -4003,8 +4066,9 @@ Whenever a Saga you control deals combat damage to a player, put a lore counter 
 		</card>
 		<card>
 			<name>Practice Room</name>
-			<text>{T}: Put a lore counter on this artifact. Activate only as a sorcery.
-At the beginning of your end step you gain 1 life for each lore counter on this artifact, if it&apos;s untapped draw a card.</text>
+			<text>Whenever you put a lore counter on a permanent you control, you gain 1 life.
+{2C}, {T}: Put a lore counter on target permanent you control.
+At the beginning of your end step draw a card if you gained three or more life this turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/226.png" num="27">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4037,6 +4101,7 @@ Draw a card.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Elemental VGE</reverse_related>
 		</card>
 		<card>
 			<name>Mielle, Soloist Primo</name>
@@ -4055,6 +4120,7 @@ Sacrifice a nontoken creature: Target opponent creates a 1/1 black and green Elf
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Elf VGE</reverse_related>
 		</card>
 		<card>
 			<name>Killian, Lyricist</name>
@@ -4077,7 +4143,7 @@ As long as you control no other creatures, noncreature spells you cast cost {2} 
 		<card>
 			<name>Above the Chaff</name>
 			<text>{2C}, Sacrifice a creature or enchantment: Target creature you control gets +2/+0 and gains lifelink and deathtouch until end of turn.
-Sagas you control have &quot;{2ch.png}—Each player that controls two or more creatures sacrifices a creature.&quot;</text>
+Sagas you control have &quot;{2V}—Each player that controls two or more creatures sacrifices a creature.&quot;</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/230.png" num="67">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4128,7 +4194,7 @@ Each player loses life equal to the number of cards in their hand.</text>
 		</card>
 		<card>
 			<name>Muse of the Ruins</name>
-			<text>When this creature enters, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+			<text>When this creature enters, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 {2C}, Sacrifice a nonartifact permanent: This creature gets +1/+1 and gains haste until end of turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/233.png" num="227">VGE</set>
 			<prop>
@@ -4143,6 +4209,7 @@ Each player loses life equal to the number of cards in their hand.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Spirit of the Composer</name>
@@ -4167,7 +4234,7 @@ Sagas you control are 3/3 Spirit creatures with trample in addition to their oth
 			<name>Tremolos Pledge</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 Return target nonland permanent to its owner&apos;s hand.
-Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
+Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
 Whenever an ability of a permanent you control would add {U}, {G}, or {C} this turn it add an additional {C}.
 You may pay {X}. If you do creatures you control have size X/X until end of turn.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/235.png" num="209">VGE</set>
@@ -4182,11 +4249,13 @@ You may pay {X}. If you do creatures you control have size X/X until end of turn
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Whispering Titan</name>
-			<text>When this creature enters, create three Murmur tokens. (They&apos;re colorless Saga Murmur enchantments with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;) (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
-This creature gets +1/+1 for each chapter ability among sagas you control. (Murmurs have two chapter abilities)</text>
+			<text>When this creature enters, create three Murmur tokens. (They&apos;re colorless Saga Murmur enchantments with &quot;{2V},{3V}— Add {C}.&quot;)
+This creature gets +1/+1 for each chapter ability among sagas you control.
+(Murmurs have two chapter abilities)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/236.png" num="210">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4200,6 +4269,7 @@ This creature gets +1/+1 for each chapter ability among sagas you control. (Murm
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related count="3">Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Catchy Tune</name>
@@ -4261,15 +4331,15 @@ Creatures you control gain indestructible and trample until end of turn.</text>
 		<card>
 			<name>Mirran Requiem</name>
 			<text>Target creature gets first strike until end of turn, put a +1/+1 counter on it for each color of mana spent to cast this spell.
-Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.</text>
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/240.png" num="181">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>12/R2/W</manacost>
-				<cmc>5</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2/R2/W</manacost>
+				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
@@ -4278,7 +4348,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 		<card>
 			<name>Siren Titan</name>
 			<text>Vigilance, trample
-{1}{U}, {T}: Creatures you opponents control attack this turn if able. Whenever you&apos;re dealt damage by a creature this turn, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+{1}{U}, {T}: Creatures you opponents control attack this turn if able. Whenever you&apos;re dealt damage by a creature this turn, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/241.png" num="59">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4292,10 +4362,11 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Lost in Whispers</name>
-			<text>Return each creature to its owner&apos;s hand. Create a Murmur token for each creature returned to your hand this way. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)</text>
+			<text>Return each creature to its owner&apos;s hand. Create a Murmur token for each creature returned to your hand this way. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/242.png" num="48">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4308,6 +4379,7 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Claine, Belting Siren</name>
@@ -4366,7 +4438,7 @@ Enchanted creature gets +2/+0 and has indestructible.</text>
 		<card>
 			<name>Olgal Valkyrie</name>
 			<text>Flying, vigilance
-Whenever a creature you control attacks alone, return target creature card from your graveyard to the battlefield, except it&apos;s an enchantment Saga Murmur with &quot;{ch.png}, {3ch.png} — Add {C}.&quot; in addition to its other types and abilities.</text>
+Whenever a creature you control attacks alone, return target creature card from your graveyard to the battlefield, except it&apos;s an enchantment Saga Murmur with &quot;{V}, {3V} — Add {C}.&quot; in addition to its other types and abilities.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/246.png" num="23">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4385,9 +4457,9 @@ Whenever a creature you control attacks alone, return target creature card from 
 			<name>Soaring Conductor</name>
 			<text>Flying
 As long as you control another creature, this enchantment is a Saga enchantment. (It&apos;s not a creature)
-{1ch.png}— Put three +1/+1 counters on target creature you control.
-{2ch.png}— Destroy target creature.
-{3ch.png}— Each player chooses a creature they control, and then sacrifices the rest.</text>
+{1V}— Put three +1/+1 counters on target creature you control.
+{2V}— Destroy target creature.
+{3V}— Each player chooses a creature they control, and then sacrifices the rest.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/247.png" num="201">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4405,15 +4477,15 @@ As long as you control another creature, this enchantment is a Saga enchantment.
 		<card>
 			<name>Tolvadan Requiem</name>
 			<text>Whenever a creature you control dies this turn, return to the battlefield tapped with a finality counter on it.
-Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.</text>
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/248.png" num="208">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>12/W2/B</manacost>
-				<cmc>5</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2/W2/B</manacost>
+				<cmc>4</cmc>
 				<colors>WB</colors>
 				<coloridentity>WB</coloridentity>
 			</prop>
@@ -4438,16 +4510,16 @@ Draw cards equal to the number of enchantment cards that were put into your grav
 		</card>
 		<card>
 			<name>Skallan Requiem</name>
-			<text>Mill three cards. Then return a creature card and an enchantment card from your graveyard to your hand.
-Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard, then exile it.</text>
+			<text>Mill three cards. Then return up to two permanent cards that don&apos;t share a type from your graveyard to your hand.
+Finale — Whenever an enchantment is put into your graveyard from the battlefield, you may cast this card from your graveyard. When you do, exile it as it resolves.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/250.png" num="200">VGE</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>12/B2/G</manacost>
-				<cmc>5</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2/B2/G</manacost>
+				<cmc>4</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 			</prop>
@@ -4524,11 +4596,12 @@ Target creature you control deals damage equal to its power to target creature o
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Elf VGE</reverse_related>
 		</card>
 		<card>
 			<name>Notyis, Grown from Tales</name>
-			<text>When this creature enters, mill X cards, if X is 4 or more, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2ch.png},{3ch.png}— Add {C}.&quot;)
-Sagas you control have &quot;{4ch.png}—Return target non-saga card from your graveyard to your hand.&quot;</text>
+			<text>When this creature enters, mill X cards, if X is 4 or more, create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot;{2V},{3V}— Add {C}.&quot;)
+Sagas you control have &quot;{4V}—Return target non-saga card from your graveyard to your hand.&quot;</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/255.png" num="186">VGE</set>
 			<prop>
 				<layout>normal</layout>
@@ -4542,12 +4615,13 @@ Sagas you control have &quot;{4ch.png}—Return target non-saga card from your g
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Murmur VGE</reverse_related>
 		</card>
 		<card>
 			<name>Pel&apos;s Compound Duple</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)
-Trigger target {1ch.png} chapter ability of another target Saga.
-Trigger target {2ch.png} chapter ability of another target Saga.
+Trigger target {1V} chapter ability of another target Saga.
+Trigger target {2V} chapter ability of another target Saga.
 ​</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/256.png" num="230">VGE</set>
 			<prop>
@@ -4669,6 +4743,7 @@ Whenever you put a lore counter on a permanent you control, target player mills 
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related count="2">Siren VGE</reverse_related>
 		</card>
 		<card>
 			<name>Wailing Whisps</name>
@@ -4929,7 +5004,7 @@ When this enchantment enters the battlefield or at the beginning of your upkeep,
 		<card>
 			<name>Korvold and the Noble Thief</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)
 Exile the top three cards of target opponent&apos;s library. You may play those cards this turn.
 ​</text>
 			<set rarity="masterpiece" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/278.png" num="11">VGE</set>
@@ -4944,6 +5019,7 @@ Exile the top three cards of target opponent&apos;s library. You may play those 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Treasure WOE</reverse_related>
 		</card>
 		<card>
 			<name>Lilting Refrain</name>
@@ -4978,6 +5054,7 @@ Sacrifice this enchantment: Counter target spell unless its controller pays {X},
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Spirit STX</reverse_related>
 		</card>
 		<card>
 			<name>Love Song of Night and Day</name>
@@ -4997,6 +5074,7 @@ Put a +1/+1 counter on each of up to two target creatures.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
+			<reverse_related>Bird DMU</reverse_related>
 		</card>
 		<card>
 			<name>No Rest for the Wicked</name>
@@ -5210,8 +5288,8 @@ Put target creature or planeswalker card from a graveyard onto the battlefield u
 		<card>
 			<name>Murmur VGE</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III)
-&quot;Their song echos on and on.&quot;
-Add {C}. 
+I — &quot;Their song echos on and on.&quot;
+II, III — Add {C}. 
 ​</text>
 			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/VGE-files/img/294.png" num="5">VGE</set>
 			<prop>
@@ -5223,7 +5301,7 @@ Add {C}.
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
+			<related>ape</related>
 			<reverse_related>Amphiteater Listener</reverse_related>
 			<reverse_related> Olgal Shore Guardian</reverse_related>
 			<reverse_related> Delayed Performance</reverse_related>
@@ -5277,6 +5355,7 @@ Add {C}.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 			<reverse_related>Gathering Whispers</reverse_related>
 			<reverse_related count="x"> Call the Chorus </reverse_related>
 			<reverse_related> Finalesong Clade</reverse_related>
@@ -5301,6 +5380,7 @@ Add {C}.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 			<reverse_related>Suddenstar&apos;s Gift</reverse_related>
 		</card>
 		<card>
@@ -5320,6 +5400,7 @@ Add {C}.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 			<reverse_related>Maestro of Whims</reverse_related>
 			<reverse_related count="3"> Ruin-Delving Quartet </reverse_related>
 			<reverse_related> Blessings of the Crowd</reverse_related>
@@ -5342,6 +5423,7 @@ Add {C}.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 			<reverse_related count="x">Totentanz, Murmur Maginifier </reverse_related>
 		</card>
 	</cards>

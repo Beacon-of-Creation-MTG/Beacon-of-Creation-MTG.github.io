@@ -673,7 +673,7 @@
 		{
 			"name": "Overpower",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "198",
 			"image_uris": {
@@ -994,7 +994,7 @@
 			"name": "Insidious Orb",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature — Orb Construct",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Beacon-of-Creation-MTG.github.io/sets/WGJ-files/img/99.png"
@@ -2023,7 +2023,7 @@
 		{
 			"name": "Baited Trap",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Artifact",
 			"collector_number": "7",
 			"image_uris": {

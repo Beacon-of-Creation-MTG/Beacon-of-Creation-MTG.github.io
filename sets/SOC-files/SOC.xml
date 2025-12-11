@@ -5,7 +5,7 @@
 			<name>SOC</name>
 			<longname>Stars of Cinesterra</longname>
 			<settype>Custom</settype>
-			<releasedate>2025-11-15</releasedate>
+			<releasedate>2025-12-11</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -77,7 +77,7 @@ Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Time Traveling Cop</name>
@@ -251,7 +251,7 @@ Target creature you control can&apos;t be blocked this turn. If this spell is a 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Scene Crasher</name>
@@ -288,7 +288,7 @@ Whenever you produce a blockbuster, put a +1/+1 counter on this creature.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>Family Man</name>
@@ -307,7 +307,7 @@ This creature has menace as long as you&apos;re in your third act.</text>
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Grinning Captive</name>
@@ -344,7 +344,7 @@ When this creature enters, create a 1/1 red Rogue creature token.</text>
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Rogue</related>
+			<reverse_related>Rogue SOC</reverse_related>
 		</card>
 		<card>
 			<name>Killer in the Streets</name>
@@ -381,7 +381,7 @@ When this creature enters, create a 1/1 red Rogue creature token.</text>
 				<pt>6/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Rogue</related>
+			<reverse_related count="2">Rogue SOC</reverse_related>
 		</card>
 		<card>
 			<name>Cool Guys Don&apos;t Look at Explosions</name>
@@ -415,7 +415,7 @@ Cool Guys Don&apos;t Look at Explosions deals 2 damage to any target. If this sp
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Forbidden Rendezvous</name>
@@ -485,7 +485,7 @@ When this creature enters, create a Leading Role token attached to target creatu
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Brave Little Toadster</name>
@@ -504,7 +504,7 @@ When this creature enters, create a Leading Role token attached to target creatu
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Wooden Slasher</name>
@@ -559,8 +559,7 @@ When this creature enters, create a 1/1 white Soldier creature token.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Soldier</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Eight-Legged Freak</name>
@@ -634,7 +633,7 @@ When this creature enters, if you&apos;re in your third act, you gain 5 life.</t
 				<pt>7/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Monster&apos;s Fury</name>
@@ -686,7 +685,6 @@ Up to two target creatures you control each get +1/+2 until end of turn. If you&
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
 		</card>
 		<card>
 			<name>Altar of Heroes</name>
@@ -705,7 +703,7 @@ When this artifact enters, create a Leading Role token attached to target creatu
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Hulking Growth</name>
@@ -741,7 +739,7 @@ When this creature enters, tap target creature an opponent controls and put a st
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Unconventional Mentor</name>
@@ -759,7 +757,7 @@ When this creature enters, tap target creature an opponent controls and put a st
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Villain&apos;s Underling</name>
@@ -778,7 +776,7 @@ This creature gets +3/+0 during your turn as long as you&apos;re in your third a
 				<pt>0/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Pendant Thief</name>
@@ -796,6 +794,7 @@ This creature gets +3/+0 during your turn as long as you&apos;re in your third a
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Skeleton SOC</reverse_related>
 		</card>
 		<card>
 			<name>Brash Detective</name>
@@ -833,7 +832,7 @@ Choose one. If this spell is a blockbuster, you may choose both instead.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related count="2">Soldier</related>
+			<reverse_related count="2">Soldier SOC</reverse_related>
 		</card>
 		<card>
 			<name>Sole Survivor</name>
@@ -888,7 +887,7 @@ Whenever this creature attacks, if you&apos;re in your third act, put a +1/+1 co
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Power Player</name>
@@ -924,7 +923,7 @@ When this creature enters, exile another target creature you control. Return it 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Fight for Your Life</name>
@@ -942,7 +941,7 @@ Fight for Your Life deals 3 damage to target attacking or blocking creature. The
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Zero to Hero</name>
@@ -1047,7 +1046,7 @@ This creature gets +2/+2 and has deathtouch during your turn as long as you&apos
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Killer Clown</name>
@@ -1137,6 +1136,7 @@ When this creature enters, create a Treasure token.</text>
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>Wolf of Boxer Street</name>
@@ -1156,7 +1156,7 @@ This creature has haste as long as you&apos;re in your third act.</text>
 				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Climactic Demise</name>
@@ -1190,7 +1190,7 @@ Destroy target creature if its power is 3 or less or if this spell is a blockbus
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Set up the Sequel</name>
@@ -1242,7 +1242,7 @@ Destroy target creature or planeswalker. Then if you&apos;re in your third act, 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Harder They Fall</name>
@@ -1355,7 +1355,7 @@ Draw a card.</text>
 				<cmc>3</cmc>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>Banishing Light</name>
@@ -1444,7 +1444,7 @@ Whenever you produce a blockbuster, Shyla gains first strike until end of turn.<
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>Combat Experts</name>
@@ -1462,8 +1462,8 @@ Create three 1/1 white Soldier creature tokens. Then if you&apos;re in your thir
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Soldier</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related count="3">Soldier SOC</reverse_related>
 		</card>
 		<card>
 			<name>Eager Audience</name>
@@ -1517,7 +1517,7 @@ Exile Deus Ex Machina.</text>
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Buggy Shieldbearer</name>
@@ -1536,7 +1536,7 @@ Exile Deus Ex Machina.</text>
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Lady, Arthouse Star</name>
@@ -1556,8 +1556,8 @@ When Lady dies, if you&apos;re in your third act, create two 1/1 white Bird crea
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related count="2">Bird</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related count="2">Bird SOC</reverse_related>
 		</card>
 		<card>
 			<name>Tia Otumbo</name>
@@ -1576,7 +1576,8 @@ Whenever Tia attacks, create a Leading Role token attached to target non-Human c
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Horse</related>
+			<reverse_related>Leading Role SOC</reverse_related>
+			<reverse_related>Horse SOC</reverse_related>
 		</card>
 		<card>
 			<name>Altered Brain</name>
@@ -1611,7 +1612,7 @@ Target opponent reveals their hand. If this spell is a blockbuster, choose a non
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Tactical Strike Team</name>
@@ -1666,12 +1667,12 @@ Whenever a legendary creature you control dies, put a +1/+1 counter on this crea
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Soldier</related>
+			<reverse_related>Soldier SOC</reverse_related>
 		</card>
 		<card>
 			<name>Soaring Woman</name>
 			<text>Flying
-When this creature enters, if you control another creature named Soaring Woman or produced a blockbuster this turn, draw card.</text>
+When this creature enters, if you control another creature with flying or produced a blockbuster this turn, draw card.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/93.png" num="70">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1702,7 +1703,7 @@ When this creature enters, if you control another creature named Soaring Woman o
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Alien Anatomist</name>
@@ -1721,7 +1722,7 @@ Whenever you discard a card with mana value 5 or greater, create a Treasure toke
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>The Big Friendly Beast</name>
@@ -1740,7 +1741,7 @@ This creature has hexproof as long as it&apos;s untapped or if you&apos;re in yo
 				<pt>6/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Vengeful Shinobi</name>
@@ -1760,11 +1761,11 @@ At the beginning of your end step, if you&apos;re in you third act, put a +1/+1 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Bloodbutcher</name>
-			<text>When this creature enters, another target creature you don&apos;t control gets -X/-X where X is this creature&apos;s power.
+			<text>When this creature enters, up to one other target creature gets -X/-X until end of turn, where X is this creature&apos;s power.
 Sequel {B} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/98.png" num="82">SOC</set>
 			<prop>
@@ -1869,7 +1870,7 @@ Sequel {1}{G} (You may cast this card from your graveyard for its sequel cost. I
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Dinosaur</related>
+			<reverse_related>Dinosaur SOC</reverse_related>
 		</card>
 		<card>
 			<name>Endangered Species</name>
@@ -2029,7 +2030,7 @@ Target creature you control gains indestructible until end of turn. If this spel
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Close the Wormhole</name>
@@ -2047,7 +2048,7 @@ Counter target spell if you&apos;re in your third act or if it&apos;s a noncreat
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>CGI Animals</name>
@@ -2084,7 +2085,7 @@ Pay 2 life: This Vehicle becomes an artifact creature until end of turn. Activat
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>Into the Maw of Greatness</name>
@@ -2102,7 +2103,7 @@ Whenever you attack, put a +1/+1 counter on up to one target attacking legendary
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Dark Horde Rising</name>
@@ -2121,8 +2122,8 @@ Skeletons you control get +1/+1 as long as you&apos;re in your third act.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Skeleton</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related>Skeleton SOC</reverse_related>
 		</card>
 		<card>
 			<name>Cornered Lover</name>
@@ -2176,7 +2177,7 @@ Choose one. You may choose both instead if this spell is a blockbuster.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Romantic Tension</name>
@@ -2210,7 +2211,7 @@ Mill three cards. You may return a creature card from your graveyard to your han
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Dark Ending</name>
@@ -2283,6 +2284,7 @@ Choose one. If this spell is a blockbuster, you may choose both instead.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+			<reverse_related count="2">Rogue SOC</reverse_related>
 		</card>
 		<card>
 			<name>Stand Off</name>
@@ -2334,7 +2336,7 @@ Choose up to three target permanent cards in your graveyard. If you&apos;re in y
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Loving Beast</name>
@@ -2389,7 +2391,7 @@ At the beginning of your end step, if you&apos;re in your third act, put a +1/+1
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Makeup Artist</name>
@@ -2407,12 +2409,12 @@ At the beginning of your end step, if you&apos;re in your third act, put a +1/+1
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Space Pilgrim</name>
 			<text>Vigilance
-Whenever you produce a blockbuster, create a 1/1 colorless Thopter artifact creature token with flying.</text>
+Whenever you produce a blockbuster, create a 1/1 colorless Drone artifact creature token with flying.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/134.png" num="234">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2426,7 +2428,7 @@ Whenever you produce a blockbuster, create a 1/1 colorless Thopter artifact crea
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Thopter</related>
+			<reverse_related>Drone SOC</reverse_related>
 		</card>
 		<card>
 			<name>Paragon Battery</name>
@@ -2467,7 +2469,7 @@ Create a Leading Role token attached to target creature. (Enchanted creature is 
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Khazra</name>
@@ -2487,7 +2489,7 @@ Other legendary creatures you control get +1/+1.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Mikandros</related>
+			<reverse_related>Mikandros SOC</reverse_related>
 		</card>
 		<card>
 			<name>Erupting Sandmaw</name>
@@ -2564,6 +2566,7 @@ When this creature attacks, create a 1/1 white Soldier creature token.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<reverse_related>Soldier SOC</reverse_related>
 		</card>
 		<card>
 			<name>Deep Space Defender</name>
@@ -2617,7 +2620,7 @@ When this creature enters, create a 1/1 white Soldier creature token for each ta
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Soldier</related>
+			<reverse_related>Soldier SOC</reverse_related>
 		</card>
 		<card>
 			<name>Imperial Defense System</name>
@@ -2655,7 +2658,7 @@ Draw two cards and create a Treasure token. Roll the Dice deals 1 damage to any 
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>The Final Reveal</name>
@@ -2745,7 +2748,7 @@ Whenever you commit a crime, create a Treasure token. This ability only triggers
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure</related>
+			<reverse_related>Treasure SOC</reverse_related>
 		</card>
 		<card>
 			<name>Alliance of Passion</name>
@@ -2763,7 +2766,7 @@ Whenever you attack with exactly two creatures, creatures you control gain menac
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Human</related>
+			<reverse_related count="2">Human SOC</reverse_related>
 		</card>
 		<card>
 			<name>Magician Adept</name>
@@ -2804,7 +2807,7 @@ Manifest dread (Look at the top two cards of your library, then put one onto the
 		<card>
 			<name>Dragged Back to the Shadows</name>
 			<text>As an additional cost to cast this spell, discard a card or pay 3 life.
-Put target nonland permanent on the bottom of its owner&apos;s library.</text>
+Put target creature on the bottom of its owner&apos;s library.</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/155.png" num="208">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -2862,8 +2865,8 @@ Whenever you produce a blockbuster, you may return this enchantment to its owner
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -2890,8 +2893,8 @@ Return target creature to its owner&apos;s hand.</text>
 		<card>
 			<name>Compact Multitool</name>
 			<text>When this equipment enters, attach it to a creature you control.
+At the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike until end of turn.
 Equipped creature gets +2/+2. 
-At the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike.
 Equip {3}</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/160.png" num="15">SOC</set>
 			<prop>
@@ -2924,7 +2927,7 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Consider the Possibilities</name>
@@ -2943,7 +2946,7 @@ Draw three cards.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Bird SOC</name>
@@ -2962,6 +2965,7 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Horse SOC</name>
@@ -2980,6 +2984,7 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Soldier SOC</name>
@@ -2998,11 +3003,12 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Skeleton SOC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/166.png" num="6">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/166.png" num="8">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3016,11 +3022,12 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Human SOC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/167.png" num="7">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/167.png" num="10">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3034,11 +3041,12 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Rogue SOC</name>
 			<text></text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/168.png" num="9">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/168.png" num="12">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3052,11 +3060,12 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Treasure SOC</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/169.png" num="10">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/169.png" num="17">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3067,6 +3076,7 @@ Draw three cards.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Leading Role SOC</name>
@@ -3083,6 +3093,7 @@ Enchanted creature is legendary, gets +1/+1, and has vigilance.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Refurbisher</name>
@@ -3114,7 +3125,7 @@ When this creature enters, if you&apos;re in your third act, put a shield counte
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>POV Camera</name>
@@ -3182,7 +3193,7 @@ Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. I
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Location Scouting</name>
@@ -3271,7 +3282,7 @@ Whenever you produce a blockbuster or a creature you controls dies, target oppon
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Detective</related>
+			<reverse_related>Detective SOC</reverse_related>
 		</card>
 		<card>
 			<name>Captain Marvelous</name>
@@ -3291,7 +3302,7 @@ Whenever Captain Marvelous deals combat damage to a player, draw a card. Then di
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Green Knight</name>
@@ -3345,7 +3356,7 @@ When this creature enters, return target creature an opponent controls to its ow
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Big Bad Tree</name>
@@ -3365,7 +3376,7 @@ This creature enters with four +1/+1 counters on it if you&apos;re in your third
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Completely Surrounded</name>
@@ -3383,7 +3394,7 @@ Destroy target creature if it has power 4 or greater or if you&apos;re in your t
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Wayne Barnes</name>
@@ -3457,7 +3468,7 @@ Other legendary creatures you control have deathtouch.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Leaky Futuretron</name>
@@ -3495,8 +3506,7 @@ Creatures with the chosen name aren&apos;t legendary and can&apos;t become legen
 		</card>
 		<card>
 			<name>Holly Drake</name>
-			<text>First strike
-Aura and Equipment spells you cast cost {1} less to cast.
+			<text>Aura and Equipment spells you cast cost {1} less to cast.
 When Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/194.png" num="22">SOC</set>
 			<prop>
@@ -3583,7 +3593,7 @@ Blue Spectre can&apos;t be blocked as long as you&apos;re in your third act.
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>VAL1000</name>
@@ -3621,7 +3631,7 @@ When Tyde Turner enters, return target spell to its owner&apos;s hand. Then if y
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Four Dimensional Beast</name>
@@ -3709,7 +3719,6 @@ Destroy target creature if it&apos;s legendary or if this spell is a blockbuster
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
 		</card>
 		<card>
 			<name>Last Kiss</name>
@@ -3727,7 +3736,7 @@ Choose two creatures you control. Last Kiss deals 3 damage to each other creatur
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Hound Conjurer</name>
@@ -3746,8 +3755,8 @@ When this creature enters, create X 1/1 red Dog creature tokens with haste, wher
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Dog</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related>Dog SOC</reverse_related>
 		</card>
 		<card>
 			<name>Postal Carrier</name>
@@ -3766,7 +3775,7 @@ When this creature enters, if you control no other untapped creatures, create a 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Special Bond</name>
@@ -3801,7 +3810,7 @@ Landfall — Whenever a land you control enters, create a Leading Role token att
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Hungry Little Terrors</name>
@@ -3980,7 +3989,7 @@ At the beginning of your upkeep, if you&apos;re in your third act, create a toke
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>City of Heroes</name>
@@ -3999,7 +4008,7 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Kaiju Homeworld</name>
@@ -4018,8 +4027,8 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Beast</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related>Beast SOC</reverse_related>
 		</card>
 		<card>
 			<name>Shootout Gully</name>
@@ -4038,7 +4047,7 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Intergalactic Spaceport</name>
@@ -4057,7 +4066,7 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Adventurer&apos;s Village</name>
@@ -4076,7 +4085,8 @@ This land enters tapped unless you&apos;re in your third act.
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
+			<reverse_related count="2">Soldier SOC</reverse_related>
 		</card>
 		<card>
 			<name>Anguish</name>
@@ -4115,7 +4125,7 @@ This creature has base power and toughness 4/4 as long as you&apos;re in your th
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Film Editing</name>
@@ -4148,7 +4158,7 @@ Crew 3</text>
 				<pt>8/6</pt>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>The Stone of Kings</name>
@@ -4196,7 +4206,7 @@ Sequel {1}{R} (You may cast this card from your graveyard for its sequel cost. I
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4280,13 +4290,13 @@ Counter target spell. If you&apos;re in your third act, exile its controller&apo
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1UB</manacost>
+				<manacost>UUB</manacost>
 				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Never Found the Body</name>
@@ -4304,7 +4314,7 @@ Return target creature card from your graveyard to the battlefield. It gains has
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Charming Minotaur</name>
@@ -4323,7 +4333,7 @@ Whenever you attack with this creature and exactly one other creature, create a 
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Reset Protocol</name>
@@ -4401,7 +4411,8 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Blood</related>
+			<reverse_related>Blood SOC</reverse_related>
+			<reverse_related>Cohen Archvillain Emblem SOC</reverse_related>
 		</card>
 		<card>
 			<name>Virtuous Knight</name>
@@ -4421,7 +4432,7 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on Toxin. This abilit
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Leading Role</related>
+			<reverse_related>Leading Role SOC</reverse_related>
 		</card>
 		<card>
 			<name>Search the Universe</name>
@@ -4473,7 +4484,6 @@ You may sacrifice another creature rather than pay the blockbuster cost of spell
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Third Act</related>
 		</card>
 		<card>
 			<name>Siege Mastodon</name>
@@ -4492,8 +4502,7 @@ If you would create one or more creature tokens, if you&apos;re in your third ac
 				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Soldier</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Kal Rod&apos;r</name>
@@ -4569,8 +4578,7 @@ Whenever Ratrisha Rocket attacks, discard a card. When you do, exile the top car
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Treasure</related>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Germinating Grub</name>
@@ -4589,7 +4597,6 @@ You may cast this card from exile as long as it has a cocoon counter and you con
 				<pt>10/10</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
 		</card>
 		<card>
 			<name>Morgril, the Devastator</name>
@@ -4610,7 +4617,7 @@ Morgril can&apos;t attack or block unless you&apos;re in your third act.</text>
 				<pt>7/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Skelly Boy Beatdown</name>
@@ -4629,7 +4636,7 @@ Choose a creature you don&apos;t control at random. Skelly Boy Beatdown deals da
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related>Skeleton</related>
+			<reverse_related>Skeleton SOC</reverse_related>
 		</card>
 		<card>
 			<name>Ortesian Sneak</name>
@@ -4648,7 +4655,6 @@ Whenever this creature attacks, look at the top card of your library. You may pu
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Third Act</related>
 		</card>
 		<card>
 			<name>Stormbringer Behemoth</name>
@@ -4673,7 +4679,7 @@ Whenever you cast a spell, draw cards equal to that spell&apos;s mana value. Thi
 			<name>Monitor Room</name>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color among legendary creatures you control.
-{4}, {T}, Sacrifice this land: Return target legendary creature card from your graveyard to your hand.</text>
+{4}, {T}, Sacrifice this land: Return target legendary card from your graveyard to your hand.</text>
 			<set rarity="mythic" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/258.png" num="258">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4688,7 +4694,7 @@ Whenever you cast a spell, draw cards equal to that spell&apos;s mana value. Thi
 		<card>
 			<name>Family Friendly Hero</name>
 			<text>When this creature enters, return another target creature to its owner&apos;s hand.
-Sequel {4}{U} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
+Sequel {3}{U}{U} (You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it&apos;s a 1/1.)</text>
 			<set rarity="uncommon" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/259.png" num="54">SOC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4720,7 +4726,7 @@ Sequel {3}{B} (You may cast this card from your graveyard for its sequel cost. I
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Horror</related>
+			<reverse_related count="2">Horror SOC</reverse_related>
 		</card>
 		<card>
 			<name>Colossal Kaiju</name>
@@ -4821,13 +4827,13 @@ At the beginning of combat on your turn, creatures you control gain flying until
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>RW</manacost>
-				<cmc>2</cmc>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<related>Third Act</related>
+			<reverse_related>Third Act SOC</reverse_related>
 		</card>
 		<card>
 			<name>Third Act SOC</name>
@@ -4842,7 +4848,7 @@ At the beginning of combat on your turn, creatures you control gain flying until
 				<cmc>0</cmc>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Detective SOC</name>
@@ -4861,15 +4867,125 @@ At the beginning of combat on your turn, creatures you control gain flying until
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Beast SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/269.png" num="13">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Blood SOC</name>
+			<text>{1}, {T}, Discard a card, Sacrifice this token: Draw a card.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/270.png" num="15">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Blood</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Dinosaur SOC</name>
+			<text></text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/271.png" num="14">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Drone SOC</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/272.png" num="16">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Drone</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Horror SOC</name>
+			<text>Deathtouch</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/273.png" num="7">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Dog SOC</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/274.png" num="9">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
 		</card>
 		<card>
 			<name>Mikandros SOC</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/269.png" num="8">SOC</set>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/275.png" num="11">SOC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Dragon</type>
+				<type>Token Legendary Creature — Dragon</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -4879,6 +4995,25 @@ At the beginning of combat on your turn, creatures you control gain flying until
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Cohen, Archvillain Emblem SOC</name>
+			<text>Whenever a creature dies, target opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://Beacon-of-Creation-MTG.github.io/sets/SOC-files/img/276.png" num="6">SOC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

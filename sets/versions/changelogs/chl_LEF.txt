@@ -1,4 +1,451 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Soldier added.
+Soltari Samurai added.
+Ingis, Chains of the Worldsoul added.
+Distilled Essence added.
+
+Human Soldier removed.
+Soltari Wizard removed.
+Ingis, Chains of the worldsoul removed.
+
+Bird
+rules_text: Flying, Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i] => Flying, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Servo
+
+Shell
+
+Thopter
+
+Prowling Saakstalker
+
+Witherweight
+
+Wurmsoul Mystic
+rules_text: As long as you control an anomaly, this creature gets +1/+1 and has trample. [i](A card with multiple card types is an anomaly.)[/i] => As long as you control an anomaly, this creature gets +1/+1 and has trample. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Verdant Boar
+rules_text: You gain 1 life for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i]
+Elicit ‏creature {2}{RG} [i](You may cast this as a creature instead of as a sorcery creature for {2}{RG}, it resolves without the above effects.)[/i]
+Trample => You gain 1 life for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]
+Elicit ‏creature {2}{RG} [i](You may cast this as a creature instead of as a sorcery creature for {2}{RG}, it resolves without the above effects.)[/i]
+Trample
+
+Daunting Lifeflame
+
+Mystic's Retort
+rules_text: This spell costs {2} less to cast if it targets an anomaly. [i](A card with multiple card types is an anomaly.)[/i]
+Target creature you control deals damage equal to its power to target creature an opponent controls. => This spell costs {2} less to cast if it targets an anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]
+Target creature you control deals damage equal to its power to target creature an opponent controls.
+
+Natal Growth
+rules_text: Look at the top four cards of your library. You may reveal an anomaly or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. [i](A card with multiple card types is an anomaly.)[/i] => Look at the top four cards of your library. You may reveal an anomaly or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Ritual Ram
+rules_text: Add {R}{R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.
+Elicit ‏creature {1}{R} [i](You may cast this as a creature instead of as a sorcery creature for {1}{R}, it resolves without the above effects.)[/i] => Add {R}{R}{R}{R}. Only spend this mana on casting spells.
+Elicit ‏creature {1}{R} [i](You may cast this as a creature instead of as a sorcery creature for {1}{R}, it resolves without the above effects.)[/i]
+
+Anomulmutt
+rules_text: This creature gets +3/+0 and can't block as long as you control two more anomalies. [i](Cards with multiple card types are anomalies.)[/i] => This creature gets +3/+0 and can't block as long as you control two more anomalies. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Idol of Skirmishes
+rules_text: Whenever you attack, target creature you control gets +1/+0 until end of turn for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i] => Whenever you attack, target creature you control gets +1/+0 until end of turn for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Prowling Peck
+
+Mistful Mystic
+rules_text: Whenever you cast your first spell during each opponent's turn, draw a card, then discard a card.
+Whenever an anomaly you control enters, this creature can't be blocked until end of turn. [i](A card with multiple card types is an anomaly.)[/i] => Whenever you cast your first spell during each opponent's turn, draw a card, then discard a card.
+Whenever an anomaly you control enters, this creature can't be blocked until end of turn. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Spriteamyloidosix
+rules_text: Flying
+This creature gets +2/+0 and has hexproof as long as you've discarded a card this turn. => Flying
+This creature gets +2/+0 and has hexproof as long as you've discarded a card or sacrificed a creature this turn.
+
+Bolstering Portal
+
+Flutter Rebuttal
+
+Fluffyhead
+
+Panchar
+cost: {1}{W} => {W}
+rules_text: As long as you control an anomaly, this creature has flying. [i](A card with multiple card types is an anomaly.)[/i] => As long as you control three or more anomalies, this creature gets +1/+0 and has flying. [i](Anything with multiple card types is an anomaly.)[/i]
+pt: 2/2 => 1/1
+
+Batallion Frontliner
+rules_text: Whenever this creature dies, create a 1/1 white Human Soldier creature token.
+Whenever this creature is sacrificed, create a 1/1 white Human Soldier creature token. => Whenever this creature dies, create a 1/1 white Soldier creature token.
+Whenever this creature is sacrificed, create a 1/1 white Soldier creature token.
+
+Ageless Observer
+rules_text: Whenever this creature attacks while you control three or more anomalies, creatures you control get +1/+0 until end of turn. [i](Cards with multiple card types are anomalies.)[/i] => Whenever this creature attacks while you control three or more anomalies, creatures you control get +1/+0 until end of turn. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Fabric Weaver
+type: Instant Creature — Human Cleric => Sorcery Creature — Human Cleric
+rules_text: Prevent all combat damage that would be dealt by creatures with power 4 or greater this turn.
+Elicit instant {1}{GW}{GW} [i](You may cast this as an instant instead of as an instant creature for {1}{GW}{GW}, putting it into the graveyard as it resolves.)[/i] => Put a +1/+1 counter on each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]
+Elicit sorcery {1}{GW}{GW} [i](You may cast this as a sorcery instead of as a sorcery creature for {1}{GW}{GW}, putting it into the graveyard as it resolves.)[/i]
+
+Ethereal Flourish
+rules_text: Anomalous creatures you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn. [i](Any card with more than one card type is an anomaly.)[/i]
+Basic landcycling {W} => Anomalous creatures you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn. [i](Anything with multiple card types is an anomaly.)[/i]
+Basic landcycling {W}
+
+Superposition Gateway
+rules_text: Whenever an anomalous creature you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell. [i](Any card with more than one card type is an anomaly.)[/i] => Whenever an anomalous creature you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Rix, Shackle of the Worldsoul
+rules_text: You may reveal Rix from your opening hand. If you do, add {C}. Spend this mana only to cast anomalous spells. You don't lose this mana as steps and phases end. [i](Any card with more than one card type is an anomaly.)[/i]
+{2}, {T}, Sacrifice Rix: Copy the next anomalous spell you cast this turn. => You may reveal Rix from your opening hand. If you do, add {C}. Spend this mana only to cast anomalous spells. You don't lose this mana as steps and phases end. [i](Anything with multiple card types is an anomaly.)[/i]
+{2}, {T}, Sacrifice Rix: Copy the next anomalous spell you cast this turn.
+
+Cloudyawner
+rules_text: Flying
+This creature enters tapped.
+Whenever you cast your first spell on each opponent's turn, create a token that's a copy of this creature. => Flying
+This creature enters tapped.
+Whenever you cast your first spell during each opponent's turn, create a token that's a copy of this creature.
+
+Ruination Mystic
+
+All Encompassing Wish
+cost: {3}{B}{R} => {2}{B}{B}{R}{R}
+rules_text: As an additional cost to cast this spell, discard your hand.
+Put each nonland card from your sideboard into your hand.
+Create two Treasure tokens. => As an additional cost to cast this spell, discard your hand and pay X life.
+Put X cards from outside the game into your hand.
+
+Soul Augury
+rules_text: Reveal the top five cards of your library. Put the card with the highest mana value from among them into your hand. You may cast another nonland card from among them without paying its mana cost. Put the rest at the bottom of your library in any order. => Reveal the top five cards of your library. Put the card with the greatest mana value from among them into your hand. You may cast another nonland card from among them without paying its mana cost. Put the rest at the bottom of your library in any order.
+
+Planar Till
+rules_text: Choose one —
+• Destroy all nonland non-anomalous permanents.
+• Destroy all anomalies. [i](Cards with multiple card types are anomalies.)[/i] => Choose one —
+• Destroy all nonland non-anomalous permanents.
+• Destroy all anomalies. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Spellbattery Ghoul
+rules_text: Whenever this creature dies, create a 1/1 red Wizard creature token with “[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.”
+Whenever this creature is sacrificed to cast a spell, copy that spell. You may choose new targets for the copy. => Whenever this creature dies, create a 1/1 red Soltari Samurai creature token with “[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.”
+Whenever this creature is sacrificed to cast a spell, copy that spell. You may choose new targets for the copy.
+
+Elder Gangeth
+rules_text: Vigilance, trample, reach
+This creature gets +2/+1, for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i] => Vigilance, trample, reach
+This creature gets +2/+1, for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Spritethrombosix
+
+Sinister Magister
+
+Szyssixz, Feaster of Essence
+
+Stroke of Avail
+rules_text: Reveal the top 5 cards of your library. You may put each instant, land, or anomalous card revealed this way into your hand. Put the rest at the bottom of your library in a random order. [i](Any card with more than one card type is an anomaly.)[/i] => Reveal the top 6 cards of your library. You may put each instant, land, or anomalous card revealed this way into your hand. Put the rest at the bottom of your library in a random order. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Scalemail Magmawhelk
+
+Final Ember Embrace
+
+Mythos of the Archdemon
+
+Mindblaze Mystic
+
+Firemind Richualist
+
+Hyperbolt
+
+Burning Apostle
+
+Blazing Wheel-Kin
+
+Ominous Soul Tome
+
+Chronoduplicate
+
+Mythos of the Sage
+
+Retroarcane Continuity
+
+The Wind Releaser
+
+Narcorelapsy
+rules_text: Enchant creature
+When this aura enters, tap enchanted creature. 
+Enchanted creature doesn't untap during its controllers untap step.
+At the beginning of combat on your turn, if you've cast three or more noncreature spells this turn, you may return this Aura from your graveyard to the battlefield. => Enchant creature
+When this aura enters, tap enchanted creature. 
+Enchanted creature doesn't untap during its controllers untap step.
+At the beginning of combat on your turn, if you've cast two or more noncreature spells this turn, you may return this Aura from your graveyard to the battlefield.
+
+Unmoored Ideas
+
+Temporal Emergence
+
+Acolyte of the Anchor
+rules_text: Players can't spend more than X mana on casting a noncreature spell, where X is the highest mana value among permanents you control. => Players can't spend more than X mana on casting a noncreature spell, where X is the greatest mana value among permanents you control.
+
+Anchorley Angel
+rules_text: Flying
+Other anomalies you control have lifelink. [i](Cards with multiple card types are anomalies.)[/i]
+Instant and sorcery spells you cast have lifelink. => Flying
+Other anomalies you control have lifelink. [i](Anything with multiple card types is an anomaly.)[/i]
+Instant and sorcery spells you cast have lifelink.
+
+Mythos of the Pale
+
+Unanchored Sky-Serpent
+rules_text: Flying
+{2}{W}: Exile target creature. Its owner may cast it without paying its mana cost. => Flying
+{2}{W}{W}: Exile another target creature. Its owner may cast it without paying its mana cost.
+
+Ultrashield Angel
+rules_text: Flying
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, creatures you control get +0/+2 until end of turn. => Flying
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, double the toughness of each creature you control until end of turn.
+
+Decrown
+
+Re-Weave the World
+
+Drawn From Discussion
+
+Sludgefly
+
+Twilight Tiger
+
+Saakstalker Egg
+
+Influenced Informant
+
+Ichor Elemental
+
+Espien, Shellmage
+rules_text: Whenever you sacrifice a permanent as a cost to cast a spell, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.
+{2}{WU}, {T}: Create a White and Blue 0/2 Shell artifact creature token with defender. => Whenever you sacrifice a permanent as a cost to cast a spell, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.
+{2}{WU}, {T}: Create a white and blue 0/2 Shell artifact creature token with defender.
+
+Brainseize
+
+Resummon
+
+Gossamer Sins
+
+Demon's Prowl
+
+Nirvana Doldrums
+
+Revolving Dread
+
+Mosswhelk
+rules_text: This creature's power and toughness is equal to the number of anomalies you control. [i](Cards with multiple card types are anomalies.)[/i] => This creature's power and toughness is equal to the number of anomalies you control. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Carrabaster Cultivator
+
+Glade Trunkling
+
+Bear Ghost
+
+Aran, Forest Hermit
+
+Greater Gangeth
+rules_text: This spell costs {2} less to cast if you control an anomaly. [i](A card with multiple card types is an anomaly.)[/i]
+Vigilance, trample
+This creature gets +1/+0 for each anomaly you control. => This spell costs {2} less to cast if you control an anomaly. [i](Anything with multiple card types is an anomaly.)[/i]
+Vigilance, trample
+This creature gets +1/+0 for each anomaly you control.
+
+Essence Feeder
+
+Thornbark Prile
+
+Mawssive Hunger
+
+Archdruid's Insight
+
+Aran's Acuity
+
+Anchor-Root Vitality
+
+Revolving Medititation
+rules_text: You may search your library for a card named “Revolving Fascination” and reveal it. If you do, put it into your hand, then shuffle.
+Put a +1/+1 counter on target creature you control. => You may search your library for a card named “Revolving Panic” and reveal it. If you do, put it into your hand, then shuffle.
+Put a +1/+1 counter on target creature you control.
+
+Benevolent Herd
+rules_text: Flying
+Whenever you cast your first spell on each opponent's turn, you gain 1 life and scry 1. => Flying
+Whenever you cast your first spell during each opponent's turn, you gain 1 life and scry 1.
+
+Drench
+
+Excrutiating Voice
+
+Leyline Channeler
+
+Idol of Harmony
+rules_text: Anomalies you cast cost {2} less to cast. [i](Cards with multiple card types are anomalies.)[/i]
+As long as you control six or more anomalies, this permanent is a 6/6 Elemental Avatar creature in addition to its other types. => Anomalies you cast cost {2} less to cast. [i](Anything with multiple card types is an anomaly.)[/i]
+As long as you control six or more anomalies, this permanent is a 6/6 Elemental Avatar creature in addition to its other types.
+
+Mightsoul Samurai
+rules_text: Lifelink, lurk {2} [i](Defending player can't block this creature unless they pay {2}.)[/i]
+This creature's power and toughness are each equal to the highest mana value among permanents you control. => Lifelink, lurk {2} [i](Defending player can't block this creature unless they pay {2}.)[/i]
+This creature's power and toughness are each equal to the greatest mana value among permanents you control.
+
+Knorguer, Saccloc
+
+Shadowflock
+
+Alarming Alteration
+
+Honourable Bushido
+rules_text: Creatures you control get +3/+0 as long as you've cast three or more instant or sorcery spells this turn. => Creatures you control get +3/+0 as long as you've cast three or more spells this turn.
+
+Klashpeak Stinger
+
+Klashpeak Crusader
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets this creature, create a 1/1 red Wizard creature token with “[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.” => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, create a 1/1 red Soltari Samurai creature token with “[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.”
+
+Firemane Hyena
+
+Chainfiend
+rules_text: Haste
+Other anomalies you control have haste. [i](Cards with multiple card types are anomalies.)[/i] => Haste
+Other anomalies you control have haste. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Boastful Battlemage
+
+Heroic Spearmagus
+
+Bloodflare
+
+Flip of Allegiance
+
+Unanchored Richual
+rules_text: Create a Treasure token for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i] => Create a Treasure token for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Blitz Infusion
+
+Blazing Axe
+
+Revolving Panic
+
+Ravencaller
+rules_text: Flying
+{1}{U}, {T}, Sacrifice this creature: Create a number of 1/1 black Bird creature tokens with flying and decayed equal to the highest mana value among permanents you control. => Flying
+{1}{U}, {T}, Sacrifice this creature: Create a number of 1/1 black Bird creature tokens with flying and decayed equal to the greatest mana value among permanents you control.
+
+Spellatog
+
+Idol of Benthic Secrets
+
+Hereditary Heron
+
+Dragger of Depths
+
+Driftmuller
+
+Revoke Access
+
+Storm Shield
+
+Thirst for Acknowledgement
+
+Spritevix's Retrieveal
+
+Hatching the Spritevix
+
+Revolving Insight
+
+Collective Ideals
+rules_text: Each player draws three cards, then puts two cards from their hand on top of their library.
+Create a 1/1 white Human Soldier creature token. => Each player draws three cards, then puts two cards from their hand on top of their library.
+Create a 1/1 white Soldier creature token.
+
+Voidliss Sky-Serpent
+
+Aspiring Bannerette
+rules_text: Untap up to one target creature and up to one target anomaly. [i](A card with multiple card types is an anomaly.)[/i]
+Elicit creature {1}{W} [i](You may cast this as a creature instead of as an instant creature for {1}{W}, it resolves without the above effects.)[/i]
+First strike => Untap up to one target creature and up to one target anomaly. [i](Anything with multiple card types is an anomaly.)[/i]
+Elicit creature {1}{W} [i](You may cast this as a creature instead of as an instant creature for {1}{W}, it resolves without the above effects.)[/i]
+First strike
+
+Mild Mystic
+
+Skviper Skimmer
+
+Tale Weaver
+rules_text: Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white Human Soldier creature tokens. => Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white Soldier creature tokens.
+
+Lathinia, Metalwinged
+rules_text: Flying
+Whenever Lathinia or another nontoken anomaly you control enters, you may pay {RG}. If you do, create a 2/2 green Beast enchantment creature token. [i](A card with multiple card types is an anomaly.)[/i] => Flying
+Whenever Lathinia or another nontoken anomaly you control enters, you may pay {RG}. If you do, create a 2/2 green Beast enchantment creature token. [i](Anything with multiple card types is an anomaly.)[/i]
+
+Idol of Decrees
+
+Wise Lichtmancer
+
+Defrock
+
+Giant's Axe
+rules_text: Equipped creature gets +4/+2 and has vigilance.
+Equip {8}, This costs {X} less to equip, where X is the highest mana value among other permanents you control. => Equipped creature gets +4/+2 and has vigilance.
+Equip {8}, This costs {X} less to equip, where X is the greatest mana value among other permanents you control.
+
+Rematerialize
+
+Astral Barrage
+
+Revolving Arts
+rules_text: You may search your library for a card named “Revolving Growth” and reveal it. If you do, put it into your hand, then shuffle.
+Target creature gains hexproof until end of turn. => You may search your library for a card named “Revolving Meditation” and reveal it. If you do, put it into your hand, then shuffle.
+Target creature gains hexproof until end of turn.
+
+Bloodfell Caves
+
+Blossoming Sands
+
+Dismal Backwater
+
+Rugged Highlands
+
+Tranquil Cove
+
+Kefus, the Scribe
+rules_text: Whenever you cast an instant or sorcery spell with mana value 4 or greater, draw a card.
+{1}{GW}: Prevent all damage that would be dealt this turn to target anomaly you control. [i](A card with multiple card types is an anomaly.)[/i] => Whenever you cast a spell with mana value 4 or greater, draw a card.
+{1}{GW}: Another target permanent with mana value 4 or greater gains hexproof until end of turn.
+
+Kleefoff, Essence Looter
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn costs {1} less to cast.
+{1}{UB}: Draw a card, then discard a card. Kleefoff gains flying until end of turn. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn cost {R}[i](or {1})[/i] less to cast.
+{1}{UB}: Mill two cards, then you may discard a card to put an instant or sorcery card milled this way into your hand.
+
+Hunting Saakstalker
+rules_text: Each opponent loses life equal to the highest mana value among permanents you control.
+Elicit sorcery {2}{B} [i](You may cast this as a sorcery instead of as a sorcery creature for {2}{B}, putting it into the graveyard as it resolves.)[/i]
+Menace => Up to one target creature gets +X/-X until end of turn, where X is the greatest mana value among permanents you control.
+Elicit sorcery {2}{B} [i](You may cast this as a sorcery instead of as a sorcery creature for {2}{B}, putting it into the graveyard as it resolves.)[/i]
+Menace
+
+Augur of Soul
+rules_text: Whenever you cast a spell with mana value 3 or greater, you gain 3 life.
+Whenever you cast a spell with mana value 5 or greater, create a 5/5 green Beast enchantment creature token.
+Whenever you cast a spell with mana value 7 or more, untap all permanents you control. => Whenever you cast a spell with mana value 3 or more, target player mills 3 cards.
+Whenever you cast a spell with mana value 5 or more, you gain 3 life.
+Whenever you cast a spell with mana value 7 or more, create a 3/3 green beast enchantment creature token.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 

@@ -1,9 +1,9 @@
 ﻿{
     "name": "Jardeka, Age of Rust",
-    "formats": "standard",
+    "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -16,7 +16,7 @@
             "number": 305,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "{T}: Add {G}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -36,7 +36,7 @@
             "number": 306,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "{T}: Add {G}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -56,7 +56,7 @@
             "number": 307,
             "color_identity": "G",
             "cost": "",
-            "rules_text": "{T}: Add {G}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -76,7 +76,7 @@
             "number": 299,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "{T}: Add {U}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -96,7 +96,7 @@
             "number": 300,
             "color_identity": "U",
             "cost": "",
-            "rules_text": "{T}: Add {U}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -116,7 +116,7 @@
             "number": 303,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}: Add {R}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -136,7 +136,7 @@
             "number": 304,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}: Add {R}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -156,7 +156,7 @@
             "number": 297,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "{T}: Add {W}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -176,7 +176,7 @@
             "number": 298,
             "color_identity": "W",
             "cost": "",
-            "rules_text": "{T}: Add {W}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -196,7 +196,7 @@
             "number": 302,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "{T}: Add {B}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -216,7 +216,7 @@
             "number": 301,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "{T}: Add {B}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -586,7 +586,7 @@
             "artist": "Halil Ural on Artstation",
             "alias": "",
             "position": "28",
-            "notes": "!tag card-advantage\n!Implant\n!tag anomaly\n\nhttps://www.artstation.com/artwork/QzBzXx"
+            "notes": "!tag card-advantage\n!Implant\n!tag anomaly\n\n!related Implant JDK\n\nhttps://www.artstation.com/artwork/QzBzXx"
         },
         {
             "card_name": "Voltaic Construct",
@@ -637,7 +637,7 @@
             "color_identity": "C",
             "cost": "{7}",
             "rules_text": "This spell costs {1} less to cast for each kind of counter among permanents you control.",
-            "flavor_text": "[i][Flavor Text][/i]",
+            "flavor_text": "[i]These constructs were made to serve richer clients. Which is to say, they were terribly unwieldy unless one had access to numerous licenses and implants.[/i]",
             "pt": "5/3",
             "special_text": "",
             "shape": "normal",
@@ -656,7 +656,7 @@
             "number": 244,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "{2}, {T}: Add three mana in any combination of colors.\n {T}, Sacrifice this artifact: Draw a card.",
+            "rules_text": "{1}, {T}: Add two mana in any combination of colors.\n {T}, Sacrifice this artifact: Draw a card.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "",
             "special_text": "",
@@ -756,7 +756,7 @@
             "number": 236,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Equipped creature gets +1/+0 and has Lurk {1}. [i](Defending player can't block that creature unless they pay {1})[/i]\nEquip {2}",
+            "rules_text": "Equipped creature gets +1/+0 and has lurk {1}. [i](Defending player can't block that creature unless they pay {1})[/i]\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -786,7 +786,7 @@
             "artist": "Iro Pagis on Artstation",
             "alias": "",
             "position": "38",
-            "notes": "https://www.artstation.com/artwork/18A3E3"
+            "notes": "https://www.artstation.com/artwork/18A3E3\n\n!related Saproling Construct JDK"
         },
         {
             "card_name": "Cyclic Vessel",
@@ -926,7 +926,7 @@
             "artist": "Koirart on Artstation",
             "alias": "",
             "position": "45",
-            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/balGag"
+            "notes": "!tag anomaly\n\n!related Implant JDK\n\nhttps://www.artstation.com/artwork/balGag"
         },
         {
             "card_name": "Shearing Rager",
@@ -1186,7 +1186,7 @@
             "artist": "Max Davenport on Artstation",
             "alias": "",
             "position": "58",
-            "notes": "https://www.artstation.com/artwork/na6J4\n"
+            "notes": "https://www.artstation.com/artwork/na6J4\n\n!related Insect JDK"
         },
         {
             "card_name": "Lethal Prowess",
@@ -1346,7 +1346,7 @@
             "artist": "Hunter Schulz on Artstation",
             "alias": "",
             "position": "66",
-            "notes": "https://www.artstation.com/artwork/36YZm"
+            "notes": "https://www.artstation.com/artwork/36YZm\n\n!related Implant JDK"
         },
         {
             "card_name": "Kybertusk Mammoth",
@@ -1366,7 +1366,7 @@
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
             "position": "67",
-            "notes": "https://www.deviantart.com/crazyasian1/art/Big-Five-Part-3-376266867"
+            "notes": "https://www.deviantart.com/crazyasian1/art/Big-Five-Part-3-376266867\n\n!related Implant JDK"
         },
         {
             "card_name": "Steelgrazing Goat",
@@ -1466,7 +1466,7 @@
             "artist": "Duy Lawrence Nguyen on artstation",
             "alias": "",
             "position": "72",
-            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\nhttps://www.artstation.com/artwork/mqoZKd"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\n!related Implant JDK\n\nhttps://www.artstation.com/artwork/mqoZKd"
         },
         {
             "card_name": "Pillabegg Probiota",
@@ -1646,7 +1646,7 @@
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
             "position": "81",
-            "notes": "https://www.deviantart.com/cobaltplasma/art/Zara-Ra-Soulflayer-726869441"
+            "notes": "https://www.deviantart.com/cobaltplasma/art/Zara-Ra-Soulflayer-726869441\n\n!related Implant JDK"
         },
         {
             "card_name": "Junksea Artillerist",
@@ -1686,7 +1686,7 @@
             "artist": "Kweikun on Artstation",
             "alias": "",
             "position": "83",
-            "notes": "https://www.artstation.com/artwork/xDPZw1"
+            "notes": "https://www.artstation.com/artwork/xDPZw1\n\n!related Implant JDK"
         },
         {
             "card_name": "Met-A110 Moth",
@@ -1946,7 +1946,7 @@
             "artist": "Pencil Equipped on Artstation",
             "alias": "",
             "position": "96",
-            "notes": "https://www.artstation.com/artwork/18Ym4X"
+            "notes": "https://www.artstation.com/artwork/18Ym4X\n\n!related Implant JDK"
         },
         {
             "card_name": "Triage Tri-Arm",
@@ -2026,7 +2026,7 @@
             "artist": "Antonio Ma\u00ednez on Artstation",
             "alias": "",
             "position": "100",
-            "notes": "\nOG art_2:\nCrazyAsian1 on Deviantart\nhttps://www.deviantart.com/crazyasian1/art/Manta-Rescue-Drone-461808026"
+            "notes": "!related Implant JDK\n\nOG art_2:\nCrazyAsian1 on Deviantart\nhttps://www.deviantart.com/crazyasian1/art/Manta-Rescue-Drone-461808026"
         },
         {
             "card_name": "Spliceblade Rogue",
@@ -2066,7 +2066,7 @@
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
             "position": "102",
-            "notes": "https://www.deviantart.com/crazyasian1/art/Big-Five-Part-5-384886393"
+            "notes": "https://www.deviantart.com/crazyasian1/art/Big-Five-Part-5-384886393\n\n!related Implant JDK"
         },
         {
             "card_name": "Portable Barricade",
@@ -2076,7 +2076,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this Equipment enters, create a colorless 0/1 Construct artifact creature token and attach this to it.\nEquipped creature gets +0/+4.\nEquip {3}",
+            "rules_text": "When this Equipment enters, create a colorless 0/1 Servo artifact creature token and attach this to it.\nEquipped creature gets +0/+4.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2086,7 +2086,7 @@
             "artist": "LeonovichDmitriy on Deviantart",
             "alias": "",
             "position": "103",
-            "notes": "https://www.deviantart.com/leonovichdmitriy/art/Energy-Shield-526715583\n"
+            "notes": "https://www.deviantart.com/leonovichdmitriy/art/Energy-Shield-526715583\n\n!related Servo JDK"
         },
         {
             "card_name": "Quick Revision",
@@ -2266,7 +2266,7 @@
             "artist": "Annadel Cinco on Artstation",
             "alias": "",
             "position": "112",
-            "notes": "https://www.artstation.com/artwork/lVPqAo\n\n\n\nOrphan"
+            "notes": "https://www.artstation.com/artwork/lVPqAo\n\n!related Implant JDK\n\n\n\nOrphan"
         },
         {
             "card_name": "Dewmoth",
@@ -2276,7 +2276,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control,put a +1/+1 counter on it. Each ability source triggers this only once each turn.",
+            "rules_text": "[i]Proficiency[/i] \u2014 Whenever this creature becomes the target of an ability you control, put a +1/+1 counter on it. Each ability source triggers this only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2386,7 +2386,7 @@
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
             "position": "118",
-            "notes": "https://www.deviantart.com/crazyasian1/art/B5-Sable-Twins-535503442\n"
+            "notes": "https://www.deviantart.com/crazyasian1/art/B5-Sable-Twins-535503442\n\n!related Implant JDK<2>"
         },
         {
             "card_name": "Rune-Etch Artificer",
@@ -2706,7 +2706,7 @@
             "artist": "Dmitry Blagorodov on Artstation \u00a9 Star Atlas",
             "alias": "",
             "position": "134",
-            "notes": "https://www.artstation.com/artwork/28DbDA"
+            "notes": "https://www.artstation.com/artwork/28DbDA\n\n!related Implant JDK"
         },
         {
             "card_name": "Witness the End",
@@ -2836,7 +2836,7 @@
             "number": 225,
             "color_identity": "WBG",
             "cost": "{1}{W}{B}{G}",
-            "rules_text": "Whenever a permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it.",
+            "rules_text": "Whenever a nonland permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "",
             "special_text": "",
@@ -2926,7 +2926,7 @@
             "artist": "dariuszkieliszek on Deviantart",
             "alias": "",
             "position": "145",
-            "notes": "https://www.deviantart.com/dariuszkieliszek/art/Green-Janus-1044885897\n\n\n\n"
+            "notes": "https://www.deviantart.com/dariuszkieliszek/art/Green-Janus-1044885897"
         },
         {
             "card_name": "Behel's Escalating Machinations",
@@ -3175,7 +3175,7 @@
             "type": "Artifact Creature \u2014 Serpent Implant",
             "number": 268,
             "color_identity": "C",
-            "cost": "{X}",
+            "cost": "{X}{X}",
             "rules_text": "This creature enters with X +1/+1 counters.\nWhenever a player would cast a spell with mana value equal to the number of +1/+1 counters on this creature, counter that spell.\n{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
@@ -3186,7 +3186,7 @@
             "artist": "Marko Jeli\u0107 on Artstation",
             "alias": "",
             "position": "158",
-            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/d0QXZ3\n\n"
+            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/d0QXZ3"
         },
         {
             "card_name": "Perforating Carapace",
@@ -3366,7 +3366,7 @@
             "artist": "Pencil equipped on Artstation",
             "alias": "",
             "position": "167",
-            "notes": "https://www.artstation.com/artwork/4bWBAq"
+            "notes": "https://www.artstation.com/artwork/4bWBAq\n\n!related Insect JDK"
         },
         {
             "card_name": "Terrabombing",
@@ -3406,7 +3406,7 @@
             "artist": "Jason Nguyen",
             "alias": "",
             "position": "169",
-            "notes": "https://www.deviantart.com/jasontn/art/Wind-Knight-617874689"
+            "notes": "https://www.deviantart.com/jasontn/art/Wind-Knight-617874689\n\n!related Implant JDK"
         },
         {
             "card_name": "Stampeding Oxobegg",
@@ -3426,7 +3426,7 @@
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
             "position": "170",
-            "notes": "https://www.artstation.com/artwork/oA6KPq"
+            "notes": "https://www.artstation.com/artwork/oA6KPq\n\n!related Insect JDK"
         },
         {
             "card_name": "Perfect Complexion",
@@ -3646,7 +3646,7 @@
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
             "position": "181",
-            "notes": "https://www.artstation.com/artwork/vBN1E"
+            "notes": "https://www.artstation.com/artwork/vBN1E\n\n!related Implant JDK"
         },
         {
             "card_name": "War Djinn",
@@ -3826,7 +3826,7 @@
             "artist": "1Oshuart on Deviantart \u00a9 Dream Reactor",
             "alias": "",
             "position": "190",
-            "notes": "https://www.deviantart.com/1oshuart/art/Reunion-418092032\n\n\nOG_1:\nCreate an implant token with a +1/+1 counter.\nCopy the next non-mana activated ability you activate X times, where X is the number of kinds of counters among permanents you control."
+            "notes": "https://www.deviantart.com/1oshuart/art/Reunion-418092032\n\n!related Implant JDK\n\nOG_1:\nCreate an implant token with a +1/+1 counter.\nCopy the next non-mana activated ability you activate X times, where X is the number of kinds of counters among permanents you control."
         },
         {
             "card_name": "Old World Rockstar",
@@ -3866,7 +3866,7 @@
             "artist": "Alex Chen on Artstation",
             "alias": "",
             "position": "192",
-            "notes": "https://www.artstation.com/artwork/lDqoVY"
+            "notes": "https://www.artstation.com/artwork/lDqoVY\n\n!related Implant JDK<4>"
         },
         {
             "card_name": "Remelt",
@@ -4046,7 +4046,7 @@
             "artist": "Damien Mammoliti on Artstation",
             "alias": "",
             "position": "201",
-            "notes": "!tag anomaly\nhttps://www.artstation.com/artwork/nmnb1"
+            "notes": "!tag anomaly\nhttps://www.artstation.com/artwork/nmnb1\n\n!related Implant JDK"
         },
         {
             "card_name": "Archon of Artifice",
@@ -4286,7 +4286,7 @@
             "artist": "Kyle Pearson on Artstation",
             "alias": "",
             "position": "213",
-            "notes": "https://www.artstation.com/artwork/Le8OE5\n\n"
+            "notes": "https://www.artstation.com/artwork/Le8OE5\n\n!related Implant JDK"
         },
         {
             "card_name": "Universal Engineer",
@@ -4426,7 +4426,7 @@
             "artist": "Jens Lindfors on Artstation",
             "alias": "",
             "position": "220",
-            "notes": "!tag anomaly\nhttps://www.artstation.com/artwork/aRYLWJ"
+            "notes": "!tag anomaly\nhttps://www.artstation.com/artwork/aRYLWJ\n\n!related Implant JDK"
         },
         {
             "card_name": "Cobbled Automaton",
@@ -4626,7 +4626,7 @@
             "artist": "ari-Matti Toivonen on Artstation",
             "alias": "",
             "position": "230",
-            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/gAQvP"
+            "notes": "!tag cantrip\n\n!related Saproling Construct JDK\n\nhttps://www.artstation.com/artwork/gAQvP"
         },
         {
             "card_name": "Seeding Mine",
@@ -4806,7 +4806,7 @@
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
             "position": "239",
-            "notes": "!tag removal-creature\n\nhttps://www.deviantart.com/cobaltplasma/art/Katana-of-Giant-Slaying-759796829"
+            "notes": "!tag removal-creature\n\n!related Implant JDK\n\nhttps://www.deviantart.com/cobaltplasma/art/Katana-of-Giant-Slaying-759796829"
         },
         {
             "card_name": "Manufacturing Defect",
@@ -5046,7 +5046,7 @@
             "artist": "Jessada-Art on Artstation",
             "alias": "",
             "position": "251",
-            "notes": "!tag anomaly\n\nhttps://www.deviantart.com/jessada-art/art/Sci-fi-Farmer-287254501"
+            "notes": "!tag anomaly\n\n!related Implant JDK\n\nhttps://www.deviantart.com/jessada-art/art/Sci-fi-Farmer-287254501"
         },
         {
             "card_name": "Rhinodrone Piker",
@@ -5066,7 +5066,7 @@
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
             "position": "252",
-            "notes": "https://www.deviantart.com/crazyasian1/art/Big-Five-Rhino-2-390624169"
+            "notes": "https://www.deviantart.com/crazyasian1/art/Big-Five-Rhino-2-390624169\n\n!related Implant JDK"
         },
         {
             "card_name": "Verdant Synthesizer",
@@ -5176,7 +5176,7 @@
             "number": 224,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "[i]Clang[/i] \u2014 Whenever an artifact enters under your control, tap target creature an opponent controls.",
+            "rules_text": "Lurk {1} [i](Defending player can't block this creature unless they pay {1}.)[/i]\n[i]Clang[/i] \u2014 Whenever an artifact enters under your control, tap target creature an opponent controls.",
             "flavor_text": "[i][Flavor Text][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -5326,7 +5326,7 @@
             "artist": "Vladimir Matyukhin \u25b3 | | on artstation",
             "alias": "",
             "position": "265",
-            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/xJWdJ1\n\nOG art_4:\nIllarstration on Artstation\nhttps://www.artstation.com/artwork/Are4Ey\n\nOG art_3:\nCarlos \"Kamyu\" D\u00edaz Asenjo on Artstation\nhttps://www.artstation.com/artwork/QzJok4\n\nOG art_2:\nAlexandr Elichev on Artstation\nhttps://www.artstation.com/artwork/9eW2VL\n\nOG art_1:\nThiago Lehmann on Artstation\nhttps://www.artstation.com/artwork/RYPlZy\n\nOG_2:\nFlash\nLurk\u2014Pay 2 life\nWhen this creature enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\n(made it trample to make it more multicoloured.)\n\nOG_1:\nFlash\nReach\nWhen Junkyard Hunter enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\nFlash\nReach\nWhen Junkyard Hunter enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.\n"
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/xJWdJ1"
         },
         {
             "card_name": "Scorpone Aristocrat",
@@ -5426,7 +5426,7 @@
             "artist": "Travis Anderson on Artstation",
             "alias": "",
             "position": "270",
-            "notes": "https://www.artstation.com/artwork/xn1v2"
+            "notes": "https://www.artstation.com/artwork/xn1v2\n\n!related Saproling Construct JDK<2>"
         },
         {
             "card_name": "Furnace Artillerist",
@@ -5632,11 +5632,11 @@
             "card_name": "Interplanter",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Merfolk Artificer",
+            "type": "Creature \u2014 Siren Artificer",
             "number": 60,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
+            "rules_text": "Lurk {1} [i](Defending player can't block this creature unless they pay {1}.)[/i]\nWhen this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. [i](It's a token artifact with \u201c{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -5646,7 +5646,7 @@
             "artist": "Pencil Equipped on Artstation",
             "alias": "",
             "position": "281",
-            "notes": "https://www.artstation.com/artwork/DxaXwG"
+            "notes": "https://www.artstation.com/artwork/DxaXwG\n\n!related Implant JDK"
         },
         {
             "card_name": "Holographm Stalker",
@@ -5726,7 +5726,7 @@
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
             "position": "285",
-            "notes": "https://www.deviantart.com/crazyasian1/art/The-Steppe-450806733"
+            "notes": "https://www.deviantart.com/crazyasian1/art/The-Steppe-450806733\n\n!related Implant JDK"
         },
         {
             "card_name": "Metalmancer",
@@ -5806,7 +5806,7 @@
             "artist": "joseochoaart",
             "alias": "",
             "position": "289",
-            "notes": "!tag card-advantage\n\nhttps://www.instagram.com/p/BHiyXIXBcn3/?hl=nb"
+            "notes": "!tag card-advantage\n\n!related Implant JDK\n\nhttps://www.instagram.com/p/BHiyXIXBcn3/?hl=nb"
         },
         {
             "card_name": "Digitalize",
@@ -6026,7 +6026,7 @@
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
             "position": "300",
-            "notes": "https://www.deviantart.com/crazyasian1/art/B5-Kudu-Twins-533829421"
+            "notes": "https://www.deviantart.com/crazyasian1/art/B5-Kudu-Twins-533829421\n\n!related Implant JDK"
         },
         {
             "card_name": "Tinkering Maestro",
@@ -6086,7 +6086,7 @@
             "artist": "Ari Ibarra on Artstation",
             "alias": "",
             "position": "303",
-            "notes": "https://www.artstation.com/artwork/YaJEmP"
+            "notes": "https://www.artstation.com/artwork/YaJEmP\n\n!related Implant JDK<3>"
         },
         {
             "card_name": "Clean Idea",
@@ -6126,7 +6126,7 @@
             "artist": "Kolya Ogre on Artstation",
             "alias": "",
             "position": "305",
-            "notes": "https://www.artstation.com/artwork/68zlyN"
+            "notes": "https://www.artstation.com/artwork/68zlyN\n\n!related Servo JDK"
         },
         {
             "card_name": "Reassemble",
@@ -6147,7 +6147,87 @@
             "alias": "",
             "position": "306",
             "notes": "!tag reanimate-artifact\n\nhttps://www.artstation.com/artwork/xJ1ooW"
+        },
+        {
+            "card_name": "Implant",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Implant",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, {T}, Sacrifice this token: Put its counters on target creature. Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "JDK",
+            "loyalty": "",
+            "artist": "Joonatan Vahar",
+            "alias": "",
+            "position": "307",
+            "notes": "https://www.artstation.com/artwork/NGLrbd\n\n!tokentag Implant JDK"
+        },
+        {
+            "card_name": "Saproling Construct",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Saproling Construct",
+            "number": 3,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "JDK",
+            "loyalty": "",
+            "artist": "Travis Anderson",
+            "alias": "",
+            "position": "308",
+            "notes": "https://www.artstation.com/artwork/xn1v2\n\n!tokentag Saproling Construct JDK"
+        },
+        {
+            "card_name": "Servo",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Servo",
+            "number": 4,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "0/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "JDK",
+            "loyalty": "",
+            "artist": "Benedick Bana",
+            "alias": "",
+            "position": "309",
+            "notes": "https://benedickbana.artstation.com/projects/1V4J8\n\n!tokentag Servo JDK"
+        },
+        {
+            "card_name": "Insect",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Insect",
+            "number": 1,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "JDK",
+            "loyalty": "",
+            "artist": "Adrian Smith",
+            "alias": "",
+            "position": "310",
+            "notes": "https://benedickbana.artstation.com/projects/1V4J8\n\n!tokentag Insect JDK"
         }
     ],
-    "version": 4
+    "version": 5
 }

@@ -2330,6 +2330,50 @@
     {
         "card_name": "er"
     },
+    "a->token",
+    {
+        "card_name": "Implant",
+        "number": 2,
+        "shape": "token",
+        "set": "JDK",
+        "position": "307"
+    },
+    {
+        "card_name": "Saproling Construct",
+        "number": 3,
+        "shape": "token",
+        "set": "JDK",
+        "position": "308"
+    },
+    {
+        "card_name": "Servo",
+        "number": 4,
+        "shape": "token",
+        "set": "JDK",
+        "position": "309"
+    },
+    {
+        "card_name": "Insect",
+        "number": 1,
+        "shape": "token",
+        "set": "JDK",
+        "position": "310"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
     {
         "card_name": "er"
     }

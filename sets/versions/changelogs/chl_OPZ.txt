@@ -1,4 +1,116 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Leviathan added.
+
+Horror removed.
+
+Renegade Academy
+
+Voyager Station
+
+Ambitious Lab Techs
+
+Stalking Wispbeast
+
+Transferred Soul
+
+Keen-Eyed Engineer
+rules_text: When this creature enters, create a 1/1 colorless Construct artifact creature token.
+Whenever another artifact creature you control enters, experiment on it. [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i] => When this creature enters, create a 1/1 colorless Construct artifact creature token.
+Whenever an artifact creature you control enters, experiment on it. [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i]
+
+Digital Reconstruction
+
+Expanse Runners
+
+Containment Breach
+
+Frigid Pass Officers
+
+Painful Excision
+
+Recovery Mission
+
+Frightened Trainee
+
+Tactical Breach
+
+Frontline Dropship
+
+Drone Operator
+
+Brutal Acquisition
+
+Rapid Incubation
+
+Poison Whip-Tail
+
+Levicycle Courier
+
+Salvage Hunter
+
+Field Expeditioners
+
+Mission Coordinator
+
+Sampling Laser
+
+Anomalous Animation
+
+Scour the Ruins
+
+Artificial Warfront
+
+Bravo-2, Ruthless Commando
+
+Assault Landing
+
+Exhurga, Origin of Mania
+
+Bravo-2 Contractee
+
+Morphose Plague
+
+Bioweapon Engineers
+
+Circuit Liberator
+
+Razefire Raid
+
+Telemagnetic Assault
+
+Blackmarket Orchestrator
+
+Mobile Containment Unit
+
+Terminal Infection
+
+Synthesis Volunteer
+
+Unwitting Host
+
+Arboreal Sinewvine
+
+Enforcer's Assault Rifle
+rules_text: When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
+Equipped creature gets +2/+0, has trample, and has “When this creature dies, it deals 1 damage to any target.”
+Equip {R} => When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.
+Equipped creature gets +2/+0 and has “When this creature dies, it deals 1 damage to any target.”
+Equip {R}
+
+Lab Infiltration
+
+Malignant Venomwing
+
+Seed of Infection
+
+Relentless Raid
+
+D'Emil, Apex Hunter
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

@@ -86,7 +86,7 @@
             "artist": "Narendra B Adi",
             "alias": "",
             "position": "3",
-            "notes": "!tag anomaly\n#common #blue\n!tokens Leading Role"
+            "notes": "!tag anomaly\n#common #blue\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Time Traveling Cop",
@@ -286,7 +286,7 @@
             "artist": "Victor Garcia",
             "alias": "",
             "position": "13",
-            "notes": "#common #red\n!tokens Leading Role"
+            "notes": "#common #red\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Scene Crasher",
@@ -326,7 +326,7 @@
             "artist": "JiHun Lee",
             "alias": "",
             "position": "15",
-            "notes": "#common #red\n!tokens Treasure"
+            "notes": "#common #red\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "Family Man",
@@ -346,7 +346,7 @@
             "artist": "Anton Oxenuk",
             "alias": "",
             "position": "16",
-            "notes": "#common #red\n!tokens Third Act"
+            "notes": "#common #red\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Grinning Captive",
@@ -386,7 +386,7 @@
             "artist": "Andreia Ugrai",
             "alias": "",
             "position": "18",
-            "notes": "#common #red\n!tokens Rogue"
+            "notes": "#common #red\n!addtoken Rogue SOC;1\n!related Rogue SOC"
         },
         {
             "card_name": "Killer in the Streets",
@@ -426,7 +426,7 @@
             "artist": "Christian Bravery",
             "alias": "",
             "position": "20",
-            "notes": "#common #red\n!tokens Rogue"
+            "notes": "#common #red\n!addtoken Rogue SOC;2\n!related Rogue SOC<2>"
         },
         {
             "card_name": "Cool Guys Don't Look at Explosions",
@@ -466,7 +466,7 @@
             "artist": "hassan chenari",
             "alias": "",
             "position": "22",
-            "notes": "#common #red\n!tokens Leading Role"
+            "notes": "#common #red\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Forbidden Rendezvous",
@@ -546,7 +546,7 @@
             "artist": "Martin de Diego",
             "alias": "",
             "position": "26",
-            "notes": "#common #blue\n!tokens Leading Role"
+            "notes": "#common #blue\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Brave Little Toadster",
@@ -566,7 +566,7 @@
             "artist": "Mickey Torres",
             "alias": "",
             "position": "27",
-            "notes": "#common #green\n!tokens Leading Role"
+            "notes": "#common #green\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Wooden Slasher",
@@ -626,7 +626,7 @@
             "artist": "Wisnu Tan",
             "alias": "",
             "position": "30",
-            "notes": "#common #green\n!tokens Soldier;Third Act"
+            "notes": "#common #green\n!addtoken Third Act SOC;1;Soldier SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Eight-Legged Freak",
@@ -706,7 +706,7 @@
             "artist": "Dope Pope",
             "alias": "",
             "position": "34",
-            "notes": "#common #green\n!tokens Third Act"
+            "notes": "#common #green\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Monster's Fury",
@@ -766,7 +766,7 @@
             "artist": "Mariusz Kozik",
             "alias": "",
             "position": "37",
-            "notes": "#common #green\n!tokens Third Act"
+            "notes": "#common #green\n!addtoken Third Act SOC;1"
         },
         {
             "card_name": "Altar of Heroes",
@@ -786,7 +786,7 @@
             "artist": "David Simons",
             "alias": "",
             "position": "38",
-            "notes": "#common #green\n!tokens Leading Role"
+            "notes": "#common #green\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Hulking Growth",
@@ -826,7 +826,7 @@
             "artist": "Fajareka Setiawan",
             "alias": "",
             "position": "40",
-            "notes": "!tag tapper\n#common #blue\n!tokens Third Act"
+            "notes": "!tag tapper\n#common #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Unconventional Mentor",
@@ -846,7 +846,7 @@
             "artist": "Brandon Jones",
             "alias": "",
             "position": "41",
-            "notes": "!tag anomaly\n#white #common\n!tokens Leading Role"
+            "notes": "!tag anomaly\n#white #common\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Villain's Underling",
@@ -866,7 +866,7 @@
             "artist": "Tannia Ye",
             "alias": "",
             "position": "42",
-            "notes": "#white #common\n!tokens Third Act"
+            "notes": "#white #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Pendant Thief",
@@ -886,7 +886,7 @@
             "artist": "Aurore Folny",
             "alias": "",
             "position": "43",
-            "notes": "#white #common"
+            "notes": "#white #common\n!addtoken Skeleton SOC;1\n!related Skeleton SOC"
         },
         {
             "card_name": "Brash Detective",
@@ -926,7 +926,7 @@
             "artist": "Art of Li",
             "alias": "",
             "position": "45",
-            "notes": "#white #common\n!tokens Soldier<2>"
+            "notes": "#white #common\n!addtoken Soldier SOC;2\n!related Soldier SOC<2>"
         },
         {
             "card_name": "Sole Survivor",
@@ -986,7 +986,7 @@
             "artist": "hicham habchi",
             "alias": "",
             "position": "48",
-            "notes": "#white #common\n!tokens Third Act"
+            "notes": "#white #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Power Player",
@@ -1026,7 +1026,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "50",
-            "notes": "#white #common\n!tokens Leading Role"
+            "notes": "#white #common\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Fight for Your Life",
@@ -1046,7 +1046,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "51",
-            "notes": "!tag damage-creature\n\n#white #common\n!tokens Third Act"
+            "notes": "!tag damage-creature\n\n#white #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Zero to Hero",
@@ -1166,7 +1166,7 @@
             "artist": "Francesca Resta",
             "alias": "",
             "position": "57",
-            "notes": "#black #common\n!tokens Third Act"
+            "notes": "#black #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Killer Clown",
@@ -1266,7 +1266,7 @@
             "artist": "Jackson Caspersz",
             "alias": "",
             "position": "62",
-            "notes": "#black #common\nspectre"
+            "notes": "#black #common\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "Wolf of Boxer Street",
@@ -1286,7 +1286,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "position": "63",
-            "notes": "#black #common\n!tokens Third Act"
+            "notes": "#black #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Climactic Demise",
@@ -1326,7 +1326,7 @@
             "artist": "Tentori Montalto",
             "alias": "",
             "position": "65",
-            "notes": "!tag removal-creature\n#black #common\n!tokens Leading Role"
+            "notes": "!tag removal-creature\n#black #common\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Set up the Sequel",
@@ -1386,7 +1386,7 @@
             "artist": "Gilbert Han",
             "alias": "",
             "position": "68",
-            "notes": "!tag removal-creature\n!tag removal-planeswalker\n#black #common\n!tokens Third Act"
+            "notes": "!tag removal-creature\n!tag removal-planeswalker\n#black #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Harder They Fall",
@@ -1526,7 +1526,7 @@
             "artist": "Romain Ferre",
             "alias": "",
             "position": "75",
-            "notes": "!tag cantrip\n\n#colorless #common\n!tokens Treasure"
+            "notes": "!tag cantrip\n\n#colorless #common\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "Banishing Light",
@@ -1626,7 +1626,7 @@
             "artist": "Grafit Studio",
             "alias": "No One Here Gets Out Alive",
             "position": "80",
-            "notes": "#uncommon #red\n!tokens Treasure"
+            "notes": "#uncommon #red\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "Combat Experts",
@@ -1646,7 +1646,7 @@
             "artist": "Dario Jelusic",
             "alias": "",
             "position": "81",
-            "notes": "#uncommon #red\n!tokens Soldier;Third Act"
+            "notes": "#uncommon #red\n!addtoken Third Act SOC;1;Soldier SOC;3\n!related Third Act SOC\n!related Soldier SOC<3>"
         },
         {
             "card_name": "Eager Audience",
@@ -1706,7 +1706,7 @@
             "artist": "Thibaut Leduc",
             "alias": "",
             "position": "84",
-            "notes": "!tag reanimate-creature\n#rare #gold\n!tokens Third Act"
+            "notes": "!tag reanimate-creature\n#rare #gold\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Buggy Shieldbearer",
@@ -1726,7 +1726,7 @@
             "artist": "Anthony Chong Jones",
             "alias": "",
             "position": "85",
-            "notes": "#uncommon #white\n!tokens Leading Role"
+            "notes": "#uncommon #white\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Lady, Arthouse Star",
@@ -1746,7 +1746,7 @@
             "artist": "KILART (choe, heonhwa)",
             "alias": "love. nevermind.",
             "position": "86",
-            "notes": "#rare #white\n!tokens Bird<2>;Third Act"
+            "notes": "#rare #white\n!addtoken Third Act SOC;1;Bird SOC;2\n!related Third Act SOC\n!related Bird SOC<2>"
         },
         {
             "card_name": "Tia Otumbo",
@@ -1766,7 +1766,7 @@
             "artist": "Elisa Gauthier",
             "alias": "No One Here Gets Out Alive",
             "position": "87",
-            "notes": "#rare #gold\n!tokens Horse"
+            "notes": "#rare #gold\n!addtoken Leading Role SOC;1;Horse SOC;1\n!related Leading Role SOC\n!related Horse SOC"
         },
         {
             "card_name": "Altered Brain",
@@ -1806,7 +1806,7 @@
             "artist": "Max Schiller",
             "alias": "",
             "position": "89",
-            "notes": "#uncommon #white\n!tokens Leading Role"
+            "notes": "#uncommon #white\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Tactical Strike Team",
@@ -1866,7 +1866,7 @@
             "artist": "Ina Wong",
             "alias": "",
             "position": "92",
-            "notes": "#uncommon #white\n!tokens Soldier"
+            "notes": "#uncommon #white\n!addtoken Soldier SOC;1\n!related Soldier SOC"
         },
         {
             "card_name": "Soaring Woman",
@@ -1876,7 +1876,7 @@
             "number": 70,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flying\nWhen this creature enters, if you control another creature named Soaring Woman or produced a blockbuster this turn, draw card.",
+            "rules_text": "Flying\nWhen this creature enters, if you control another creature with flying or produced a blockbuster this turn, draw card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1906,7 +1906,7 @@
             "artist": "Samuel Bourguignon",
             "alias": "",
             "position": "94",
-            "notes": "!tag cantrip\n#uncommon #blue\n!tokens Leading Role"
+            "notes": "!tag cantrip\n#uncommon #blue\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Alien Anatomist",
@@ -1926,7 +1926,7 @@
             "artist": "Pixoloid Studio",
             "alias": "",
             "position": "95",
-            "notes": "#uncommon #blue\n!tokens Treasure"
+            "notes": "#uncommon #blue\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "The Big Friendly Beast",
@@ -1946,7 +1946,7 @@
             "artist": "Oliver Wetter",
             "alias": "The Big Friendly Beast",
             "position": "96",
-            "notes": "#uncommon #blue\n!tokens Third Act"
+            "notes": "#uncommon #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Vengeful Shinobi",
@@ -1966,7 +1966,7 @@
             "artist": "Ricardo Caria",
             "alias": "",
             "position": "97",
-            "notes": "#uncommon #black\n!tokens Third Act"
+            "notes": "#uncommon #black\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Bloodbutcher",
@@ -1976,7 +1976,7 @@
             "number": 82,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this creature enters, another target creature you don't control gets -X/-X where X is this creature's power.\nSequel {B} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
+            "rules_text": "When this creature enters, up to one other target creature gets -X/-X until end of turn, where X is this creature's power.\nSequel {B} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2086,7 +2086,7 @@
             "artist": "Mike Azevedo",
             "alias": "",
             "position": "103",
-            "notes": "!tag reanimate-self\n#uncommon #green\n!tokens Dinosaur"
+            "notes": "!tag reanimate-self\n#uncommon #green\n!addtoken Dinosaur SOC;1\n!related Dinosaur SOC"
         },
         {
             "card_name": "Endangered Species",
@@ -2266,7 +2266,7 @@
             "artist": "Alen Rocha",
             "alias": "",
             "position": "112",
-            "notes": "!tag reanimate-creature\n#uncommon #black\n!tokens Leading Role"
+            "notes": "!tag reanimate-creature\n#uncommon #black\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Close the Wormhole",
@@ -2286,7 +2286,7 @@
             "artist": "Isaiah Sherman",
             "alias": "",
             "position": "113",
-            "notes": "!tag counterspell\n#uncommon #blue\n!tokens Third Act"
+            "notes": "!tag counterspell\n#uncommon #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "CGI Animals",
@@ -2326,7 +2326,7 @@
             "artist": "Balance Sheet",
             "alias": "",
             "position": "115",
-            "notes": "#uncommon #black\n!tokens Treasure"
+            "notes": "#uncommon #black\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "Into the Maw of Greatness",
@@ -2346,7 +2346,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "116",
-            "notes": "#uncommon #green\n!tokens Leading Role"
+            "notes": "#uncommon #green\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Dark Horde Rising",
@@ -2366,7 +2366,7 @@
             "artist": "Mario Wibisono",
             "alias": "",
             "position": "117",
-            "notes": "#uncommon #black\n!tokens Skeleton;Third Act"
+            "notes": "#uncommon #black\n!addtoken Third Act SOC;1;Skeleton SOC;1\n!related Third Act SOC\n!related Skeleton SOC"
         },
         {
             "card_name": "Cornered Lover",
@@ -2426,7 +2426,7 @@
             "artist": "Simon Pape",
             "alias": "",
             "position": "120",
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#uncommon #green\n!tokens Leading Role"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#uncommon #green\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Romantic Tension",
@@ -2466,7 +2466,7 @@
             "artist": "Stu Harrington",
             "alias": "",
             "position": "122",
-            "notes": "!tag regrowth-creature\n#uncommon #black\n!tokens Third Act"
+            "notes": "!tag regrowth-creature\n#uncommon #black\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Dark Ending",
@@ -2546,7 +2546,7 @@
             "artist": "Sykosan",
             "alias": "",
             "position": "126",
-            "notes": "!tag damage-creature\n!tag damage-planeswalker\n#uncommon #red"
+            "notes": "!tag damage-creature\n!tag damage-planeswalker\n!addtoken Rogue SOC;2\n#uncommon #red\n!related Rogue SOC<2>"
         },
         {
             "card_name": "Stand Off",
@@ -2606,7 +2606,7 @@
             "artist": "Mr Jack",
             "alias": "",
             "position": "129",
-            "notes": "!tag regrowth\n#uncommon #green\n!tokens Third Act"
+            "notes": "!tag regrowth\n#uncommon #green\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Loving Beast",
@@ -2666,7 +2666,7 @@
             "artist": "Denys Tsiperko",
             "alias": "Thunder Squad 2: Fire and Flames",
             "position": "132",
-            "notes": "#uncommon #white\n!tokens Third Act"
+            "notes": "#uncommon #white\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Makeup Artist",
@@ -2686,7 +2686,7 @@
             "artist": "Athus Neves",
             "alias": "",
             "position": "133",
-            "notes": "!tokens Leading Role"
+            "notes": "!addtoken Leading Role SOC;1\n#white #uncommon\n!related Leading Role SOC"
         },
         {
             "card_name": "Space Pilgrim",
@@ -2696,7 +2696,7 @@
             "number": 234,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Vigilance\nWhenever you produce a blockbuster, create a 1/1 colorless Thopter artifact creature token with flying.",
+            "rules_text": "Vigilance\nWhenever you produce a blockbuster, create a 1/1 colorless Drone artifact creature token with flying.",
             "flavor_text": "[i]\u201cYour mission is twofold: Plan our landing sites and alert us to alien lifeforms. We will deal with those promptly.\u201d\n\u2014Admiral Joseph, [/i]Empire Ascended[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2706,7 +2706,7 @@
             "artist": "Alexander Gubanov",
             "alias": "",
             "position": "134",
-            "notes": "#uncommon #gold #arcun\n!tokens Thopter"
+            "notes": "#uncommon #gold #arcun\n!addtoken Drone SOC;1\n!related Drone SOC"
         },
         {
             "card_name": "Paragon Battery",
@@ -2757,7 +2757,7 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
-            "notes": "#uncommon #gold #arcun\n!tokens Leading Role"
+            "notes": "#uncommon #gold #arcun\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Khazra",
@@ -2777,7 +2777,7 @@
             "artist": "Sean Bianchi",
             "alias": "The Battle of the Five Kings",
             "position": "137",
-            "notes": "#uncommon #gold #arcun\n!tokens Mikandros"
+            "notes": "#uncommon #gold #arcun\n!addtoken Mikandros SOC;1\n!related Mikandros SOC"
         },
         {
             "card_name": "Erupting Sandmaw",
@@ -2857,7 +2857,7 @@
             "artist": "Prasad Rao (pressy)",
             "alias": "",
             "position": "141",
-            "notes": "#uncommon #gold #arcun"
+            "notes": "#uncommon #gold #arcun\n!addtoken Soldier SOC;1\n!related Soldier SOC"
         },
         {
             "card_name": "Deep Space Defender",
@@ -2917,7 +2917,7 @@
             "artist": "Srabon Arafat",
             "alias": "",
             "position": "144",
-            "notes": "#rare #white\n!tokens Soldier"
+            "notes": "#rare #white\n!addtoken Soldier SOC;1\n!related Soldier SOC"
         },
         {
             "card_name": "Imperial Defense System",
@@ -2957,7 +2957,7 @@
             "artist": "Surya Prasetya",
             "alias": "",
             "position": "146",
-            "notes": "!tag damage-any\n#uncommon #gold #arcun\n!tokens Treasure"
+            "notes": "!tag damage-any\n#uncommon #gold #arcun\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "The Final Reveal",
@@ -3057,7 +3057,7 @@
             "artist": "Francisco Chinchilla",
             "alias": "",
             "position": "151",
-            "notes": "#uncommon #gold #arcun\n!tokens Treasure"
+            "notes": "#uncommon #gold #arcun\n!addtoken Treasure SOC;1\n!related Treasure SOC"
         },
         {
             "card_name": "Alliance of Passion",
@@ -3077,7 +3077,7 @@
             "artist": "BelleIllumina",
             "alias": "",
             "position": "152",
-            "notes": "#uncommon #gold #arcun\n!tokens Human"
+            "notes": "#uncommon #gold #arcun\n!addtoken Human SOC;2\n!related Human SOC<2>"
         },
         {
             "card_name": "Magician Adept",
@@ -3127,7 +3127,7 @@
             "number": 208,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "As an additional cost to cast this spell, discard a card or pay 3 life.\nPut target nonland permanent on the bottom of its owner's library.",
+            "rules_text": "As an additional cost to cast this spell, discard a card or pay 3 life.\nPut target creature on the bottom of its owner's library.",
             "flavor_text": "[i]\u201cSensei Ira sends their regards.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -3186,7 +3186,7 @@
             "type": "Enchantment",
             "number": 62,
             "color_identity": "U",
-            "cost": "{2}{U}",
+            "cost": "{1}{U}",
             "rules_text": "When this enchantment enters, tap target nonland permanent you don't control and put a stun counter on it.\nWhenever you produce a blockbuster, you may return this enchantment to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -3227,7 +3227,7 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "When this equipment enters, attach it to a creature you control.\nEquipped creature gets +2/+2. \nAt the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike.\nEquip {3}",
+            "rules_text": "When this equipment enters, attach it to a creature you control.\nAt the beginning of combat on your turn, equipped creature gains your choice of vigilance, lifelink, or first strike until end of turn.\nEquipped creature gets +2/+2. \nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3257,7 +3257,7 @@
             "artist": "Andres Agostini",
             "alias": "",
             "position": "161",
-            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\n#uncommon #white\n!tokens Leading Role"
+            "notes": "!tag removal-artifact\n!tag removal-enchantment\n\n#uncommon #white\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Consider the Possibilities",
@@ -3277,7 +3277,7 @@
             "artist": "Leo Colapietro",
             "alias": "",
             "position": "162",
-            "notes": "!tag card-advantage\n#uncommon #blue\n!tokens Third Act"
+            "notes": "!tag card-advantage\n#uncommon #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Bird",
@@ -3297,7 +3297,7 @@
             "artist": "Nathan Ruch",
             "alias": "",
             "position": "163",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Bird SOC"
         },
         {
             "card_name": "Horse",
@@ -3317,7 +3317,7 @@
             "artist": "Arman",
             "alias": "",
             "position": "164",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Horse SOC"
         },
         {
             "card_name": "Soldier",
@@ -3337,14 +3337,14 @@
             "artist": "A Shipwright",
             "alias": "",
             "position": "165",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Soldier SOC"
         },
         {
             "card_name": "Skeleton",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Skeleton",
-            "number": 6,
+            "number": 8,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3357,14 +3357,14 @@
             "artist": "Tyberioaeus",
             "alias": "",
             "position": "166",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Skeleton SOC"
         },
         {
             "card_name": "Human",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Human",
-            "number": 7,
+            "number": 10,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3377,14 +3377,14 @@
             "artist": "Anna Helena",
             "alias": "",
             "position": "167",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Human SOC"
         },
         {
             "card_name": "Rogue",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Rogue",
-            "number": 9,
+            "number": 12,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3397,14 +3397,14 @@
             "artist": "Fury",
             "alias": "",
             "position": "168",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Rogue SOC"
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 10,
+            "number": 17,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -3417,7 +3417,7 @@
             "artist": "Martin Evlogiev",
             "alias": "",
             "position": "169",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Treasure SOC"
         },
         {
             "card_name": "Leading Role",
@@ -3437,7 +3437,7 @@
             "artist": "Xavier Cuenca",
             "alias": "",
             "position": "170",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Leading Role SOC"
         },
         {
             "card_name": "Refurbisher",
@@ -3477,7 +3477,7 @@
             "artist": "Artur Sadlos",
             "alias": "",
             "position": "172",
-            "notes": "!tag anomaly\n#colorless #uncommon\n!tokens Third Act"
+            "notes": "!tag anomaly\n#colorless #uncommon\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "POV Camera",
@@ -3557,7 +3557,7 @@
             "artist": "Artem Fadeev",
             "alias": "",
             "position": "176",
-            "notes": "!tag cantrip\n#colorless #common\n!tokens Third Act"
+            "notes": "!tag cantrip\n#colorless #common\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Location Scouting",
@@ -3657,7 +3657,7 @@
             "artist": "Milica Celikovic",
             "alias": "Caught in the Crossfire",
             "position": "181",
-            "notes": "#uncommon #black\n!tokens Detective"
+            "notes": "#uncommon #black\n!addtoken Detective SOC;1\n!related Detective SOC"
         },
         {
             "card_name": "Captain Marvelous",
@@ -3677,7 +3677,7 @@
             "artist": "George Doutsiopoulos",
             "alias": "Galactic Guardians: Dark Days",
             "position": "182",
-            "notes": "!tag card-advantage\n#uncommon #blue\n!tokens Third Act"
+            "notes": "!tag card-advantage\n#uncommon #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Green Knight",
@@ -3737,7 +3737,7 @@
             "artist": "Andy Tantowi",
             "alias": "",
             "position": "185",
-            "notes": "!tag bounce-creature\n!tag tuck\n#common #blue\n!tokens Third Act"
+            "notes": "!tag bounce-creature\n!tag tuck\n#common #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Big Bad Tree",
@@ -3757,7 +3757,7 @@
             "artist": "Aether Games Inc.",
             "alias": "",
             "position": "186",
-            "notes": "#uncommon #green\n!tokens Third Act"
+            "notes": "#uncommon #green\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Completely Surrounded",
@@ -3777,7 +3777,7 @@
             "artist": "Mars Sun",
             "alias": "",
             "position": "187",
-            "notes": "!tag removal-creature\n\n#uncommon #white\n!tokens Third Act"
+            "notes": "!tag removal-creature\n\n#uncommon #white\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Wayne Barnes",
@@ -3857,7 +3857,7 @@
             "artist": "Thibaut Leduc",
             "alias": "Galactic Guardians: Dark Days",
             "position": "191",
-            "notes": "#rare #black\n!tokens Leading Role"
+            "notes": "#rare #black\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Leaky Futuretron",
@@ -3907,7 +3907,7 @@
             "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "First strike\nAura and Equipment spells you cast cost {1} less to cast.\nWhen Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.",
+            "rules_text": "Aura and Equipment spells you cast cost {1} less to cast.\nWhen Holly Drake enters, you may pay {1}. If you do, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3997,7 +3997,7 @@
             "artist": "Antoine Collignon",
             "alias": "Blue Spectre 2: Nebula Protocol",
             "position": "198",
-            "notes": "#rare #blue\n!tokens Third Act"
+            "notes": "#rare #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "VAL1000",
@@ -4037,7 +4037,7 @@
             "artist": "Facundo Moyano",
             "alias": "Galactic Guardians: Dark Days",
             "position": "200",
-            "notes": "!tag bounce-spell\n#rare #blue\n!tokens Third Act"
+            "notes": "!tag bounce-spell\n#rare #blue\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Four Dimensional Beast",
@@ -4137,7 +4137,7 @@
             "artist": "Jon Gerung",
             "alias": "",
             "position": "205",
-            "notes": "!tag removal-creature\n#rare #black\n!tokens Third Act"
+            "notes": "!tag removal-creature\n#rare #black\n!addtoken Third Act SOC;1"
         },
         {
             "card_name": "Last Kiss",
@@ -4157,7 +4157,7 @@
             "artist": "Tu Bui",
             "alias": "",
             "position": "206",
-            "notes": "!tag wrath\n#rare #red\n!tokens Third Act"
+            "notes": "!tag wrath\n#rare #red\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Hound Conjurer",
@@ -4177,7 +4177,7 @@
             "artist": "Karolina",
             "alias": "",
             "position": "207",
-            "notes": "#rare #red\n!tokens Dog;Third Act"
+            "notes": "#rare #red\n!addtoken Third Act SOC;1Dog SOC;1\n!related Third Act SOC\n!related Dog SOC"
         },
         {
             "card_name": "Postal Carrier",
@@ -4197,7 +4197,7 @@
             "artist": "Alvin Seeber",
             "alias": "",
             "position": "208",
-            "notes": "#rare #red\n!tokens Leading Role"
+            "notes": "#rare #red\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Special Bond",
@@ -4237,7 +4237,7 @@
             "artist": "Tomek Larek",
             "alias": "",
             "position": "210",
-            "notes": "#rare #green\n!tokens Leading Role"
+            "notes": "#rare #green\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Hungry Little Terrors",
@@ -4437,7 +4437,7 @@
             "artist": "Jiri Kus",
             "alias": "",
             "position": "220",
-            "notes": "!tag removal-creature\n#rare #gold\n!tokens Third Act"
+            "notes": "!tag removal-creature\n#rare #gold\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "City of Heroes",
@@ -4457,7 +4457,7 @@
             "artist": "Adrian Merchan",
             "alias": "",
             "position": "221",
-            "notes": "#rare #land\n!tokens Third Act"
+            "notes": "#rare #land\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Kaiju Homeworld",
@@ -4477,7 +4477,7 @@
             "artist": "Emy Art",
             "alias": "",
             "position": "222",
-            "notes": "#rare #land\n!tokens Beast;Third Act"
+            "notes": "#rare #land\n!addtoken Third Act SOC;1;Beast SOC;1\n!related Third Act SOC\n!related Beast SOC"
         },
         {
             "card_name": "Shootout Gully",
@@ -4497,7 +4497,7 @@
             "artist": "Alvin Seeber",
             "alias": "",
             "position": "223",
-            "notes": "#rare #land\n!tokens Third Act"
+            "notes": "#rare #land\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Intergalactic Spaceport",
@@ -4517,7 +4517,7 @@
             "artist": "Oliver Beck",
             "alias": "",
             "position": "224",
-            "notes": "!tag cantrip\n#rare #land\n!tokens Third Act"
+            "notes": "!tag cantrip\n#rare #land\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Adventurer's Village",
@@ -4537,7 +4537,7 @@
             "artist": "Imad Awan",
             "alias": "",
             "position": "225",
-            "notes": "#rare #land\n!tokens Third Act"
+            "notes": "#rare #land\n!addtoken Third Act SOC;1Soldier SOC;2\n!related Third Act SOC\n!related Soldier SOC<2>"
         },
         {
             "card_name": "Anguish",
@@ -4577,7 +4577,7 @@
             "artist": "Graey Erb",
             "alias": "",
             "position": "227",
-            "notes": "#rare #green\n!tokens Third Act"
+            "notes": "#rare #green\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Film Editing",
@@ -4617,7 +4617,7 @@
             "artist": "Laslo Ludrovan",
             "alias": "Zilortha vs. Mother Mon-Mon",
             "position": "229",
-            "notes": "#colorless #rare\n!tokens Third Act"
+            "notes": "#colorless #rare\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "The Stone of Kings",
@@ -4669,7 +4669,7 @@
             "cost": "{1}{R}",
             "rules_text": "When this creature enters, exile the top card of your library. You may play that card this turn.\nSequel {1}{R} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "SOC",
@@ -4766,7 +4766,7 @@
             "type": "Instant",
             "number": 204,
             "color_identity": "UB",
-            "cost": "{1}{U}{B}",
+            "cost": "{U}{U}{B}",
             "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nCounter target spell. If you're in your third act, exile its controller's graveyard. Until the end of your next turn, you may cast cards exiled this way and you may spend mana as though it were mana of any color to cast them.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4777,7 +4777,7 @@
             "artist": "Sam yang",
             "alias": "",
             "position": "237",
-            "notes": "!tag counterspell\n!tag graveyard-hate\n#rare #gold\n!tokens Third Act"
+            "notes": "!tag counterspell\n!tag graveyard-hate\n#rare #gold\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Never Found the Body",
@@ -4797,7 +4797,7 @@
             "artist": "Aaron J Riley",
             "alias": "",
             "position": "238",
-            "notes": "!tag reanimate-creature\n#rare #gold\n!tokens Third Act"
+            "notes": "!tag reanimate-creature\n#rare #gold\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Charming Minotaur",
@@ -4817,7 +4817,7 @@
             "artist": "Earl Lan",
             "alias": "",
             "position": "239",
-            "notes": "#rare #gold\n!tokens Leading Role"
+            "notes": "#rare #gold\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Reset Protocol",
@@ -4897,7 +4897,7 @@
             "artist": "Logan Feliciano",
             "alias": "",
             "position": "243",
-            "notes": "!tag regrowth-self\n!tag wrath\n#mythic #black\n!tokens Blood\n\nhttps://www.artstation.com/artwork/8laQGq"
+            "notes": "!tag regrowth-self\n!tag wrath\n#mythic #black\n!addtoken Blood SOC;1Cohen Archvillain Emblem SOC;1\n!related Blood SOC\n!related Cohen Archvillain Emblem SOC\n\nhttps://www.artstation.com/artwork/8laQGq"
         },
         {
             "card_name": "Virtuous Knight",
@@ -4917,7 +4917,7 @@
             "artist": "Joseph C-Knight",
             "alias": "",
             "position": "244",
-            "notes": "!tag removal-creature\n#mythic #white\n!tokens Leading Role"
+            "notes": "!tag removal-creature\n#mythic #white\n!addtoken Leading Role SOC;1\n!related Leading Role SOC"
         },
         {
             "card_name": "Search the Universe",
@@ -4977,7 +4977,7 @@
             "artist": "Matthew Cartwright",
             "alias": "",
             "position": "247",
-            "notes": "#mythic #black\n!tokens Third Act"
+            "notes": "#mythic #black"
         },
         {
             "card_name": "Siege Mastodon",
@@ -4997,7 +4997,7 @@
             "artist": "WETA WORKSHOP DESIGN STUDIO",
             "alias": "",
             "position": "248",
-            "notes": "#mythic #green\n!tokens Soldier;Third Act"
+            "notes": "#mythic #green\n!addtoken Third Act SOC;1Soldier SOC;2\n!related Third Act SOC"
         },
         {
             "card_name": "Kal Rod'r",
@@ -5077,7 +5077,7 @@
             "artist": "Colin Searle",
             "alias": "Blue Spectre 2: Nebula Protocol",
             "position": "252",
-            "notes": "#rare #gold\n!tokens Treasure;Third Act"
+            "notes": "#rare #gold\n!addtoken Third Act SOC;1;Treasure SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Germinating Grub",
@@ -5097,7 +5097,7 @@
             "artist": "Liiga Smilshkalne",
             "alias": "",
             "position": "253",
-            "notes": "#rare #gold\n!tokens Third Act"
+            "notes": "#rare #gold"
         },
         {
             "card_name": "Morgril, the Devastator",
@@ -5117,7 +5117,7 @@
             "artist": "Anthony Catillaz",
             "alias": "The Battle of the Five Kings",
             "position": "254",
-            "notes": "!tag damage-player\n#mythic #red\n!tokens Third Act"
+            "notes": "!tag damage-player\n#mythic #red\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
             "card_name": "Skelly Boy Beatdown",
@@ -5137,7 +5137,7 @@
             "artist": "Jeremy Wilson",
             "alias": "",
             "position": "255",
-            "notes": "!tag damage-creature\n#mythic #red\n!tokens Skeleton"
+            "notes": "!tag damage-creature\n#mythic #red\n!addtoken Skeleton SOC;1\n!related Skeleton SOC"
         },
         {
             "card_name": "Ortesian Sneak",
@@ -5157,7 +5157,7 @@
             "artist": "Ameera Sheikh",
             "alias": "",
             "position": "256",
-            "notes": "#mythic #green\n!tokens Third Act"
+            "notes": "#mythic #green"
         },
         {
             "card_name": "Stormbringer Behemoth",
@@ -5187,7 +5187,7 @@
             "number": 258,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{T}: Add one mana of any color among legendary creatures you control.\n{4}, {T}, Sacrifice this land: Return target legendary creature card from your graveyard to your hand.",
+            "rules_text": "{T}: Add {C}.\n{T}: Add one mana of any color among legendary creatures you control.\n{4}, {T}, Sacrifice this land: Return target legendary card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5207,7 +5207,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this creature enters, return another target creature to its owner's hand.\nSequel {4}{U} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
+            "rules_text": "When this creature enters, return another target creature to its owner's hand.\nSequel {3}{U}{U} [i](You may cast this card from your graveyard for its sequel cost. If you do, it enters with a finality counter and it's a 1/1.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5237,7 +5237,7 @@
             "artist": "Jeleynai",
             "alias": "",
             "position": "260",
-            "notes": "!tag reanimate-self\n#mythic #black\n!tokens Horror"
+            "notes": "!tag reanimate-self\n#mythic #black\n!addtoken Horror SOC;2\n!related Horror SOC<2>"
         },
         {
             "card_name": "Colossal Kaiju",
@@ -5346,7 +5346,7 @@
             "type": "Enchantment",
             "number": 216,
             "color_identity": "WR",
-            "cost": "{R}{W}",
+            "cost": "{1}{R}{W}",
             "rules_text": "Third Act [i](If your life total is less than half of your starting life total or if you have one or fewer cards in hand, you enter the Third Act for the rest of the game.)[/i]\nCreatures you control get +1/+1.\nAt the beginning of combat on your turn, creatures you control gain flying until end of turn if you're in your third act.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -5357,10 +5357,10 @@
             "artist": "Ddavid Nakama",
             "alias": "",
             "position": "266",
-            "notes": "#mythic #gold\n!tokens Third Act"
+            "notes": "#mythic #gold\n!addtoken Third Act SOC;1\n!related Third Act SOC"
         },
         {
-            "card_name": "Third Act",
+            "card_name": "Third Act SOC",
             "color": "",
             "rarity": "common",
             "type": "",
@@ -5371,13 +5371,13 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "rulestip",
             "set": "SOC",
             "loyalty": "",
             "artist": "Tyler Tran Joyce",
             "alias": "",
             "position": "267",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Third Act SOC\n!exportname Third Act SOC"
         },
         {
             "card_name": "Detective",
@@ -5397,14 +5397,134 @@
             "artist": "Patrick Piazzalunga",
             "alias": "",
             "position": "268",
-            "notes": ""
+            "notes": "!tokenshape\n!tokentag Detective SOC"
+        },
+        {
+            "card_name": "Beast",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Beast",
+            "number": 13,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Nathan Ruch",
+            "alias": "",
+            "position": "269",
+            "notes": "!tokenshape\n!tokentag Beast SOC"
+        },
+        {
+            "card_name": "Blood",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact \u2014 Blood",
+            "number": 15,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}, {T}, Discard a card, Sacrifice this token: Draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Ihor Reshetnikov",
+            "alias": "",
+            "position": "270",
+            "notes": "!tokenshape\n!tokentag Blood SOC"
+        },
+        {
+            "card_name": "Dinosaur",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Dinosaur",
+            "number": 14,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "X/X",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Mark Soco",
+            "alias": "",
+            "position": "271",
+            "notes": "!tokenshape\n!tokentag Dinosaur SOC"
+        },
+        {
+            "card_name": "Drone",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Drone",
+            "number": 16,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Joe Fay",
+            "alias": "",
+            "position": "272",
+            "notes": "!tokenshape\n!tokentag Drone SOC"
+        },
+        {
+            "card_name": "Horror",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Horror",
+            "number": 7,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Deathtouch",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Katie Beardmore",
+            "alias": "",
+            "position": "273",
+            "notes": "!tokenshape\n!tokentag Horror SOC"
+        },
+        {
+            "card_name": "Dog",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Dog",
+            "number": 9,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "Haste",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Christopher Hippert",
+            "alias": "",
+            "position": "274",
+            "notes": "!tokenshape\n!tokentag Dog SOC"
         },
         {
             "card_name": "Mikandros",
             "color": "R",
             "rarity": "common",
-            "type": "Legendary Creature \u2014 Dragon",
-            "number": 8,
+            "type": "Token Legendary Creature \u2014 Dragon",
+            "number": 11,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Flying",
@@ -5414,11 +5534,31 @@
             "shape": "token",
             "set": "SOC",
             "loyalty": "",
-            "artist": "Grafit Studio",
+            "artist": "Zhelong Xu",
             "alias": "",
-            "position": "269",
-            "notes": ""
+            "position": "275",
+            "notes": "!tokenshape\n!tokentag Mikandros SOC"
+        },
+        {
+            "card_name": "Cohen, Archvillain Emblem",
+            "color": "B",
+            "rarity": "common",
+            "type": "Emblem",
+            "number": 6,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Whenever a creature dies, target opponent loses 1 life and you gain 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "SOC",
+            "loyalty": "",
+            "artist": "Joe Fay",
+            "alias": "",
+            "position": "276",
+            "notes": "!tokenshape\n!tokentag Cohen Archvillain Emblem SOC"
         }
     ],
-    "version": 3
+    "version": 5
 }

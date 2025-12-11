@@ -1,9 +1,9 @@
 ﻿{
     "name": "Leffway is Made",
-    "formats": "standard",
+    "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -73,7 +73,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 266,
+            "number": 268,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -113,7 +113,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 257,
+            "number": 259,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -133,10 +133,10 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 265,
+            "number": 264,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}: Add {R}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -153,10 +153,10 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 264,
+            "number": 265,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}: Add {R}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -173,10 +173,10 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 263,
+            "number": 266,
             "color_identity": "R",
             "cost": "",
-            "rules_text": "{T}: Add {R}",
+            "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -193,7 +193,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 255,
+            "number": 256,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -213,7 +213,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 256,
+            "number": 257,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -233,7 +233,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 254,
+            "number": 255,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -253,7 +253,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 253,
+            "number": 254,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -273,7 +273,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 261,
+            "number": 262,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -293,7 +293,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 260,
+            "number": 261,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -313,7 +313,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 259,
+            "number": 260,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -333,7 +333,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 262,
+            "number": 263,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -356,7 +356,7 @@
             "number": 4,
             "color_identity": "B",
             "cost": "",
-            "rules_text": "Flying, Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]",
+            "rules_text": "Flying, decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -366,7 +366,7 @@
             "artist": "Julian Bauer on Artstation",
             "alias": "",
             "position": "17",
-            "notes": "https://www.artstation.com/artwork/yvOz8"
+            "notes": "https://www.artstation.com/artwork/yvOz8\n\n!tokentag Bird LEF"
         },
         {
             "card_name": "Servo",
@@ -386,14 +386,14 @@
             "artist": "Xabi Gazte",
             "alias": "",
             "position": "18",
-            "notes": "https://xabigaztelua.com/projects/Po6331"
+            "notes": "https://xabigaztelua.com/projects/Po6331\n\n!tokentag Servo LEF"
         },
         {
             "card_name": "Shell",
             "color": "WU",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Shell",
-            "number": 3,
+            "number": 2,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "Defender",
@@ -403,17 +403,17 @@
             "shape": "token",
             "set": "LEF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yuuki Morita",
             "alias": "",
             "position": "19",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/Yd9wP\n\n!tokentag Shell LEF"
         },
         {
-            "card_name": "Human Soldier",
+            "card_name": "Soldier",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
-            "number": 2,
+            "number": 3,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -423,16 +423,16 @@
             "shape": "token",
             "set": "LEF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Rob-Joseph",
             "alias": "",
             "position": "20",
-            "notes": ""
+            "notes": "https://www.deviantart.com/rob-joseph/art/Soldier-522348658\n\n!tokentag Soldier LEF"
         },
         {
-            "card_name": "Soltari Wizard",
+            "card_name": "Soltari Samurai",
             "color": "R",
             "rarity": "common",
-            "type": "Token Creature \u2014 Soltari Wizard",
+            "type": "Token Creature \u2014 Soltari Samurai",
             "number": 5,
             "color_identity": "R",
             "cost": "",
@@ -443,10 +443,10 @@
             "shape": "token",
             "set": "LEF",
             "loyalty": "",
-            "artist": "GtheDoubleGee on Artstation",
+            "artist": "Rotaken",
             "alias": "",
             "position": "21",
-            "notes": "https://www.artstation.com/artwork/b5aZnv"
+            "notes": "https://www.artstation.com/artwork/b5aZnv\n\n!tokentag Soltari Samurai LEF"
         },
         {
             "card_name": "Thopter",
@@ -466,14 +466,14 @@
             "artist": "Xabi Gazte",
             "alias": "",
             "position": "22",
-            "notes": "https://xabigaztelua.com/projects/Po6331"
+            "notes": "https://xabigaztelua.com/projects/Po6331\n\n!tokentag Thopter LEF"
         },
         {
             "card_name": "Forgetmenot Glade",
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 247,
+            "number": 248,
             "color_identity": "WUG",
             "cost": "",
             "rules_text": "This land enters tapped unless you've cast an instant or sorcery spell this turn.\n{T}: Add {G}, {W}, or {U}.",
@@ -493,7 +493,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 245,
+            "number": 246,
             "color_identity": "WUB",
             "cost": "",
             "rules_text": "This land enters tapped unless you've cast an instant or sorcery spell this turn.\n{T}: Add {W}, {U}, or {B}.",
@@ -513,7 +513,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 252,
+            "number": 253,
             "color_identity": "UBR",
             "cost": "",
             "rules_text": "This land enters tapped unless you've cast an instant or sorcery spell this turn.\n{T}: Add {U}, {B}, or {R}.",
@@ -533,7 +533,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 249,
+            "number": 250,
             "color_identity": "BRG",
             "cost": "",
             "rules_text": "This land enters tapped unless you've cast an instant or sorcery spell this turn.\n{T}: Add {B}, {R}, or {G}.",
@@ -553,7 +553,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 248,
+            "number": 249,
             "color_identity": "WRG",
             "cost": "",
             "rules_text": "This land enters tapped unless you've cast an instant or sorcery spell this turn.\n{T}: Add {R}, {G}, or {W}.",
@@ -573,7 +573,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Faerie Vampire",
-            "number": 241,
+            "number": 242,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Flying\n{2}: Add two mana in any combination of colors. Only spend this mana to cast instant or sorcery spells.",
@@ -797,7 +797,7 @@
             "color_identity": "B",
             "cost": "{4}{B}{B}",
             "rules_text": "Up to one target creature gets +1/+0 and gains indestructible until end of turn.\nElicit instant {1}{B} [i](You may cast this as an instant instead of as an instant creature for {1}{B}, putting it into the graveyard as it resolves.)[/i]",
-            "flavor_text": "[i]ft\nft\nft[/i]",
+            "flavor_text": "[i]Lesser demons are always on the prowl for power to consume.[/i]",
             "pt": "6/4",
             "special_text": "",
             "shape": "normal",
@@ -866,7 +866,7 @@
             "artist": "Aina Theede on Artstation",
             "alias": "",
             "position": "42",
-            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/2qLdvv"
+            "notes": "!tag removal-creature\n\nhttps://www.artstation.com/artwork/2qLdvv\n\n!related Bird LEF"
         },
         {
             "card_name": "Chain Drain",
@@ -1016,7 +1016,7 @@
             "number": 208,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "As long as you control an anomaly, this creature gets +1/+1 and has trample. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "As long as you control an anomaly, this creature gets +1/+1 and has trample. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1026,7 +1026,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "50",
-            "notes": "https://www.artstation.com/artwork/xJ5L1r\n"
+            "notes": "https://www.artstation.com/artwork/xJ5L1r\n\n\n\nflag\n"
         },
         {
             "card_name": "Muscle Mystic",
@@ -1056,7 +1056,7 @@
             "number": 205,
             "color_identity": "RG",
             "cost": "{4}{G}",
-            "rules_text": "You gain 1 life for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i]\nElicit \u200fcreature {2}{RG} [i](You may cast this as a creature instead of as a sorcery creature for {2}{RG}, it resolves without the above effects.)[/i]\nTrample",
+            "rules_text": "You gain 1 life for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]\nElicit \u200fcreature {2}{RG} [i](You may cast this as a creature instead of as a sorcery creature for {2}{RG}, it resolves without the above effects.)[/i]\nTrample",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1066,7 +1066,7 @@
             "artist": "Sickbrush on Deviantart",
             "alias": "",
             "position": "52",
-            "notes": "!tag anomaly\n\nhttps://www.deviantart.com/sickbrush/art/Elara-Boar-Guardian-392388387"
+            "notes": "!tag anomaly\n\nhttps://www.deviantart.com/sickbrush/art/Elara-Boar-Guardian-392388387\n\n\nflag (Anomaly vs heroic)"
         },
         {
             "card_name": "Canopy Ambusher",
@@ -1106,7 +1106,7 @@
             "artist": "Ilya Popov on Artstation",
             "alias": "",
             "position": "54",
-            "notes": "https://www.artstation.com/artwork/0nb4Kw\n"
+            "notes": "https://www.artstation.com/artwork/0nb4Kw\n\n\n\n\nflag (Add anomaly matters)\n"
         },
         {
             "card_name": "Granky Mystic",
@@ -1196,7 +1196,7 @@
             "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "This spell costs {2} less to cast if it targets an anomaly. [i](A card with multiple card types is an anomaly.)[/i]\nTarget creature you control deals damage equal to its power to target creature an opponent controls.",
+            "rules_text": "This spell costs {2} less to cast if it targets an anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]\nTarget creature you control deals damage equal to its power to target creature an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1236,7 +1236,7 @@
             "number": 196,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Look at the top four cards of your library. You may reveal an anomaly or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "Look at the top four cards of your library. You may reveal an anomaly or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1376,7 +1376,7 @@
             "number": 159,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Add {R}{R}{R}{R}. Until end of turn, you don't lose this mana as steps and phases end.\nElicit \u200fcreature {1}{R} [i](You may cast this as a creature instead of as a sorcery creature for {1}{R}, it resolves without the above effects.)[/i]",
+            "rules_text": "Add {R}{R}{R}{R}. Only spend this mana on casting spells.\nElicit \u200fcreature {1}{R} [i](You may cast this as a creature instead of as a sorcery creature for {1}{R}, it resolves without the above effects.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1396,7 +1396,7 @@
             "number": 127,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "This creature gets +3/+0 and can't block as long as you control two more anomalies. [i](Cards with multiple card types are anomalies.)[/i]",
+            "rules_text": "This creature gets +3/+0 and can't block as long as you control two more anomalies. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][Flavor text][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1516,7 +1516,7 @@
             "number": 149,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Whenever you attack, target creature you control gets +1/+0 until end of turn for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "Whenever you attack, target creature you control gets +1/+0 until end of turn for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][Flavor text]\n[Flavor text][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -1586,7 +1586,7 @@
             "artist": "Kyle Pearson on Artstation",
             "alias": "",
             "position": "78",
-            "notes": "https://www.artstation.com/artwork/ELJdNv"
+            "notes": "https://www.artstation.com/artwork/ELJdNv\n\n!related Bird LEF"
         },
         {
             "card_name": "Wideflame",
@@ -1836,7 +1836,7 @@
             "number": 62,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Whenever you cast your first spell during each opponent's turn, draw a card, then discard a card.\nWhenever an anomaly you control enters, this creature can't be blocked until end of turn. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "Whenever you cast your first spell during each opponent's turn, draw a card, then discard a card.\nWhenever an anomaly you control enters, this creature can't be blocked until end of turn. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1856,7 +1856,7 @@
             "number": 77,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Flying\nThis creature gets +2/+0 and has hexproof as long as you've discarded a card this turn.",
+            "rules_text": "Flying\nThis creature gets +2/+0 and has hexproof as long as you've discarded a card or sacrificed a creature this turn.",
             "flavor_text": "[i][Flavor text]\n[Flavor text][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1906,7 +1906,7 @@
             "artist": "Cau\u00ea Piloto",
             "alias": "",
             "position": "94",
-            "notes": "!tag anomaly\n\nhttps://twitter.com/StendhalNara/status/1462503250209427457/photo/3"
+            "notes": "!tag anomaly\n\nhttps://twitter.com/StendhalNara/status/1462503250209427457/photo/3\n\n\nflag"
         },
         {
             "card_name": "Recall Without Knowing",
@@ -1986,7 +1986,7 @@
             "artist": "KamikiriRIP on twitter",
             "alias": "",
             "position": "98",
-            "notes": "!tag counterspell\n\nhttps://x.com/KamikiriRIP/status/1791482226255044658/photo/1"
+            "notes": "!tag counterspell\n\nhttps://x.com/KamikiriRIP/status/1791482226255044658/photo/1\n\n!related Bird LEF"
         },
         {
             "card_name": "Drawl",
@@ -2086,7 +2086,7 @@
             "artist": "KamikiriRIP on twitter",
             "alias": "",
             "position": "103",
-            "notes": "!tag anomaly\n\nhttps://x.com/KamikiriRIP/status/1884585969120334220/photo/4"
+            "notes": "!tag anomaly\n\nhttps://x.com/KamikiriRIP/status/1884585969120334220/photo/4\n\n!related Bird LEF"
         },
         {
             "card_name": "Unrelenting Soltari",
@@ -2135,10 +2135,10 @@
             "type": "Creature \u2014 Human Shaman",
             "number": 30,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "As long as you control an anomaly, this creature has flying. [i](A card with multiple card types is an anomaly.)[/i]",
+            "cost": "{W}",
+            "rules_text": "As long as you control three or more anomalies, this creature gets +1/+0 and has flying. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "LEF",
@@ -2156,7 +2156,7 @@
             "number": 13,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever this creature dies, create a 1/1 white Human Soldier creature token.\nWhenever this creature is sacrificed, create a 1/1 white Human Soldier creature token.",
+            "rules_text": "Whenever this creature dies, create a 1/1 white Soldier creature token.\nWhenever this creature is sacrificed, create a 1/1 white Soldier creature token.",
             "flavor_text": "[i]An army to a conflict that is yet to exist.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2166,7 +2166,7 @@
             "artist": "P\u00e9ter Kov\u00e1cs on Artstation",
             "alias": "",
             "position": "107",
-            "notes": "https://www.artstation.com/artwork/lxbaDJ"
+            "notes": "https://www.artstation.com/artwork/lxbaDJ\n\n!related Soldier LEF\n!related Solsider LEF<2>"
         },
         {
             "card_name": "Gladesprite",
@@ -2276,7 +2276,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Whenever this creature attacks while you control three or more anomalies, creatures you control get +1/+0 until end of turn. [i](Cards with multiple card types are anomalies.)[/i]",
+            "rules_text": "Whenever this creature attacks while you control three or more anomalies, creatures you control get +1/+0 until end of turn. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2292,11 +2292,11 @@
             "card_name": "Fabric Weaver",
             "color": "W",
             "rarity": "common",
-            "type": "Instant Creature \u2014 Human Cleric",
+            "type": "Sorcery Creature \u2014 Human Cleric",
             "number": 22,
             "color_identity": "WG",
             "cost": "{4}{W}{W}",
-            "rules_text": "Prevent all combat damage that would be dealt by creatures with power 4 or greater this turn.\nElicit instant {1}{GW}{GW} [i](You may cast this as an instant instead of as an instant creature for {1}{GW}{GW}, putting it into the graveyard as it resolves.)[/i]",
+            "rules_text": "Put a +1/+1 counter on each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]\nElicit sorcery {1}{GW}{GW} [i](You may cast this as a sorcery instead of as a sorcery creature for {1}{GW}{GW}, putting it into the graveyard as it resolves.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -2376,7 +2376,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Anomalous creatures you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn. [i](Any card with more than one card type is an anomaly.)[/i]\nBasic landcycling {W}",
+            "rules_text": "Anomalous creatures you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn. [i](Anything with multiple card types is an anomaly.)[/i]\nBasic landcycling {W}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2433,10 +2433,10 @@
             "color": "",
             "rarity": "mythic",
             "type": "Artifact",
-            "number": 242,
+            "number": 243,
             "color_identity": "C",
             "cost": "{6}",
-            "rules_text": "Whenever an anomalous creature you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell. [i](Any card with more than one card type is an anomaly.)[/i]",
+            "rules_text": "Whenever an anomalous creature you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2449,11 +2449,11 @@
             "notes": "https://www.artstation.com/artwork/5XNEnJ"
         },
         {
-            "card_name": "Ingis, Chains of the worldsoul",
+            "card_name": "Ingis, Chains of the Worldsoul",
             "color": "",
             "rarity": "mythic",
             "type": "Legendary Artifact",
-            "number": 239,
+            "number": 240,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "As Ingis enters, each player notes a nonland card type.\nPlayers can't cast spells that don't share a card type named with Ingis.",
@@ -2493,10 +2493,10 @@
             "color": "",
             "rarity": "mythic",
             "type": "Legendary Artifact",
-            "number": 240,
+            "number": 241,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "You may reveal Rix from your opening hand. If you do, add {C}. Spend this mana only to cast anomalous spells. You don't lose this mana as steps and phases end. [i](Any card with more than one card type is an anomaly.)[/i]\n{2}, {T}, Sacrifice Rix: Copy the next anomalous spell you cast this turn.",
+            "rules_text": "You may reveal Rix from your opening hand. If you do, add {C}. Spend this mana only to cast anomalous spells. You don't lose this mana as steps and phases end. [i](Anything with multiple card types is an anomaly.)[/i]\n{2}, {T}, Sacrifice Rix: Copy the next anomalous spell you cast this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2576,7 +2576,7 @@
             "number": 215,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "Flying\nThis creature enters tapped.\nWhenever you cast your first spell on each opponent's turn, create a token that's a copy of this creature.",
+            "rules_text": "Flying\nThis creature enters tapped.\nWhenever you cast your first spell during each opponent's turn, create a token that's a copy of this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2606,7 +2606,7 @@
             "artist": "Marko Jeli\u0107 on Artstation",
             "alias": "",
             "position": "129",
-            "notes": "https://www.artstation.com/artwork/lD9adJ"
+            "notes": "https://www.artstation.com/artwork/lD9adJ\n\n!related Bird LEF"
         },
         {
             "card_name": "All Encompassing Wish",
@@ -2615,9 +2615,9 @@
             "type": "Sorcery",
             "number": 210,
             "color_identity": "BR",
-            "cost": "{3}{B}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard your hand.\nPut each nonland card from your sideboard into your hand.\nCreate two Treasure tokens.",
-            "flavor_text": "[i][/i]",
+            "cost": "{2}{B}{B}{R}{R}",
+            "rules_text": "As an additional cost to cast this spell, discard your hand and pay X life.\nPut X cards from outside the game into your hand.",
+            "flavor_text": "[i]\u201cGive me everything, I need it.\u201d\n\u2014 Unknown[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2676,7 +2676,7 @@
             "number": 233,
             "color_identity": "WUG",
             "cost": "{1}{G}{W}{U}",
-            "rules_text": "Reveal the top five cards of your library. Put the card with the highest mana value from among them into your hand. You may cast another nonland card from among them without paying its mana cost. Put the rest at the bottom of your library in any order.",
+            "rules_text": "Reveal the top five cards of your library. Put the card with the greatest mana value from among them into your hand. You may cast another nonland card from among them without paying its mana cost. Put the rest at the bottom of your library in any order.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2836,7 +2836,7 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy all nonland non-anomalous permanents.\n\u2022 Destroy all anomalies. [i](Cards with multiple card types are anomalies.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy all nonland non-anomalous permanents.\n\u2022 Destroy all anomalies. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2956,7 +2956,7 @@
             "number": 120,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Whenever this creature dies, create a 1/1 red Wizard creature token with \u201c[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d\nWhenever this creature is sacrificed to cast a spell, copy that spell. You may choose new targets for the copy.",
+            "rules_text": "Whenever this creature dies, create a 1/1 red Soltari Samurai creature token with \u201c[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d\nWhenever this creature is sacrificed to cast a spell, copy that spell. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2966,7 +2966,7 @@
             "artist": "Vlad Marica",
             "alias": "",
             "position": "147",
-            "notes": "!anomaly\n\nhttps://www.artstation.com/artwork/V11Z"
+            "notes": "!anomaly\n!related Soltari Samurai LEF\n\nhttps://www.artstation.com/artwork/V11Z"
         },
         {
             "card_name": "Cthonitaur",
@@ -3116,7 +3116,7 @@
             "number": 180,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Vigilance, trample, reach\nThis creature gets +2/+1, for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "Vigilance, trample, reach\nThis creature gets +2/+1, for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][Flavor text]\n[Flavor text][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3269,26 +3269,6 @@
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/B1NY5r"
         },
         {
-            "card_name": "Augur of Soul",
-            "color": "WUG",
-            "rarity": "rare",
-            "type": "Enchantment Creature \u2014 Spirit",
-            "number": 212,
-            "color_identity": "WUG",
-            "cost": "{G}{W}{U}",
-            "rules_text": "Whenever you cast a spell with mana value 3 or greater, you gain 3 life.\nWhenever you cast a spell with mana value 5 or greater, create a 5/5 green Beast enchantment creature token.\nWhenever you cast a spell with mana value 7 or more, untap all permanents you control.",
-            "flavor_text": "[i][/i]",
-            "pt": "4/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "LEF",
-            "loyalty": "",
-            "artist": "\u2726 Monztre \u2726 on Artstation",
-            "alias": "",
-            "position": "163",
-            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/mDO1z1"
-        },
-        {
             "card_name": "Spritethrombosix",
             "color": "WUB",
             "rarity": "rare",
@@ -3305,7 +3285,7 @@
             "loyalty": "",
             "artist": "@KamikiriRIP on Twitter",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": "!tag anomaly\n!tag card-advantage\n\nhttps://x.com/KamikiriRIP/status/1834250022466060638/photo/1\n"
         },
         {
@@ -3325,7 +3305,7 @@
             "loyalty": "",
             "artist": "Jason Nguyen on Artstation",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": "!tag damage-player\n\nhttps://www.artstation.com/artwork/lLDxa"
         },
         {
@@ -3345,7 +3325,7 @@
             "loyalty": "",
             "artist": "Peter Polach on Artstation",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "notes": "!tag regrowth\n\nhttps://www.artstation.com/artwork/RYEZnA"
         },
         {
@@ -3356,7 +3336,7 @@
             "number": 235,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "Reveal the top 5 cards of your library. You may put each instant, land, or anomalous card revealed this way into your hand. Put the rest at the bottom of your library in a random order. [i](Any card with more than one card type is an anomaly.)[/i]",
+            "rules_text": "Reveal the top 6 cards of your library. You may put each instant, land, or anomalous card revealed this way into your hand. Put the rest at the bottom of your library in a random order. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3365,7 +3345,7 @@
             "loyalty": "",
             "artist": "@SerenaMalyon on Twitter",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "notes": "!tag card-advantage\n\nhttps://twitter.com/SerenaMalyon/status/1477331562442022912/photo/1"
         },
         {
@@ -3385,7 +3365,7 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "notes": "!tag edict-artifact\n\nhttps://www.artstation.com/artwork/8eQvan"
         },
         {
@@ -3405,7 +3385,7 @@
             "loyalty": "",
             "artist": "Travis Anderson on Artstation",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": "!tag time-walk\n\nhttps://www.artstation.com/artwork/9mGXro"
         },
         {
@@ -3425,7 +3405,7 @@
             "loyalty": "",
             "artist": "Vlad Marica on Artstation",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/B2em"
         },
         {
@@ -3445,7 +3425,7 @@
             "loyalty": "",
             "artist": "Waynebarlow_Thedarkness on instagram",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": "!tag card-advantage\n\nhttps://www.instagram.com/p/CCEJVAljtEO/\n"
         },
         {
@@ -3465,7 +3445,7 @@
             "loyalty": "",
             "artist": "Tomas Duchek on Artstation",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "notes": "https://www.artstation.com/artwork/o2QeNk"
         },
         {
@@ -3485,7 +3465,7 @@
             "loyalty": "",
             "artist": "Eva Kedves on Artstation",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "notes": "!tag damage-creature\n!tag damage-any\n\nhttps://www.artstation.com/artwork/A9oXro"
         },
         {
@@ -3505,7 +3485,7 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": "https://twitter.com/OlegBulakh_Art/status/1743290830830322055/photo/1"
         },
         {
@@ -3525,7 +3505,7 @@
             "loyalty": "",
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "notes": "!tag anomaly\n!tag wheel\n\nhttps://www.deviantart.com/crazyasian1/art/Shikigami-Wanyudo-Ronin-Illustration-862907020"
         },
         {
@@ -3545,7 +3525,7 @@
             "loyalty": "",
             "artist": "Omuk on Deviantart",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "notes": "https://www.deviantart.com/omuk/art/Teachings-Of-Iuun-426724086"
         },
         {
@@ -3565,7 +3545,7 @@
             "loyalty": "",
             "artist": "Benjamin goutte on Artstation",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "notes": "https://www.artstation.com/artwork/343Gg"
         },
         {
@@ -3585,7 +3565,7 @@
             "loyalty": "",
             "artist": "Fran Fdez on Artstation",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/VgyxZN"
         },
         {
@@ -3605,7 +3585,7 @@
             "loyalty": "",
             "artist": "@artrhinoo on Twitter",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "notes": "!tag bounce-spell\n!tag tuck"
         },
         {
@@ -3625,7 +3605,7 @@
             "loyalty": "",
             "artist": "Ernesto Carrasquillo V\u00e9lez on Artstation",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "!tag banish\n\nhttps://www.artstation.com/artwork/xJkGLr"
         },
         {
@@ -3636,7 +3616,7 @@
             "number": 65,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Enchant creature\nWhen this aura enters, tap enchanted creature. \nEnchanted creature doesn't untap during its controllers untap step.\nAt the beginning of combat on your turn, if you've cast three or more noncreature spells this turn, you may return this Aura from your graveyard to the battlefield.",
+            "rules_text": "Enchant creature\nWhen this aura enters, tap enchanted creature. \nEnchanted creature doesn't untap during its controllers untap step.\nAt the beginning of combat on your turn, if you've cast two or more noncreature spells this turn, you may return this Aura from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3645,7 +3625,7 @@
             "loyalty": "",
             "artist": "Polina Kirillova on Artstation",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "!tag regrowth-self\n\nhttps://www.artstation.com/artwork/KndvG"
         },
         {
@@ -3665,7 +3645,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": "!tag cantrip\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/6alAbw"
         },
         {
@@ -3685,7 +3665,7 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "!tag time-walk\n\nhttps://www.artstation.com/artwork/bldYkr"
         },
         {
@@ -3696,7 +3676,7 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Players can't spend more than X mana on casting a noncreature spell, where X is the highest mana value among permanents you control.",
+            "rules_text": "Players can't spend more than X mana on casting a noncreature spell, where X is the greatest mana value among permanents you control.",
             "flavor_text": "[i]\u201cLavez represents existence. We must preserve it\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3705,7 +3685,7 @@
             "loyalty": "",
             "artist": "Joshua Esmeralda on Artstation",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": "https://www.artstation.com/artwork/484g5k"
         },
         {
@@ -3716,7 +3696,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Flying\nOther anomalies you control have lifelink. [i](Cards with multiple card types are anomalies.)[/i]\nInstant and sorcery spells you cast have lifelink.",
+            "rules_text": "Flying\nOther anomalies you control have lifelink. [i](Anything with multiple card types is an anomaly.)[/i]\nInstant and sorcery spells you cast have lifelink.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -3725,7 +3705,7 @@
             "loyalty": "",
             "artist": "Raul Bottero on Artstation",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/nQByx1"
         },
         {
@@ -3745,7 +3725,7 @@
             "loyalty": "",
             "artist": "gugu-troll on Deviantart",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": "!tag damage-creature\n\nhttps://www.deviantart.com/gugu-troll/art/Young-Koschei-704056556"
         },
         {
@@ -3756,8 +3736,8 @@
             "number": 41,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flying\n{2}{W}: Exile target creature. Its owner may cast it without paying its mana cost.",
-            "flavor_text": "[i][Flavor text]\n[Flavor text]\n[Flavor text]\n[Flavor text][/i]",
+            "rules_text": "Flying\n{2}{W}{W}: Exile another target creature. Its owner may cast it without paying its mana cost.",
+            "flavor_text": "[i][Flavor text]\n[Flavor text]\n[Flavor text][/i]",
             "pt": "2/3",
             "special_text": "",
             "shape": "normal",
@@ -3765,7 +3745,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": "!tag banish\n\nhttps://www.artstation.com/artwork/Oyqd2g"
         },
         {
@@ -3776,7 +3756,7 @@
             "number": 40,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying\n[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, creatures you control get +0/+2 until end of turn.",
+            "rules_text": "Flying\n[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, double the toughness of each creature you control until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3785,8 +3765,8 @@
             "loyalty": "",
             "artist": "Gunship Revolution \u00a9 Bushiroad International",
             "alias": "",
-            "position": "188",
-            "notes": "https://www.artstation.com/artwork/WEYKv"
+            "position": "187",
+            "notes": "https://www.artstation.com/artwork/WEYKv\n\nOG_1: Gave +0/+2 until end of turn.\n\n\nPotential alt: Double the toughness of each creature you control until end of turn."
         },
         {
             "card_name": "Decrown",
@@ -3805,7 +3785,7 @@
             "loyalty": "",
             "artist": "Brucebrenneise on Instagram",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": "!tag removal-creature\n!tag wrath\n\nhttps://www.instagram.com/p/COWBrtkDftw/"
         },
         {
@@ -3825,7 +3805,7 @@
             "loyalty": "",
             "artist": "Travis Anderson on Artstation",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": "!tag regrowth-any\n\nhttps://www.artstation.com/artwork/YyE3X"
         },
         {
@@ -3845,7 +3825,7 @@
             "loyalty": "",
             "artist": "Robbie Trevino on Artstation",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/lxNbPJ"
         },
         {
@@ -3865,7 +3845,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen on Artstation",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": "https://www.artstation.com/artwork/ELbNk8"
         },
         {
@@ -3885,7 +3865,7 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "notes": "!tag regrowth-self\n\nhttps://x.com/KamikiriRIP/status/1771132193378861318/photo/2"
         },
         {
@@ -3905,7 +3885,7 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": "!tag hand-disruption-untargetted\n!tag regrowth-creature\n\nhttps://www.artstation.com/artwork/d00L13"
         },
         {
@@ -3925,7 +3905,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen on Artstation",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": "!tag cantrip\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/k4DA4d"
         },
         {
@@ -3945,7 +3925,7 @@
             "loyalty": "",
             "artist": "Timi honkanen on Artstation",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/Vgklmg"
         },
         {
@@ -3956,7 +3936,7 @@
             "number": 99,
             "color_identity": "WUB",
             "cost": "{2}{B}",
-            "rules_text": "Whenever you sacrifice a permanent as a cost to cast a spell, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.\n{2}{WU}, {T}: Create a White and Blue 0/2 Shell artifact creature token with defender.",
+            "rules_text": "Whenever you sacrifice a permanent as a cost to cast a spell, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.\n{2}{WU}, {T}: Create a white and blue 0/2 Shell artifact creature token with defender.",
             "flavor_text": "[i][Flavor text][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3965,28 +3945,8 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
-            "position": "197",
-            "notes": "https://x.com/KamikiriRIP/status/1710283376261800203/photo/1"
-        },
-        {
-            "card_name": "Hunting Saakstalker",
-            "color": "B",
-            "rarity": "uncommon",
-            "type": "Sorcery Creature \u2014 Demon",
-            "number": 104,
-            "color_identity": "B",
-            "cost": "{5}{B}",
-            "rules_text": "Each opponent loses life equal to the highest mana value among permanents you control.\nElicit sorcery {2}{B} [i](You may cast this as a sorcery instead of as a sorcery creature for {2}{B}, putting it into the graveyard as it resolves.)[/i]\nMenace",
-            "flavor_text": "[i][/i]",
-            "pt": "4/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "LEF",
-            "loyalty": "",
-            "artist": "Ilya Popov on Artstation",
-            "alias": "",
-            "position": "198",
-            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/zDJlr2"
+            "position": "196",
+            "notes": "https://x.com/KamikiriRIP/status/1710283376261800203/photo/1\n\n!related Shell LEF"
         },
         {
             "card_name": "Brainseize",
@@ -4005,7 +3965,7 @@
             "loyalty": "",
             "artist": "Harvey Bunda on Artstation",
             "alias": "",
-            "position": "199",
+            "position": "197",
             "notes": "!tag hand-disruption-targetted\n\nhttps://www.artstation.com/artwork/or4bz"
         },
         {
@@ -4025,7 +3985,7 @@
             "loyalty": "",
             "artist": "Sean Mundy",
             "alias": "",
-            "position": "200",
+            "position": "198",
             "notes": "!tag reanimate-creature"
         },
         {
@@ -4045,7 +4005,7 @@
             "loyalty": "",
             "artist": "KateMaxpaint",
             "alias": "",
-            "position": "201",
+            "position": "199",
             "notes": "!tag cantrip\n!tag card-advantage\n\nhttps://www.deviantart.com/katemaxpaint/art/Dark-witch-260604798"
         },
         {
@@ -4065,7 +4025,7 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
-            "position": "202",
+            "position": "200",
             "notes": "!tag wrath\n\nhttps://www.artstation.com/artwork/d00L13"
         },
         {
@@ -4085,7 +4045,7 @@
             "loyalty": "",
             "artist": "Dirk Waschmuth on Artstation",
             "alias": "",
-            "position": "203",
+            "position": "201",
             "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/wOKYV"
         },
         {
@@ -4105,8 +4065,8 @@
             "loyalty": "",
             "artist": "KamikiriRip on twitter",
             "alias": "",
-            "position": "204",
-            "notes": "!tag edict-creature\n\nhttps://x.com/KamikiriRIP/status/1763873485749911716/photo/1"
+            "position": "202",
+            "notes": "!tag edict-creature\n\nhttps://x.com/KamikiriRIP/status/1763873485749911716/photo/1\n\n\nflag (Replace with big X emerge spell?)"
         },
         {
             "card_name": "Mosswhelk",
@@ -4116,7 +4076,7 @@
             "number": 192,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "This creature's power and toughness is equal to the number of anomalies you control. [i](Cards with multiple card types are anomalies.)[/i]",
+            "rules_text": "This creature's power and toughness is equal to the number of anomalies you control. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][Flavor text][/i]",
             "pt": "*/*",
             "special_text": "",
@@ -4125,7 +4085,7 @@
             "loyalty": "",
             "artist": "Andrew Silke on Artstation",
             "alias": "",
-            "position": "205",
+            "position": "203",
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/egbJ"
         },
         {
@@ -4145,7 +4105,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
-            "position": "206",
+            "position": "204",
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/oAgwaJ"
         },
         {
@@ -4165,7 +4125,7 @@
             "loyalty": "",
             "artist": "Kerim Akyuz",
             "alias": "",
-            "position": "207",
+            "position": "205",
             "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/wOErO"
         },
         {
@@ -4185,7 +4145,7 @@
             "loyalty": "",
             "artist": "Bear Ghost \u2014 Blasterpiece",
             "alias": "",
-            "position": "208",
+            "position": "206",
             "notes": "https://www.bearghost.com/blasterpiece-vinyl-panel/"
         },
         {
@@ -4205,7 +4165,7 @@
             "loyalty": "",
             "artist": "Guillermo Mart\u00ednez on Artstation",
             "alias": "",
-            "position": "209",
+            "position": "207",
             "notes": "https://www.artstation.com/artwork/48Z1kW"
         },
         {
@@ -4216,7 +4176,7 @@
             "number": 188,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "This spell costs {2} less to cast if you control an anomaly. [i](A card with multiple card types is an anomaly.)[/i]\nVigilance, trample\nThis creature gets +1/+0 for each anomaly you control.",
+            "rules_text": "This spell costs {2} less to cast if you control an anomaly. [i](Anything with multiple card types is an anomaly.)[/i]\nVigilance, trample\nThis creature gets +1/+0 for each anomaly you control.",
             "flavor_text": "[i][Flavor text][/i]",
             "pt": "3/6",
             "special_text": "",
@@ -4225,7 +4185,7 @@
             "loyalty": "",
             "artist": "Sickbrush on Deviantart",
             "alias": "",
-            "position": "210",
+            "position": "208",
             "notes": "https://www.deviantart.com/sickbrush/art/Elara-Deer-guardian-392888237"
         },
         {
@@ -4245,7 +4205,7 @@
             "loyalty": "",
             "artist": "Jose Ochoa on Artstation",
             "alias": "",
-            "position": "211",
+            "position": "209",
             "notes": "!tag anomaly\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/PmedgB"
         },
         {
@@ -4265,7 +4225,7 @@
             "loyalty": "",
             "artist": "Chris Cold on Artstation",
             "alias": "",
-            "position": "212",
+            "position": "210",
             "notes": "https://www.artstation.com/artwork/JQblD"
         },
         {
@@ -4285,7 +4245,7 @@
             "loyalty": "",
             "artist": "Bruce Brenneise on Artstation",
             "alias": "",
-            "position": "213",
+            "position": "211",
             "notes": "!tag damage-creature\n!tag cantrip\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/EVdXe2"
         },
         {
@@ -4305,7 +4265,7 @@
             "loyalty": "",
             "artist": "cris-pq",
             "alias": "",
-            "position": "214",
+            "position": "212",
             "notes": "!tag card-advantage\n\nhttps://www.deviantart.com/cris-pq/art/Golem-summon-366439115"
         },
         {
@@ -4325,7 +4285,7 @@
             "loyalty": "",
             "artist": "Guillermo Mart\u00ednez on Artstation",
             "alias": "",
-            "position": "215",
+            "position": "213",
             "notes": "!tag regrowth\n\nhttps://www.artstation.com/artwork/XnZ2Al"
         },
         {
@@ -4345,7 +4305,7 @@
             "loyalty": "",
             "artist": "Septimius Ferdian",
             "alias": "",
-            "position": "216",
+            "position": "214",
             "notes": "https://www.gmbinder.com/share/-MOuVZsX5E-TaFN8b6bJ"
         },
         {
@@ -4356,7 +4316,7 @@
             "number": 199,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "You may search your library for a card named \u201cRevolving Fascination\u201d and reveal it. If you do, put it into your hand, then shuffle.\nPut a +1/+1 counter on target creature you control.",
+            "rules_text": "You may search your library for a card named \u201cRevolving Panic\u201d and reveal it. If you do, put it into your hand, then shuffle.\nPut a +1/+1 counter on target creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4365,8 +4325,8 @@
             "loyalty": "",
             "artist": "Borja Pindado on Artstation",
             "alias": "",
-            "position": "217",
-            "notes": "https://www.artstation.com/artwork/oAyPbw"
+            "position": "215",
+            "notes": "https://www.artstation.com/artwork/oAyPbw\n\n\n\nflag"
         },
         {
             "card_name": "Benevolent Herd",
@@ -4376,8 +4336,8 @@
             "number": 213,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "Flying\nWhenever you cast your first spell on each opponent's turn, you gain 1 life and scry 1.",
-            "flavor_text": "[i][Flavor text][/i]",
+            "rules_text": "Flying\nWhenever you cast your first spell during each opponent's turn, you gain 1 life and scry 1.",
+            "flavor_text": "[i]Some curiosities are best up close.[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -4385,7 +4345,7 @@
             "loyalty": "",
             "artist": "Stas Chervinskiy on Artstation",
             "alias": "",
-            "position": "218",
+            "position": "216",
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/xYyAN1"
         },
         {
@@ -4405,7 +4365,7 @@
             "loyalty": "",
             "artist": "Mauricio Ochoa Botache",
             "alias": "",
-            "position": "219",
+            "position": "217",
             "notes": "!tag removal-creature\n!tag cantrip\n\nhttps://www.artstation.com/artwork/w6V4qY"
         },
         {
@@ -4425,7 +4385,7 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
-            "position": "220",
+            "position": "218",
             "notes": "!tag hand-disruption-untargetted\n!tag card-advantage\n\nhttps://www.artstation.com/artwork/d00L13"
         },
         {
@@ -4445,7 +4405,7 @@
             "loyalty": "",
             "artist": "Jim FitzPatrick",
             "alias": "",
-            "position": "221",
+            "position": "219",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/breas-the-beautiful"
         },
         {
@@ -4456,7 +4416,7 @@
             "number": 222,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "Anomalies you cast cost {2} less to cast. [i](Cards with multiple card types are anomalies.)[/i]\nAs long as you control six or more anomalies, this permanent is a 6/6 Elemental Avatar creature in addition to its other types.",
+            "rules_text": "Anomalies you cast cost {2} less to cast. [i](Anything with multiple card types is an anomaly.)[/i]\nAs long as you control six or more anomalies, this permanent is a 6/6 Elemental Avatar creature in addition to its other types.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4465,7 +4425,7 @@
             "loyalty": "",
             "artist": "janhein on Deviantart",
             "alias": "",
-            "position": "222",
+            "position": "220",
             "notes": "https://www.deviantart.com/janhein/art/Rebirth-in-Fermat-s-Spiral-493056467"
         },
         {
@@ -4476,7 +4436,7 @@
             "number": 225,
             "color_identity": "WUG",
             "cost": "{1}{G}{W}{U}",
-            "rules_text": "Lifelink, lurk {2} [i](Defending player can't block this creature unless they pay {2}.)[/i]\nThis creature's power and toughness are each equal to the highest mana value among permanents you control.",
+            "rules_text": "Lifelink, lurk {2} [i](Defending player can't block this creature unless they pay {2}.)[/i]\nThis creature's power and toughness are each equal to the greatest mana value among permanents you control.",
             "flavor_text": "[i][Flavor text][/i]",
             "pt": "*/*",
             "special_text": "",
@@ -4485,7 +4445,7 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
-            "position": "223",
+            "position": "221",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Samurai-Golem-863541751"
         },
         {
@@ -4505,7 +4465,7 @@
             "loyalty": "",
             "artist": "Julian Bauer on Artstation",
             "alias": "",
-            "position": "224",
+            "position": "222",
             "notes": "!tag tapper\n\nhttps://www.artstation.com/artwork/L34KWv"
         },
         {
@@ -4525,8 +4485,8 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
-            "position": "225",
-            "notes": "https://x.com/KamikiriRIP/status/1801948705467277392/photo/2"
+            "position": "223",
+            "notes": "https://x.com/KamikiriRIP/status/1801948705467277392/photo/2\n\n!related Bird LEF<2>"
         },
         {
             "card_name": "Alarming Alteration",
@@ -4545,7 +4505,7 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
-            "position": "226",
+            "position": "224",
             "notes": "https://x.com/KamikiriRIP/status/1846594592390762758/photo/1"
         },
         {
@@ -4556,7 +4516,7 @@
             "number": 221,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "Creatures you control get +3/+0 as long as you've cast three or more instant or sorcery spells this turn.",
+            "rules_text": "Creatures you control get +3/+0 as long as you've cast three or more spells this turn.",
             "flavor_text": "[i][Flavor text]\n[Flavor text][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4565,7 +4525,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer on Artstation",
             "alias": "",
-            "position": "227",
+            "position": "225",
             "notes": "https://www.artstation.com/artwork/B3Qbvm"
         },
         {
@@ -4585,7 +4545,7 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
-            "position": "228",
+            "position": "226",
             "notes": "!tag anomaly\n!tag damage-any\n\nhttps://www.deviantart.com/cobaltplasma/art/Burning-Mummy-30min-spitpaint-898818471"
         },
         {
@@ -4596,7 +4556,7 @@
             "number": 150,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i]Heroic[/i] \u2014 Whenever you cast a spell that targets this creature, create a 1/1 red Wizard creature token with \u201c[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d",
+            "rules_text": "[i]Heroic[/i] \u2014 Whenever you cast a spell that targets this creature, create a 1/1 red Soltari Samurai creature token with \u201c[i]Magecraft[/i] \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4605,8 +4565,8 @@
             "loyalty": "",
             "artist": "Tomasz Ryger on Artstation",
             "alias": "",
-            "position": "229",
-            "notes": "https://www.artstation.com/artwork/nJZYXr"
+            "position": "227",
+            "notes": "https://www.artstation.com/artwork/nJZYXr\n\n!related Soltari Samurai LEF"
         },
         {
             "card_name": "Firemane Hyena",
@@ -4625,7 +4585,7 @@
             "loyalty": "",
             "artist": "Toby Fox (no, not that one)",
             "alias": "",
-            "position": "230",
+            "position": "228",
             "notes": "https://bsky.app/profile/tobyfoxart.bsky.social/post/3lpqy6qarlk2y"
         },
         {
@@ -4636,7 +4596,7 @@
             "number": 136,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Haste\nOther anomalies you control have haste. [i](Cards with multiple card types are anomalies.)[/i]",
+            "rules_text": "Haste\nOther anomalies you control have haste. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i]It rattles the chains of all the souls around it, coaxing them into action.[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4645,7 +4605,7 @@
             "loyalty": "",
             "artist": "Diana Franco on Artstation",
             "alias": "",
-            "position": "231",
+            "position": "229",
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/2q9Jya"
         },
         {
@@ -4665,8 +4625,8 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
-            "position": "232",
-            "notes": "https://www.deviantart.com/cobaltplasma/art/Cinderhead-543771168"
+            "position": "230",
+            "notes": "https://www.deviantart.com/cobaltplasma/art/Cinderhead-543771168\n\n\nflag"
         },
         {
             "card_name": "Heroic Spearmagus",
@@ -4685,28 +4645,8 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
-            "position": "233",
+            "position": "231",
             "notes": "!tag damage-player\n\nhttps://www.artstation.com/artwork/X1Kd0y"
-        },
-        {
-            "card_name": "Kleefoff, Essence Looter",
-            "color": "R",
-            "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Minotaur Shaman",
-            "number": 152,
-            "color_identity": "UBR",
-            "cost": "{3}{R}",
-            "rules_text": "[i]Whiz[/i] \u2014 Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn costs {1} less to cast.\n{1}{UB}: Draw a card, then discard a card. Kleefoff gains flying until end of turn.",
-            "flavor_text": "[i][Flavor text][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "LEF",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "234",
-            "notes": "https://www.deviantart.com/gugu-troll/art/Hiding-in-the-ice-190954908"
         },
         {
             "card_name": "Bloodflare",
@@ -4725,7 +4665,7 @@
             "loyalty": "",
             "artist": "ChaoyuanXu",
             "alias": "",
-            "position": "235",
+            "position": "232",
             "notes": "!tag damage-creature\n\nhttps://www.deviantart.com/chaoyuanxu/art/The-Monkey-King-and-the-Phoenix-Flame-581796969"
         },
         {
@@ -4745,7 +4685,7 @@
             "loyalty": "",
             "artist": "@Anontloudeac on Twitter",
             "alias": "",
-            "position": "236",
+            "position": "233",
             "notes": "https://x.com/Anontloudeac/status/1446100651327492101/photo/4"
         },
         {
@@ -4756,7 +4696,7 @@
             "number": 164,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Create a Treasure token for each anomaly you control. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "Create a Treasure token for each anomaly you control. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][Flavor text]\n[Flavor text]\n[Flavor text][/i]",
             "pt": "",
             "special_text": "",
@@ -4765,7 +4705,7 @@
             "loyalty": "",
             "artist": "Ean Koh",
             "alias": "",
-            "position": "237",
+            "position": "234",
             "notes": "https://www.artstation.com/artwork/v1ydvE"
         },
         {
@@ -4785,7 +4725,7 @@
             "loyalty": "",
             "artist": "Nitrox Marquez",
             "alias": "",
-            "position": "238",
+            "position": "235",
             "notes": "!tag damage-creature\n!tag damage-any\n\nhttps://www.artstation.com/artwork/68PZ30"
         },
         {
@@ -4805,7 +4745,7 @@
             "loyalty": "",
             "artist": "Evan Surya Nugraha on Artstation",
             "alias": "",
-            "position": "239",
+            "position": "236",
             "notes": "https://www.artstation.com/artwork/VJ1n4"
         },
         {
@@ -4825,8 +4765,8 @@
             "loyalty": "",
             "artist": "Marta Dettlaff on Artstation",
             "alias": "",
-            "position": "240",
-            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/8Glow"
+            "position": "237",
+            "notes": "!tag cantrip\n\nhttps://www.artstation.com/artwork/8Glow\n\n\nflag"
         },
         {
             "card_name": "Ravencaller",
@@ -4836,7 +4776,7 @@
             "number": 68,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Flying\n{1}{U}, {T}, Sacrifice this creature: Create a number of 1/1 black Bird creature tokens with flying and decayed equal to the highest mana value among permanents you control.",
+            "rules_text": "Flying\n{1}{U}, {T}, Sacrifice this creature: Create a number of 1/1 black Bird creature tokens with flying and decayed equal to the greatest mana value among permanents you control.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4845,8 +4785,8 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m on Artstation",
             "alias": "",
-            "position": "241",
-            "notes": "https://www.artstation.com/artwork/oO93B"
+            "position": "238",
+            "notes": "https://www.artstation.com/artwork/oO93B\n\n!related Bird LEF"
         },
         {
             "card_name": "Spellatog",
@@ -4865,7 +4805,7 @@
             "loyalty": "",
             "artist": "@dynasoar5 on Twitter",
             "alias": "",
-            "position": "242",
+            "position": "239",
             "notes": "https://twitter.com/dynasoar5/status/1455214951279337482/photo/1"
         },
         {
@@ -4885,7 +4825,7 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
-            "position": "243",
+            "position": "240",
             "notes": "!tag anomaly\n!tag reanimate-instant\n!tag reanimate-sorcery\n\nhttps://x.com/KamikiriRIP/status/1755174472230023525/photo/1"
         },
         {
@@ -4905,28 +4845,8 @@
             "loyalty": "",
             "artist": "Jeszika Le Vye on Artstation/www.Jeszika.com",
             "alias": "",
-            "position": "244",
+            "position": "241",
             "notes": "https://www.artstation.com/artwork/RYlgJr'"
-        },
-        {
-            "card_name": "Kefus, the Scribe",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Elemental Soldier",
-            "number": 60,
-            "color_identity": "WUG",
-            "cost": "{3}{U}",
-            "rules_text": "Whenever you cast an instant or sorcery spell with mana value 4 or greater, draw a card.\n{1}{GW}: Prevent all damage that would be dealt this turn to target anomaly you control. [i](A card with multiple card types is an anomaly.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "normal",
-            "set": "LEF",
-            "loyalty": "",
-            "artist": "Tomas Duchek on Artstation",
-            "alias": "",
-            "position": "245",
-            "notes": "https://www.artstation.com/artwork/6bZwZn"
         },
         {
             "card_name": "Dragger of Depths",
@@ -4945,7 +4865,7 @@
             "loyalty": "",
             "artist": "@sinsin08051 on Twitter",
             "alias": "",
-            "position": "246",
+            "position": "242",
             "notes": "!tag anomaly\n\nhttps://twitter.com/sinsin08051/status/1533036451277176832/photo/1"
         },
         {
@@ -4965,7 +4885,7 @@
             "loyalty": "",
             "artist": "Cobaltart on Deviantart",
             "alias": "",
-            "position": "247",
+            "position": "243",
             "notes": "!tag card-advantage\n!tag anomaly\n\nhttps://www.deviantart.com/cobaltplasma/art/Storm-Phoenix-753951534"
         },
         {
@@ -4985,7 +4905,7 @@
             "loyalty": "",
             "artist": "TVlooplay on Deviantart",
             "alias": "",
-            "position": "248",
+            "position": "244",
             "notes": "!tag counterspell\n\nhttps://twitter.com/seanmundyphoto/status/1331982601264001026/photo/3\n"
         },
         {
@@ -5005,7 +4925,7 @@
             "loyalty": "",
             "artist": "almeidahelder",
             "alias": "",
-            "position": "249",
+            "position": "245",
             "notes": "!tag counterspell\n\nhttps://www.deviantart.com/almeidahelder/art/Event-picture-Defender-of-ulthuan-united-756553100"
         },
         {
@@ -5025,7 +4945,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "250",
+            "position": "246",
             "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/BmvwDr"
         },
         {
@@ -5045,7 +4965,7 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
-            "position": "251",
+            "position": "247",
             "notes": "!tag regrowth-instant\n!tag regrowth-sorcery\n\nhttps://www.deviantart.com/cobaltplasma/art/Rebirth-II-549354529"
         },
         {
@@ -5065,7 +4985,7 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
-            "position": "252",
+            "position": "248",
             "notes": "!tag removal-creature\n\nhttps://www.deviantart.com/cobaltplasma/art/Hatchling-706706374"
         },
         {
@@ -5085,8 +5005,8 @@
             "loyalty": "",
             "artist": "KamikiriRip on Twitter",
             "alias": "",
-            "position": "253",
-            "notes": "!tag tapper\n\nhttps://x.com/KamikiriRIP/status/1777662698219589904/photo/1"
+            "position": "249",
+            "notes": "!tag tapper\n\nhttps://x.com/KamikiriRIP/status/1777662698219589904/photo/1\n\n\n\nflag"
         },
         {
             "card_name": "Collective Ideals",
@@ -5096,7 +5016,7 @@
             "number": 17,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Each player draws three cards, then puts two cards from their hand on top of their library.\nCreate a 1/1 white Human Soldier creature token.",
+            "rules_text": "Each player draws three cards, then puts two cards from their hand on top of their library.\nCreate a 1/1 white Soldier creature token.",
             "flavor_text": "[i][Flavor text]\n[Flavor text]\n[Flavor text][/i]",
             "pt": "",
             "special_text": "",
@@ -5105,8 +5025,8 @@
             "loyalty": "",
             "artist": "\nSam Kanios on Artstation",
             "alias": "",
-            "position": "254",
-            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/aGvad0"
+            "position": "250",
+            "notes": "!tag card-advantage\n\nhttps://www.artstation.com/artwork/aGvad0\n\n!related Soldier LEF"
         },
         {
             "card_name": "Voidliss Sky-Serpent",
@@ -5125,8 +5045,8 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
-            "position": "255",
-            "notes": "https://x.com/KamikiriRIP/status/1797995363099693343/photo/2\n"
+            "position": "251",
+            "notes": "https://x.com/KamikiriRIP/status/1797995363099693343/photo/2\n\n\n\n\n\nflag\n"
         },
         {
             "card_name": "Aspiring Bannerette",
@@ -5136,7 +5056,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Untap up to one target creature and up to one target anomaly. [i](A card with multiple card types is an anomaly.)[/i]\nElicit creature {1}{W} [i](You may cast this as a creature instead of as an instant creature for {1}{W}, it resolves without the above effects.)[/i]\nFirst strike",
+            "rules_text": "Untap up to one target creature and up to one target anomaly. [i](Anything with multiple card types is an anomaly.)[/i]\nElicit creature {1}{W} [i](You may cast this as a creature instead of as an instant creature for {1}{W}, it resolves without the above effects.)[/i]\nFirst strike",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -5145,8 +5065,8 @@
             "loyalty": "",
             "artist": "Antoine Ren on Artstation",
             "alias": "",
-            "position": "256",
-            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/PmJ8Jr"
+            "position": "252",
+            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/PmJ8Jr\n\n\nflag"
         },
         {
             "card_name": "Mild Mystic",
@@ -5165,7 +5085,7 @@
             "loyalty": "",
             "artist": "Jim Fitzpatrick",
             "alias": "",
-            "position": "257",
+            "position": "253",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/sionna"
         },
         {
@@ -5185,7 +5105,7 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
-            "position": "258",
+            "position": "254",
             "notes": "!tag anomaly\n!tag cantrip\n\n\nhttps://www.artstation.com/artwork/rJ96w2"
         },
         {
@@ -5196,7 +5116,7 @@
             "number": 39,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white Human Soldier creature tokens.",
+            "rules_text": "Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white Soldier creature tokens.",
             "flavor_text": "[i][Flavor text]\n[Flavor text][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5205,8 +5125,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
-            "position": "259",
-            "notes": "https://www.artstation.com/artwork/2qElEv"
+            "position": "255",
+            "notes": "https://www.artstation.com/artwork/2qElEv\n!related Soldier LEF<2>"
         },
         {
             "card_name": "Lathinia, Metalwinged",
@@ -5216,7 +5136,7 @@
             "number": 27,
             "color_identity": "WRG",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flying\nWhenever Lathinia or another nontoken anomaly you control enters, you may pay {RG}. If you do, create a 2/2 green Beast enchantment creature token. [i](A card with multiple card types is an anomaly.)[/i]",
+            "rules_text": "Flying\nWhenever Lathinia or another nontoken anomaly you control enters, you may pay {RG}. If you do, create a 2/2 green Beast enchantment creature token. [i](Anything with multiple card types is an anomaly.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5225,8 +5145,8 @@
             "loyalty": "",
             "artist": "Dallas Williams on Artstation",
             "alias": "",
-            "position": "260",
-            "notes": "!anomaly\n\nhttps://www.artstation.com/artwork/qa1dy"
+            "position": "256",
+            "notes": "!anomaly\n\nhttps://www.artstation.com/artwork/qa1dy\n\n\n\n\n\nflag (Buff and differentiate.)"
         },
         {
             "card_name": "Idol of Decrees",
@@ -5245,7 +5165,7 @@
             "loyalty": "",
             "artist": "Tiziana Federica Ruiu on Artstation",
             "alias": "",
-            "position": "261",
+            "position": "257",
             "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/BPgL9"
         },
         {
@@ -5265,7 +5185,7 @@
             "loyalty": "",
             "artist": "Travis-Anderson",
             "alias": "",
-            "position": "262",
+            "position": "258",
             "notes": "https://www.deviantart.com/travis-anderson/art/Iciaon-hermit-834776066"
         },
         {
@@ -5285,7 +5205,7 @@
             "loyalty": "",
             "artist": "Evan Surya Nugraha on Artstation",
             "alias": "",
-            "position": "263",
+            "position": "259",
             "notes": "!tag damage-creature\n\nhttps://www.artstation.com/artwork/ONogJ"
         },
         {
@@ -5296,7 +5216,7 @@
             "number": 24,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Equipped creature gets +4/+2 and has vigilance.\nEquip {8}, This costs {X} less to equip, where X is the highest mana value among other permanents you control.",
+            "rules_text": "Equipped creature gets +4/+2 and has vigilance.\nEquip {8}, This costs {X} less to equip, where X is the greatest mana value among other permanents you control.",
             "flavor_text": "[i]Only those who are great of soul may wield it effectively.[/i]",
             "pt": "",
             "special_text": "",
@@ -5305,7 +5225,7 @@
             "loyalty": "",
             "artist": "Jonathan Lebrec on Artstation",
             "alias": "",
-            "position": "264",
+            "position": "260",
             "notes": "https://www.artstation.com/artwork/mDN4ky"
         },
         {
@@ -5325,7 +5245,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "265",
+            "position": "261",
             "notes": "!tag reanimate-creature\n\nhttps://www.artstation.com/artwork/n3nLX"
         },
         {
@@ -5345,7 +5265,7 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
-            "position": "266",
+            "position": "262",
             "notes": "!tag tapper\n\nhttps://www.artstation.com/artwork/zD6W0Q?album_id=2706638"
         },
         {
@@ -5356,7 +5276,7 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "You may search your library for a card named \u201cRevolving Growth\u201d and reveal it. If you do, put it into your hand, then shuffle.\nTarget creature gains hexproof until end of turn.",
+            "rules_text": "You may search your library for a card named \u201cRevolving Meditation\u201d and reveal it. If you do, put it into your hand, then shuffle.\nTarget creature gains hexproof until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5365,15 +5285,15 @@
             "loyalty": "",
             "artist": "Marta Dettlaff on Artstation",
             "alias": "",
-            "position": "267",
-            "notes": "https://www.artstation.com/artwork/J9z0z"
+            "position": "263",
+            "notes": "https://www.artstation.com/artwork/J9z0z\n\n\n\n\nflag"
         },
         {
             "card_name": "Bloodfell Caves",
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 243,
+            "number": 244,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {R}.",
@@ -5385,7 +5305,7 @@
             "loyalty": "",
             "artist": "Pedro Sena on Artstation",
             "alias": "",
-            "position": "268",
+            "position": "264",
             "notes": "https://www.artstation.com/artwork/689zXn"
         },
         {
@@ -5393,7 +5313,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 244,
+            "number": 245,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {W}.",
@@ -5405,7 +5325,7 @@
             "loyalty": "",
             "artist": "Artur Sadlos on Artstation",
             "alias": "",
-            "position": "269",
+            "position": "265",
             "notes": ""
         },
         {
@@ -5413,7 +5333,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 246,
+            "number": 247,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {B}.",
@@ -5425,7 +5345,7 @@
             "loyalty": "",
             "artist": "Bart Tchorzewski on Artstation",
             "alias": "",
-            "position": "270",
+            "position": "266",
             "notes": "https://www.artstation.com/artwork/491llk?album_id=1754765"
         },
         {
@@ -5433,7 +5353,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 250,
+            "number": 251,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {G}.",
@@ -5445,7 +5365,7 @@
             "loyalty": "",
             "artist": "Anthony Gal on Artstation",
             "alias": "",
-            "position": "271",
+            "position": "267",
             "notes": "https://www.artstation.com/artwork/6LVABn"
         },
         {
@@ -5453,7 +5373,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 251,
+            "number": 252,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {U}.",
@@ -5465,9 +5385,109 @@
             "loyalty": "",
             "artist": "Xiangzhao Xi on Artstation",
             "alias": "",
-            "position": "272",
+            "position": "268",
             "notes": "\n\nhttps://www.artstation.com/artwork/98kwPq"
+        },
+        {
+            "card_name": "Kefus, the Scribe",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Legendary Creature \u2014 Elemental Soldier",
+            "number": 60,
+            "color_identity": "WUG",
+            "cost": "{3}{U}",
+            "rules_text": "Whenever you cast a spell with mana value 4 or greater, draw a card.\n{1}{GW}: Another target permanent with mana value 4 or greater gains hexproof until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LEF",
+            "loyalty": "",
+            "artist": "Tomas Duchek on Artstation",
+            "alias": "",
+            "position": "269",
+            "notes": "https://www.artstation.com/artwork/6bZwZn"
+        },
+        {
+            "card_name": "Kleefoff, Essence Looter",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "Legendary Creature \u2014 Minotaur Shaman",
+            "number": 152,
+            "color_identity": "UBR",
+            "cost": "{3}{R}",
+            "rules_text": "[i]Whiz[/i] \u2014 Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn cost {R}[i](or {1})[/i] less to cast.\n{1}{UB}: Mill two cards, then you may discard a card to put an instant or sorcery card milled this way into your hand.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LEF",
+            "loyalty": "",
+            "artist": "gugu-troll",
+            "alias": "",
+            "position": "270",
+            "notes": "https://www.deviantart.com/gugu-troll/art/Hiding-in-the-ice-190954908"
+        },
+        {
+            "card_name": "Distilled Essence",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Artifact",
+            "number": 239,
+            "color_identity": "C",
+            "cost": "{1}",
+            "rules_text": "[i]Whiz[/i] \u2014 Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, you gain 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LEF",
+            "loyalty": "",
+            "artist": "KateMaxpaint",
+            "alias": "",
+            "position": "271",
+            "notes": "https://www.deviantart.com/katemaxpaint/art/Pure-poison-209975390"
+        },
+        {
+            "card_name": "Hunting Saakstalker",
+            "color": "B",
+            "rarity": "uncommon",
+            "type": "Sorcery Creature \u2014 Demon",
+            "number": 104,
+            "color_identity": "B",
+            "cost": "{5}{B}",
+            "rules_text": "Up to one target creature gets +X/-X until end of turn, where X is the greatest mana value among permanents you control.\nElicit sorcery {2}{B} [i](You may cast this as a sorcery instead of as a sorcery creature for {2}{B}, putting it into the graveyard as it resolves.)[/i]\nMenace",
+            "flavor_text": "[i][/i]",
+            "pt": "4/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LEF",
+            "loyalty": "",
+            "artist": "Ilya Popov on Artstation",
+            "alias": "",
+            "position": "272",
+            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/zDJlr2"
+        },
+        {
+            "card_name": "Augur of Soul",
+            "color": "WUG",
+            "rarity": "rare",
+            "type": "Enchantment Creature \u2014 Spirit",
+            "number": 212,
+            "color_identity": "WUG",
+            "cost": "{G}{W}{U}",
+            "rules_text": "Whenever you cast a spell with mana value 3 or more, target player mills 3 cards.\nWhenever you cast a spell with mana value 5 or more, you gain 3 life.\nWhenever you cast a spell with mana value 7 or more, create a 3/3 green beast enchantment creature token.",
+            "flavor_text": "[i][/i]",
+            "pt": "4/3",
+            "special_text": "",
+            "shape": "normal",
+            "set": "LEF",
+            "loyalty": "",
+            "artist": "\u2726 Monztre \u2726 on Artstation",
+            "alias": "",
+            "position": "273",
+            "notes": "!tag anomaly\n\nhttps://www.artstation.com/artwork/mDO1z1"
         }
     ],
-    "version": 4
+    "version": 5
 }

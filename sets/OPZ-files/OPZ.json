@@ -3,7 +3,7 @@
     "formats": "Standard",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -97,7 +97,7 @@
             "loyalty2": "",
             "artist2": "Solarliu",
             "alias2": "",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/zxkvGw\n\nhttps://www.artstation.com/artwork/y4ZPP9"
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/zxkvGw\n\nhttps://www.artstation.com/artwork/y4ZPP9\n\n!related Parasite OPZ"
         },
         {
             "card_name": "Expedition Range",
@@ -152,14 +152,14 @@
             "color2": "",
             "type2": "Enchantment Land \u2014 Outpost",
             "cost2": "",
-            "rules_text2": "When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has five or more voyage counters on it, sacrifice it and create an 8/8 blue Horror creature token with hexproof.\n{T}: Add {U}.",
+            "rules_text2": "When this land transforms, and at the beginning of your upkeep, put a voyage counter on it. Then if it has five or more voyage counters on it, sacrifice it and create an 8/8 blue Leviathan creature token with hexproof.\n{T}: Add {U}.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "Col Price",
             "alias2": "",
-            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/mqgeAY\n\nhttps://www.artstation.com/artwork/XBlOPn"
+            "notes": "IDEA\n\nhttps://www.artstation.com/artwork/mqgeAY\n\nhttps://www.artstation.com/artwork/XBlOPn\n\n!related Leviathan OPZ"
         },
         {
             "card_name": "Plithium Quarry",
@@ -281,7 +281,7 @@
             "artist": "Sergey Grechanyuk",
             "alias": "",
             "position": "10",
-            "notes": "https://www.artstation.com/artwork/XybdY"
+            "notes": "https://www.artstation.com/artwork/XybdY\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Targeted Strike",
@@ -381,7 +381,7 @@
             "artist": "Sergey Grechanyuk",
             "alias": "",
             "position": "15",
-            "notes": "Idea\n\nhttps://www.artstation.com/artwork/xYZLPO\n\nJumpstart\nproto_g"
+            "notes": "Idea\n\nhttps://www.artstation.com/artwork/xYZLPO\n\nJumpstart\nproto_g\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Rothmas Scouts",
@@ -441,7 +441,7 @@
             "artist": "Ying Ding",
             "alias": "",
             "position": "18",
-            "notes": "https://www.artstation.com/artwork/5X6gJJ\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/5X6gJJ\n\n!tag anomaly\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Drone",
@@ -471,17 +471,17 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, create a 1/1 colorless Construct artifact creature token.\nWhenever another artifact creature you control enters, experiment on it. [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
+            "rules_text": "When this creature enters, create a 1/1 colorless Construct artifact creature token.\nWhenever an artifact creature you control enters, experiment on it. [i](Add or remove a +1/+1 counter or a type of counter already on the target.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "OPZ",
             "loyalty": "",
             "artist": "Brenoch Adams",
             "alias": "",
             "position": "20",
-            "notes": "https://www.artstation.com/artwork/mzgPn9\n\nJumpstart\nproto_w"
+            "notes": "https://www.artstation.com/artwork/mzgPn9\n\nJumpstart\nproto_w\n!token Construct OPZ\n!related Construct OPZ"
         },
         {
             "card_name": "Digital Reconstruction",
@@ -501,7 +501,7 @@
             "artist": "Julia GorokhovaPro",
             "alias": "",
             "position": "21",
-            "notes": "https://www.artstation.com/artwork/r9nkVJ\n\n!tag reanimate-creature\n!tag reanimate-artifact"
+            "notes": "https://www.artstation.com/artwork/r9nkVJ\n\n!tag reanimate-creature\n!tag reanimate-artifact\n\n!related Specimen OPZ"
         },
         {
             "card_name": "City Sweep",
@@ -561,7 +561,7 @@
             "artist": "Alex Ichim",
             "alias": "",
             "position": "24",
-            "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w"
+            "notes": "https://www.artstation.com/artwork/A9wvny\n\nJumpstart\nproto_w\n!related Drone OPZ"
         },
         {
             "card_name": "Gleaming Kite",
@@ -661,7 +661,7 @@
             "artist": "John Griffiths",
             "alias": "",
             "position": "29",
-            "notes": "https://www.artstation.com/artwork/ELZ9o2\n\nJumpstart\nproto_u\n\n!tag cantrip"
+            "notes": "https://www.artstation.com/artwork/ELZ9o2\n\nJumpstart\nproto_u\n\n!tag cantrip\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Mistweaver",
@@ -821,7 +821,7 @@
             "artist": "Dmitry Vishnevsky",
             "alias": "",
             "position": "37",
-            "notes": "https://www.artstation.com/artwork/GabrVN"
+            "notes": "https://www.artstation.com/artwork/GabrVN\n!related Drone OPZ"
         },
         {
             "card_name": "Splinter Brute",
@@ -861,7 +861,7 @@
             "artist": "Hakob Minasian",
             "alias": "",
             "position": "39",
-            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/Gm2v1\n\n!tag card-advantage"
+            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/Gm2v1\n\n!tag card-advantage\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Nimble Crewmate",
@@ -1001,7 +1001,7 @@
             "artist": "Quentin Stipp",
             "alias": "",
             "position": "46",
-            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/WKO4lG\n\n!tag regrowth-creature"
+            "notes": "Jumpstart\nproto_b\n\nhttps://www.artstation.com/artwork/WKO4lG\n\n!tag regrowth-creature\n!related Mercenary OPZ"
         },
         {
             "card_name": "Mercenary",
@@ -1041,7 +1041,7 @@
             "artist": "Argentics",
             "alias": "",
             "position": "48",
-            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/DAvOln"
+            "notes": "proto_b\nJumpstart\n\nhttps://www.artstation.com/artwork/DAvOln\n\n!related Mercenary OPZ"
         },
         {
             "card_name": "Mining Rig",
@@ -1101,7 +1101,7 @@
             "artist": "G-Hamm",
             "alias": "",
             "position": "51",
-            "notes": "https://www.artstation.com/artwork/B1rnA4\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/B1rnA4\n\nidea\n\nJumpstart\nproto_r\n!related Mercenary OPZ"
         },
         {
             "card_name": "Frontline Dropship",
@@ -1121,7 +1121,7 @@
             "artist": "Cody Williams",
             "alias": "",
             "position": "52",
-            "notes": "https://www.artstation.com/artwork/AakaW\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/AakaW\n\nidea\n\nJumpstart\nproto_r\n!related Mercenary OPZ<2>"
         },
         {
             "card_name": "Construction Bot",
@@ -1201,7 +1201,7 @@
             "artist": "Marek Okon",
             "alias": "",
             "position": "56",
-            "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r"
+            "notes": "https://www.artstation.com/artwork/qQvKD\n\nidea\n\nJumpstart\nproto_r\n!related Drone OPZ"
         },
         {
             "card_name": "Skittering Swarm",
@@ -1361,7 +1361,7 @@
             "artist": "COLIN SHULVER Pro",
             "alias": "",
             "position": "64",
-            "notes": "Idea\n\nhttps://www.artstation.com/artwork/OG4wGK\n\nJumpstart\nproto_g\n\n!tag damage-creature"
+            "notes": "Idea\n\nhttps://www.artstation.com/artwork/OG4wGK\n\nJumpstart\nproto_g\n\n!tag damage-creature\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Rapid Incubation",
@@ -1381,7 +1381,7 @@
             "artist": "Sergey Grechanyuk",
             "alias": "",
             "position": "65",
-            "notes": "Idea\n\nhttps://www.artstation.com/artwork/rlOBw6\n\nJumpstart\nproto_g"
+            "notes": "Idea\n\nhttps://www.artstation.com/artwork/rlOBw6\n\nJumpstart\nproto_g\n\n!related Specimen OPZ<3>\n!related Beast OPZ<2>"
         },
         {
             "card_name": "Beast",
@@ -1421,7 +1421,7 @@
             "artist": "Alan Albiach",
             "alias": "",
             "position": "67",
-            "notes": "Jumpstart\nproto_g\n\nhttps://www.artstation.com/artwork/XgrvYl"
+            "notes": "Jumpstart\nproto_g\n\nhttps://www.artstation.com/artwork/XgrvYl\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Burgeoning Ascomycota",
@@ -1701,7 +1701,7 @@
             "artist": "Daniel McGarry",
             "alias": "",
             "position": "81",
-            "notes": "https://www.artstation.com/artwork/eRaVYb"
+            "notes": "https://www.artstation.com/artwork/eRaVYb\n!related Drone OPZ<2>"
         },
         {
             "card_name": "Sudden Evacuation",
@@ -1972,7 +1972,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "94",
-            "notes": "https://www.artstation.com/artwork/0XL33y"
+            "notes": "https://www.artstation.com/artwork/0XL33y\n!related Drone OPZ"
         },
         {
             "card_name": "Tremor Spikeworm",
@@ -2232,7 +2232,7 @@
             "artist": "Alvaro Martin",
             "alias": "",
             "position": "107",
-            "notes": "https://www.artstation.com/artwork/nYKzb1"
+            "notes": "https://www.artstation.com/artwork/nYKzb1\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Mission Coordinator",
@@ -2252,7 +2252,7 @@
             "artist": "Kim Trouwborst",
             "alias": "",
             "position": "108",
-            "notes": "https://www.artstation.com/artwork/04wB25"
+            "notes": "https://www.artstation.com/artwork/04wB25\n!related Mercenary OPZ<2>"
         },
         {
             "card_name": "Smoldering Defiance",
@@ -2372,7 +2372,7 @@
             "artist": "Andrei Artefact",
             "alias": "",
             "position": "114",
-            "notes": "https://www.artstation.com/artwork/aY2dqk"
+            "notes": "https://www.artstation.com/artwork/aY2dqk\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Nurturing Mantisworm",
@@ -2532,7 +2532,7 @@
             "artist": "Nivanh Chanthara",
             "alias": "",
             "position": "122",
-            "notes": "https://www.artstation.com/artwork/8beOLG\n\n!tag reanimate-creature"
+            "notes": "https://www.artstation.com/artwork/8beOLG\n\n!tag reanimate-creature\n!related Mercenary OPZ"
         },
         {
             "card_name": "Sanguine Stalker",
@@ -2592,7 +2592,7 @@
             "artist": "Andrej 'BATOU' Durik",
             "alias": "",
             "position": "125",
-            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag card-advantage"
+            "notes": "https://www.artstation.com/artwork/a0DXmz\n\n!tag card-advantage\n!related Drone OPZ"
         },
         {
             "card_name": "Commune With Evil",
@@ -2666,13 +2666,13 @@
             "flavor_text": "[i][...calculating...]\n[Organic Combatant Deaths: 1,762]\n[Civilian Casualty Rate: 99%][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "OPZ",
             "loyalty": "",
             "artist": "G-Hamm",
             "alias": "",
             "position": "129",
-            "notes": "https://www.artstation.com/artwork/9mLZgo"
+            "notes": "https://www.artstation.com/artwork/9mLZgo\n\n!token Construct OPZ, 3\n!related Construct OPZ<3>"
         },
         {
             "card_name": "Cuphro Invasion",
@@ -2872,7 +2872,7 @@
             "artist": "Jeff Bartzis",
             "alias": "",
             "position": "139",
-            "notes": "https://www.artstation.com/artwork/ARWDz"
+            "notes": "https://www.artstation.com/artwork/ARWDz\n\n!related Mercenary OPZ"
         },
         {
             "card_name": "Emberwing Emissary",
@@ -2932,7 +2932,7 @@
             "artist": "Col Price",
             "alias": "",
             "position": "142",
-            "notes": "https://www.artstation.com/artwork/obV2mz\n\n!tag wrath"
+            "notes": "https://www.artstation.com/artwork/obV2mz\n\n!tag wrath\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Station Monitor",
@@ -3112,7 +3112,7 @@
             "artist": "Walter Brocca",
             "alias": "",
             "position": "151",
-            "notes": "https://www.artstation.com/artwork/XaxK0\n\n!tag anomaly\n!tag reanimate-self"
+            "notes": "https://www.artstation.com/artwork/XaxK0\n\n!tag anomaly\n!tag reanimate-self\n\n!related Parasite OPZ<2>"
         },
         {
             "card_name": "Celestial Generator",
@@ -3263,7 +3263,7 @@
             "artist": "Bram Sels",
             "alias": "",
             "position": "158",
-            "notes": "https://www.artstation.com/artwork/aGgJ"
+            "notes": "https://www.artstation.com/artwork/aGgJ\n\n!related Mercenary OPZ"
         },
         {
             "card_name": "Suppression Fire",
@@ -3383,7 +3383,7 @@
             "artist": "Sandeep Karunakaran",
             "alias": "",
             "position": "164",
-            "notes": "https://www.artstation.com/artwork/9NB2ma"
+            "notes": "https://www.artstation.com/artwork/9NB2ma\n\n!related Parasite OPZ"
         },
         {
             "card_name": "Bioweapon Engineers",
@@ -3403,7 +3403,7 @@
             "artist": "Yerbol Bulentayev",
             "alias": "",
             "position": "165",
-            "notes": "https://www.artstation.com/artwork/5884ag\n\n!tag removal-creature"
+            "notes": "https://www.artstation.com/artwork/5884ag\n\n!tag removal-creature\n\n!related Parasite OPZ"
         },
         {
             "card_name": "Circuit Liberator",
@@ -3417,13 +3417,13 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "OPZ",
             "loyalty": "",
             "artist": "Michael Black",
             "alias": "",
             "position": "166",
-            "notes": "https://www.artstation.com/artwork/AqwPlV\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/AqwPlV\n\n!tag anomaly\n!token Construct OPZ\n!related Construct OPZ"
         },
         {
             "card_name": "Galactic Rending",
@@ -3497,13 +3497,13 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "OPZ",
             "loyalty": "",
             "artist": "Wojtek Fus",
             "alias": "",
             "position": "170",
-            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any"
+            "notes": "https://www.artstation.com/artwork/o8RWm\n\n!tag damage-any\n!token Construct OPZ, 2\n!related Construct OPZ<2>"
         },
         {
             "card_name": "Twilight Observer",
@@ -4003,7 +4003,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "195",
-            "notes": "https://www.artstation.com/artwork/6abd8r\n\n!tag removal-creature"
+            "notes": "https://www.artstation.com/artwork/6abd8r\n\n!tag removal-creature\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Kinetic Shieldbearer",
@@ -4243,7 +4243,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "207",
-            "notes": "https://www.artstation.com/artwork/r9gONE\n\n!tag card-advantage"
+            "notes": "https://www.artstation.com/artwork/r9gONE\n\n!tag card-advantage\n!related Mercenary OPZ"
         },
         {
             "card_name": "Mobile Containment Unit",
@@ -4263,7 +4263,7 @@
             "artist": "Terraform Studios",
             "alias": "",
             "position": "208",
-            "notes": "https://www.artstation.com/artwork/Krvm6o\n\n!tag anomaly"
+            "notes": "https://www.artstation.com/artwork/Krvm6o\n\n!tag anomaly\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Crisis Assayer",
@@ -4303,7 +4303,7 @@
             "artist": "Jama Jurabaev",
             "alias": "",
             "position": "210",
-            "notes": "https://www.artstation.com/artwork/lG5lqV\n\n!tag tapper\n!tag removal-creature\n!tag pacifism"
+            "notes": "https://www.artstation.com/artwork/lG5lqV\n\n!tag tapper\n!tag removal-creature\n!tag pacifism\n\n!related Parasite OPZ<2>"
         },
         {
             "card_name": "Relentless Miscreant",
@@ -4803,7 +4803,7 @@
             "artist": "Lloyd Drake-Brockman",
             "alias": "",
             "position": "235",
-            "notes": "https://www.artstation.com/artwork/JvALlz"
+            "notes": "https://www.artstation.com/artwork/JvALlz\n!related Beast OPZ"
         },
         {
             "card_name": "Unwitting Host",
@@ -4823,7 +4823,7 @@
             "artist": "Kai Gavin Eberl",
             "alias": "",
             "position": "236",
-            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-disruption-untargeted"
+            "notes": "https://www.artstation.com/artwork/AlzKq\n\n!tag hand-disruption-untargeted\n\n!related Specimen OPZ\n!related Horror OPZ"
         },
         {
             "card_name": "Temporal Harness",
@@ -4863,7 +4863,7 @@
             "artist": "Ana Baltova-Vercuiel",
             "alias": "",
             "position": "238",
-            "notes": "https://www.artstation.com/artwork/1gkRo"
+            "notes": "https://www.artstation.com/artwork/1gkRo\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Enforcer's Assault Rifle",
@@ -4873,17 +4873,17 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.\nEquipped creature gets +2/+0, has trample, and has \u201cWhen this creature dies, it deals 1 damage to any target.\u201d\nEquip {R}",
+            "rules_text": "When this Equipment enters, create a 1/1 colorless Construct artifact creature token and attach this Equipment to it.\nEquipped creature gets +2/+0 and has \u201cWhen this creature dies, it deals 1 damage to any target.\u201d\nEquip {R}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "OPZ",
             "loyalty": "",
             "artist": "Sergey Semenovykh",
             "alias": "",
             "position": "239",
-            "notes": "https://www.artstation.com/artwork/ZlbqAx\n\n!tag damage-any"
+            "notes": "https://www.artstation.com/artwork/ZlbqAx\n\n!tag damage-any\n!token Construct OPZ\n!related Construct OPZ"
         },
         {
             "card_name": "Slipstream Infiltrator",
@@ -5103,7 +5103,7 @@
             "artist": "Alexander Borodin",
             "alias": "",
             "position": "250",
-            "notes": "https://www.artstation.com/artwork/4Nkwn8"
+            "notes": "https://www.artstation.com/artwork/4Nkwn8\n\n!related Specimen OPZ"
         },
         {
             "card_name": "Forged Recluse",
@@ -5343,7 +5343,7 @@
             "artist": "Biagio D'Alessandro",
             "alias": "",
             "position": "262",
-            "notes": "https://www.artstation.com/artwork/nNKWO"
+            "notes": "https://www.artstation.com/artwork/nNKWO\n\n!related Parasite OPZ"
         },
         {
             "card_name": "Horror",
@@ -5383,7 +5383,7 @@
             "artist": "Alberto Filipponi",
             "alias": "",
             "position": "264",
-            "notes": "https://www.artstation.com/artwork/RyoVmr"
+            "notes": "https://www.artstation.com/artwork/RyoVmr\n\n!related Parasite OPZ"
         },
         {
             "card_name": "Evelyn, Battle Calculatrix",
@@ -5503,7 +5503,7 @@
             "artist": "Miguel Mitchell Da Silva",
             "alias": "",
             "position": "270",
-            "notes": "https://www.artstation.com/artwork/XJ8bLL"
+            "notes": "https://www.artstation.com/artwork/XJ8bLL\n!related Mercenary OPZ"
         },
         {
             "card_name": "Maxine, Cynical Renegade",
@@ -5526,10 +5526,10 @@
             "notes": "https://www.artstation.com/artwork/EVqza8"
         },
         {
-            "card_name": "Horror",
+            "card_name": "Leviathan",
             "color": "U",
             "rarity": "common",
-            "type": "Token Creature \u2014 Horror",
+            "type": "Token Creature \u2014 Leviathan",
             "number": 1,
             "color_identity": "U",
             "cost": "",
@@ -5583,7 +5583,7 @@
             "artist": "James Zapata",
             "alias": "",
             "position": "274",
-            "notes": "https://www.artstation.com/artwork/N405\n\n!tag card-advantage"
+            "notes": "https://www.artstation.com/artwork/N405\n\n!tag card-advantage\n!related Drone OPZ"
         },
         {
             "card_name": "Moira, Rapid Adapter",
@@ -5646,5 +5646,5 @@
             "notes": "https://www.artstation.com/artwork/q9dDoe\n\nIDEA\n\nJumpstart\nproto_g"
         }
     ],
-    "version": 3
+    "version": 4
 }
