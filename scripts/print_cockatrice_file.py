@@ -43,6 +43,7 @@ def get_maintype(type):
 	return first_half.split(' ')[-1].strip()
 
 def get_related(notes, instruction, tag):
+	"""Parser for the !related and !tokens notes"""
 	related = []
 	for line in notes.split('\n'):
 		if not line.startswith(instruction):
@@ -66,6 +67,43 @@ def get_related(notes, instruction, tag):
 				print(f'Warning: unknown {instruction} parameter <{num}>. Ignoring')
 				extra = ''
 			related.append(f'<{tag}{extra}>{xml_escape(name)}</{tag}>')
+
+	return related
+
+def get_lackeybot_related(notes, instruction):
+	"""Parser for the Field Testing related notes, since the LackeyBot exporter does not use !related or !tokens"""
+	related = []
+	for line in notes.split('\n'):
+		if not line.startswith(instruction):
+			continue
+		
+		tokens = line[len(instruction) + 1:].split(';')
+		state = 'tag'
+		tag = ''
+		persistent = False
+		for token in tokens:
+			if state == 'tag':
+				tag = token
+				state = 'count_or_conjure'
+				continue
+
+			if state == 'count_or_conjure':
+				state = 'count'  # "Fall-through" to avoid repeating the count code if there's no conjure
+				if token == 'conjure':
+					persistent = True
+					continue
+
+			if state == 'count':
+				count = int(token)
+				related.append(f'<related{' persistent=""' if persistent else ''}{f' count="{count}"' if count > 1 else ''}>{xml_escape(tag)}</related>')
+				tag = ''
+				persistent = False
+				state = 'tag'
+				continue
+
+		if state != 'tag':
+			print(f'Warning: incomplete parsing of LackeyBot instruction {instruction} for token {tag}. Adding with count of 1 as failsafe')
+			related.append(f'<related{' persistent=""' if persistent else ''}>{xml_escape(tag)}</related>')
 
 	return related
 
@@ -165,11 +203,13 @@ def render_card(set_data, card, /, *, back=False, flipped=False):
 		related.append(f'<related attach="transform">{xml_escape(card['card_name' if back else 'card_name2'])}</related>')
 	if 'flip' in card['shape']:
 		related.append(f'<related attach="transform">{xml_escape(card['card_name' if flipped else 'card_name2'])}</related>')
+	related.extend(get_lackeybot_related(card['notes'], '!addtoken'))
+	related.extend(get_lackeybot_related(card['notes'], '!replacetoken'))
 	if len(related):
 		card_string += f'''
 			{'\n			'.join(related)}'''
 
-	reverse_related = get_related(card['notes'], '!related', 'reverse_related')
+	reverse_related = get_related(card['notes'], '!related', 'reverse-related')
 	if len(reverse_related):
 		card_string += f'''
 			{'\n			'.join(reverse_related)}'''
@@ -190,9 +230,13 @@ def render_card(set_data, card, /, *, back=False, flipped=False):
 	return card_string
 
 def generateFile(code):
+	xml_path = os.path.join('sets', code + '-files', code + '.xml')
+	
 	with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as j:
 		set_data = json.load(j)
 
+	new_date = datetime.today().strftime('%Y-%m-%d')
+	
 	cockatrice_string = f'''<?xml version='1.0' encoding='UTF-8'?>
 <cockatrice_carddatabase version='4'>
 	<sets>
@@ -200,7 +244,7 @@ def generateFile(code):
 			<name>{xml_escape(code)}</name>
 			<longname>{xml_escape(set_data['name'])}</longname>
 			<settype>Custom</settype>
-			<releasedate>{datetime.today().strftime('%Y-%m-%d')}</releasedate>
+			<releasedate>{new_date}</releasedate>
 		</set>
 	</sets>
 	<cards>'''
@@ -212,5 +256,18 @@ def generateFile(code):
 	</cards>
 </cockatrice_carddatabase>'''
 
-	with open(os.path.join('sets', code + '-files', code + '.xml'), 'w', encoding='utf-8') as f:
-		f.write(cockatrice_string)
+	new_content = cockatrice_string.replace('\r\n', '\n')
+
+	if os.path.exists(xml_path):
+		with open(xml_path, 'r', encoding='utf-8') as f:
+			old_content = f.read().replace('\r\n', '\n')
+		
+		# Mask out the release date in both for comparison
+		old_norm = re.sub(r'<releasedate>.*?</releasedate>', '<releasedate>PLACEHOLDER</releasedate>', old_content)
+		new_norm = re.sub(r'<releasedate>.*?</releasedate>', '<releasedate>PLACEHOLDER</releasedate>', new_content)
+		
+		if old_norm == new_norm:
+			return # No data changed, skip overwrite
+
+	with open(xml_path, 'w', encoding='utf-8') as f:
+		f.write(new_content)
