@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/HNG-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/HNG-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>HNG visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,203 +181,219 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/HNG-files/logo.png" />
-	<img class="preload-hidden" src="/sets/JDK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LEF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/OPZ-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SOC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VGE-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WGJ-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ARC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ASC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/BMR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CFL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CRF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/HNG-files/icon.png" />
-		<img class="preload-hidden" src="/sets/IRW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KEC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KTG-files/icon.png" />
-		<img class="preload-hidden" src="/sets/L4D-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MRC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MSL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PHD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/REL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TOON-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TVN-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VGT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VLD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VRL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/XRX-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/HNG-files/logo.png" />
+	<img class="preload-hidden" src="../sets/JDK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LEF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/OPZ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SOC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VGE-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WGJ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ARC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ASC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/BMR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CFL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CRF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/HNG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/IRW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KEC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KTG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/L4D-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MRC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PHD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/REL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOON-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VGT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/XRX-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="HNG"><img src="/sets/HNG-files/icon.png">Honor and Greed</a>
+		<a class="set-bar" href="../previews/HNG"><img src="../sets/HNG-files/icon.png">Honor and Greed</a>
 	
-		<a class="set-bar inactive" href="JDK"><img src="/sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
+		<a class="set-bar inactive" href="../previews/JDK"><img src="../sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
 	
-		<a class="set-bar inactive" href="LEF"><img src="/sets/LEF-files/icon.png">Leffway is Made</a>
+		<a class="set-bar inactive" href="../previews/LEF"><img src="../sets/LEF-files/icon.png">Leffway is Made</a>
 	
-		<a class="set-bar inactive" href="OPZ"><img src="/sets/OPZ-files/icon.png">Outpost Zero</a>
+		<a class="set-bar inactive" href="../previews/OPZ"><img src="../sets/OPZ-files/icon.png">Outpost Zero</a>
 	
-		<a class="set-bar inactive" href="SOC"><img src="/sets/SOC-files/icon.png">Stars of Cinesterra</a>
+		<a class="set-bar inactive" href="../previews/SOC"><img src="../sets/SOC-files/icon.png">Stars of Cinesterra</a>
 	
-		<a class="set-bar inactive" href="VGE"><img src="/sets/VGE-files/icon.png">Voc-Gal Echoes</a>
+		<a class="set-bar inactive" href="../previews/VGE"><img src="../sets/VGE-files/icon.png">Voc-Gal Echoes</a>
 	
-		<a class="set-bar inactive" href="WGJ"><img src="/sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
+		<a class="set-bar inactive" href="../previews/WGJ"><img src="../sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
 	
-		<a class="set-bar inactive" href="ARC"><img src="/sets/ARC-files/icon.png">Techniques — Archery</a>
+		<a class="set-bar inactive" href="../previews/ARC"><img src="../sets/ARC-files/icon.png">Techniques — Archery</a>
 	
-		<a class="set-bar inactive" href="ASC"><img src="/sets/ASC-files/icon.png">Act So Cinematic</a>
+		<a class="set-bar inactive" href="../previews/ASC"><img src="../sets/ASC-files/icon.png">Act So Cinematic</a>
 	
-		<a class="set-bar inactive" href="BMR"><img src="/sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
+		<a class="set-bar inactive" href="../previews/BMR"><img src="../sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
 	
-		<a class="set-bar inactive" href="CFL"><img src="/sets/CFL-files/icon.png">Curtain’s Fall</a>
+		<a class="set-bar inactive" href="../previews/CFL"><img src="../sets/CFL-files/icon.png">Curtain’s Fall</a>
 	
-		<a class="set-bar inactive" href="CRF"><img src="/sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
+		<a class="set-bar inactive" href="../previews/CRF"><img src="../sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
 	
-		<a class="set-bar inactive" href="IRW"><img src="/sets/IRW-files/icon.png">By Iron Will</a>
+		<a class="set-bar inactive" href="../previews/IRW"><img src="../sets/IRW-files/icon.png">By Iron Will</a>
 	
-		<a class="set-bar inactive" href="KEC"><img src="/sets/KEC-files/icon.png">Kylem’s Encore</a>
+		<a class="set-bar inactive" href="../previews/KEC"><img src="../sets/KEC-files/icon.png">Kylem’s Encore</a>
 	
-		<a class="set-bar inactive" href="KTG"><img src="/sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
+		<a class="set-bar inactive" href="../previews/KTG"><img src="../sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
 	
-		<a class="set-bar inactive" href="L4D"><img src="/sets/L4D-files/icon.png">LEFT4DEAD</a>
+		<a class="set-bar inactive" href="../previews/L4D"><img src="../sets/L4D-files/icon.png">LEFT4DEAD</a>
 	
-		<a class="set-bar inactive" href="MRC"><img src="/sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
+		<a class="set-bar inactive" href="../previews/MRC"><img src="../sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
 	
-		<a class="set-bar inactive" href="MSL"><img src="/sets/MSL-files/icon.png">Microset Landbase</a>
+		<a class="set-bar inactive" href="../previews/MSL"><img src="../sets/MSL-files/icon.png">Microset Landbase</a>
 	
-		<a class="set-bar inactive" href="PHD"><img src="/sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
+		<a class="set-bar inactive" href="../previews/PHD"><img src="../sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
 	
-		<a class="set-bar inactive" href="REL"><img src="/sets/REL-files/icon.png">Race to the Eternal Lands</a>
+		<a class="set-bar inactive" href="../previews/REL"><img src="../sets/REL-files/icon.png">Race to the Eternal Lands</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Miniset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Miniset</a>
 	
-		<a class="set-bar inactive" href="TOON"><img src="/sets/TOON-files/icon.png">Toon Set</a>
+		<a class="set-bar inactive" href="../previews/TOON"><img src="../sets/TOON-files/icon.png">Toon Set</a>
 	
-		<a class="set-bar inactive" href="TVN"><img src="/sets/TVN-files/icon.png">Titans of Viludin Microset</a>
+		<a class="set-bar inactive" href="../previews/TVN"><img src="../sets/TVN-files/icon.png">Titans of Viludin Microset</a>
 	
-		<a class="set-bar inactive" href="VGT"><img src="/sets/VGT-files/icon.png">Voc-Gal Techniques</a>
+		<a class="set-bar inactive" href="../previews/VGT"><img src="../sets/VGT-files/icon.png">Voc-Gal Techniques</a>
 	
-		<a class="set-bar inactive" href="VLD"><img src="/sets/VLD-files/icon.png">Veldstire</a>
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Veldstire</a>
 	
-		<a class="set-bar inactive" href="VRL"><img src="/sets/VRL-files/icon.png">Veyrathal</a>
+		<a class="set-bar inactive" href="../previews/VRL"><img src="../sets/VRL-files/icon.png">Veyrathal</a>
 	
-		<a class="set-bar inactive" href="XRX"><img src="/sets/XRX-files/icon.png">XereX</a>
+		<a class="set-bar inactive" href="../previews/XRX"><img src="../sets/XRX-files/icon.png">XereX</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/HNG-files/logo.png">
+		<img class="logo" src="../sets/HNG-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\2_Healing Assault.png" id="2_Healing Assault" data-flag="@X" onclick="openSidebar('2_Healing Assault',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\8_Ancestral Barrage of Possibilities.png" id="8_Ancestral Barrage of Possibilities" data-flag="@X" onclick="openSidebar('8_Ancestral Barrage of Possibilities',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\13_Dark Assassin Swipe.png" id="13_Dark Assassin Swipe" data-flag="@X" onclick="openSidebar('13_Dark Assassin Swipe',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\21_Flawless Supreme Lightning.png" id="21_Flawless Supreme Lightning" data-flag="@X" onclick="openSidebar('21_Flawless Supreme Lightning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\26_Giant Intensifying Kick.png" id="26_Giant Intensifying Kick" data-flag="@X" onclick="openSidebar('26_Giant Intensifying Kick',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\1_Devoted Yojimbo.png" id="1_Devoted Yojimbo" data-flag="@X" onclick="openSidebar('1_Devoted Yojimbo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\7_Aerial Daggermaster.png" id="7_Aerial Daggermaster" data-flag="@X" onclick="openSidebar('7_Aerial Daggermaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\14_Dishonored.png" id="14_Dishonored" data-flag="@X" onclick="openSidebar('14_Dishonored',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\19_Bandit's Assault.png" id="19_Bandits Assault" data-flag="@X" onclick="openSidebar('19_Bandits Assault',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\25_Dutiful Guardian.png" id="25_Dutiful Guardian" data-flag="@X" onclick="openSidebar('25_Dutiful Guardian',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\3_Hero on the Wind.png" id="3_Hero on the Wind" data-flag="@X" onclick="openSidebar('3_Hero on the Wind',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\9_Ki Manipulation.png" id="9_Ki Manipulation" data-flag="@X" onclick="openSidebar('9_Ki Manipulation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\15_Hoarder of Wealth.png" id="15_Hoarder of Wealth" data-flag="@X" onclick="openSidebar('15_Hoarder of Wealth',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\20_Bloody Storm.png" id="20_Bloody Storm" data-flag="@X" onclick="openSidebar('20_Bloody Storm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\27_Spiritual Guide.png" id="27_Spiritual Guide" data-flag="@X" onclick="openSidebar('27_Spiritual Guide',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\4_Majestic Leap.png" id="4_Majestic Leap" data-flag="@X" onclick="openSidebar('4_Majestic Leap',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\10_Lighter than Air.png" id="10_Lighter than Air" data-flag="@X" onclick="openSidebar('10_Lighter than Air',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\16_Ninja for Hire.png" id="16_Ninja for Hire" data-flag="@X" onclick="openSidebar('16_Ninja for Hire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\22_Hired Brute.png" id="22_Hired Brute" data-flag="@X" onclick="openSidebar('22_Hired Brute',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\28_Warrior of Dragon's Legacy.png" id="28_Warrior of Dragons Legacy" data-flag="@X" onclick="openSidebar('28_Warrior of Dragons Legacy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\5_Slice of Bladed Feathers.png" id="5_Slice of Bladed Feathers" data-flag="@X" onclick="openSidebar('5_Slice of Bladed Feathers',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\11_Spelljutsu Ninja.png" id="11_Spelljutsu Ninja" data-flag="@X" onclick="openSidebar('11_Spelljutsu Ninja',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\17_Strikes of Murderous Intent.png" id="17_Strikes of Murderous Intent" data-flag="@X" onclick="openSidebar('17_Strikes of Murderous Intent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\23_Shocking Strike.png" id="23_Shocking Strike" data-flag="@X" onclick="openSidebar('23_Shocking Strike',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\29_Warrior's Challenge.png" id="29_Warriors Challenge" data-flag="@X" onclick="openSidebar('29_Warriors Challenge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\6_Unimposing Master.png" id="6_Unimposing Master" data-flag="@X" onclick="openSidebar('6_Unimposing Master',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\12_Typhoon Cut.png" id="12_Typhoon Cut" data-flag="@X" onclick="openSidebar('12_Typhoon Cut',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\18_Warrior's Spirit.png" id="18_Warriors Spirit" data-flag="@X" onclick="openSidebar('18_Warriors Spirit',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\24_Worthy Opponent.png" id="24_Worthy Opponent" data-flag="@X" onclick="openSidebar('24_Worthy Opponent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\30_Whispering Fang Strikes.png" id="30_Whispering Fang Strikes" data-flag="@X" onclick="openSidebar('30_Whispering Fang Strikes',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\HNG-files\img\2_Healing Assault.png" id="HNG_2_Healing Assault" data-flag="@X" onclick="openSidebar('HNG_2_Healing Assault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\8_Ancestral Barrage of Possibilities.png" id="HNG_8_Ancestral Barrage of Possibilities" data-flag="@X" onclick="openSidebar('HNG_8_Ancestral Barrage of Possibilities',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\13_Dark Assassin Swipe.png" id="HNG_13_Dark Assassin Swipe" data-flag="@X" onclick="openSidebar('HNG_13_Dark Assassin Swipe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\21_Flawless Supreme Lightning.png" id="HNG_21_Flawless Supreme Lightning" data-flag="@X" onclick="openSidebar('HNG_21_Flawless Supreme Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\26_Giant Intensifying Kick.png" id="HNG_26_Giant Intensifying Kick" data-flag="@X" onclick="openSidebar('HNG_26_Giant Intensifying Kick',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\1_Devoted Yojimbo.png" id="HNG_1_Devoted Yojimbo" data-flag="@X" onclick="openSidebar('HNG_1_Devoted Yojimbo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\7_Aerial Daggermaster.png" id="HNG_7_Aerial Daggermaster" data-flag="@X" onclick="openSidebar('HNG_7_Aerial Daggermaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\14_Dishonored.png" id="HNG_14_Dishonored" data-flag="@X" onclick="openSidebar('HNG_14_Dishonored',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\19_Bandit's Assault.png" id="HNG_19_Bandits Assault" data-flag="@X" onclick="openSidebar('HNG_19_Bandits Assault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\25_Dutiful Guardian.png" id="HNG_25_Dutiful Guardian" data-flag="@X" onclick="openSidebar('HNG_25_Dutiful Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\3_Hero on the Wind.png" id="HNG_3_Hero on the Wind" data-flag="@X" onclick="openSidebar('HNG_3_Hero on the Wind',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\9_Ki Manipulation.png" id="HNG_9_Ki Manipulation" data-flag="@X" onclick="openSidebar('HNG_9_Ki Manipulation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\15_Hoarder of Wealth.png" id="HNG_15_Hoarder of Wealth" data-flag="@X" onclick="openSidebar('HNG_15_Hoarder of Wealth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\20_Bloody Storm.png" id="HNG_20_Bloody Storm" data-flag="@X" onclick="openSidebar('HNG_20_Bloody Storm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\27_Spiritual Guide.png" id="HNG_27_Spiritual Guide" data-flag="@X" onclick="openSidebar('HNG_27_Spiritual Guide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\4_Majestic Leap.png" id="HNG_4_Majestic Leap" data-flag="@X" onclick="openSidebar('HNG_4_Majestic Leap',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\10_Lighter than Air.png" id="HNG_10_Lighter than Air" data-flag="@X" onclick="openSidebar('HNG_10_Lighter than Air',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\16_Ninja for Hire.png" id="HNG_16_Ninja for Hire" data-flag="@X" onclick="openSidebar('HNG_16_Ninja for Hire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\22_Hired Brute.png" id="HNG_22_Hired Brute" data-flag="@X" onclick="openSidebar('HNG_22_Hired Brute',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\28_Warrior of Dragon's Legacy.png" id="HNG_28_Warrior of Dragons Legacy" data-flag="@X" onclick="openSidebar('HNG_28_Warrior of Dragons Legacy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\5_Slice of Bladed Feathers.png" id="HNG_5_Slice of Bladed Feathers" data-flag="@X" onclick="openSidebar('HNG_5_Slice of Bladed Feathers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\11_Spelljutsu Ninja.png" id="HNG_11_Spelljutsu Ninja" data-flag="@X" onclick="openSidebar('HNG_11_Spelljutsu Ninja',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\17_Strikes of Murderous Intent.png" id="HNG_17_Strikes of Murderous Intent" data-flag="@X" onclick="openSidebar('HNG_17_Strikes of Murderous Intent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\23_Shocking Strike.png" id="HNG_23_Shocking Strike" data-flag="@X" onclick="openSidebar('HNG_23_Shocking Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\29_Warrior's Challenge.png" id="HNG_29_Warriors Challenge" data-flag="@X" onclick="openSidebar('HNG_29_Warriors Challenge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\6_Unimposing Master.png" id="HNG_6_Unimposing Master" data-flag="@X" onclick="openSidebar('HNG_6_Unimposing Master',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\12_Typhoon Cut.png" id="HNG_12_Typhoon Cut" data-flag="@X" onclick="openSidebar('HNG_12_Typhoon Cut',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\18_Warrior's Spirit.png" id="HNG_18_Warriors Spirit" data-flag="@X" onclick="openSidebar('HNG_18_Warriors Spirit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\24_Worthy Opponent.png" id="HNG_24_Worthy Opponent" data-flag="@X" onclick="openSidebar('HNG_24_Worthy Opponent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\30_Whispering Fang Strikes.png" id="HNG_30_Whispering Fang Strikes" data-flag="@X" onclick="openSidebar('HNG_30_Whispering Fang Strikes',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\35_Kioko, Genius of the Sky.png" id="35_Kioko, Genius of the Sky" data-flag="@X" onclick="openSidebar('35_Kioko, Genius of the Sky',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\37_Orinosuke, Extracting Shinobi.png" id="37_Orinosuke, Extracting Shinobi" data-flag="@X" onclick="openSidebar('37_Orinosuke, Extracting Shinobi',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\40_Xiang Zhou, Corrupted Noble.png" id="40_Xiang Zhou, Corrupted Noble" data-flag="@X" onclick="openSidebar('40_Xiang Zhou, Corrupted Noble',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\32_Hou Guo, Brutal Warrior.png" id="32_Hou Guo, Brutal Warrior" data-flag="@X" onclick="openSidebar('32_Hou Guo, Brutal Warrior',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\41_Xie Yawen, Humble Heroine.png" id="41_Xie Yawen, Humble Heroine" data-flag="@X" onclick="openSidebar('41_Xie Yawen, Humble Heroine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\42_Yan Bo, Biased Tax Collector.png" id="42_Yan Bo, Biased Tax Collector" data-flag="@X" onclick="openSidebar('42_Yan Bo, Biased Tax Collector',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\36_Liao Ru of Limitless Techniques.png" id="36_Liao Ru of Limitless Techniques" data-flag="@X" onclick="openSidebar('36_Liao Ru of Limitless Techniques',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\31_Eternal Beauty.png" id="31_Eternal Beauty" data-flag="@X" onclick="openSidebar('31_Eternal Beauty',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\33_Itsuko the Lightning.png" id="33_Itsuko the Lightning" data-flag="@X" onclick="openSidebar('33_Itsuko the Lightning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\39_Vo Chi Kien, Student of the Past.png" id="39_Vo Chi Kien, Student of the Past" data-flag="@X" onclick="openSidebar('39_Vo Chi Kien, Student of the Past',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\34_Kazushi, Stealer of Honor.png" id="34_Kazushi, Stealer of Honor" data-flag="@X" onclick="openSidebar('34_Kazushi, Stealer of Honor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\38_Sacred Meditation.png" id="38_Sacred Meditation" data-flag="@X" onclick="openSidebar('38_Sacred Meditation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\35_Kioko, Genius of the Sky.png" id="HNG_35_Kioko, Genius of the Sky" data-flag="@X" onclick="openSidebar('HNG_35_Kioko, Genius of the Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\37_Orinosuke, Extracting Shinobi.png" id="HNG_37_Orinosuke, Extracting Shinobi" data-flag="@X" onclick="openSidebar('HNG_37_Orinosuke, Extracting Shinobi',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\40_Xiang Zhou, Corrupted Noble.png" id="HNG_40_Xiang Zhou, Corrupted Noble" data-flag="@X" onclick="openSidebar('HNG_40_Xiang Zhou, Corrupted Noble',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\32_Hou Guo, Brutal Warrior.png" id="HNG_32_Hou Guo, Brutal Warrior" data-flag="@X" onclick="openSidebar('HNG_32_Hou Guo, Brutal Warrior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\41_Xie Yawen, Humble Heroine.png" id="HNG_41_Xie Yawen, Humble Heroine" data-flag="@X" onclick="openSidebar('HNG_41_Xie Yawen, Humble Heroine',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\42_Yan Bo, Biased Tax Collector.png" id="HNG_42_Yan Bo, Biased Tax Collector" data-flag="@X" onclick="openSidebar('HNG_42_Yan Bo, Biased Tax Collector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\36_Liao Ru of Limitless Techniques.png" id="HNG_36_Liao Ru of Limitless Techniques" data-flag="@X" onclick="openSidebar('HNG_36_Liao Ru of Limitless Techniques',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\31_Eternal Beauty.png" id="HNG_31_Eternal Beauty" data-flag="@X" onclick="openSidebar('HNG_31_Eternal Beauty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\33_Itsuko the Lightning.png" id="HNG_33_Itsuko the Lightning" data-flag="@X" onclick="openSidebar('HNG_33_Itsuko the Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\39_Vo Chi Kien, Student of the Past.png" id="HNG_39_Vo Chi Kien, Student of the Past" data-flag="@X" onclick="openSidebar('HNG_39_Vo Chi Kien, Student of the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\34_Kazushi, Stealer of Honor.png" id="HNG_34_Kazushi, Stealer of Honor" data-flag="@X" onclick="openSidebar('HNG_34_Kazushi, Stealer of Honor',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\38_Sacred Meditation.png" id="HNG_38_Sacred Meditation" data-flag="@X" onclick="openSidebar('HNG_38_Sacred Meditation',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\43_Kanabo of the Oni.png" id="43_Kanabo of the Oni" data-flag="@X" onclick="openSidebar('43_Kanabo of the Oni',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\44_Monk's Wraps.png" id="44_Monks Wraps" data-flag="@X" onclick="openSidebar('44_Monks Wraps',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\45_Sacred Katana.png" id="45_Sacred Katana" data-flag="@X" onclick="openSidebar('45_Sacred Katana',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\43_Kanabo of the Oni.png" id="HNG_43_Kanabo of the Oni" data-flag="@X" onclick="openSidebar('HNG_43_Kanabo of the Oni',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\44_Monk's Wraps.png" id="HNG_44_Monks Wraps" data-flag="@X" onclick="openSidebar('HNG_44_Monks Wraps',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\45_Sacred Katana.png" id="HNG_45_Sacred Katana" data-flag="@X" onclick="openSidebar('HNG_45_Sacred Katana',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HNG-files\img\1t_Monk.png" id="1t_Monk" data-flag="@X" onclick="openSidebar('1t_Monk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HNG-files\img\1t_Monk.png" id="HNG_1t_Monk" data-flag="@X" onclick="openSidebar('HNG_1t_Monk',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HNG_e" data-flag="@E" onclick="openSidebar('HNG_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HNG_er" data-flag="@E" onclick="openSidebar('HNG_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -383,19 +406,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -430,13 +545,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -590,16 +708,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -609,7 +727,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

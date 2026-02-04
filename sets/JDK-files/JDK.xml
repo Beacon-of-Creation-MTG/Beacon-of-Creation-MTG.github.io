@@ -466,7 +466,7 @@ When this land enters, you gain 1 life.
 				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Voltaic Construct</name>
@@ -619,7 +619,7 @@ Equip {2}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Saproling Construct JDK</reverse_related>
+			<reverse-related>Saproling Construct JDK</reverse-related>
 		</card>
 		<card>
 			<name>Cyclic Vessel</name>
@@ -736,7 +736,7 @@ When this artifact is put into a graveyard from the battlefield, you may pay {U}
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Shearing Rager</name>
@@ -962,7 +962,7 @@ Equip {2}
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Insect JDK</reverse_related>
+			<reverse-related>Insect JDK</reverse-related>
 		</card>
 		<card>
 			<name>Lethal Prowess</name>
@@ -1084,7 +1084,7 @@ Equip {6}</text>
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>crab JDK</reverse_related>
+			<reverse-related>crab JDK</reverse-related>
 		</card>
 		<card>
 			<name>Basilisker</name>
@@ -1102,7 +1102,7 @@ Equip {6}</text>
 				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Kybertusk Mammoth</name>
@@ -1121,7 +1121,7 @@ When this creature dies, create an Implant token and put this creature&apos;s co
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Steelgrazing Goat</name>
@@ -1209,7 +1209,7 @@ Create an Implant token with a trample counter. (It&apos;s a token artifact with
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Pillabegg Probiota</name>
@@ -1367,7 +1367,7 @@ This creature can&apos;t block.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Junksea Artillerist</name>
@@ -1404,7 +1404,7 @@ This creature can&apos;t attack unless you&apos;ve sacrificed a permanent this t
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Met-A110 Moth</name>
@@ -1624,7 +1624,7 @@ Exile the top card of your library. You may play that card until the end of your
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Triage Tri-Arm</name>
@@ -1696,7 +1696,7 @@ Equip {2}</text>
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Spliceblade Rogue</name>
@@ -1732,7 +1732,7 @@ Lurk {3} (Defending player can&apos;t block this creature unless they pay {3}.)<
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Portable Barricade</name>
@@ -1751,7 +1751,7 @@ Equip {3}</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Servo JDK</reverse_related>
+			<reverse-related>Servo JDK</reverse-related>
 		</card>
 		<card>
 			<name>Quick Revision</name>
@@ -1904,7 +1904,7 @@ Equip {2}</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Dewmoth</name>
@@ -2010,7 +2010,7 @@ This creature enters with a +1/+1 counter if you control a modified creature. (E
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Implant JDK</reverse_related>
+			<reverse-related count="2">Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Rune-Etch Artificer</name>
@@ -2288,7 +2288,7 @@ Whenever enchanted creature dies, you control target opponent during their next 
 				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Witness the End</name>
@@ -2709,7 +2709,7 @@ Equip {2}</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>crab JDK</reverse_related>
+			<reverse-related>crab JDK</reverse-related>
 		</card>
 		<card>
 			<name>Junkyard Expert</name>
@@ -2850,7 +2850,7 @@ When this creature enters, create a green 1/1 Insect creature token for each dif
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Insect JDK</reverse_related>
+			<reverse-related>Insect JDK</reverse-related>
 		</card>
 		<card>
 			<name>Terrabombing</name>
@@ -2884,7 +2884,7 @@ When this creature enters, create a green 1/1 Insect creature token for each dif
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Stampeding Oxobegg</name>
@@ -2904,7 +2904,7 @@ When this creature dies, until end of turn, whenever you would create a token, c
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Insect JDK</reverse_related>
+			<reverse-related>Insect JDK</reverse-related>
 		</card>
 		<card>
 			<name>Perfect Complexion</name>
@@ -3089,7 +3089,7 @@ Clang — Whenever an artifact enters under your control, put a +1/+1 counter on
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>War Djinn</name>
@@ -3246,7 +3246,7 @@ The next time you activate an ability that isn&apos;t a mana ability this turn, 
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Old World Rockstar</name>
@@ -3282,7 +3282,7 @@ Whenever a creature you control attacks, if it entered the battlefield this turn
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="4">Implant JDK</reverse_related>
+			<reverse-related count="4">Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Remelt</name>
@@ -3440,7 +3440,7 @@ Permanents you control with counters on them have ward {X}, where X is the numbe
 				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Archon of Artifice</name>
@@ -3651,7 +3651,7 @@ Whenever this creature attacks, create an Implant token with your choice of a fl
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Universal Engineer</name>
@@ -3765,7 +3765,7 @@ When this creature enters, create an Implant token with a +1/+1 counter. (It&apo
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Cobbled Automaton</name>
@@ -3926,7 +3926,7 @@ Equip artifact creature {B}</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Saproling Construct JDK</reverse_related>
+			<reverse-related>Saproling Construct JDK</reverse-related>
 		</card>
 		<card>
 			<name>Seeding Mine</name>
@@ -4082,7 +4082,7 @@ When this creature enters, return target artifact creature card from your gravey
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Manufacturing Defect</name>
@@ -4293,7 +4293,7 @@ Whenever you would put a keyword counter on a creature you control, put a keywor
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Rhinodrone Piker</name>
@@ -4312,7 +4312,7 @@ Modified creatures you control can&apos;t be blocked by creatures with power 2 o
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Verdant Synthesizer</name>
@@ -4631,7 +4631,7 @@ At the beginning of your end step, sacrifice an artifact.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related count="2">Saproling Construct JDK</reverse_related>
+			<reverse-related count="2">Saproling Construct JDK</reverse-related>
 		</card>
 		<card>
 			<name>Furnace Artillerist</name>
@@ -4821,7 +4821,7 @@ When this creature enters, create an Implant token with your choice of two diffe
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Holographm Stalker</name>
@@ -4893,7 +4893,7 @@ When this creature enters, create an Implant token with a flying counter. (It&ap
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Metalmancer</name>
@@ -4964,7 +4964,7 @@ Create an Implant token with a vigilance counter and a flying counter. (It&apos;
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Digitalize</name>
@@ -5156,7 +5156,7 @@ Protection from colorless sources your opponents control. (This creature can&apo
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Implant JDK</reverse_related>
+			<reverse-related>Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Tinkering Maestro</name>
@@ -5207,7 +5207,7 @@ When this creature enters, modified creatures you control get +2/+0 until end of
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related count="3">Implant JDK</reverse_related>
+			<reverse-related count="3">Implant JDK</reverse-related>
 		</card>
 		<card>
 			<name>Clean Idea</name>
@@ -5243,7 +5243,7 @@ Equip {3}</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Servo JDK</reverse_related>
+			<reverse-related>Servo JDK</reverse-related>
 		</card>
 		<card>
 			<name>Reassemble</name>

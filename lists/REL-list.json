@@ -4,6 +4,7 @@
         "number": 1,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -11,6 +12,7 @@
         "number": 8,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -18,6 +20,7 @@
         "number": 15,
         "shape": "transform double faced",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -25,6 +28,7 @@
         "number": 26,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -32,6 +36,7 @@
         "number": 27,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -39,6 +44,7 @@
         "number": 2,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -46,6 +52,7 @@
         "number": 13,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -53,6 +60,7 @@
         "number": 19,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -60,6 +68,7 @@
         "number": 21,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -67,6 +76,7 @@
         "number": 28,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -74,6 +84,7 @@
         "number": 3,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -81,6 +92,7 @@
         "number": 7,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -88,6 +100,7 @@
         "number": 14,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -95,6 +108,7 @@
         "number": 22,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -102,6 +116,7 @@
         "number": 29,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -109,6 +124,7 @@
         "number": 4,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -116,6 +132,7 @@
         "number": 9,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -123,6 +140,7 @@
         "number": 16,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -130,6 +148,7 @@
         "number": 23,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -137,6 +156,7 @@
         "number": 30,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -144,6 +164,7 @@
         "number": 5,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -151,6 +172,7 @@
         "number": 10,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -158,6 +180,7 @@
         "number": 17,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -165,6 +188,7 @@
         "number": 24,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -172,6 +196,7 @@
         "number": 31,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -179,6 +204,7 @@
         "number": 6,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -186,6 +212,7 @@
         "number": 11,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -193,6 +220,7 @@
         "number": 18,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -200,6 +228,7 @@
         "number": 25,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -207,6 +236,7 @@
         "number": 32,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -217,6 +247,7 @@
         "number": 12,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -224,6 +255,7 @@
         "number": 20,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -253,6 +285,7 @@
         "number": 33,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -266,6 +299,7 @@
         "number": 38,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -291,6 +325,7 @@
         "number": 35,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -298,6 +333,7 @@
         "number": 40,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -305,6 +341,7 @@
         "number": 34,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -318,6 +355,7 @@
         "number": 36,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -349,6 +387,7 @@
         "number": 37,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -356,6 +395,7 @@
         "number": 39,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -363,6 +403,7 @@
         "number": 41,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -389,6 +430,7 @@
         "number": 43,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -396,6 +438,7 @@
         "number": 42,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -403,6 +446,7 @@
         "number": 44,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -410,6 +454,7 @@
         "number": 45,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -435,6 +480,7 @@
         "number": 46,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -442,6 +488,7 @@
         "number": 47,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -449,6 +496,7 @@
         "number": 50,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -456,6 +504,7 @@
         "number": 48,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -463,6 +512,7 @@
         "number": 49,
         "shape": "normal",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -483,6 +533,7 @@
         "number": 1,
         "shape": "token",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -490,6 +541,7 @@
         "number": 3,
         "shape": "token",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -497,6 +549,7 @@
         "number": 4,
         "shape": "token",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -504,6 +557,7 @@
         "number": 5,
         "shape": "token",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {
@@ -511,6 +565,7 @@
         "number": 2,
         "shape": "token",
         "set": "REL",
+        "rotated": false,
         "position": ""
     },
     {

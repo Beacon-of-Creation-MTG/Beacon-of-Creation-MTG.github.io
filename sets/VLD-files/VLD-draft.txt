@@ -472,7 +472,35 @@
 	4 Favor of the Weald
 	4 Mobile Home
 	4 Indentured Fieldguard
-[common(7)]
+[common(6)]
+	8 Korvan Thresher
+	8 Production Overseer
+	8 Planting Season
+	8 Scarlet Matron
+	8 Expansion Overseers
+	8 Wealdwitch Familiar
+	8 Korvan Enforcers
+	8 Wheat from Chaff
+	8 Cruor Harvester
+	8 Stitcher of the Strictures
+	8 Profane Offerings
+	8 Veldstire Bloodrancher
+	8 Poach
+	8 Lurking Fieldfiend
+	8 The Hands That Feed
+	8 Vengeful Thatchlings
+	8 Voracious Roggenwulf
+	8 Red Harvest
+	8 Feldgast's Counsel
+	8 Living Almanac
+	8 Fangweed
+	8 Threadbreaker Magus
+	8 Flockfeaster
+	8 Uprooter's Blessing
+	8 Weald's Edge Herald
+	8 Iron Ox
+	8 Servile Thatchling
+[common | masterpiece(1)]
 	8 Korvan Thresher
 	8 Production Overseer
 	8 Planting Season

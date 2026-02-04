@@ -177,7 +177,7 @@
 			"type": "Token Creature — Plant",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/2_Plant.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/2t_Plant.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Radiation",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1_Radiation.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1t_Radiation.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Token Creature — Monkey",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1_Monkey.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/1t_Monkey.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/3_Food.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/PHD-files/img/3t_Food.png"
 			}
 		}
 	]
@@ -513,7 +513,34 @@
 	4 Academic Discussion
 	4 Alyssa, Student of Life
 	4 Microbiology Man
-[common(7)]
+[common(6)]
+	8 Disease Denoter
+	8 Badger Toxicologist
+	8 Pagebeast Hunter
+	8 Geiger Guy
+	8 Bloodvine
+	8 Hand-to-Hand Psychologist
+	8 Lost In Thought
+	8 Ionize
+	8 Philosophy Undergrad
+	8 Peruse the Schematics
+	8 Irradiating Syphon
+	8 Compulsory Study
+	8 Return to the Page
+	8 Crafted Craftsman
+	8 Pinprickler
+	8 Alive Reading
+	8 Nuclear Isotope
+	8 Scholar of Thoughts
+	8 Engineering Undergrad
+	8 Nuclear Physicist
+	8 Novice Economage
+	8 Undead Undertaker
+	8 Injury Imp
+	8 Crystal Powered Trolley
+	8 Hand-to-Hand Knowledge
+	8 Sinister Insight
+[common | masterpiece(1)]
 	8 Disease Denoter
 	8 Badger Toxicologist
 	8 Pagebeast Hunter

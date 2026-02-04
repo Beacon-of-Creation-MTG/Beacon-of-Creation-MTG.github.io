@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/PHD-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/PHD-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>PHD visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,193 +181,209 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/PHD-files/logo.png" />
-	<img class="preload-hidden" src="/sets/JDK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LEF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/OPZ-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SOC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VGE-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WGJ-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ARC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ASC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/BMR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CFL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CRF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/HNG-files/icon.png" />
-		<img class="preload-hidden" src="/sets/IRW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KEC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KTG-files/icon.png" />
-		<img class="preload-hidden" src="/sets/L4D-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MRC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MSL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PHD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/REL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TOON-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TVN-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VGT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VLD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VRL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/XRX-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/PHD-files/logo.png" />
+	<img class="preload-hidden" src="../sets/JDK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LEF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/OPZ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SOC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VGE-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WGJ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ARC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ASC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/BMR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CFL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CRF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/HNG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/IRW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KEC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KTG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/L4D-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MRC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PHD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/REL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOON-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VGT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/XRX-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="PHD"><img src="/sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
+		<a class="set-bar" href="../previews/PHD"><img src="../sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
 	
-		<a class="set-bar inactive" href="JDK"><img src="/sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
+		<a class="set-bar inactive" href="../previews/JDK"><img src="../sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
 	
-		<a class="set-bar inactive" href="LEF"><img src="/sets/LEF-files/icon.png">Leffway is Made</a>
+		<a class="set-bar inactive" href="../previews/LEF"><img src="../sets/LEF-files/icon.png">Leffway is Made</a>
 	
-		<a class="set-bar inactive" href="OPZ"><img src="/sets/OPZ-files/icon.png">Outpost Zero</a>
+		<a class="set-bar inactive" href="../previews/OPZ"><img src="../sets/OPZ-files/icon.png">Outpost Zero</a>
 	
-		<a class="set-bar inactive" href="SOC"><img src="/sets/SOC-files/icon.png">Stars of Cinesterra</a>
+		<a class="set-bar inactive" href="../previews/SOC"><img src="../sets/SOC-files/icon.png">Stars of Cinesterra</a>
 	
-		<a class="set-bar inactive" href="VGE"><img src="/sets/VGE-files/icon.png">Voc-Gal Echoes</a>
+		<a class="set-bar inactive" href="../previews/VGE"><img src="../sets/VGE-files/icon.png">Voc-Gal Echoes</a>
 	
-		<a class="set-bar inactive" href="WGJ"><img src="/sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
+		<a class="set-bar inactive" href="../previews/WGJ"><img src="../sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
 	
-		<a class="set-bar inactive" href="ARC"><img src="/sets/ARC-files/icon.png">Techniques — Archery</a>
+		<a class="set-bar inactive" href="../previews/ARC"><img src="../sets/ARC-files/icon.png">Techniques — Archery</a>
 	
-		<a class="set-bar inactive" href="ASC"><img src="/sets/ASC-files/icon.png">Act So Cinematic</a>
+		<a class="set-bar inactive" href="../previews/ASC"><img src="../sets/ASC-files/icon.png">Act So Cinematic</a>
 	
-		<a class="set-bar inactive" href="BMR"><img src="/sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
+		<a class="set-bar inactive" href="../previews/BMR"><img src="../sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
 	
-		<a class="set-bar inactive" href="CFL"><img src="/sets/CFL-files/icon.png">Curtain’s Fall</a>
+		<a class="set-bar inactive" href="../previews/CFL"><img src="../sets/CFL-files/icon.png">Curtain’s Fall</a>
 	
-		<a class="set-bar inactive" href="CRF"><img src="/sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
+		<a class="set-bar inactive" href="../previews/CRF"><img src="../sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
 	
-		<a class="set-bar inactive" href="HNG"><img src="/sets/HNG-files/icon.png">Honor and Greed</a>
+		<a class="set-bar inactive" href="../previews/HNG"><img src="../sets/HNG-files/icon.png">Honor and Greed</a>
 	
-		<a class="set-bar inactive" href="IRW"><img src="/sets/IRW-files/icon.png">By Iron Will</a>
+		<a class="set-bar inactive" href="../previews/IRW"><img src="../sets/IRW-files/icon.png">By Iron Will</a>
 	
-		<a class="set-bar inactive" href="KEC"><img src="/sets/KEC-files/icon.png">Kylem’s Encore</a>
+		<a class="set-bar inactive" href="../previews/KEC"><img src="../sets/KEC-files/icon.png">Kylem’s Encore</a>
 	
-		<a class="set-bar inactive" href="KTG"><img src="/sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
+		<a class="set-bar inactive" href="../previews/KTG"><img src="../sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
 	
-		<a class="set-bar inactive" href="L4D"><img src="/sets/L4D-files/icon.png">LEFT4DEAD</a>
+		<a class="set-bar inactive" href="../previews/L4D"><img src="../sets/L4D-files/icon.png">LEFT4DEAD</a>
 	
-		<a class="set-bar inactive" href="MRC"><img src="/sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
+		<a class="set-bar inactive" href="../previews/MRC"><img src="../sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
 	
-		<a class="set-bar inactive" href="MSL"><img src="/sets/MSL-files/icon.png">Microset Landbase</a>
+		<a class="set-bar inactive" href="../previews/MSL"><img src="../sets/MSL-files/icon.png">Microset Landbase</a>
 	
-		<a class="set-bar inactive" href="REL"><img src="/sets/REL-files/icon.png">Race to the Eternal Lands</a>
+		<a class="set-bar inactive" href="../previews/REL"><img src="../sets/REL-files/icon.png">Race to the Eternal Lands</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Miniset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Miniset</a>
 	
-		<a class="set-bar inactive" href="TOON"><img src="/sets/TOON-files/icon.png">Toon Set</a>
+		<a class="set-bar inactive" href="../previews/TOON"><img src="../sets/TOON-files/icon.png">Toon Set</a>
 	
-		<a class="set-bar inactive" href="TVN"><img src="/sets/TVN-files/icon.png">Titans of Viludin Microset</a>
+		<a class="set-bar inactive" href="../previews/TVN"><img src="../sets/TVN-files/icon.png">Titans of Viludin Microset</a>
 	
-		<a class="set-bar inactive" href="VGT"><img src="/sets/VGT-files/icon.png">Voc-Gal Techniques</a>
+		<a class="set-bar inactive" href="../previews/VGT"><img src="../sets/VGT-files/icon.png">Voc-Gal Techniques</a>
 	
-		<a class="set-bar inactive" href="VLD"><img src="/sets/VLD-files/icon.png">Veldstire</a>
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Veldstire</a>
 	
-		<a class="set-bar inactive" href="VRL"><img src="/sets/VRL-files/icon.png">Veyrathal</a>
+		<a class="set-bar inactive" href="../previews/VRL"><img src="../sets/VRL-files/icon.png">Veyrathal</a>
 	
-		<a class="set-bar inactive" href="XRX"><img src="/sets/XRX-files/icon.png">XereX</a>
+		<a class="set-bar inactive" href="../previews/XRX"><img src="../sets/XRX-files/icon.png">XereX</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/PHD-files/logo.png">
+		<img class="logo" src="../sets/PHD-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\1_Archangel of Blueprints.png" id="1_Archangel of Blueprints" data-flag="@X" onclick="openSidebar('1_Archangel of Blueprints',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\11_Peer Review.png" id="11_Peer Review" data-flag="@X" onclick="openSidebar('11_Peer Review',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\14_Antimatter Archivist.png" id="14_Antimatter Archivist" data-flag="@X" onclick="openSidebar('14_Antimatter Archivist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\26_Monkey Proofreader.png" id="26_Monkey Proofreader" data-flag="@X" onclick="openSidebar('26_Monkey Proofreader',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\32_Professor of Physique.png" id="32_Professor of Physique" data-flag="@X" onclick="openSidebar('32_Professor of Physique',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\5_Lost Between the Shelves.png" id="5_Lost Between the Shelves" data-flag="@X" onclick="openSidebar('5_Lost Between the Shelves',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\7_Academic Discussion.png" id="7_Academic Discussion" data-flag="@X" onclick="openSidebar('7_Academic Discussion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\18_Scholar of Dread.png" id="18_Scholar of Dread" data-flag="@X" onclick="openSidebar('18_Scholar of Dread',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\25_Irresponsible Alchemist.png" id="25_Irresponsible Alchemist" data-flag="@X" onclick="openSidebar('25_Irresponsible Alchemist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\30_Microbiology Man.png" id="30_Microbiology Man" data-flag="@X" onclick="openSidebar('30_Microbiology Man',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\2_Engineering Undergrad.png" id="2_Engineering Undergrad" data-flag="@X" onclick="openSidebar('2_Engineering Undergrad',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\8_Lost In Thought.png" id="8_Lost In Thought" data-flag="@X" onclick="openSidebar('8_Lost In Thought',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\15_Disease Denoter.png" id="15_Disease Denoter" data-flag="@X" onclick="openSidebar('15_Disease Denoter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\21_Compulsory Study.png" id="21_Compulsory Study" data-flag="@X" onclick="openSidebar('21_Compulsory Study',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\27_Alive Reading.png" id="27_Alive Reading" data-flag="@X" onclick="openSidebar('27_Alive Reading',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\3_Hand-to-Hand Knowledge.png" id="3_Hand-to-Hand Knowledge" data-flag="@X" onclick="openSidebar('3_Hand-to-Hand Knowledge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\9_Nuclear Isotope.png" id="9_Nuclear Isotope" data-flag="@X" onclick="openSidebar('9_Nuclear Isotope',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\16_Irradiating Syphon.png" id="16_Irradiating Syphon" data-flag="@X" onclick="openSidebar('16_Irradiating Syphon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\22_Geiger Guy.png" id="22_Geiger Guy" data-flag="@X" onclick="openSidebar('22_Geiger Guy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\28_Badger Toxicologist.png" id="28_Badger Toxicologist" data-flag="@X" onclick="openSidebar('28_Badger Toxicologist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\4_Hand-to-Hand Psychologist.png" id="4_Hand-to-Hand Psychologist" data-flag="@X" onclick="openSidebar('4_Hand-to-Hand Psychologist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\10_Nuclear Physicist.png" id="10_Nuclear Physicist" data-flag="@X" onclick="openSidebar('10_Nuclear Physicist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\17_Novice Economage.png" id="17_Novice Economage" data-flag="@X" onclick="openSidebar('17_Novice Economage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\23_Injury Imp.png" id="23_Injury Imp" data-flag="@X" onclick="openSidebar('23_Injury Imp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\29_Bloodvine.png" id="29_Bloodvine" data-flag="@X" onclick="openSidebar('29_Bloodvine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\6_Pagebeast Hunter.png" id="6_Pagebeast Hunter" data-flag="@X" onclick="openSidebar('6_Pagebeast Hunter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\12_Peruse the Schematics.png" id="12_Peruse the Schematics" data-flag="@X" onclick="openSidebar('12_Peruse the Schematics',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\19_Sinister Insight.png" id="19_Sinister Insight" data-flag="@X" onclick="openSidebar('19_Sinister Insight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\24_Ionize.png" id="24_Ionize" data-flag="@X" onclick="openSidebar('24_Ionize',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\31_Philosophy Undergrad.png" id="31_Philosophy Undergrad" data-flag="@X" onclick="openSidebar('31_Philosophy Undergrad',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\13_Scholar of Thoughts.png" id="13_Scholar of Thoughts" data-flag="@X" onclick="openSidebar('13_Scholar of Thoughts',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\20_Undead Undertaker.png" id="20_Undead Undertaker" data-flag="@X" onclick="openSidebar('20_Undead Undertaker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\33_Return to the Page.png" id="33_Return to the Page" data-flag="@X" onclick="openSidebar('33_Return to the Page',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\PHD-files\img\1_Archangel of Blueprints.png" id="PHD_1_Archangel of Blueprints" data-flag="@X" onclick="openSidebar('PHD_1_Archangel of Blueprints',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\11_Peer Review.png" id="PHD_11_Peer Review" data-flag="@X" onclick="openSidebar('PHD_11_Peer Review',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\14_Antimatter Archivist.png" id="PHD_14_Antimatter Archivist" data-flag="@X" onclick="openSidebar('PHD_14_Antimatter Archivist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\26_Monkey Proofreader.png" id="PHD_26_Monkey Proofreader" data-flag="@X" onclick="openSidebar('PHD_26_Monkey Proofreader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\32_Professor of Physique.png" id="PHD_32_Professor of Physique" data-flag="@X" onclick="openSidebar('PHD_32_Professor of Physique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\5_Lost Between the Shelves.png" id="PHD_5_Lost Between the Shelves" data-flag="@X" onclick="openSidebar('PHD_5_Lost Between the Shelves',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\7_Academic Discussion.png" id="PHD_7_Academic Discussion" data-flag="@X" onclick="openSidebar('PHD_7_Academic Discussion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\18_Scholar of Dread.png" id="PHD_18_Scholar of Dread" data-flag="@X" onclick="openSidebar('PHD_18_Scholar of Dread',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\25_Irresponsible Alchemist.png" id="PHD_25_Irresponsible Alchemist" data-flag="@X" onclick="openSidebar('PHD_25_Irresponsible Alchemist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\30_Microbiology Man.png" id="PHD_30_Microbiology Man" data-flag="@X" onclick="openSidebar('PHD_30_Microbiology Man',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\2_Engineering Undergrad.png" id="PHD_2_Engineering Undergrad" data-flag="@X" onclick="openSidebar('PHD_2_Engineering Undergrad',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\8_Lost In Thought.png" id="PHD_8_Lost In Thought" data-flag="@X" onclick="openSidebar('PHD_8_Lost In Thought',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\15_Disease Denoter.png" id="PHD_15_Disease Denoter" data-flag="@X" onclick="openSidebar('PHD_15_Disease Denoter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\21_Compulsory Study.png" id="PHD_21_Compulsory Study" data-flag="@X" onclick="openSidebar('PHD_21_Compulsory Study',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\27_Alive Reading.png" id="PHD_27_Alive Reading" data-flag="@X" onclick="openSidebar('PHD_27_Alive Reading',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\3_Hand-to-Hand Knowledge.png" id="PHD_3_Hand-to-Hand Knowledge" data-flag="@X" onclick="openSidebar('PHD_3_Hand-to-Hand Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\9_Nuclear Isotope.png" id="PHD_9_Nuclear Isotope" data-flag="@X" onclick="openSidebar('PHD_9_Nuclear Isotope',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\16_Irradiating Syphon.png" id="PHD_16_Irradiating Syphon" data-flag="@X" onclick="openSidebar('PHD_16_Irradiating Syphon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\22_Geiger Guy.png" id="PHD_22_Geiger Guy" data-flag="@X" onclick="openSidebar('PHD_22_Geiger Guy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\28_Badger Toxicologist.png" id="PHD_28_Badger Toxicologist" data-flag="@X" onclick="openSidebar('PHD_28_Badger Toxicologist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\4_Hand-to-Hand Psychologist.png" id="PHD_4_Hand-to-Hand Psychologist" data-flag="@X" onclick="openSidebar('PHD_4_Hand-to-Hand Psychologist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\10_Nuclear Physicist.png" id="PHD_10_Nuclear Physicist" data-flag="@X" onclick="openSidebar('PHD_10_Nuclear Physicist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\17_Novice Economage.png" id="PHD_17_Novice Economage" data-flag="@X" onclick="openSidebar('PHD_17_Novice Economage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\23_Injury Imp.png" id="PHD_23_Injury Imp" data-flag="@X" onclick="openSidebar('PHD_23_Injury Imp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\29_Bloodvine.png" id="PHD_29_Bloodvine" data-flag="@X" onclick="openSidebar('PHD_29_Bloodvine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\6_Pagebeast Hunter.png" id="PHD_6_Pagebeast Hunter" data-flag="@X" onclick="openSidebar('PHD_6_Pagebeast Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\12_Peruse the Schematics.png" id="PHD_12_Peruse the Schematics" data-flag="@X" onclick="openSidebar('PHD_12_Peruse the Schematics',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\19_Sinister Insight.png" id="PHD_19_Sinister Insight" data-flag="@X" onclick="openSidebar('PHD_19_Sinister Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\24_Ionize.png" id="PHD_24_Ionize" data-flag="@X" onclick="openSidebar('PHD_24_Ionize',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\31_Philosophy Undergrad.png" id="PHD_31_Philosophy Undergrad" data-flag="@X" onclick="openSidebar('PHD_31_Philosophy Undergrad',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PHD_e" data-flag="@E" onclick="openSidebar('PHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\13_Scholar of Thoughts.png" id="PHD_13_Scholar of Thoughts" data-flag="@X" onclick="openSidebar('PHD_13_Scholar of Thoughts',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\20_Undead Undertaker.png" id="PHD_20_Undead Undertaker" data-flag="@X" onclick="openSidebar('PHD_20_Undead Undertaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PHD_e" data-flag="@E" onclick="openSidebar('PHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\33_Return to the Page.png" id="PHD_33_Return to the Page" data-flag="@X" onclick="openSidebar('PHD_33_Return to the Page',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\38_Pinprickler.png" id="38_Pinprickler" data-flag="@X" onclick="openSidebar('38_Pinprickler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\34_Alyssa, Student of Life.png" id="34_Alyssa, Student of Life" data-flag="@X" onclick="openSidebar('34_Alyssa, Student of Life',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\35_Craig, Overeager Surgeon.png" id="35_Craig, Overeager Surgeon" data-flag="@X" onclick="openSidebar('35_Craig, Overeager Surgeon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\36_Irradiating Insight.png" id="36_Irradiating Insight" data-flag="@X" onclick="openSidebar('36_Irradiating Insight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\37_Knowledge Elemental.png" id="37_Knowledge Elemental" data-flag="@X" onclick="openSidebar('37_Knowledge Elemental',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\39_Re-engineer and Research.png" id="39_Re-engineer and Research" data-flag="@X" onclick="openSidebar('39_Re-engineer and Research',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\40_Territorial Book Bug.png" id="40_Territorial Book Bug" data-flag="@X" onclick="openSidebar('40_Territorial Book Bug',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PHD_e" data-flag="@E" onclick="openSidebar('PHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PHD_e" data-flag="@E" onclick="openSidebar('PHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\38_Pinprickler.png" id="PHD_38_Pinprickler" data-flag="@X" onclick="openSidebar('PHD_38_Pinprickler',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PHD_e" data-flag="@E" onclick="openSidebar('PHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\34_Alyssa, Student of Life.png" id="PHD_34_Alyssa, Student of Life" data-flag="@X" onclick="openSidebar('PHD_34_Alyssa, Student of Life',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\35_Craig, Overeager Surgeon.png" id="PHD_35_Craig, Overeager Surgeon" data-flag="@X" onclick="openSidebar('PHD_35_Craig, Overeager Surgeon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\36_Irradiating Insight.png" id="PHD_36_Irradiating Insight" data-flag="@X" onclick="openSidebar('PHD_36_Irradiating Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\37_Knowledge Elemental.png" id="PHD_37_Knowledge Elemental" data-flag="@X" onclick="openSidebar('PHD_37_Knowledge Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\39_Re-engineer and Research.png" id="PHD_39_Re-engineer and Research" data-flag="@X" onclick="openSidebar('PHD_39_Re-engineer and Research',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\40_Territorial Book Bug.png" id="PHD_40_Territorial Book Bug" data-flag="@X" onclick="openSidebar('PHD_40_Territorial Book Bug',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\41_Autobiography.png" id="41_Autobiography" data-flag="@X" onclick="openSidebar('41_Autobiography',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\42_Chartographer's Tome.png" id="42_Chartographers Tome" data-flag="@X" onclick="openSidebar('42_Chartographers Tome',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\45_Ensouled Enchiridion.png" id="45_Ensouled Enchiridion" data-flag="@X" onclick="openSidebar('45_Ensouled Enchiridion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\43_Crafted Craftsman.png" id="43_Crafted Craftsman" data-flag="@X" onclick="openSidebar('43_Crafted Craftsman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\44_Crystal Powered Trolley.png" id="44_Crystal Powered Trolley" data-flag="@X" onclick="openSidebar('44_Crystal Powered Trolley',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\41_Autobiography.png" id="PHD_41_Autobiography" data-flag="@X" onclick="openSidebar('PHD_41_Autobiography',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\42_Chartographer's Tome.png" id="PHD_42_Chartographers Tome" data-flag="@X" onclick="openSidebar('PHD_42_Chartographers Tome',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\45_Ensouled Enchiridion.png" id="PHD_45_Ensouled Enchiridion" data-flag="@X" onclick="openSidebar('PHD_45_Ensouled Enchiridion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\43_Crafted Craftsman.png" id="PHD_43_Crafted Craftsman" data-flag="@X" onclick="openSidebar('PHD_43_Crafted Craftsman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\44_Crystal Powered Trolley.png" id="PHD_44_Crystal Powered Trolley" data-flag="@X" onclick="openSidebar('PHD_44_Crystal Powered Trolley',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\1t_Radiation.png" id="1t_Radiation" data-flag="@X" onclick="openSidebar('1t_Radiation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\3t_Food.png" id="3t_Food" data-flag="@X" onclick="openSidebar('3t_Food',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\1t_Monkey.png" id="1t_Monkey" data-flag="@X" onclick="openSidebar('1t_Monkey',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\PHD-files\img\2t_Plant.png" id="2t_Plant" data-flag="@X" onclick="openSidebar('2t_Plant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\1t_Radiation.png" id="PHD_1t_Radiation" data-flag="@X" onclick="openSidebar('PHD_1t_Radiation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\3t_Food.png" id="PHD_3t_Food" data-flag="@X" onclick="openSidebar('PHD_3t_Food',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\1t_Monkey.png" id="PHD_1t_Monkey" data-flag="@X" onclick="openSidebar('PHD_1t_Monkey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PHD-files\img\2t_Plant.png" id="PHD_2t_Plant" data-flag="@X" onclick="openSidebar('PHD_2t_Plant',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PHD_e" data-flag="@E" onclick="openSidebar('PHD_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PHD_er" data-flag="@E" onclick="openSidebar('PHD_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -373,19 +396,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -420,13 +535,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -580,16 +698,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -599,7 +717,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

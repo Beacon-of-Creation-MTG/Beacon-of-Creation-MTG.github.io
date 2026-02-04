@@ -63,6 +63,7 @@ At the beginning of your end step, if a creature you control was dealt damage th
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>food</related>
 		</card>
 		<card>
 			<name>Geiger Guy</name>
@@ -315,7 +316,7 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Alyssa, Student of Life</reverse_related>
+			<reverse-related>Alyssa, Student of Life</reverse-related>
 		</card>
 		<card>
 			<name>Archangel of Blueprints</name>
@@ -370,6 +371,7 @@ Feral — At the beginning of your end step, you may discard your hand. If you d
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Monkey</related>
 		</card>
 		<card>
 			<name>Autobiography</name>
@@ -746,14 +748,14 @@ At the beginning of your upkeep, surveil X, where X is the number of experience 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Irradiating Insight</reverse_related>
-			<reverse_related>Crystal Powered Trolley</reverse_related>
-			<reverse_related>Nuclear Isotope</reverse_related>
-			<reverse_related>Nuclear Physicist</reverse_related>
-			<reverse_related>Antimatter Archivist</reverse_related>
-			<reverse_related>Irradiating Syphon</reverse_related>
-			<reverse_related>Geiger Guy</reverse_related>
-			<reverse_related>Irresponsible Alchemist</reverse_related>
+			<reverse-related>Irradiating Insight</reverse-related>
+			<reverse-related>Crystal Powered Trolley</reverse-related>
+			<reverse-related>Nuclear Isotope</reverse-related>
+			<reverse-related>Nuclear Physicist</reverse-related>
+			<reverse-related>Antimatter Archivist</reverse-related>
+			<reverse-related>Irradiating Syphon</reverse-related>
+			<reverse-related>Geiger Guy</reverse-related>
+			<reverse-related>Irresponsible Alchemist</reverse-related>
 		</card>
 		<card>
 			<name>Monkey PHD</name>
@@ -772,7 +774,7 @@ At the beginning of your upkeep, surveil X, where X is the number of experience 
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Monkey Proofreader</reverse_related>
+			<reverse-related>Monkey Proofreader</reverse-related>
 		</card>
 		<card>
 			<name>Sinister Insight</name>
@@ -823,6 +825,7 @@ Draw two cards.</text>
 				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Plant</related>
 		</card>
 		<card>
 			<name>Microbiology Man</name>
@@ -855,7 +858,7 @@ Draw two cards.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Pagebeast Hunter</reverse_related>
+			<reverse-related>Pagebeast Hunter</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

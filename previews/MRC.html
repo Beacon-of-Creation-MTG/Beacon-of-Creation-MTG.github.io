@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/MRC-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/MRC-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>MRC visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,188 +181,204 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/MRC-files/logo.png" />
-	<img class="preload-hidden" src="/sets/JDK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LEF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/OPZ-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SOC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VGE-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WGJ-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ARC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/ASC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/BMR-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CFL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CRF-files/icon.png" />
-		<img class="preload-hidden" src="/sets/HNG-files/icon.png" />
-		<img class="preload-hidden" src="/sets/IRW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KEC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/KTG-files/icon.png" />
-		<img class="preload-hidden" src="/sets/L4D-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MRC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MSL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PHD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/REL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/STW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TOON-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TVN-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VGT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VLD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/VRL-files/icon.png" />
-		<img class="preload-hidden" src="/sets/XRX-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/MRC-files/logo.png" />
+	<img class="preload-hidden" src="../sets/JDK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LEF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/OPZ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SOC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VGE-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WGJ-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ARC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/ASC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/BMR-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CFL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CRF-files/icon.png" />
+		<img class="preload-hidden" src="../sets/HNG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/IRW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KEC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/KTG-files/icon.png" />
+		<img class="preload-hidden" src="../sets/L4D-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MRC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PHD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/REL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/STW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOON-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TVN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VGT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VLD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VRL-files/icon.png" />
+		<img class="preload-hidden" src="../sets/XRX-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="MRC"><img src="/sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
+		<a class="set-bar" href="../previews/MRC"><img src="../sets/MRC-files/icon.png">Mercadia: Blood and Gold</a>
 	
-		<a class="set-bar inactive" href="JDK"><img src="/sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
+		<a class="set-bar inactive" href="../previews/JDK"><img src="../sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
 	
-		<a class="set-bar inactive" href="LEF"><img src="/sets/LEF-files/icon.png">Leffway is Made</a>
+		<a class="set-bar inactive" href="../previews/LEF"><img src="../sets/LEF-files/icon.png">Leffway is Made</a>
 	
-		<a class="set-bar inactive" href="OPZ"><img src="/sets/OPZ-files/icon.png">Outpost Zero</a>
+		<a class="set-bar inactive" href="../previews/OPZ"><img src="../sets/OPZ-files/icon.png">Outpost Zero</a>
 	
-		<a class="set-bar inactive" href="SOC"><img src="/sets/SOC-files/icon.png">Stars of Cinesterra</a>
+		<a class="set-bar inactive" href="../previews/SOC"><img src="../sets/SOC-files/icon.png">Stars of Cinesterra</a>
 	
-		<a class="set-bar inactive" href="VGE"><img src="/sets/VGE-files/icon.png">Voc-Gal Echoes</a>
+		<a class="set-bar inactive" href="../previews/VGE"><img src="../sets/VGE-files/icon.png">Voc-Gal Echoes</a>
 	
-		<a class="set-bar inactive" href="WGJ"><img src="/sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
+		<a class="set-bar inactive" href="../previews/WGJ"><img src="../sets/WGJ-files/icon.png">Wrenchmar: Gambit of the Junklords</a>
 	
-		<a class="set-bar inactive" href="ARC"><img src="/sets/ARC-files/icon.png">Techniques — Archery</a>
+		<a class="set-bar inactive" href="../previews/ARC"><img src="../sets/ARC-files/icon.png">Techniques — Archery</a>
 	
-		<a class="set-bar inactive" href="ASC"><img src="/sets/ASC-files/icon.png">Act So Cinematic</a>
+		<a class="set-bar inactive" href="../previews/ASC"><img src="../sets/ASC-files/icon.png">Act So Cinematic</a>
 	
-		<a class="set-bar inactive" href="BMR"><img src="/sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
+		<a class="set-bar inactive" href="../previews/BMR"><img src="../sets/BMR-files/icon.png">Behemoth’s Rise Microset</a>
 	
-		<a class="set-bar inactive" href="CFL"><img src="/sets/CFL-files/icon.png">Curtain’s Fall</a>
+		<a class="set-bar inactive" href="../previews/CFL"><img src="../sets/CFL-files/icon.png">Curtain’s Fall</a>
 	
-		<a class="set-bar inactive" href="CRF"><img src="/sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
+		<a class="set-bar inactive" href="../previews/CRF"><img src="../sets/CRF-files/icon.png">Chikyu: Ruined Future</a>
 	
-		<a class="set-bar inactive" href="HNG"><img src="/sets/HNG-files/icon.png">Honor and Greed</a>
+		<a class="set-bar inactive" href="../previews/HNG"><img src="../sets/HNG-files/icon.png">Honor and Greed</a>
 	
-		<a class="set-bar inactive" href="IRW"><img src="/sets/IRW-files/icon.png">By Iron Will</a>
+		<a class="set-bar inactive" href="../previews/IRW"><img src="../sets/IRW-files/icon.png">By Iron Will</a>
 	
-		<a class="set-bar inactive" href="KEC"><img src="/sets/KEC-files/icon.png">Kylem’s Encore</a>
+		<a class="set-bar inactive" href="../previews/KEC"><img src="../sets/KEC-files/icon.png">Kylem’s Encore</a>
 	
-		<a class="set-bar inactive" href="KTG"><img src="/sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
+		<a class="set-bar inactive" href="../previews/KTG"><img src="../sets/KTG-files/icon.png">Kalthrasha: Genesis</a>
 	
-		<a class="set-bar inactive" href="L4D"><img src="/sets/L4D-files/icon.png">LEFT4DEAD</a>
+		<a class="set-bar inactive" href="../previews/L4D"><img src="../sets/L4D-files/icon.png">LEFT4DEAD</a>
 	
-		<a class="set-bar inactive" href="MSL"><img src="/sets/MSL-files/icon.png">Microset Landbase</a>
+		<a class="set-bar inactive" href="../previews/MSL"><img src="../sets/MSL-files/icon.png">Microset Landbase</a>
 	
-		<a class="set-bar inactive" href="PHD"><img src="/sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
+		<a class="set-bar inactive" href="../previews/PHD"><img src="../sets/PHD-files/icon.png">Panarchademia: Hardcover Labyrinth</a>
 	
-		<a class="set-bar inactive" href="REL"><img src="/sets/REL-files/icon.png">Race to the Eternal Lands</a>
+		<a class="set-bar inactive" href="../previews/REL"><img src="../sets/REL-files/icon.png">Race to the Eternal Lands</a>
 	
-		<a class="set-bar inactive" href="STW"><img src="/sets/STW-files/icon.png">Star Wars Miniset</a>
+		<a class="set-bar inactive" href="../previews/STW"><img src="../sets/STW-files/icon.png">Star Wars Miniset</a>
 	
-		<a class="set-bar inactive" href="TOON"><img src="/sets/TOON-files/icon.png">Toon Set</a>
+		<a class="set-bar inactive" href="../previews/TOON"><img src="../sets/TOON-files/icon.png">Toon Set</a>
 	
-		<a class="set-bar inactive" href="TVN"><img src="/sets/TVN-files/icon.png">Titans of Viludin Microset</a>
+		<a class="set-bar inactive" href="../previews/TVN"><img src="../sets/TVN-files/icon.png">Titans of Viludin Microset</a>
 	
-		<a class="set-bar inactive" href="VGT"><img src="/sets/VGT-files/icon.png">Voc-Gal Techniques</a>
+		<a class="set-bar inactive" href="../previews/VGT"><img src="../sets/VGT-files/icon.png">Voc-Gal Techniques</a>
 	
-		<a class="set-bar inactive" href="VLD"><img src="/sets/VLD-files/icon.png">Veldstire</a>
+		<a class="set-bar inactive" href="../previews/VLD"><img src="../sets/VLD-files/icon.png">Veldstire</a>
 	
-		<a class="set-bar inactive" href="VRL"><img src="/sets/VRL-files/icon.png">Veyrathal</a>
+		<a class="set-bar inactive" href="../previews/VRL"><img src="../sets/VRL-files/icon.png">Veyrathal</a>
 	
-		<a class="set-bar inactive" href="XRX"><img src="/sets/XRX-files/icon.png">XereX</a>
+		<a class="set-bar inactive" href="../previews/XRX"><img src="../sets/XRX-files/icon.png">XereX</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/MRC-files/logo.png">
+		<img class="logo" src="../sets/MRC-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\2_Foreseen Storm.png" id="2_Foreseen Storm" data-flag="@X" onclick="openSidebar('2_Foreseen Storm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\10_Outer-Sea Tyrant.png" id="10_Outer-Sea Tyrant" data-flag="@X" onclick="openSidebar('10_Outer-Sea Tyrant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\17_Entrepreneurial Intent.png" id="17_Entrepreneurial Intent" data-flag="@X" onclick="openSidebar('17_Entrepreneurial Intent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\23_Hellkite Whelp.png" id="23_Hellkite Whelp" data-flag="@X" onclick="openSidebar('23_Hellkite Whelp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\31_Henge Supplicant.png" id="31_Henge Supplicant" data-flag="@X" onclick="openSidebar('31_Henge Supplicant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\1_Cateran Guilt.png" id="1_Cateran Guilt" data-flag="@X" onclick="openSidebar('1_Cateran Guilt',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\9_Drive a Hard Bargain.png" id="9_Drive a Hard Bargain" data-flag="@X" onclick="openSidebar('9_Drive a Hard Bargain',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\18_Laissez Faire.png" id="18_Laissez Faire" data-flag="@X" onclick="openSidebar('18_Laissez Faire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\21_Deregulation.png" id="21_Deregulation" data-flag="@X" onclick="openSidebar('21_Deregulation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\27_Cho-Arrim Connection.png" id="27_Cho-Arrim Connection" data-flag="@X" onclick="openSidebar('27_Cho-Arrim Connection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\3_Hand of the Market.png" id="3_Hand of the Market" data-flag="@X" onclick="openSidebar('3_Hand of the Market',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\7_Barter with Fate.png" id="7_Barter with Fate" data-flag="@X" onclick="openSidebar('7_Barter with Fate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\14_Alchemical Shyster.png" id="14_Alchemical Shyster" data-flag="@X" onclick="openSidebar('14_Alchemical Shyster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\22_Flight from Privilege.png" id="22_Flight from Privilege" data-flag="@X" onclick="openSidebar('22_Flight from Privilege',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\28_Cho-Arrim Entrancer.png" id="28_Cho-Arrim Entrancer" data-flag="@X" onclick="openSidebar('28_Cho-Arrim Entrancer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\4_Lost in the Bustle.png" id="4_Lost in the Bustle" data-flag="@X" onclick="openSidebar('4_Lost in the Bustle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\8_Clock Tower.png" id="8_Clock Tower" data-flag="@X" onclick="openSidebar('8_Clock Tower',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\15_Blade of Ramos.png" id="15_Blade of Ramos" data-flag="@X" onclick="openSidebar('15_Blade of Ramos',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\24_Ramosian Banner.png" id="24_Ramosian Banner" data-flag="@X" onclick="openSidebar('24_Ramosian Banner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\29_Cold-Blooded Cartographer.png" id="29_Cold-Blooded Cartographer" data-flag="@X" onclick="openSidebar('29_Cold-Blooded Cartographer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\5_Singular Sculptor.png" id="5_Singular Sculptor" data-flag="@X" onclick="openSidebar('5_Singular Sculptor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\11_Overwhelmed Adjudicator.png" id="11_Overwhelmed Adjudicator" data-flag="@X" onclick="openSidebar('11_Overwhelmed Adjudicator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\16_Cateran Negotiation.png" id="16_Cateran Negotiation" data-flag="@X" onclick="openSidebar('16_Cateran Negotiation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\25_Saprazzan Scion.png" id="25_Saprazzan Scion" data-flag="@X" onclick="openSidebar('25_Saprazzan Scion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\30_Deepwood Gnarlbark.png" id="30_Deepwood Gnarlbark" data-flag="@X" onclick="openSidebar('30_Deepwood Gnarlbark',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\6_Wanted Hustler.png" id="6_Wanted Hustler" data-flag="@X" onclick="openSidebar('6_Wanted Hustler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\12_Rushwood Scavenger.png" id="12_Rushwood Scavenger" data-flag="@X" onclick="openSidebar('12_Rushwood Scavenger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\19_Sage of Iachem-oath.png" id="19_Sage of Iachem-oath" data-flag="@X" onclick="openSidebar('19_Sage of Iachem-oath',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\26_Stern Redistributor.png" id="26_Stern Redistributor" data-flag="@X" onclick="openSidebar('26_Stern Redistributor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\32_Prizefight.png" id="32_Prizefight" data-flag="@X" onclick="openSidebar('32_Prizefight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\13_Saprazzan Sylph.png" id="13_Saprazzan Sylph" data-flag="@X" onclick="openSidebar('13_Saprazzan Sylph',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\20_Work to the Bone.png" id="20_Work to the Bone" data-flag="@X" onclick="openSidebar('20_Work to the Bone',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\MRC-files\img\2_Foreseen Storm.png" id="MRC_2_Foreseen Storm" data-flag="@X" onclick="openSidebar('MRC_2_Foreseen Storm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\10_Outer-Sea Tyrant.png" id="MRC_10_Outer-Sea Tyrant" data-flag="@X" onclick="openSidebar('MRC_10_Outer-Sea Tyrant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\17_Entrepreneurial Intent.png" id="MRC_17_Entrepreneurial Intent" data-flag="@X" onclick="openSidebar('MRC_17_Entrepreneurial Intent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\23_Hellkite Whelp.png" id="MRC_23_Hellkite Whelp" data-flag="@X" onclick="openSidebar('MRC_23_Hellkite Whelp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\31_Henge Supplicant.png" id="MRC_31_Henge Supplicant" data-flag="@X" onclick="openSidebar('MRC_31_Henge Supplicant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\1_Cateran Guilt.png" id="MRC_1_Cateran Guilt" data-flag="@X" onclick="openSidebar('MRC_1_Cateran Guilt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\9_Drive a Hard Bargain.png" id="MRC_9_Drive a Hard Bargain" data-flag="@X" onclick="openSidebar('MRC_9_Drive a Hard Bargain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\18_Laissez Faire.png" id="MRC_18_Laissez Faire" data-flag="@X" onclick="openSidebar('MRC_18_Laissez Faire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\21_Deregulation.png" id="MRC_21_Deregulation" data-flag="@X" onclick="openSidebar('MRC_21_Deregulation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\27_Cho-Arrim Connection.png" id="MRC_27_Cho-Arrim Connection" data-flag="@X" onclick="openSidebar('MRC_27_Cho-Arrim Connection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\3_Hand of the Market.png" id="MRC_3_Hand of the Market" data-flag="@X" onclick="openSidebar('MRC_3_Hand of the Market',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\7_Barter with Fate.png" id="MRC_7_Barter with Fate" data-flag="@X" onclick="openSidebar('MRC_7_Barter with Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\14_Alchemical Shyster.png" id="MRC_14_Alchemical Shyster" data-flag="@X" onclick="openSidebar('MRC_14_Alchemical Shyster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\22_Flight from Privilege.png" id="MRC_22_Flight from Privilege" data-flag="@X" onclick="openSidebar('MRC_22_Flight from Privilege',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\28_Cho-Arrim Entrancer.png" id="MRC_28_Cho-Arrim Entrancer" data-flag="@X" onclick="openSidebar('MRC_28_Cho-Arrim Entrancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\4_Lost in the Bustle.png" id="MRC_4_Lost in the Bustle" data-flag="@X" onclick="openSidebar('MRC_4_Lost in the Bustle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\8_Clock Tower.png" id="MRC_8_Clock Tower" data-flag="@X" onclick="openSidebar('MRC_8_Clock Tower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\15_Blade of Ramos.png" id="MRC_15_Blade of Ramos" data-flag="@X" onclick="openSidebar('MRC_15_Blade of Ramos',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\24_Ramosian Banner.png" id="MRC_24_Ramosian Banner" data-flag="@X" onclick="openSidebar('MRC_24_Ramosian Banner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\29_Cold-Blooded Cartographer.png" id="MRC_29_Cold-Blooded Cartographer" data-flag="@X" onclick="openSidebar('MRC_29_Cold-Blooded Cartographer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\5_Singular Sculptor.png" id="MRC_5_Singular Sculptor" data-flag="@X" onclick="openSidebar('MRC_5_Singular Sculptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\11_Overwhelmed Adjudicator.png" id="MRC_11_Overwhelmed Adjudicator" data-flag="@X" onclick="openSidebar('MRC_11_Overwhelmed Adjudicator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\16_Cateran Negotiation.png" id="MRC_16_Cateran Negotiation" data-flag="@X" onclick="openSidebar('MRC_16_Cateran Negotiation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\25_Saprazzan Scion.png" id="MRC_25_Saprazzan Scion" data-flag="@X" onclick="openSidebar('MRC_25_Saprazzan Scion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\30_Deepwood Gnarlbark.png" id="MRC_30_Deepwood Gnarlbark" data-flag="@X" onclick="openSidebar('MRC_30_Deepwood Gnarlbark',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\6_Wanted Hustler.png" id="MRC_6_Wanted Hustler" data-flag="@X" onclick="openSidebar('MRC_6_Wanted Hustler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\12_Rushwood Scavenger.png" id="MRC_12_Rushwood Scavenger" data-flag="@X" onclick="openSidebar('MRC_12_Rushwood Scavenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\19_Sage of Iachem-oath.png" id="MRC_19_Sage of Iachem-oath" data-flag="@X" onclick="openSidebar('MRC_19_Sage of Iachem-oath',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\26_Stern Redistributor.png" id="MRC_26_Stern Redistributor" data-flag="@X" onclick="openSidebar('MRC_26_Stern Redistributor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\32_Prizefight.png" id="MRC_32_Prizefight" data-flag="@X" onclick="openSidebar('MRC_32_Prizefight',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\13_Saprazzan Sylph.png" id="MRC_13_Saprazzan Sylph" data-flag="@X" onclick="openSidebar('MRC_13_Saprazzan Sylph',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\20_Work to the Bone.png" id="MRC_20_Work to the Bone" data-flag="@X" onclick="openSidebar('MRC_20_Work to the Bone',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\33_Blacksmith's Guardian.png" id="33_Blacksmiths Guardian" data-flag="@X" onclick="openSidebar('33_Blacksmiths Guardian',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\34_Pilfering Harpy.png" id="34_Pilfering Harpy" data-flag="@X" onclick="openSidebar('34_Pilfering Harpy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\35_Arabeka's Handmaid.png" id="35_Arabekas Handmaid" data-flag="@X" onclick="openSidebar('35_Arabekas Handmaid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\36_Extortion Patrol.png" id="36_Extortion Patrol" data-flag="@X" onclick="openSidebar('36_Extortion Patrol',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\37_Hydraulic Haulier.png" id="37_Hydraulic Haulier" data-flag="@X" onclick="openSidebar('37_Hydraulic Haulier',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\38_Deepwood Shade.png" id="38_Deepwood Shade" data-flag="@X" onclick="openSidebar('38_Deepwood Shade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\41_Lamprey Hydra.png" id="41_Lamprey Hydra" data-flag="@X" onclick="openSidebar('41_Lamprey Hydra',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\39_Soul of the Henge.png" id="39_Soul of the Henge" data-flag="@X" onclick="openSidebar('39_Soul of the Henge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\40_Aven Appraiser.png" id="40_Aven Appraiser" data-flag="@X" onclick="openSidebar('40_Aven Appraiser',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\33_Blacksmith's Guardian.png" id="MRC_33_Blacksmiths Guardian" data-flag="@X" onclick="openSidebar('MRC_33_Blacksmiths Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\34_Pilfering Harpy.png" id="MRC_34_Pilfering Harpy" data-flag="@X" onclick="openSidebar('MRC_34_Pilfering Harpy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\35_Arabeka's Handmaid.png" id="MRC_35_Arabekas Handmaid" data-flag="@X" onclick="openSidebar('MRC_35_Arabekas Handmaid',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\36_Extortion Patrol.png" id="MRC_36_Extortion Patrol" data-flag="@X" onclick="openSidebar('MRC_36_Extortion Patrol',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\37_Hydraulic Haulier.png" id="MRC_37_Hydraulic Haulier" data-flag="@X" onclick="openSidebar('MRC_37_Hydraulic Haulier',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\38_Deepwood Shade.png" id="MRC_38_Deepwood Shade" data-flag="@X" onclick="openSidebar('MRC_38_Deepwood Shade',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\41_Lamprey Hydra.png" id="MRC_41_Lamprey Hydra" data-flag="@X" onclick="openSidebar('MRC_41_Lamprey Hydra',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\39_Soul of the Henge.png" id="MRC_39_Soul of the Henge" data-flag="@X" onclick="openSidebar('MRC_39_Soul of the Henge',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\40_Aven Appraiser.png" id="MRC_40_Aven Appraiser" data-flag="@X" onclick="openSidebar('MRC_40_Aven Appraiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\44_Mox Nacre.png" id="44_Mox Nacre" data-flag="@X" onclick="openSidebar('44_Mox Nacre',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\42_Imp Wrangler.png" id="42_Imp Wrangler" data-flag="@X" onclick="openSidebar('42_Imp Wrangler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\43_Kyren Courier.png" id="43_Kyren Courier" data-flag="@X" onclick="openSidebar('43_Kyren Courier',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\MRC-files\img\45_Rishadan Abacus.png" id="45_Rishadan Abacus" data-flag="@X" onclick="openSidebar('45_Rishadan Abacus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\44_Mox Nacre.png" id="MRC_44_Mox Nacre" data-flag="@X" onclick="openSidebar('MRC_44_Mox Nacre',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\42_Imp Wrangler.png" id="MRC_42_Imp Wrangler" data-flag="@X" onclick="openSidebar('MRC_42_Imp Wrangler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\43_Kyren Courier.png" id="MRC_43_Kyren Courier" data-flag="@X" onclick="openSidebar('MRC_43_Kyren Courier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\MRC-files\img\45_Rishadan Abacus.png" id="MRC_45_Rishadan Abacus" data-flag="@X" onclick="openSidebar('MRC_45_Rishadan Abacus',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="MRC_e" data-flag="@E" onclick="openSidebar('MRC_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="MRC_er" data-flag="@E" onclick="openSidebar('MRC_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -368,19 +391,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -415,13 +530,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -575,16 +693,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -594,7 +712,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

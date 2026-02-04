@@ -7,7 +7,7 @@
 			"type": "Skill Token",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/2_Skill Tree.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/2t_Skill Tree.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Token Creature — Shapeshifter",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/1_Shapeshifter.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/1t_Shapeshifter.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/3_Bird.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/3t_Bird.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/8_Treasure.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/8t_Treasure.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/7_Sword.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/7t_Sword.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/5_Zombie.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/5t_Zombie.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Token Creature — Skeleton",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/4_Skeleton.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/4t_Skeleton.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/6_Elemental.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/VRL-files/img/6t_Elemental.png"
 			}
 		}
 	]
@@ -552,7 +552,35 @@
 	4 Enriching Study
 	4 Golden Champion
 	4 Shocking Research
-[common(7)]
+[common(6)]
+	8 Ancestral Guardianship
+	8 Old Anoria Outrider
+	8 Radiant Templar
+	8 Vaelan Bladesworn
+	8 Glass Prison
+	8 Scroll Peddler
+	8 Depths Prowler
+	8 Shockbreath Juvenile
+	8 Ravenous Direbat
+	8 Skulking Assassin
+	8 Bishop of High Anoria
+	8 Deadly Alliance
+	8 United Defense
+	8 Veteran Shieldmage
+	8 Coin-Turner Mercenary
+	8 Vaelan Firemage
+	8 Hellstone Outfitter
+	8 Wanderer of Old Anoria
+	8 Anorian Blade-Guard
+	8 Tower Wurm
+	8 Defeat the Dragon
+	8 Mask of Hidden Identity
+	8 Voltite Automaton
+	8 Resonance Field
+	8 Deviant Sentinel
+	8 Nightwalker Warpriest
+	8 Emra's Torrent
+[common | masterpiece(1)]
 	8 Ancestral Guardianship
 	8 Old Anoria Outrider
 	8 Radiant Templar

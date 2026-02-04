@@ -482,7 +482,35 @@
 	4 Verdant Repose
 	4 Ambient Summoner
 	4 Spellwork Enthusiast
-[common(7)]
+[common(6)]
+	8 Deconstitute
+	8 Mana-Thrust Skater
+	8 Deep-Focus Automaton
+	8 Leadership
+	8 Rooftop Runners
+	8 Tune In
+	8 Soaring Gearheads
+	8 Flight of Fancy
+	8 Rearm
+	8 Junkyard Emergent
+	8 Model Weapon
+	8 Combat Apprentice
+	8 Weapon Surge
+	8 Patchwork Collector
+	8 Roving Skaters
+	8 New Sights to See
+	8 Traveling Aspirants
+	8 Internal Weaponcraft
+	8 Greatsword Student
+	8 Personal Headphones
+	8 Infused Heirloom
+	8 Potential
+	8 Calm
+	8 Fateful Encounter
+	8 Quick Slash
+	8 Outpace
+	8 A Dark Whisper
+[common | masterpiece(1)]
 	8 Deconstitute
 	8 Mana-Thrust Skater
 	8 Deep-Focus Automaton

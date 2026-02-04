@@ -2742,7 +2742,7 @@
 		},
 		{
 			"name": "Ascent of the Worthy",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "16",
@@ -2752,7 +2752,7 @@
 		},
 		{
 			"name": "Binding of the Old Gods",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "17",
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"name": "Bounty of the Luxa",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "18",
@@ -2772,7 +2772,7 @@
 		},
 		{
 			"name": "Frenzied Fugue",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "10",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"name": "Korvold and the Noble Thief",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "11",
@@ -2792,7 +2792,7 @@
 		},
 		{
 			"name": "Lilting Refrain",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "5",
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"name": "Lorehold Excavation",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "19",
@@ -2812,7 +2812,7 @@
 		},
 		{
 			"name": "Love Song of Night and Day",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "1",
@@ -2822,7 +2822,7 @@
 		},
 		{
 			"name": "No Rest for the Wicked",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "8",
@@ -2832,7 +2832,7 @@
 		},
 		{
 			"name": "Quicksilver Dagger",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
@@ -2842,7 +2842,7 @@
 		},
 		{
 			"name": "Second Wind",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "6",
@@ -2852,7 +2852,7 @@
 		},
 		{
 			"name": "Serra's Embrace",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
@@ -2862,7 +2862,7 @@
 		},
 		{
 			"name": "Song of Freyalise",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Saga",
 			"collector_number": "13",
@@ -2872,7 +2872,7 @@
 		},
 		{
 			"name": "Song of Serenity",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "14",
@@ -2882,7 +2882,7 @@
 		},
 		{
 			"name": "Song of the Dryads",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "15",
@@ -2892,7 +2892,7 @@
 		},
 		{
 			"name": "Songbirds' Blessing",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "3",
@@ -2902,7 +2902,7 @@
 		},
 		{
 			"name": "The Bath Song",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "4",
@@ -2912,7 +2912,7 @@
 		},
 		{
 			"name": "The Eldest Reborn",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "7",
@@ -2922,7 +2922,7 @@
 		},
 		{
 			"name": "Torch Song",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"collector_number": "12",
@@ -2932,7 +2932,7 @@
 		},
 		{
 			"name": "Vile Requiem",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "9",

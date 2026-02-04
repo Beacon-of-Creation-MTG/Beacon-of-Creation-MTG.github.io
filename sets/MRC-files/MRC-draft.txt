@@ -472,7 +472,35 @@
 	4 Blacksmith's Guardian
 	4 Hydraulic Haulier
 	4 Pilfering Harpy
-[common(7)]
+[common(6)]
+	8 Rushwood Scavenger
+	8 Cateran Negotiation
+	8 Flight from Privilege
+	8 Saprazzan Scion
+	8 Cho-Arrim Connection
+	8 Cold-Blooded Cartographer
+	8 Kyren Courier
+	8 Rishadan Abacus
+	8 Hand of the Market
+	8 Singular Sculptor
+	8 Wanted Hustler
+	8 Clock Tower
+	8 Barter with Fate
+	8 Overwhelmed Adjudicator
+	8 Stern Redistributor
+	8 Ramosian Banner
+	8 Prizefight
+	8 Deepwood Gnarlbark
+	8 Blade of Ramos
+	8 Work to the Bone
+	8 Alchemical Shyster
+	8 Lost in the Bustle
+	8 Imp Wrangler
+	8 Sage of Iachem-oath
+	8 Saprazzan Sylph
+	8 Deregulation
+	8 Cho-Arrim Entrancer
+[common | masterpiece(1)]
 	8 Rushwood Scavenger
 	8 Cateran Negotiation
 	8 Flight from Privilege

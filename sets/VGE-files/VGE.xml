@@ -79,7 +79,8 @@ Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Murmur VGE</related>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Overeager Audience</name>
@@ -134,7 +135,8 @@ Whenever this creature attacks, you may pay {1}{BR}. If you do, create two tappe
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Human VGE</reverse_related>
+			<related count="2">Human VGE</related>
+			<reverse-related count="2">Human VGE</reverse-related>
 		</card>
 		<card>
 			<name>Resolute Melody</name>
@@ -187,8 +189,9 @@ Creatures you control gain exalted until end of turn. (Whenever a creature you c
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Wall VGE</reverse_related>
-			<reverse_related>1</reverse_related>
+			<related>Wall VGE</related>
+			<reverse-related>Wall VGE</reverse-related>
+			<reverse-related>1</reverse-related>
 		</card>
 		<card>
 			<name>Even Stars Fall</name>
@@ -261,7 +264,8 @@ When this creature enters, you may pay {1}. If you do create a Murmur token. (It
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Mistral Singer</name>
@@ -298,7 +302,8 @@ When this creature enters, create a 1/1 blue and red Siren creature token with &
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Echo of Complexity</name>
@@ -336,7 +341,8 @@ It&apos;s a round, just follow me. One, Two, Three...</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Dream Songs</name>
@@ -370,7 +376,8 @@ Put a lore counter on up to one target permanent you control.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Thirst for Meaning</name>
@@ -419,7 +426,8 @@ Put a lore counter on up to one target permanent you control.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Reminiscent Tune</name>
@@ -439,7 +447,8 @@ You do not recognize the melody in the murmur.</text>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Decreshh Revenant</name>
@@ -493,7 +502,8 @@ Whenever this creature attacks alone it gets +1/+0 and gains deathtouch until en
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Caller of Ravens</name>
@@ -567,7 +577,8 @@ Return up to one target creature card and up to one target Siren card from your 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Write Your Requiem</name>
@@ -741,7 +752,8 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Echo of Embers</name>
@@ -830,7 +842,8 @@ III — Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment wi
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Lightning Belt</name>
@@ -940,7 +953,8 @@ Enchanted creature gets +2/+0 and has haste.</text>
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Nature&apos;s Duet</name>
@@ -960,7 +974,8 @@ Put a +1/+1 counter on target creature you control.
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Elemental VGE</reverse_related>
+			<related>Elemental VGE</related>
+			<reverse-related>Elemental VGE</reverse-related>
 		</card>
 		<card>
 			<name>Echo of Family</name>
@@ -979,7 +994,8 @@ Whenever this creature attacks, you may pay {2}{UB}. If you do draw a card, then
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Doubletime Diva</name>
@@ -1015,7 +1031,8 @@ Create a Murmur token. (It&apos;s a colorless Saga Murmur enchantment with &quot
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Echoed Ambush</name>
@@ -1188,7 +1205,8 @@ Whenever one or more creature or enchantment cards leaves your graveyard, if you
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Sparkling Finale</name>
@@ -1330,7 +1348,8 @@ Target creature you control gains double strike until end of turn.
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Elemental VGE</reverse_related>
+			<related>Elemental VGE</related>
+			<reverse-related>Elemental VGE</reverse-related>
 		</card>
 		<card>
 			<name>Center of the Ruins</name>
@@ -1365,7 +1384,8 @@ You may spend {C} as though it were mana of any color.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Olgal Murmur Leader</name>
@@ -1383,7 +1403,8 @@ You may spend {C} as though it were mana of any color.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Suddenstar&apos;s Gift</name>
@@ -1403,7 +1424,8 @@ Create a 5/7 green Leviathan creature token with trample.</text>
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Leviathan VGE</reverse_related>
+			<related>Leviathan VGE</related>
+			<reverse-related>Leviathan VGE</reverse-related>
 		</card>
 		<card>
 			<name>Reoccuring Terror</name>
@@ -1495,8 +1517,10 @@ You lose 1 life. Create a Murmur token. (It&apos;s a colorless Saga Murmur encha
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Elf VGE</reverse_related>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Elf VGE</related>
+			<related>Murmur VGE</related>
+			<reverse-related>Elf VGE</reverse-related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Rampaging Bellower</name>
@@ -1550,7 +1574,8 @@ Whenever you create one or more tokens, surveil 1. (Look at the top card of your
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Grandstaff Genius</name>
@@ -1569,7 +1594,8 @@ When this creature enters, create a 1/1 blue and red Siren creature token with &
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Copycat Composer</name>
@@ -1800,7 +1826,8 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -1819,7 +1846,8 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -1838,7 +1866,8 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -1857,7 +1886,8 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -1876,7 +1906,8 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -1914,8 +1945,8 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<related>ape</related>
-			<reverse_related>Accoustic Reflections</reverse_related>
-			<reverse_related> Stable Resolution</reverse_related>
+			<reverse-related>Accoustic Reflections</reverse-related>
+			<reverse-related> Stable Resolution</reverse-related>
 		</card>
 		<card>
 			<name>Elemental VGE</name>
@@ -1935,9 +1966,9 @@ Every child learns these kinds of tunes, though different on each plane, you pro
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<related>ape</related>
-			<reverse_related>Mycosong Dryad</reverse_related>
-			<reverse_related> Call and Response</reverse_related>
-			<reverse_related> Strict Rehearsal</reverse_related>
+			<reverse-related>Mycosong Dryad</reverse-related>
+			<reverse-related> Call and Response</reverse-related>
+			<reverse-related> Strict Rehearsal</reverse-related>
 		</card>
 		<card>
 			<name>Whining Whisps</name>
@@ -1956,7 +1987,8 @@ When this creature enters, you may return another nonland permanent you control 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Encore Sibyl</name>
@@ -2153,7 +2185,8 @@ Finale — Whenever this enchantment or another enchantment is put into your gra
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Human VGE</reverse_related>
+			<related>Human VGE</related>
+			<reverse-related>Human VGE</reverse-related>
 		</card>
 		<card>
 			<name>Worst Critique</name>
@@ -2262,7 +2295,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="3">Human VGE</reverse_related>
+			<related count="3">Human VGE</related>
+			<reverse-related count="3">Human VGE</reverse-related>
 		</card>
 		<card>
 			<name>Musicologist</name>
@@ -2300,7 +2334,8 @@ Draw a card.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Wall VGE</reverse_related>
+			<related>Wall VGE</related>
+			<reverse-related>Wall VGE</reverse-related>
 		</card>
 		<card>
 			<name>Debut Disapproval</name>
@@ -2424,8 +2459,10 @@ Finale — Whenever this creature or another enchantment is put into your gravey
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Elf VGE</reverse_related>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Elf VGE</related>
+			<related>Murmur VGE</related>
+			<reverse-related>Elf VGE</reverse-related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Mentromone Meister</name>
@@ -2497,7 +2534,8 @@ Whenever a noncreature, nonland permanent enters under your control create a 1/1
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Unsung Corpse</name>
@@ -2516,7 +2554,8 @@ Whenever a noncreature, nonland permanent enters under your control create a 1/1
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Firedancer</name>
@@ -2678,7 +2717,8 @@ Enchanted creature gets +1/+1 for each other creature you control. Whenever ench
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Human VGE</reverse_related>
+			<related>Human VGE</related>
+			<reverse-related>Human VGE</reverse-related>
 		</card>
 		<card>
 			<name>Dynamic Lead</name>
@@ -2751,7 +2791,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Inspiration Bottler</name>
@@ -2862,7 +2903,8 @@ When this creature enters, counter up to one target creature spell. If you do, i
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Human VGE</reverse_related>
+			<related>Human VGE</related>
+			<reverse-related>Human VGE</reverse-related>
 		</card>
 		<card>
 			<name>Call and Response</name>
@@ -2882,8 +2924,10 @@ Create a token copy of each of up to two target tokens.</text>
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
-			<reverse_related>Elemental VGE</reverse_related>
+			<related>Elemental VGE</related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
+			<reverse-related>Elemental VGE</reverse-related>
 		</card>
 		<card>
 			<name>Sennai, Songclade&apos;s Start</name>
@@ -2952,7 +2996,8 @@ Sirens you control have haste.</text>
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Ruins Scaler</name>
@@ -3057,7 +3102,8 @@ As long as a creature or enchantment has entered or left your graveyard this tur
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Siren VGE</reverse_related>
+			<related>Siren VGE</related>
+			<reverse-related>Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Songbird Swarms</name>
@@ -3420,7 +3466,8 @@ Sagas you control have &quot;{4V}— Create a token that&apos;s a copy of target
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Emmsi, Rondelli Royalty</name>
@@ -3532,7 +3579,8 @@ Finale — Whenever an enchantment you control is put into the graveyard from th
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Elf VGE</reverse_related>
+			<related>Elf VGE</related>
+			<reverse-related>Elf VGE</reverse-related>
 		</card>
 		<card>
 			<name>Crowd Amplification</name>
@@ -3567,7 +3615,8 @@ Finale — Whenever an enchantment you control is put into the graveyard from th
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Rat VGE</reverse_related>
+			<related>Rat VGE</related>
+			<reverse-related>Rat VGE</reverse-related>
 		</card>
 		<card>
 			<name>Phoenix Siren</name>
@@ -3639,7 +3688,8 @@ Whenever a creature you control attacks alone, you may cast this card from your 
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Pel, Tremolos Tutor</name>
@@ -3676,7 +3726,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Open Air Theater</name>
@@ -3768,7 +3819,8 @@ Search your library for a Planeswalker card that doesn&apos;t share a planeswalk
 			</prop>
 			<tablerow>2</tablerow>
 			<related>Murmur</related>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Rune-Cursed Poet</name>
@@ -3808,7 +3860,8 @@ Proliferate (Choose any number of permanents and/or players, then give each anot
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Elf VGE</reverse_related>
+			<related>Elf VGE</related>
+			<reverse-related>Elf VGE</reverse-related>
 		</card>
 		<card>
 			<name>Swallow the Ruins</name>
@@ -3844,7 +3897,8 @@ Whenever this creature attacks, create a Murmur token. (It&apos;s a colorless Sa
 				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Ends of the Earth</name>
@@ -4005,7 +4059,8 @@ This creature and enchanted creature get +1/+1 for each enchantment you control.
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Song of Blue Yonder</name>
@@ -4101,7 +4156,8 @@ Draw a card.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Elemental VGE</reverse_related>
+			<related>Elemental VGE</related>
+			<reverse-related>Elemental VGE</reverse-related>
 		</card>
 		<card>
 			<name>Mielle, Soloist Primo</name>
@@ -4120,7 +4176,8 @@ Sacrifice a nontoken creature: Target opponent creates a 1/1 black and green Elf
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Elf VGE</reverse_related>
+			<related>Elf VGE</related>
+			<reverse-related>Elf VGE</reverse-related>
 		</card>
 		<card>
 			<name>Killian, Lyricist</name>
@@ -4209,7 +4266,8 @@ Each player loses life equal to the number of cards in their hand.</text>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Spirit of the Composer</name>
@@ -4249,7 +4307,8 @@ You may pay {X}. If you do creatures you control have size X/X until end of turn
 				<coloridentity>UG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Whispering Titan</name>
@@ -4269,7 +4328,8 @@ This creature gets +1/+1 for each chapter ability among sagas you control.
 				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="3">Murmur VGE</reverse_related>
+			<related count="3">Murmur VGE</related>
+			<reverse-related count="3">Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Catchy Tune</name>
@@ -4362,7 +4422,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Lost in Whispers</name>
@@ -4379,7 +4440,8 @@ Finale — Whenever an enchantment is put into your graveyard from the battlefie
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Claine, Belting Siren</name>
@@ -4596,7 +4658,8 @@ Target creature you control deals damage equal to its power to target creature o
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Elf VGE</reverse_related>
+			<related>Elf VGE</related>
+			<reverse-related>Elf VGE</reverse-related>
 		</card>
 		<card>
 			<name>Notyis, Grown from Tales</name>
@@ -4615,7 +4678,8 @@ Sagas you control have &quot;{4V}—Return target non-saga card from your gravey
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Murmur VGE</reverse_related>
+			<related>Murmur VGE</related>
+			<reverse-related>Murmur VGE</reverse-related>
 		</card>
 		<card>
 			<name>Pel&apos;s Compound Duple</name>
@@ -4743,7 +4807,8 @@ Whenever you put a lore counter on a permanent you control, target player mills 
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related count="2">Siren VGE</reverse_related>
+			<related count="2">Siren VGE</related>
+			<reverse-related count="2">Siren VGE</reverse-related>
 		</card>
 		<card>
 			<name>Wailing Whisps</name>
@@ -5019,7 +5084,8 @@ Exile the top three cards of target opponent&apos;s library. You may play those 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Treasure WOE</reverse_related>
+			<related>Treasure WOE</related>
+			<reverse-related>Treasure WOE</reverse-related>
 		</card>
 		<card>
 			<name>Lilting Refrain</name>
@@ -5054,7 +5120,8 @@ Sacrifice this enchantment: Counter target spell unless its controller pays {X},
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Spirit STX</reverse_related>
+			<related>Spirit STX</related>
+			<reverse-related>Spirit STX</reverse-related>
 		</card>
 		<card>
 			<name>Love Song of Night and Day</name>
@@ -5074,7 +5141,8 @@ Put a +1/+1 counter on each of up to two target creatures.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<reverse_related>Bird DMU</reverse_related>
+			<related>Bird DMU</related>
+			<reverse-related>Bird DMU</reverse-related>
 		</card>
 		<card>
 			<name>No Rest for the Wicked</name>
@@ -5302,41 +5370,41 @@ II, III — Add {C}.
 			</prop>
 			<tablerow>1</tablerow>
 			<related>ape</related>
-			<reverse_related>Amphiteater Listener</reverse_related>
-			<reverse_related> Olgal Shore Guardian</reverse_related>
-			<reverse_related> Delayed Performance</reverse_related>
-			<reverse_related> Tuck Within Harmony</reverse_related>
-			<reverse_related> Reminiscent Tune</reverse_related>
-			<reverse_related> Mourning Soliliquist</reverse_related>
-			<reverse_related> Life&apos;s Echo</reverse_related>
-			<reverse_related> Lonely Whispering</reverse_related>
-			<reverse_related> Storykeeper</reverse_related>
-			<reverse_related> Echo of Family</reverse_related>
-			<reverse_related> Follow the Murmur</reverse_related>
-			<reverse_related> Choir of Spirits</reverse_related>
-			<reverse_related> Murmur Echoer</reverse_related>
-			<reverse_related> Gathering Whispers</reverse_related>
-			<reverse_related> Choir Loft</reverse_related>
-			<reverse_related> Vocalists Round</reverse_related>
-			<reverse_related> Reverberant Shore</reverse_related>
-			<reverse_related> Anechoic Chamber</reverse_related>
-			<reverse_related> Crumbling Stage</reverse_related>
-			<reverse_related> Whining Whisps</reverse_related>
-			<reverse_related> Call the Chorus</reverse_related>
-			<reverse_related> Unsung Corpse</reverse_related>
-			<reverse_related> Call and Response</reverse_related>
-			<reverse_related> Amaia, Coda Composer</reverse_related>
-			<reverse_related> The Murmursong Score</reverse_related>
-			<reverse_related> Amonkheti Requiem</reverse_related>
-			<reverse_related> Gisa, Grave Ringer</reverse_related>
-			<reverse_related> Well-Traveled Skald</reverse_related>
-			<reverse_related> Unsung Song</reverse_related>
-			<reverse_related> Muse of the Ruins</reverse_related>
-			<reverse_related> Tremolos Pledge</reverse_related>
-			<reverse_related count="3"> Whispering Titan </reverse_related>
-			<reverse_related> Siren Titan</reverse_related>
-			<reverse_related> Lost in Whispers</reverse_related>
-			<reverse_related> Notyis, Grown from Tales</reverse_related>
+			<reverse-related>Amphiteater Listener</reverse-related>
+			<reverse-related> Olgal Shore Guardian</reverse-related>
+			<reverse-related> Delayed Performance</reverse-related>
+			<reverse-related> Tuck Within Harmony</reverse-related>
+			<reverse-related> Reminiscent Tune</reverse-related>
+			<reverse-related> Mourning Soliliquist</reverse-related>
+			<reverse-related> Life&apos;s Echo</reverse-related>
+			<reverse-related> Lonely Whispering</reverse-related>
+			<reverse-related> Storykeeper</reverse-related>
+			<reverse-related> Echo of Family</reverse-related>
+			<reverse-related> Follow the Murmur</reverse-related>
+			<reverse-related> Choir of Spirits</reverse-related>
+			<reverse-related> Murmur Echoer</reverse-related>
+			<reverse-related> Gathering Whispers</reverse-related>
+			<reverse-related> Choir Loft</reverse-related>
+			<reverse-related> Vocalists Round</reverse-related>
+			<reverse-related> Reverberant Shore</reverse-related>
+			<reverse-related> Anechoic Chamber</reverse-related>
+			<reverse-related> Crumbling Stage</reverse-related>
+			<reverse-related> Whining Whisps</reverse-related>
+			<reverse-related> Call the Chorus</reverse-related>
+			<reverse-related> Unsung Corpse</reverse-related>
+			<reverse-related> Call and Response</reverse-related>
+			<reverse-related> Amaia, Coda Composer</reverse-related>
+			<reverse-related> The Murmursong Score</reverse-related>
+			<reverse-related> Amonkheti Requiem</reverse-related>
+			<reverse-related> Gisa, Grave Ringer</reverse-related>
+			<reverse-related> Well-Traveled Skald</reverse-related>
+			<reverse-related> Unsung Song</reverse-related>
+			<reverse-related> Muse of the Ruins</reverse-related>
+			<reverse-related> Tremolos Pledge</reverse-related>
+			<reverse-related count="3"> Whispering Titan </reverse-related>
+			<reverse-related> Siren Titan</reverse-related>
+			<reverse-related> Lost in Whispers</reverse-related>
+			<reverse-related> Notyis, Grown from Tales</reverse-related>
 		</card>
 		<card>
 			<name>Elf VGE</name>
@@ -5356,12 +5424,12 @@ II, III — Add {C}.
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<related>ape</related>
-			<reverse_related>Gathering Whispers</reverse_related>
-			<reverse_related count="x"> Call the Chorus </reverse_related>
-			<reverse_related> Finalesong Clade</reverse_related>
-			<reverse_related> Pledge of Silence</reverse_related>
-			<reverse_related> Mielle, Soloist Primo</reverse_related>
-			<reverse_related> The Oldest Story</reverse_related>
+			<reverse-related>Gathering Whispers</reverse-related>
+			<reverse-related count="x"> Call the Chorus </reverse-related>
+			<reverse-related> Finalesong Clade</reverse-related>
+			<reverse-related> Pledge of Silence</reverse-related>
+			<reverse-related> Mielle, Soloist Primo</reverse-related>
+			<reverse-related> The Oldest Story</reverse-related>
 		</card>
 		<card>
 			<name>Leviathan VGE</name>
@@ -5381,7 +5449,7 @@ II, III — Add {C}.
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<related>ape</related>
-			<reverse_related>Suddenstar&apos;s Gift</reverse_related>
+			<reverse-related>Suddenstar&apos;s Gift</reverse-related>
 		</card>
 		<card>
 			<name>Human VGE</name>
@@ -5401,10 +5469,10 @@ II, III — Add {C}.
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<related>ape</related>
-			<reverse_related>Maestro of Whims</reverse_related>
-			<reverse_related count="3"> Ruin-Delving Quartet </reverse_related>
-			<reverse_related> Blessings of the Crowd</reverse_related>
-			<reverse_related> Dowsing Couple</reverse_related>
+			<reverse-related>Maestro of Whims</reverse-related>
+			<reverse-related count="3"> Ruin-Delving Quartet </reverse-related>
+			<reverse-related> Blessings of the Crowd</reverse-related>
+			<reverse-related> Dowsing Couple</reverse-related>
 		</card>
 		<card>
 			<name>Rat VGE</name>
@@ -5424,7 +5492,7 @@ II, III — Add {C}.
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<related>ape</related>
-			<reverse_related count="x">Totentanz, Murmur Maginifier </reverse_related>
+			<reverse-related count="x">Totentanz, Murmur Maginifier </reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

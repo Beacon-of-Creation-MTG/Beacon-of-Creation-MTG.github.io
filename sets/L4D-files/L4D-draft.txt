@@ -472,7 +472,35 @@
 	4 Pestilent Zombies
 	4 Alarmed Car
 	4 Sniper Rifle
-[common(7)]
+[common(6)]
+	8 Jockey Ride
+	8 Pummeling Charger
+	8 Ravenous Horde
+	8 Headshot
+	8 Team Healer
+	8 Rooftop Smoker
+	8 Bilious Boomer
+	8 Molotov Throw
+	8 Fallen CEDA Agent
+	8 Ensnaring Smoker
+	8 Rocket-Launched Survivor
+	8 Spawn-Point Scouting
+	8 Katana Wielder
+	8 Expert Tactician
+	8 Ceiling Hunter
+	8 Swamp Fever
+	8 Reckless Speedster
+	8 Cacophonous Crows
+	8 Noxious Spitter
+	8 Eviscerating Hunter
+	8 Infected Clown
+	8 Resourceful Survivor
+	8 Infected Riot Guards
+	8 Incendiary Explosion
+	8 Pipe Bomb
+	8 Electric Guitar
+	8 Green Flu Mutation
+[common | masterpiece(1)]
 	8 Jockey Ride
 	8 Pummeling Charger
 	8 Ravenous Horde

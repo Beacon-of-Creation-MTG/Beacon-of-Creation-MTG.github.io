@@ -708,7 +708,7 @@ Whenever this card is put into your graveyard from anywhere, create a 1/1 black 
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Bird LEF</reverse_related>
+			<reverse-related>Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>Chain Drain</name>
@@ -1335,7 +1335,7 @@ Whenever this card is put into your graveyard from anywhere, create a 1/1 black 
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Bird LEF</reverse_related>
+			<reverse-related>Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>Wideflame</name>
@@ -1688,7 +1688,7 @@ Whenever this card is put into your graveyard from anywhere, create a 1/1 black 
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Bird LEF</reverse_related>
+			<reverse-related>Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>Drawl</name>
@@ -1774,7 +1774,7 @@ Elicit ‏creature {W} (You may cast this as a creature instead of as a sorcery 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Bird LEF</reverse_related>
+			<reverse-related>Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>Unrelenting Soltari</name>
@@ -1845,8 +1845,8 @@ Whenever this creature is sacrificed, create a 1/1 white Soldier creature token.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soldier LEF</reverse_related>
-			<reverse_related count="2">Solsider LEF</reverse_related>
+			<reverse-related>Soldier LEF</reverse-related>
+			<reverse-related count="2">Solsider LEF</reverse-related>
 		</card>
 		<card>
 			<name>Gladesprite</name>
@@ -2224,7 +2224,7 @@ Whenever another creature dies, create a 1/1 black Bird creature token with flyi
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Bird LEF</reverse_related>
+			<reverse-related>Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>All Encompassing Wish</name>
@@ -2541,7 +2541,7 @@ Whenever this creature is sacrificed to cast a spell, copy that spell. You may c
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soltari Samurai LEF</reverse_related>
+			<reverse-related>Soltari Samurai LEF</reverse-related>
 		</card>
 		<card>
 			<name>Cthonitaur</name>
@@ -3393,7 +3393,7 @@ Whenever this creature is sacrificed, you lose 1 life and draw a card.</text>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Shell LEF</reverse_related>
+			<reverse-related>Shell LEF</reverse-related>
 		</card>
 		<card>
 			<name>Brainseize</name>
@@ -3868,7 +3868,7 @@ Whiz — Whenever an instant or sorcery card is put into your graveyard, if it w
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Bird LEF</reverse_related>
+			<reverse-related count="2">Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>Alarming Alteration</name>
@@ -3938,7 +3938,7 @@ This creature can&apos;t block.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Soltari Samurai LEF</reverse_related>
+			<reverse-related>Soltari Samurai LEF</reverse-related>
 		</card>
 		<card>
 			<name>Firemane Hyena</name>
@@ -4129,7 +4129,7 @@ You may draw a card. If you do, discard a card.</text>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related>Bird LEF</reverse_related>
+			<reverse-related>Bird LEF</reverse-related>
 		</card>
 		<card>
 			<name>Spellatog</name>
@@ -4338,7 +4338,7 @@ Create a 1/1 white Soldier creature token.</text>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<reverse_related>Soldier LEF</reverse_related>
+			<reverse-related>Soldier LEF</reverse-related>
 		</card>
 		<card>
 			<name>Voidliss Sky-Serpent</name>
@@ -4428,7 +4428,7 @@ Elicit instant {W} (You may cast this as an instant instead of as an instant cre
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<reverse_related count="2">Soldier LEF</reverse_related>
+			<reverse-related count="2">Soldier LEF</reverse-related>
 		</card>
 		<card>
 			<name>Lathinia, Metalwinged</name>

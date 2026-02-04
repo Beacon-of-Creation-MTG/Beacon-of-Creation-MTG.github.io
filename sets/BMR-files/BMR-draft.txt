@@ -464,7 +464,7 @@
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/8_Thopter.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/8t_Thopter.png"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/5_Saproling.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/5t_Saproling.png"
 			}
 		},
 		{
@@ -484,7 +484,7 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/1_Bird.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/1t_Bird.png"
 			}
 		},
 		{
@@ -494,7 +494,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/7_Sword.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/7t_Sword.png"
 			}
 		},
 		{
@@ -504,7 +504,7 @@
 			"type": "Token Creature — Phoenix",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/3_Phoenix.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/3t_Phoenix.png"
 			}
 		},
 		{
@@ -514,7 +514,7 @@
 			"type": "Token Creature — Human Soldier",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/2_Human Soldier.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/2t_Human Soldier.png"
 			}
 		},
 		{
@@ -524,7 +524,7 @@
 			"type": "Token Artifact",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/6_Scrap.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/6t_Scrap.png"
 			}
 		},
 		{
@@ -534,7 +534,7 @@
 			"type": "Token Creature — Phoenix",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/4_Phoenix.png"
+				"en": "https://Beacon-of-Creation-MTG.github.io/sets/BMR-files/img/4t_Phoenix.png"
 			}
 		}
 	]
@@ -559,7 +559,35 @@
 	4 Jorrin's Blade
 	4 Syris' Guard
 	4 Evara's Flame
-[common(7)]
+[common(6)]
+	8 Wrath of the Thornheart
+	8 Suncrest Rider
+	8 Flock Hawk
+	8 Ashheart Herald
+	8 Zephyrheart Blessing
+	8 Reforged Strix
+	8 Vault
+	8 Stormline Severence
+	8 Sever the Heartline
+	8 Forgeheart Researcher
+	8 Ashmaw Direhound
+	8 Saproling Incubator
+	8 Windshear
+	8 Gather the Weapons
+	8 Ashheart Spawn
+	8 Zephyrheart Fledgling
+	8 Discover the Heartland
+	8 Growth Elemental
+	8 Thornheart Sapling
+	8 Stormheart Captain
+	8 Ashheart Shard
+	8 Thornheart Shard
+	8 Zephyrheart Shard
+	8 Zephyr Wings
+	8 Stormheart Scout
+	8 Forgeheart Shard
+	8 Stormheart Shard
+[common | masterpiece(1)]
 	8 Wrath of the Thornheart
 	8 Suncrest Rider
 	8 Flock Hawk

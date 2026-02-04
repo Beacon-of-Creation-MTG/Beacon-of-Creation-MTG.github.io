@@ -502,7 +502,33 @@
 	4 Big Brawl
 	4 Yogi Bear, Friendly Ursine
 	4 Anchor Down
-[common(7)]
+[common(6)]
+	8 Falling Anvil
+	8 Trickster Wolf
+	8 Laidback Cat
+	8 Shady Mafioso
+	8 Mysterious Doors
+	8 Human Seeking Gun
+	8 Ride the Rocket
+	8 Temporary Jetpacks
+	8 Unlucky Accident
+	8 Quickshot Duo
+	8 Wrong Turn at Albuquerque
+	8 Zoinks!
+	8 Terrible Wolfman
+	8 Spinach Can
+	8 Robot Maid
+	8 Moomin Trolls
+	8 Protective Shark
+	8 Cockroach Gang
+	8 Smurf Villager
+	8 Explosive Result
+	8 Pink Panther
+	8 Henchcat
+	8 Gravity is a Harsh Mistress
+	8 Obsessive Chase
+	8 Mean Hook
+[common | masterpiece(1)]
 	8 Falling Anvil
 	8 Trickster Wolf
 	8 Laidback Cat

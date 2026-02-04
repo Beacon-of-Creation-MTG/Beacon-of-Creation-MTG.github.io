@@ -493,7 +493,35 @@
 	4 Brick by Brick
 	4 Community's Garden
 	4 Bump in the Road
-[common(7)]
+[common(6)]
+	8 Nasty Plot
+	8 Cliffside Crusher
+	8 Excavation Mole
+	8 The Earth Endures
+	8 Doomed Trainer
+	8 Treetop Trapper
+	8 Prepare for Trouble!
+	8 Scalewrought Protector
+	8 Bellowing Behemoth
+	8 Gluttonous Ghost
+	8 Sanaito's Nightmare
+	8 Partner in Crime
+	8 Mournful Amnesiac
+	8 Beauty of the Wastes
+	8 To the Sea, Returned
+	8 Icy Glare
+	8 Emissary of the Sun
+	8 Pacifying Predator
+	8 Warden's Mission
+	8 Lonely Youngling
+	8 Wandering Vagabonds
+	8 Preserved Specimens
+	8 Future's Present
+	8 Shrieking Pest
+	8 Sunset Chaser
+	8 Berry Basket
+	8 The City Made Wild
+[common | masterpiece(1)]
 	8 Nasty Plot
 	8 Cliffside Crusher
 	8 Excavation Mole

@@ -472,7 +472,35 @@
 	4 Hungering Greatleech
 	4 Relentless Reconstructionist
 	4 Tyrant Territory
-[common(7)]
+[common(6)]
+	8 Sunvine Nurturer
+	8 Steelfin Dolphin
+	8 Skyskimmer Glaucus
+	8 Goldseeker Cruiser
+	8 Mercurial Skyrod
+	8 Sea Witch's Wards
+	8 Titanic Haruspicy
+	8 Observant Osprey
+	8 Abyssal Tempter
+	8 Deadman's Tales
+	8 Inktrench Stinger
+	8 Noxious Venting
+	8 Overloaded Cannonship
+	8 Powderkeg Explosion
+	8 Expedition Funding
+	8 Bursting Vein Serpent
+	8 Elemental's Flourish
+	8 Mosstusk Guardian
+	8 Quaking Tunneler
+	8 Give In to Instinct
+	8 Cogwork Ichthyoid
+	8 Research Vessel
+	8 Uncovered Pitfall
+	8 Deckhand's Blade
+	8 Stormbelt Serpent
+	8 Explosive Rage
+	8 Propagated Bioship
+[common | masterpiece(1)]
 	8 Sunvine Nurturer
 	8 Steelfin Dolphin
 	8 Skyskimmer Glaucus

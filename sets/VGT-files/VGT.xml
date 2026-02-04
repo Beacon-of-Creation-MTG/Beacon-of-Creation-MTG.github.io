@@ -817,11 +817,11 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Amphiteater Listener</reverse_related>
-			<reverse_related> Mourning Soliliquist</reverse_related>
-			<reverse_related> Storykeeper</reverse_related>
-			<reverse_related> Tremolos Mumur Bearer</reverse_related>
-			<reverse_related> Tuck within Harmony</reverse_related>
+			<reverse-related>Amphiteater Listener</reverse-related>
+			<reverse-related> Mourning Soliliquist</reverse-related>
+			<reverse-related> Storykeeper</reverse-related>
+			<reverse-related> Tremolos Mumur Bearer</reverse-related>
+			<reverse-related> Tuck within Harmony</reverse-related>
 		</card>
 		<card>
 			<name>Zombie VGT</name>
@@ -840,7 +840,7 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Innistradi Zombie // Rite of Maalfeld</reverse_related>
+			<reverse-related>Innistradi Zombie // Rite of Maalfeld</reverse-related>
 		</card>
 		<card>
 			<name>Spirit VGT</name>
@@ -859,9 +859,9 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Echoing Soloist</reverse_related>
-			<reverse_related> Purge the Record</reverse_related>
-			<reverse_related> Olgal&apos;s Chant</reverse_related>
+			<reverse-related>Echoing Soloist</reverse-related>
+			<reverse-related> Purge the Record</reverse-related>
+			<reverse-related> Olgal&apos;s Chant</reverse-related>
 		</card>
 		<card>
 			<name>Treasure VGT</name>
@@ -877,7 +877,7 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Ship of the Spoils // Rite of Seven</reverse_related>
+			<reverse-related>Ship of the Spoils // Rite of Seven</reverse-related>
 		</card>
 		<card>
 			<name>Siren VGT</name>
@@ -896,8 +896,8 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Hear the Siren&apos;s Song</reverse_related>
-			<reverse_related> Siren Choir</reverse_related>
+			<reverse-related>Hear the Siren&apos;s Song</reverse-related>
+			<reverse-related> Siren Choir</reverse-related>
 		</card>
 		<card>
 			<name>Faerie Dragon VGT</name>
@@ -916,7 +916,7 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Tiz the Unjoiner</reverse_related>
+			<reverse-related>Tiz the Unjoiner</reverse-related>
 		</card>
 		<card>
 			<name>Forest</name>
@@ -1007,7 +1007,7 @@ Sirens you control have haste.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Tiz the Unjoiner</reverse_related>
+			<reverse-related>Tiz the Unjoiner</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

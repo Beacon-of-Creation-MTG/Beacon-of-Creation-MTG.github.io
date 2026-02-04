@@ -472,7 +472,35 @@
 	4 Thorn-Petal Halo
 	4 Immaculate Ledger
 	4 Road's End
-[common(7)]
+[common(6)]
+	8 Arhat of Unbidden Lessons
+	8 Sentry Post
+	8 Lesser-Chariot Vassal
+	8 Ascendant Art - Form of Forms
+	8 Hard Bargain
+	8 Griefspear Ascendant
+	8 Hesitation
+	8 Concordance Appraisal
+	8 Countervail
+	8 Ascendant Art - Everstasis
+	8 Terrorcrown Ascendant
+	8 Charnel-Alley Confessor
+	8 Glass-Needle Facsimile
+	8 Arhat's Mercy
+	8 Ceaseless Obstacles
+	8 Wrathstar Ascendant
+	8 Arhat of Fraying Patience
+	8 Mantar-Am Freeglider
+	8 Ascendant Art - Soul As Ash
+	8 Training Montage
+	8 Arhat of Ephemeral Gifts
+	8 Waymark Eviscerator
+	8 Enter Malichai
+	8 Charnel Pickpocket
+	8 Ascendant Art - Horizon's Eye
+	8 Wayside Atlas
+	8 Altar of Harmonious Spheres
+[common | masterpiece(1)]
 	8 Arhat of Unbidden Lessons
 	8 Sentry Post
 	8 Lesser-Chariot Vassal
